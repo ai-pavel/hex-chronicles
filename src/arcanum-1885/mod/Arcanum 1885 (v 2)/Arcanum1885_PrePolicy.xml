@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Arcanum 1885, before the Smoky Skies policy tree: drop the Brave New World branches the Gods & Kings scenario never handled. -->
+<GameData>
+  <PolicyBranchTypes>
+    <Delete Type="POLICY_BRANCH_AESTHETICS" />
+    <Delete Type="POLICY_BRANCH_EXPLORATION" />
+  </PolicyBranchTypes>
+</GameData>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<Mod id="b103d2e0-3aab-40d7-a2f3-375d2eabfcaf" version="1">
+	<Properties>
+		<Name>Empires of the Smoky Skies</Name>
+		<Stability>Alpha</Stability>
+		<Teaser>A steampunk-themed scenario where industrial empires compete in the name of progress.</Teaser>
+		<Description>A steampunk-themed scenario where industrial empires compete in the name of progress.</Description>
+		<Authors>Anton Strenger</Authors>
+		<HideSetupGame>1</HideSetupGame>
+		<AffectsSavedGames>1</AffectsSavedGames>
+		<MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+		<SupportsSinglePlayer>1</SupportsSinglePlayer>
+		<SupportsMultiplayer>1</SupportsMultiplayer>
+		<SupportsHotSeat>0</SupportsHotSeat>
+		<SupportsLeaderboards>1</SupportsLeaderboards>
+		<SupportsMac>1</SupportsMac>
+		<ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+		<ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+		<ReloadUnitSystem>0</ReloadUnitSystem>
+		<FiraxisScenario>1</FiraxisScenario>
+		<Custom_Background_TXT_KEY_STEAMPUNK_SCENARIO_TITLE>Scenario_SmokeySkies_Small.dds</Custom_Background_TXT_KEY_STEAMPUNK_SCENARIO_TITLE>
+<!--		<Custom_Foreground_TXT_KEY_STEAMPUNK_SCENARIO_TITLE>Scenario_SmokeySkies_5Civs.dds</Custom_Foreground_TXT_KEY_STEAMPUNK_SCENARIO_TITLE> -->
+	</Properties>
+	<Dependencies>
+		<Dlc id="8871E748-29A4-4910-8C57-8C99E32D0167" minversion="0" maxversion="9999"/>
+		<Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="9999"/>
+	</Dependencies>
+	<References/>
+	<Blocks>
+		<Dlc id="*" minversion="0" maxversion="9999"/>
+	</Blocks>
+  <Files>
+    <File md5="A1C75B47A354CEF424FA4496020D700F" import="1">Alderdice_Scenario_Scene.xml</File>
+    <File md5="0747CF46E719F078E89510D3B843FB28" import="1">CivilopediaScreen.lua</File>
+    <File md5="162FAEF82303BB9A5B5EF417BD2F27E2" import="1">CivilopediaScreen.xml</File>
+    <File md5="3FEC0F25F13D1571092F673E003FD948" import="1">Curnow_Scenario_Scene.xml</File>
+    <File md5="5785482FE02F210243E27F5F80FDF7F2" import="1">Cutler_Scenario_Scene.xml</File>
+    <File md5="A14E2032BAE04C107D2A87643B10B66F" import="1">GameplayUtils.lua</File>
+    <File md5="6E7C8E3580DFAC3ADE6ACD4509BE77FB" import="1">Griggs_Scenario_Scene.xml</File>
+    <File md5="775B5D6B8CEEECD50A08B66685933933" import="0">NewCivilizations.xml</File>
+    <File md5="C958AA94AAF83C7057131F31AD4FDEDE" import="0">NewMajorCivCities.xml</File>
+    <File md5="258610C7BDE8A9EA5F5F7090851AB0CA" import="0">PolicyUpdate.xml</File>
+    <File md5="3A931F8BF813090AB5E752015E0B0A45" import="0">RemoveModernEras.xml</File>
+    <File md5="C25F9F868A3361902CFA4FC01F9D6A5E" import="1">Roffenburg_Scenario_Scene.xml</File>
+    <File md5="D45A92E0D06FE9C1D5E6F0A187C69716" import="0">ScenarioText.sql</File>
+    <File md5="F90B634455748F3198B30A7D8E9227A4" import="1">SocialPolicyPopup.lua</File>
+    <File md5="1D6A8D89E36AFA6B2BE4853C0C2A86D5" import="1">SocialPolicyPopup.xml</File>
+    <File md5="6CD1D0D657CC49785D69CCC0EA2B2E93" import="0">SteampunkScenarioLoadScreen.lua</File>
+    <File md5="970FE2EF66410F81AFBACEBEEDE08ED5" import="0">SteampunkScenarioLoadScreen.xml</File>
+    <File md5="4118F5BD9D97B54FD95FF607045C8448" import="1">TechButtonInclude.lua</File>
+    <File md5="D3C2FB755A544D4C92B676C9D33A1EB1" import="0">TechTreeUpdate.xml</File>
+    <File md5="43D16E8943FDC36F4693DBC085ECE71F" import="0">TurnsRemaining.lua</File>
+    <File md5="E55A36F7103ECC1AC17F50B60BAFFD3D" import="0">TurnsRemaining.xml</File>
+    <File md5="02F43A52715CA769C9E83DB7CD8C4BEA" import="1">VictoryProgress.lua</File>
+    <File md5="487382C23DFE6665DB4855494E10309D" import="1">VictoryProgress.xml</File>
+    <File md5="08EF95B4D89E1FE74FD7AAA169B34AA9" import="1">VictoryStatus.lua</File>
+    <File md5="26B78C13D5EF8DA17FF5C78868252195" import="1">VictoryStatus.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>ScenarioText.sql</UpdateDatabase>
+      <UpdateDatabase>NewCivilizations.xml</UpdateDatabase>
+      <UpdateDatabase>NewMajorCivCities.xml</UpdateDatabase>
+      <UpdateDatabase>RemoveModernEras.xml</UpdateDatabase>
+      <UpdateDatabase>TechTreeUpdate.xml</UpdateDatabase>
+      <UpdateDatabase>PolicyUpdate.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+	<EntryPoints>
+		<EntryPoint type="InGameUIAddin" file="TurnsRemaining.xml">
+			<Name>Turns Remaining</Name>
+			<Description>Turns remaining counter</Description>
+		</EntryPoint>
+		<EntryPoint type="Custom" file="SteampunkScenarioLoadScreen.xml">
+			<Name>TXT_KEY_STEAMPUNK_SCENARIO_TITLE</Name>
+			<Description>TXT_KEY_STEAMPUNK_SCENARIO_DESC</Description>
+		</EntryPoint>
+	</EntryPoints>
+</Mod>

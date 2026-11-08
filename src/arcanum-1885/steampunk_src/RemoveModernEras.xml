@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<!-- Created by ModBuddy on 11/15/2010 1:44:35 PM -->
+<GameData>
+	<!-- PROJECTS-->
+	<Projects>
+		<Update>
+			<Where Type="PROJECT_MANHATTAN_PROJECT"/>
+			<Set>
+				<CultureBranchesRequired>11</CultureBranchesRequired>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="PROJECT_APOLLO_PROGRAM"/>
+			<Set>
+				<CultureBranchesRequired>11</CultureBranchesRequired>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="PROJECT_SS_COCKPIT"/>
+			<Set>
+				<CultureBranchesRequired>11</CultureBranchesRequired>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="PROJECT_SS_STASIS_CHAMBER"/>
+			<Set>
+				<CultureBranchesRequired>11</CultureBranchesRequired>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="PROJECT_SS_ENGINE"/>
+			<Set>
+				<CultureBranchesRequired>11</CultureBranchesRequired>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="PROJECT_SS_BOOSTER"/>
+			<Set>
+				<CultureBranchesRequired>11</CultureBranchesRequired>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="PROJECT_UTOPIA_PROJECT"/>
+			<Set>
+				<CultureBranchesRequired>11</CultureBranchesRequired>
+			</Set>
+		</Update>
+	</Projects>
+	<!-- FUTURE ERA -->
+	<Technologies>
+		<Delete Type="TECH_MOBILE_TACTICS"/>
+		<Delete Type="TECH_PARTICLE_PHYSICS"/>
+		<Delete Type="TECH_NUCLEAR_FUSION"/>
+		<Delete Type="TECH_NANOTECHNOLOGY"/>
+		<Delete Type="TECH_FUTURE_TECH"/>
+	</Technologies>
+	<UnitClasses>
+		<Delete Type="UNITCLASS_SS_ENGINE"/>
+		<Delete Type="UNITCLASS_MECH"/>
+		<Delete Type="UNITCLASS_SS_STASIS_CHAMBER"/>
+	</UnitClasses>
+	<Units>
+		<Delete Type="UNIT_SS_ENGINE"/>
+		<Delete Type="UNIT_MECH"/>
+		<Delete Type="UNIT_SS_STASIS_CHAMBER"/>
+	</Units>
+	<!-- MODERN & ATOMIC ERAS -->
+	<Technologies>
+		<Delete Type="TECH_COMBINED_ARMS"/>
+		<Delete Type="TECH_TELECOM"/>
+		<Delete Type="TECH_BALLISTICS"/>
+		<Delete Type="TECH_HYDROELECTRICS"/>
+		<Delete Type="TECH_MOBILE_TACTICS"/>
+		<Delete Type="TECH_PLASTIC"/>
+		<Delete Type="TECH_PENICILIN"/>
+		<Delete Type="TECH_ELECTRONICS"/>
+		<Delete Type="TECH_MASS_MEDIA"/>
+		<Delete Type="TECH_RADAR"/>
+		<Delete Type="TECH_ATOMIC_THEORY"/>
+		<Delete Type="TECH_ECOLOGY"/>
+		<Delete Type="TECH_COMPUTERS"/>
+		<Delete Type="TECH_ROCKETRY"/>
+		<Delete Type="TECH_LASERS"/>
+		<Delete Type="TECH_NUCLEAR_FISSION"/>
+		<Delete Type="TECH_GLOBALIZATION"/>
+		<Delete Type="TECH_ROBOTICS"/>
+		<Delete Type="TECH_SATELLITES"/>
+		<Delete Type="TECH_STEALTH"/>
+		<Delete Type="TECH_ADVANCED_BALLISTICS"/>
+	</Technologies>
+	<UnitClasses>
+		<Delete Type="UNITCLASS_SS_COCKPIT"/>
+		<Delete Type="UNITCLASS_SS_BOOSTER"/>
+		<Delete Type="UNITCLASS_MISSILE_CRUISER"/>
+		<Delete Type="UNITCLASS_NUCLEAR_SUBMARINE"/>
+		<Delete Type="UNITCLASS_NUCLEAR_MISSILE"/>
+		<Delete Type="UNITCLASS_STEALTH_BOMBER"/>
+		<Delete Type="UNITCLASS_JET_FIGHTER"/>
+		<Delete Type="UNITCLASS_GUIDED_MISSILE"/>
+		<Delete Type="UNITCLASS_MODERN_ARMOR"/>
+		<Delete Type="UNITCLASS_HELICOPTER_GUNSHIP"/>
+		<Delete Type="UNITCLASS_MOBILE_SAM"/>
+		<Delete Type="UNITCLASS_ROCKET_ARTILLERY"/>
+		<Delete Type="UNITCLASS_MECHANIZED_INFANTRY"/>
+		<Delete Type="UNITCLASS_ATOMIC_BOMB"/>
+		<Delete Type="UNITCLASS_BOMBER"/>
+		<Delete Type="UNITCLASS_AMERICAN_B17"/>
+		<Delete Type="UNITCLASS_PARATROOPER"/>
+	</UnitClasses>
+	<Units>
+		<Delete Type="UNIT_SS_COCKPIT"/>
+		<Delete Type="UNIT_SS_BOOSTER"/>
+		<Delete Type="UNIT_MISSILE_CRUISER"/>
+		<Delete Type="UNIT_NUCLEAR_SUBMARINE"/>
+		<Delete Type="UNIT_NUCLEAR_MISSILE"/>
+		<Delete Type="UNIT_STEALTH_BOMBER"/>
+		<Delete Type="UNIT_JET_FIGHTER"/>
+		<Delete Type="UNIT_GUIDED_MISSILE"/>
+		<Delete Type="UNIT_MODERN_ARMOR"/>
+		<Delete Type="UNIT_HELICOPTER_GUNSHIP"/>
+		<Delete Type="UNIT_MOBILE_SAM"/>
+		<Delete Type="UNIT_ROCKET_ARTILLERY"/>
+		<Delete Type="UNIT_MECHANIZED_INFANTRY"/>
+		<Delete Type="UNIT_ATOMIC_BOMB"/>
+		<Delete Type="UNIT_BOMBER"/>
+		<Delete Type="UNIT_AMERICAN_B17"/>
+		<Delete Type="UNIT_PARATROOPER"/>
+	</Units>
+	<BuildingClasses>
+		<!--
+		<Delete Type="BUILDINGCLASS_STADIUM"/>
+		<Delete Type="BUILDINGCLASS_PENTAGON"/>
+		<Delete Type="BUILDINGCLASS_SYDNEY_OPERA_HOUSE"/>
+		<Delete Type="BUILDINGCLASS_CN_TOWER"/>
+		<Delete Type="BUILDINGCLASS_POLICE_STATION"/>
+		-->
+		<Delete Type="BUILDINGCLASS_RECYCLING_CENTER"/>
+		<Delete Type="BUILDINGCLASS_GREAT_FIREWALL"/>
+		<Delete Type="BUILDINGCLASS_HUBBLE"/>
+		<Delete Type="BUILDINGCLASS_BOMB_SHELTER"/>
+		<Delete Type="BUILDINGCLASS_MILITARY_ACADEMY"/>
+		<Delete Type="BUILDINGCLASS_SOLAR_PLANT"/>
+		<Delete Type="BUILDINGCLASS_HYDRO_PLANT"/>
+		<Delete Type="BUILDINGCLASS_MEDICAL_LAB"/>
+		<Delete Type="BUILDINGCLASS_NUCLEAR_PLANT"/>
+		<Delete Type="BUILDINGCLASS_SPACESHIP_FACTORY"/>
+		<Delete Type="BUILDINGCLASS_LABORATORY"/>
+		<Delete Type="BUILDINGCLASS_UNITED_NATIONS"/>
+	</BuildingClasses>
+	<Buildings>
+		<!--
+		<Delete Type="BUILDING_STADIUM"/>
+		<Delete Type="BUILDING_PENTAGON"/>
+		<Delete Type="BUILDING_SYDNEY_OPERA_HOUSE"/>
+		<Delete Type="BUILDING_CN_TOWER"/>
+		<Delete Type="BUILDING_POLICE_STATION"/>
+		-->
+		<Delete Type="BUILDING_RECYCLING_CENTER"/>
+		<Delete Type="BUILDING_GREAT_FIREWALL"/>
+		<Delete Type="BUILDING_HUBBLE"/>
+		<Delete Type="BUILDING_BOMB_SHELTER"/>
+		<Delete Type="BUILDING_MILITARY_ACADEMY"/>
+		<Delete Type="BUILDING_SOLAR_PLANT"/>
+		<Delete Type="BUILDING_HYDRO_PLANT"/>
+		<Delete Type="BUILDING_MEDICAL_LAB"/>
+		<Delete Type="BUILDING_NUCLEAR_PLANT"/>
+		<Delete Type="BUILDING_SPACESHIP_FACTORY"/>
+		<Delete Type="BUILDING_LABORATORY"/>
+		<Delete Type="BUILDING_UNITED_NATIONS"/>
+	</Buildings>
+	<!-- INDUSTRIAL ERA -->
+	<Technologies>
+		<!--
+		<Delete Type="TECH_ARCHAEOLOGY"/>
+		<Delete Type="TECH_SCIENTIFIC_THEORY"/>
+		<Delete Type="TECH_INDUSTRIALIZATION"/>
+		<Delete Type="TECH_MILITARY_SCIENCE"/>
+		<Delete Type="TECH_RIFLING"/>
+		<Delete Type="TECH_FERTILIZER"/>
+		<Delete Type="TECH_BIOLOGY"/>
+		<Delete Type="TECH_STEAM_POWER"/>
+		<Delete Type="TECH_DYNAMITE"/>
+		-->
+		<Delete Type="TECH_REPLACEABLE_PARTS"/>
+		<Delete Type="TECH_RAILROAD"/>
+		<Delete Type="TECH_ELECTRICITY"/>
+		<Delete Type="TECH_REFRIGERATION"/>
+		<Delete Type="TECH_TELEGRAPH"/>
+		<Delete Type="TECH_RADIO"/>
+		<Delete Type="TECH_FLIGHT"/>
+		<Delete Type="TECH_COMBUSTION"/>
+	</Technologies>
+	<!--
+	<AICityStrategies>
+		<Update>
+			<Where TechObsolete="TECH_RAILROAD"/>
+			<Set TechObsolete=""/>
+		</Update>
+	</AICityStrategies>
+	-->
+	<UnitClasses>
+		<!--
+		<Delete Type="UNITCLASS_IRONCLAD"/>
+		<Delete Type="UNITCLASS_ARTILLERY"/>
+		<Delete Type="UNITCLASS_GREAT_WAR_INFANTRY"/>
+		<Delete Type="UNITCLASS_BATTLESHIP"/>
+		<Delete Type="UNITCLASS_SUBMARINE"/>
+		<Delete Type="UNITCLASS_DESTROYER"/>
+		<Delete Type="UNITCLASS_ANTI_AIRCRAFT_GUN"/>
+		-->
+		<Delete Type="UNITCLASS_CARRIER"/>
+		<Delete Type="UNITCLASS_FIGHTER"/>
+		<Delete Type="UNITCLASS_JAPANESE_ZERO"/>
+		<Delete Type="UNITCLASS_TANK"/>
+		<Delete Type="UNITCLASS_GERMAN_PANZER"/>
+		<Delete Type="UNITCLASS_ANTI_TANK_GUN"/>
+		<Delete Type="UNITCLASS_INFANTRY"/>
+		<Delete Type="UNITCLASS_FRENCH_FOREIGNLEGION"/>
+	</UnitClasses>
+	<Units>
+		<!--
+		<Delete Type="UNIT_IRONCLAD"/>
+		<Delete Type="UNIT_ARTILLERY"/>
+		<Delete Type="UNIT_GREAT_WAR_INFANTRY"/>
+		<Delete Type="UNIT_BATTLESHIP"/>
+		<Delete Type="UNIT_SUBMARINE"/>
+		<Delete Type="UNIT_DESTROYER"/>
+		<Delete Type="UNIT_ANTI_AIRCRAFT_GUN"/>
+		-->
+		<Delete Type="UNIT_CARRIER"/>
+		<Delete Type="UNIT_FIGHTER"/>
+		<Delete Type="UNIT_JAPANESE_ZERO"/>
+		<Delete Type="UNIT_TANK"/>
+		<Delete Type="UNIT_GERMAN_PANZER"/>
+		<Delete Type="UNIT_ANTI_TANK_GUN"/>
+		<Delete Type="UNIT_INFANTRY"/>
+		<Delete Type="UNIT_FRENCH_FOREIGNLEGION"/>
+		<!--
+		<Update>
+		  <Where Type="UNIT_RUSSIAN_COSSACK"/>
+		  <Set>
+			<Class>UNITCLASS_LANCER</Class>
+			<PrereqTech>TECH_METALLURGY</PrereqTech>
+		  </Set>
+		</Update>
+		<Update>
+		  <Where Type="UNIT_AUSTRIAN_HUSSAR"/>
+		  <Set>
+			<Class>UNITCLASS_LANCER</Class>
+			<PrereqTech>TECH_METALLURGY</PrereqTech>
+		  </Set>
+		</Update>
+		-->
+		<!--
+		<Update>
+			<Where ObsoleteTech="TECH_SCIENTIFIC_THEORY"/>
+			<Set ObsoleteTech=""/>
+		</Update>
+		<Update>
+			<Where ObsoleteTech="TECH_MILITARY_SCIENCE"/>
+			<Set ObsoleteTech=""/>
+		</Update>
+		<Update>
+			<Where ObsoleteTech="TECH_RIFLING"/>
+			<Set ObsoleteTech=""/>
+		</Update>
+		<Update>
+			<Where ObsoleteTech="TECH_DYNAMITE"/>
+			<Set ObsoleteTech=""/>
+		</Update>
+		-->
+		<Update>
+			<Where ObsoleteTech="TECH_REPLACEABLE_PARTS"/>
+			<Set ObsoleteTech=""/>
+		</Update>
+		<Update>
+			<Where ObsoleteTech="TECH_COMBUSTION"/>
+			<Set ObsoleteTech=""/>
+		</Update>
+		<Update>
+			<Where ObsoleteTech="TECH_BALLISTICS"/>
+			<Set ObsoleteTech=""/>
+		</Update>
+		<Update>
+			<Where ObsoleteTech="TECH_PENICILIN"/>
+			<Set ObsoleteTech=""/>
+		</Update>
+		<!--
+		<Update>
+			<Where GoodyHutUpgradeUnitClass="UNITCLASS_ARTILLERY" />
+			<Set GoodyHutUpgradeUnitClass="NULL" />
+		</Update>
+		<Update>
+			<Where GoodyHutUpgradeUnitClass="UNITCLASS_CAVALRY" />
+			<Set GoodyHutUpgradeUnitClass="NULL" />
+		</Update>
+		<Update>
+			<Where GoodyHutUpgradeUnitClass="UNITCLASS_LONGSWORDSMAN" />
+			<Set GoodyHutUpgradeUnitClass="NULL" />
+		</Update>
+		<Update>
+			<Where GoodyHutUpgradeUnitClass="UNITCLASS_RIFLEMAN" />
+			<Set GoodyHutUpgradeUnitClass="NULL" />
+		</Update>
+		-->
+		<Update>
+			<Where GoodyHutUpgradeUnitClass="UNITCLASS_INFANTRY"/>
+			<Set GoodyHutUpgradeUnitClass="NULL"/>
+		</Update>
+		<Update>
+			<Where GoodyHutUpgradeUnitClass="UNITCLASS_ROCKET_ARTILLERY"/>
+			<Set GoodyHutUpgradeUnitClass="NULL"/>
+		</Update>
+		<Update>
+			<Where GoodyHutUpgradeUnitClass="UNITCLASS_ANTI_TANK_GUN"/>
+			<Set GoodyHutUpgradeUnitClass="NULL"/>
+		</Update>
+		<Update>
+			<Where GoodyHutUpgradeUnitClass="UNITCLASS_TANK"/>
+			<Set GoodyHutUpgradeUnitClass="NULL"/>
+		</Update>
+	</Units>
+	<UnitPromotions>
+		<Update>
+			<Where TechPrereq="TECH_COMBUSTION"/>
+			<Set CannotBeChosen="true"/>
+		</Update>
+		<Update>
+			<Where TechPrereq="TECH_COMBUSTION"/>
+			<Set TechPrereq=""/>
+		</Update>
+	</UnitPromotions>
+	<BuildingClasses>
+		<!--
+		<Delete Type="BUILDINGCLASS_ARSENAL"/>
+		<Delete Type="BUILDINGCLASS_HOSPITAL"/>
+		<Delete Type="BUILDINGCLASS_FACTORY"/>
+		<Delete Type="BUILDINGCLASS_STATUE_OF_LIBERTY"/>
+		<Delete Type="BUILDINGCLASS_BROADCAST_TOWER"/>
+		<Delete Type="BUILDINGCLASS_MILITARY_BASE"/>
+		<Delete Type="BUILDINGCLASS_STOCK_EXCHANGE"/>
+		<Delete Type="BUILDINGCLASS_CRISTO_REDENTOR"/>
+		<Delete Type="BUILDINGCLASS_EIFFEL_TOWER"/>
+		<Delete Type="BUILDINGCLASS_INTELLIGENCE_AGENCY"/>
+		<Delete Type="BUILDINGCLASS_NEUSCHWANSTEIN"/>
+		-->
+	</BuildingClasses>
+	<Buildings>
+		<!--
+		<Delete Type="BUILDING_ARSENAL"/>
+		<Delete Type="BUILDING_HOSPITAL"/>
+		<Delete Type="BUILDING_FACTORY"/>
+		<Delete Type="BUILDING_STATUE_OF_LIBERTY"/>
+		<Delete Type="BUILDING_BROADCAST_TOWER"/>
+		<Delete Type="BUILDING_MILITARY_BASE"/>
+		<Delete Type="BUILDING_STOCK_EXCHANGE"/>
+		<Delete Type="BUILDING_CRISTO_REDENTOR"/>
+		<Delete Type="BUILDING_EIFFEL_TOWER"/>
+		<Delete Type="BUILDING_INTELLIGENCE_AGENCY"/>
+		<Delete Type="BUILDING_NEUSCHWANSTEIN"/>
+		-->
+	</Buildings>
+	<!-- Older-->
+	<BuildingClasses>
+		<Delete Type="BUILDINGCLASS_CONSTABLE"/>
+		<Delete Type="BUILDINGCLASS_ARMORY"/>
+		<Delete Type="BUILDINGCLASS_HERMITAGE"/>
+		<Delete Type="BUILDINGCLASS_OXFORD_UNIVERSITY"/>
+		<Delete Type="BUILDINGCLASS_HAGIA_SOPHIA"/>
+		<Delete Type="BUILDINGCLASS_CIRCUS_MAXIMUS"/>
+		<Delete Type="BUILDINGCLASS_HEROIC_EPIC"/>
+		<Delete Type="BUILDINGCLASS_IRONWORKS"/>
+		<Delete Type="BUILDINGCLASS_NATIONAL_COLLEGE"/>
+		<Delete Type="BUILDINGCLASS_NATIONAL_EPIC"/>
+		<Delete Type="BUILDINGCLASS_NATIONAL_TREASURY"/>
+		<Delete Type="BUILDINGCLASS_SHRINE"/>
+		<Delete Type="BUILDINGCLASS_TEMPLE"/>
+	</BuildingClasses>
+	<Buildings>
+		<Delete Type="BUILDING_CONSTABLE"/>
+		<Delete Type="BUILDING_ARMORY"/>
+		<Delete Type="BUILDING_HERMITAGE"/>
+		<Delete Type="BUILDING_OXFORD_UNIVERSITY"/>
+		<Delete Type="BUILDING_HAGIA_SOPHIA"/>
+		<Delete Type="BUILDING_CIRCUS_MAXIMUS"/>
+		<Delete Type="BUILDING_HEROIC_EPIC"/>
+		<Delete Type="BUILDING_IRONWORKS"/>
+		<Delete Type="BUILDING_NATIONAL_COLLEGE"/>
+		<Delete Type="BUILDING_NATIONAL_EPIC"/>
+		<Delete Type="BUILDING_NATIONAL_TREASURY"/>
+		<Delete Type="BUILDING_SHRINE"/>
+		<Delete Type="BUILDING_TEMPLE"/>
+	</Buildings>
+	<!-- AI-->
+	<AIEconomicStrategies>
+		<Update>
+			<Where Type="ECONOMICAISTRATEGY_DEVELOPING_RELIGION"/>
+			<Set TechObsolete="TECH_STEAM_POWER"/>
+		</Update>
+	</AIEconomicStrategies>
+	<AIMilitaryStrategies>
+		<Update>
+			<Where TechObsolete="TECH_COMBUSTION"/>
+			<Set TechObsolete=""/>
+		</Update>
+		<Update>
+			<Where Type="MILITARYAISTRATEGY_NEED_NUKE"/>
+			<Set>
+				<TechPrereq/>
+				<TechObsolete>TECH_STEAM_POWER</TechObsolete>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MILITARYAISTRATEGY_NEED_AIR"/>
+			<Set FirstTurnExecuted="25"/>
+		</Update>
+		<Update>
+			<Where Type="MILITARYAISTRATEGY_NEED_AIR"/>
+			<Set TechPrereq="TECH_PROPULSION"/>
+		</Update>
+		<Update>
+			<Where Type="MILITARYAISTRATEGY_ENOUGH_AIR"/>
+			<Set FirstTurnExecuted="25"/>
+		</Update>
+		<Update>
+			<Where Type="MILITARYAISTRATEGY_ENOUGH_AIR"/>
+			<Set TechPrereq="TECH_PROPULSION"/>
+		</Update>
+		<Update>
+			<Where Type="MILITARYAISTRATEGY_NEED_ANTIAIR"/>
+			<Set FirstTurnExecuted="25"/>
+		</Update>
+		<Update>
+			<Where Type="MILITARYAISTRATEGY_NEED_ANTIAIR"/>
+			<Set TechPrereq="TECH_AIRSHIPS"/>
+		</Update>
+		<Update>
+			<Where Type="MILITARYAISTRATEGY_ENOUGH_ANTIAIR"/>
+			<Set FirstTurnExecuted="25"/>
+		</Update>
+		<Update>
+			<Where Type="MILITARYAISTRATEGY_ENOUGH_ANTIAIR"/>
+			<Set TechPrereq="TECH_AIRSHIPS"/>
+		</Update>
+		<Update>
+			<Where Type="MILITARYAISTRATEGY_NEED_AIR_CARRIER"/>
+			<Set TechPrereq="TECH_SKY_FORTRESS"/>
+		</Update>
+	</AIMilitaryStrategies>
+</GameData>

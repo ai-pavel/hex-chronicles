@@ -1,0 +1,29 @@
+China 1928 - credits
+
+Author: cryptoboy2283
+
+Image sources (Wikimedia Commons, https://commons.wikimedia.org/wiki/File:<name>; licences as recorded on the file pages on 2026-11-01).
+All are in the public domain; the SVG emblems were rendered by Commons as PNG.
+
+chiang.jpg       "Portrait of Chiang Kai-shek in uniform.tif" - unknown author, 1930s (print dated 1939 in the archive), Nippu Jiji photo archive,
+                 Densho ddr-njpa-1-1746 - public domain (PD-China)
+feng.jpg         "Feng Yuxiang.jpg" - unknown author, c. 1930 - public domain (PD-China)
+yan.jpg          "Yan Xishan8.jpg" - unknown author, before 1937 - public domain (PD-China)
+zhang.jpg        "Zhang Xueliang3.jpg" - unknown author, before 1925, Who's Who in China, 3rd ed. (The China Weekly Review, Shanghai, 1925), p. 37 -
+                 public domain (PD-China-expired)
+li.jpg           "Li Zongren (李宗仁), Liangyou, 1929-07-30.jpg" - unknown author, 1929, Liangyou (The Young Companion), July 1929, p. 28 -
+                 public domain (PD-China, PD-1930)
+mao.jpg          "Mao1927.jpg" - unknown author, 1927 (Mao in Wuhan), via Xinhua - public domain (PD-China)
+emb_nan.png      "Emblem of the Kuomintang.svg" - Zscout370, modified by Laurent1979 - public domain (PD-self); the Blue Sky with a White Sun
+emb_feng.png     "Beiyang star.svg" - Pifactorial - public domain (PD-user); the five-coloured star of the Beiyang army, the emblem of the Guominjun
+                 until it took the Kuomintang's emblem in 1926 (in 1928 Feng's army flew the national flag like the other group armies)
+emb_yan.png      "山西省政府印.svg" - vectorised by AmygdalicGloss from the 1935 administrative report of the Shanxi provincial government -
+                 public domain (PD-China, PD-retouched-user); the seal of the Shanxi provincial government (Yan Xishan's clique flew the national flag)
+emb_fengtian.png "Flag of China (1912–1928).svg" - Kibinsky (vector), after the flag of 1912 - public domain (PD-flag, PD-ROC-exempt, PD-PRC-exempt);
+                 the Five Races Under One Union flag, flown in Manchuria until the Northeast Flag Replacement of 29 December 1928
+emb_gx.png       "Flag of the Republic of China.svg" - after Sun Yat-sen's design - public domain (PD-ROC-exempt, PD-PRC-exempt)
+emb_ccp.png      "National Flag of Chinese Soviet Republic.svg" - Ericmetro - public domain (PD-self)
+glyph_ccp.png    "Hammer and sickle.svg" - public domain (PD-ineligible); the Communists' white unit-flag glyph
+
+The leaders are historical figures; their in-game dialogue is invented. The white unit-flag glyphs of the other sides are silhouettes of
+the emblems above or simple shapes drawn by art/build_art.py.

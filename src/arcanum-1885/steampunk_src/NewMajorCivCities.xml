@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<!-- Created by ModBuddy on 11/12/2010 8:38:32 AM -->
+<GameData>
+	<Defines>
+		<Replace Name="LOADING_SCREEN_MUSIC_OVERRIDE">
+			<Value>AS2D_SCENARIO_MUSIC_SMOKY_SKIES_MUSIC</Value>
+		</Replace>
+		<Replace Name="LOADING_SCREEN_DAWN_OF_MAN_SPEECH_OVERRIDE">
+			<Value>AS2D_SCENARIO_SPEECH_SMOKY_SKIES</Value>
+		</Replace>
+	</Defines>
+	<Civilization_CityNames>
+		<Update>
+			<Where CivilizationType="CIVILIZATION_RUSSIA" CityName="TXT_KEY_CITY_NAME_MOSCOW"/>
+			<Set CityName="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_SHORT_DESC"/>
+		</Update>
+		<Update>
+			<Where CivilizationType="CIVILIZATION_GERMANY" CityName="TXT_KEY_CITY_NAME_BERLIN"/>
+			<Set CityName="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_SHORT_DESC"/>
+		</Update>
+		<Update>
+			<Where CivilizationType="CIVILIZATION_FRANCE" CityName="TXT_KEY_CITY_NAME_PARIS"/>
+			<Set CityName="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_SHORT_DESC"/>
+		</Update>
+		<Update>
+			<Where CivilizationType="CIVILIZATION_ENGLAND" CityName="TXT_KEY_CITY_NAME_LONDON"/>
+			<Set CityName="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_SHORT_DESC"/>
+		</Update>
+		<Update>
+			<Where CivilizationType="CIVILIZATION_SWEDEN" CityName="TXT_KEY_CITY_NAME_STOCKHOLM"/>
+			<Set CityName="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_SHORT_DESC"/>
+		</Update>
+		<Delete CivilizationType="CIVILIZATION_SWEDEN" CityName="TXT_KEY_CITY_NAME_SIGTUNA"/>
+		<Delete CivilizationType="CIVILIZATION_SWEDEN" CityName="TXT_KEY_CITY_NAME_HELSINKI"/>
+		<Delete CivilizationType="CIVILIZATION_SWEDEN" CityName="TXT_KEY_CITY_NAME_BIRKA"/>
+		<Delete CivilizationType="CIVILIZATION_SWEDEN" CityName="TXT_KEY_CITY_NAME_UPPSALA"/>
+		<Delete CivilizationType="CIVILIZATION_RUSSIA" CityName="TXT_KEY_CITY_NAME_STPETERSBURG"/>
+		<Delete CivilizationType="CIVILIZATION_RUSSIA" CityName="TXT_KEY_CITY_NAME_NOVGOROD"/>
+		<Delete CivilizationType="CIVILIZATION_RUSSIA" CityName="TXT_KEY_CITY_NAME_ROSTOV"/>
+		<Delete CivilizationType="CIVILIZATION_RUSSIA" CityName="TXT_KEY_CITY_NAME_YAROSLAVI"/>
+		<Delete CivilizationType="CIVILIZATION_GERMANY" CityName="TXT_KEY_CITY_NAME_HAMBURG"/>
+		<Delete CivilizationType="CIVILIZATION_GERMANY" CityName="TXT_KEY_CITY_NAME_MUNICH"/>
+		<Delete CivilizationType="CIVILIZATION_GERMANY" CityName="TXT_KEY_CITY_NAME_COLOGNE"/>
+		<Delete CivilizationType="CIVILIZATION_GERMANY" CityName="TXT_KEY_CITY_NAME_FRANKFURT"/>
+		<Delete CivilizationType="CIVILIZATION_FRANCE" CityName="TXT_KEY_CITY_NAME_ORLEANS"/>
+		<Delete CivilizationType="CIVILIZATION_FRANCE" CityName="TXT_KEY_CITY_NAME_LYONS"/>
+		<Delete CivilizationType="CIVILIZATION_FRANCE" CityName="TXT_KEY_CITY_NAME_RHEIMS"/>
+		<Delete CivilizationType="CIVILIZATION_FRANCE" CityName="TXT_KEY_CITY_NAME_TOURS"/>
+		<Delete CivilizationType="CIVILIZATION_ENGLAND" CityName="TXT_KEY_CITY_NAME_YORK"/>
+		<Delete CivilizationType="CIVILIZATION_ENGLAND" CityName="TXT_KEY_CITY_NAME_NOTTHINGHAM"/>
+		<Delete CivilizationType="CIVILIZATION_ENGLAND" CityName="TXT_KEY_CITY_NAME_HASTINGS"/>
+		<Delete CivilizationType="CIVILIZATION_ENGLAND" CityName="TXT_KEY_CITY_NAME_CANTERBURY"/>
+	</Civilization_CityNames>
+</GameData>

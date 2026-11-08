@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Spain 1936: leader, civilization, city-state and event text (EN + RU). -->
+<GameData>
+  <Language_en_US>
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE" Text="Manuel Azana" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_PEDIA" Text="Manuel Azana Diaz (1880-1940), writer and leader of Republican Left, was the most prominent politician of the Second Republic: minister of war and prime minister from 1931 to 1933, prime minister again after the Popular Front victory of February 1936, and President of the Republic from May 1936.[NEWLINE][NEWLINE]He spent the war in Madrid, Valencia, Barcelona and Montserrat, pleading for a negotiated peace, and resigned in exile in France on 27 February 1939. He died at Montauban in November 1940." />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_DESC" Text="Spanish Republic" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_SHORT_DESC" Text="Spanish Republic" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_ADJECTIVE" Text="Republican" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_RUSSIA_TEXT" Text="President Azana, the rising of the generals has failed in Madrid, Barcelona, Valencia, Bilbao and the mining valleys of Asturias. The Republic keeps the capital, the gold reserve of the Bank of Spain, most of the fleet and the air force, and the industrial cities. It has lost its army: the officers have rebelled or are suspected, and the defence of the Republic lies with the militias of the parties and the unions.[NEWLINE][NEWLINE]Hold the passes of the Guadarrama and the roads from the south, turn the militias into an army, and keep the Generalitat, the Basques and the anarchists fighting one war rather than four. Paris and London will not sell you arms; Moscow will, at a price." />
+    <Replace Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES_SHORT" Text="Arsenals of the Republic" />
+    <Replace Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES" Text="Strategic resources provide +1 [ICON_PRODUCTION] Production, and Horse and Iron provide double quantity. The Republic keeps the capital, the arsenals and most of the industry." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_6" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_7" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_1" Text="You attack the lawful government of Spain? The League of Nations will hear of it, for what that is worth." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_2" Text="Another enemy. The Republic has no shortage of them." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_3" Text="Madrid has held before. It will hold again." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_4" Text="You chose your side. We will remember it." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_1" Text="Then you join the rebels. The Republic will defend itself." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_2" Text="So be it. Spain has had enough of generals deciding for her." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_3" Text="Very well. History will judge which of us broke the peace." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_1" Text="The Republic falls. The idea of a free Spain does not." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_2" Text="Take the cities. You will not take the memory." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_3" Text="I asked for peace, pity and pardon. I hope you will grant them." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_ANGRY" Text="You will provide this." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_HAPPY" Text="Pay, and we will forget your neutrality." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_NEUTRAL" Text="The Republic requires a contribution to its defence." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_2" Text="Out of the question." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_5" Text="Out of the question." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_1" Text="Manuel Azana, President of the Spanish Republic. The Republic is the lawful government of Spain, whatever the generals say." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_2" Text="Welcome to Madrid. You find the Republic in arms, which was not its wish." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_3" Text="The Republic receives you. Peace, pity and pardon are not yet on the agenda, but they will be." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_1" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_2" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_3" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_4" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_5" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_6" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_7" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_8" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_2" Text="What brings you to Madrid?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_3" Text="The Republic is listening." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_5" Text="What brings you to Madrid?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_6" Text="The Republic is listening." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_7" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_2" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_3" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_5" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_6" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_7" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_1" Text="A truce. Spain needs it more than either of us." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_2" Text="Peace, then. Let the guns be silent." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_3" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_ANGRY" Text="Business, nothing more." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_HAPPY" Text="Consider this, in good faith." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_NEUTRAL" Text="A proposal from the Republic." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_ANGRY" Text="Unacceptable." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_HAPPY" Text="The Republic cannot accept that." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_NEUTRAL" Text="Agreed. The Republic pays its debts." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_ANGRY" Text="The Republic pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_HAPPY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_NEUTRAL" Text="The Republic pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_ANGRY" Text="Take it. It is cheaper than a war." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_NEUTRAL" Text="Take it. It is cheaper than a war." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_1" Text="Threats do not move the Republic." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_2" Text="Do not test us." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_3" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_4" Text="Threats do not move the Republic." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_5" Text="Do not test us." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WINWAR_1" Text="The rising is over. Now Spain must learn to live together again." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA" Text="Francisco Franco" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_PEDIA" Text="Francisco Franco Bahamonde (1892-1975), the youngest general in Europe in 1926, made his career in the colonial war in Morocco and commanded the Spanish Legion. In 1936 he was military commander of the Canary Islands; he flew to Tetuan on 19 July to take command of the Army of Africa.[NEWLINE][NEWLINE]Named Generalisimo and head of state by the other rebel generals in September 1936, he led the Nationalists to victory in April 1939 and ruled Spain as a dictator until his death in November 1975." />
+    <Replace Tag="TXT_KEY_CIV_ZULU_DESC" Text="Nationalist Spain" />
+    <Replace Tag="TXT_KEY_CIV_ZULU_SHORT_DESC" Text="Nationalists" />
+    <Replace Tag="TXT_KEY_CIV_ZULU_ADJECTIVE" Text="Nationalist" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ZULU_TEXT" Text="General Franco, the rising has half failed. You command the Army of Africa, the only battle-hardened troops in Spain, but they are in Morocco, and the Republican fleet holds the Strait. In Seville, Cadiz and Cordoba a few thousand soldiers hold Andalusia for you; Mola holds the north, and between your two armies lies the whole of Republican Extremadura and New Castile.[NEWLINE][NEWLINE]Bring the Army of Africa across by air and by sea, march north to join Mola, relieve the Alcazar of Toledo and take Madrid before the Republic can build an army. Germany and Italy are willing to help; make sure the help comes to you." />
+    <Replace Tag="TXT_KEY_TRAIT_BUFFALO_HORNS_SHORT" Text="Army of Africa" />
+    <Replace Tag="TXT_KEY_TRAIT_BUFFALO_HORNS" Text="Melee units cost 50% less maintenance. All units require 25% less experience to earn their next promotion. The Legion and the Regulares are the veterans of the Rif." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_1" Text="You attack the Nationalist army? You will regret it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_2" Text="Another enemy. We have dealt with worse in Africa." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_3" Text="Very well. The Legion will answer." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_1" Text="Then you will share the fate of the Reds." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_2" Text="So be it. The army does not negotiate with its enemies." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_3" Text="War, then." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_1" Text="The army is beaten. It will not be the last word." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_2" Text="Take the cities. You will not hold them." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_3" Text="I was mistaken in you." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_ANGRY" Text="A contribution to the cause." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_HAPPY" Text="Pay, and remain neutral." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_NEUTRAL" Text="The army needs supplies. You will provide them." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_1" Text="General Franco, commander of the Army of Africa." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_2" Text="You find Spain at war. The army has risen to save her, as it sees it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_3" Text="The Nationalist command receives you." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_1" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_2" Text="That will be all." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_3" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_4" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_5" Text="That will be all." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_6" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_2" Text="Be brief." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_3" Text="What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_5" Text="Be brief." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_6" Text="What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_2" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_3" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_5" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_1" Text="A truce. For now." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_2" Text="Agreed. The army needs to regroup." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_ANGRY" Text="An offer." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_HAPPY" Text="Consider this." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_NEUTRAL" Text="A proposal from the Nationalist command." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_HAPPY" Text="Unacceptable." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_ANGRY" Text="The army pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_HAPPY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_NEUTRAL" Text="The army pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_1" Text="Do not threaten the army." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WINWAR_1" Text="The war is over. Our troops have reached their last objectives." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WINWAR_2" Text="Victory. Now order." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK" Text="Emilio Mola" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_PEDIA" Text="Emilio Mola Vidal (1887-1937), born in Cuba and a veteran of the Moroccan wars, was the last director-general of security of the monarchy. Sent to command at Pamplona in 1936, he became the &#x27;Director&#x27; who planned the military rising of July 1936.[NEWLINE][NEWLINE]He commanded the Army of the North through the Basque campaign and was killed when his aircraft crashed near Alcocero, Burgos, on 3 June 1937." />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_DESC" Text="Army of the North" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_SHORT_DESC" Text="Army of the North" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_ADJECTIVE" Text="Nationalist" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_GERMANY_TEXT" Text="General Mola, you planned the rising as its Director, and in the north it has succeeded: Old Castile and Leon, Galicia, Navarre, Alava, the Rioja and western Aragon are yours, and the Carlist requetes of Navarre have answered in their thousands. But Madrid did not fall, your columns are stopped in the passes of the Guadarrama, and ammunition is short.[NEWLINE][NEWLINE]Hold the passes and the Aragon front, close the French border at Irun to cut the Basques and Asturians off from France, and then turn on Bilbao, Santander and Asturias one at a time. Franco is coming up from the south; whether you meet him as an equal is up to you." />
+    <Replace Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS_SHORT" Text="The Director" />
+    <Replace Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS" Text="When a land unit defeats a barbarian unit inside an encampment, there is a 67% chance it earns 25 [ICON_GOLD] Gold and the barbarians join your side. Land unit maintenance reduced by 25%." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_6" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_7" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_1" Text="You attack the Army of the North? You will regret it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_2" Text="One more front. We have enough already." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_3" Text="Very well. Navarre will answer." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_1" Text="Then it is war." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_2" Text="You side with the Republic. You will share its fate." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_1" Text="The army is beaten. The cause is not." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_2" Text="Take Burgos. You will not keep it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_3" Text="So it ends." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_4" Text="The army is beaten. The cause is not." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_ANGRY" Text="A contribution." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_HAPPY" Text="Pay, and stay out of this." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_NEUTRAL" Text="The army needs supplies. You will provide them." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_1" Text="General Mola, Army of the North." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_2" Text="Welcome to Burgos. The Junta de Defensa sits here, for now." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_3" Text="The Army of the North receives you." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_1" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_2" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_3" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_4" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_5" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_6" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_7" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_2" Text="Speak, I have a front to run." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_3" Text="What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_5" Text="Speak, I have a front to run." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_6" Text="What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_7" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_8" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_1" Text="A truce. We accept." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_2" Text="Peace, for now." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_ANGRY" Text="An offer." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_HAPPY" Text="Consider this." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_NEUTRAL" Text="A proposal from Burgos." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_HAPPY" Text="We cannot." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_HAPPY" Text="The army pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_1" Text="Do not threaten us." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_4" Text="Do not threaten us." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_5" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_6" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_1" Text="The north is ours. Now the rest." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_2" Text="Victory." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_3" Text="The north is ours. Now the rest." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO" Text="Lluis Companys" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_PEDIA" Text="Lluis Companys i Jover (1882-1940), a labour lawyer and leader of the Republican Left of Catalonia, became President of the Generalitat in 1934. Imprisoned after proclaiming a Catalan State within a federal republic in October 1934, he was freed by the Popular Front victory of 1936.[NEWLINE][NEWLINE]He led Catalonia through the war and crossed into France in February 1939. Arrested by the Gestapo in 1940 and handed over to Franco, he was tried by court-martial and executed at Montjuic on 15 October 1940." />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_DESC" Text="Generalitat of Catalonia" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_SHORT_DESC" Text="Catalonia" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_ADJECTIVE" Text="Catalan" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_SHOSHONE_TEXT" Text="President Companys, in Barcelona the rising was crushed in two days by the Assault Guards, the Guardia Civil and the workers of the CNT, and General Goded is a prisoner. The Generalitat governs; the Central Committee of Antifascist Militias rules the streets, and the columns are already on the road to Zaragoza and Huesca.[NEWLINE][NEWLINE]Turn the factories of Barcelona into a war industry, take back Mallorca if you can, and hold Catalonia together between the government in Madrid, the anarchist committees and the Aragon front. Catalonia&#x27;s autonomy has never been so complete, nor so fragile." />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE_SHORT" Text="Visca Catalunya" />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE" Text="Units receive a combat bonus when fighting within their own territory. Founded cities start with additional territory." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_1" Text="You attack Catalonia? Every army that tried has regretted it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_2" Text="Another enemy. We have enough of them already." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_3" Text="Very well. The militias will answer." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_1" Text="Then Catalonia will defend itself." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_2" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_3" Text="You will find Barcelona harder than you think." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_1" Text="Catalonia falls. It has risen before." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_2" Text="Take Barcelona. You will not take the Catalans." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_3" Text="We go into exile, as so many before us." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_ANGRY" Text="You will provide this." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_HAPPY" Text="Pay, and keep the peace." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_NEUTRAL" Text="The Generalitat requires a contribution." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_1" Text="Lluis Companys, President of the Generalitat of Catalonia." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_2" Text="Welcome to Barcelona. Catalonia has stayed loyal to the Republic and to itself." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_3" Text="The Generalitat receives you." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_1" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_2" Text="Adeu." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_3" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_4" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_5" Text="Adeu." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_6" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_2" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_3" Text="What brings you to Barcelona?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_5" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_6" Text="What brings you to Barcelona?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_1" Text="A truce. Catalonia needs it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_2" Text="Peace, for now." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_ANGRY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_HAPPY" Text="Catalonia offers this." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_NEUTRAL" Text="A proposal from the Generalitat." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_HAPPY" Text="Catalonia cannot afford that." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_HAPPY" Text="Catalonia pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_1" Text="Do not threaten Catalonia." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_1" Text="Catalonia is safe. Now we rebuild." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_2" Text="Victory. Visca Catalunya." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE" Text="Jose Antonio Aguirre" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_PEDIA" Text="Jose Antonio Aguirre y Lecube (1904-1960), lawyer, footballer for Athletic Bilbao and leader of the Basque Nationalist Party, was elected the first lehendakari (president) of the Basque Government and took the oath under the oak of Guernica on 7 October 1936.[NEWLINE][NEWLINE]After the fall of Bilbao in June 1937 his government went into exile, first in Barcelona and then in France; caught in Belgium by the German invasion of 1940, he escaped across Nazi Germany under a false identity to the Americas. He led the Basque government in exile until his death in Paris in 1960." />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_DESC" Text="Basque Country (Euzkadi)" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC" Text="Basque Country" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE" Text="Basque" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ETHIOPIA_TEXT" Text="Jose Antonio, Biscay and Gipuzkoa have stayed with the Republic; Alava and Navarre have gone with Mola. Your party, Catholic and conservative, has chosen the Republic that promised the Basques their statute, and the Cortes will grant it within weeks. The north is cut off from the rest of the Republic, and Irun, the gate to France, is already under attack.[NEWLINE][NEWLINE]Raise an army of Basque battalions, build the Iron Ring around Bilbao, keep the mines of Somorrostro and the shipyards of the Nervion working, and protect your people. Help can only come by sea." />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT" Text="Gudariak" />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH" Text="+20% [ICON_STRENGTH] Combat Strength against civilizations that have more cities than you." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_1" Text="You attack Euzkadi? Our people have defended these valleys for a thousand years." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_2" Text="Another enemy. We are used to it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_3" Text="Very well. The gudaris will answer." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_1" Text="Then the Basques will defend their land." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_2" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_3" Text="You will find our mountains hard going." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_1" Text="Euzkadi falls. The Basques remain." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_2" Text="Take Bilbao. You will not take our language or our faith." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_3" Text="We go into exile. We will come back." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_ANGRY" Text="You will provide this." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY" Text="Pay, and keep the peace." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_NEUTRAL" Text="The Basque Government requires a contribution." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_1" Text="Jose Antonio Aguirre, lehendakari of the Basque Government." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_2" Text="Welcome to Bilbao. Euzkadi stands with the Republic and with its own freedom." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_3" Text="The Basque Government receives you." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_1" Text="Agur." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_2" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_3" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_4" Text="Agur." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_5" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_6" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_2" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_3" Text="What brings you to Euzkadi?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_5" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_6" Text="What brings you to Euzkadi?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_1" Text="A truce. Our people need it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_2" Text="Peace, for now." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_ANGRY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_HAPPY" Text="Euzkadi offers this." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_NEUTRAL" Text="A proposal from Bilbao." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_HAPPY" Text="Euzkadi cannot afford that." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_NEUTRAL" Text="Agreed. Basque iron for your bread." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_HAPPY" Text="Euzkadi pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_1" Text="Do not threaten Euzkadi." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_1" Text="Euzkadi is free. Now we rebuild." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_2" Text="Victory. Now peace." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA" Text="Buenaventura Durruti" />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_PEDIA" Text="Jose Buenaventura Durruti Dumange (1896-1936), a railway mechanic from Leon, was the best-known militant of the anarchist movement: a member of the Solidarios group in the 1920s, years of exile in the Americas and Europe, prison under the Republic. In July 1936 he fought in the streets of Barcelona and led the column that bore his name to the gates of Zaragoza.[NEWLINE][NEWLINE]In November 1936 he brought part of his column to the defence of Madrid, where he was mortally wounded on 19 November in the University City; he died the next day. Hundreds of thousands attended his funeral in Barcelona." />
+    <Replace Tag="TXT_KEY_CIV_AZTEC_DESC" Text="CNT-FAI and the Council of Aragon" />
+    <Replace Tag="TXT_KEY_CIV_AZTEC_SHORT_DESC" Text="CNT-FAI" />
+    <Replace Tag="TXT_KEY_CIV_AZTEC_ADJECTIVE" Text="Confederal" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_AZTECS_TEXT" Text="Comrade Durruti, the workers of the CNT have beaten the army in the streets of Barcelona, and the arsenals are open. A few days later the columns set out for Aragon in requisitioned lorries: yours for Zaragoza, the Ascaso column for Huesca, the Ortiz column for Caspe. Behind the front the villages burn the property registers and collectivise the land.[NEWLINE][NEWLINE]Take Zaragoza if you can, hold the Aragon front, and keep the revolution alive while the Republic and the Generalitat rebuild a state around you. The Republic needs your columns and distrusts your committees; the war and the revolution will have to be won together, or neither will be." />
+    <Replace Tag="TXT_KEY_TRAIT_CULTURE_FROM_KILLS_SHORT" Text="The Revolution" />
+    <Replace Tag="TXT_KEY_TRAIT_CULTURE_FROM_KILLS" Text="Gains [ICON_CULTURE] Culture for the empire from each enemy unit killed." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_3" Text="Fine." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_6" Text="Fine." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_7" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_1" Text="You attack the workers in arms? Come and try." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_2" Text="Another enemy. The revolution has plenty." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_3" Text="Very well. The column will answer." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_1" Text="Then you will meet the columns." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_2" Text="So be it. We were never afraid of a fight." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_3" Text="War, then." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_1" Text="You can kill us. You cannot kill the idea." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_2" Text="Take the villages. The land will remember who worked it." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_3" Text="The column is broken. The movement is not." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_ANGRY" Text="Pay." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_HAPPY" Text="A contribution to the revolution." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_NEUTRAL" Text="The front needs arms. You will provide them." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_1" Text="Durruti. I speak for nobody but my comrades, and they speak for themselves." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_2" Text="Welcome to the Aragon front. Here nobody salutes and everybody fights." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_3" Text="The CNT-FAI receives you. Keep it short; there is a war and a revolution to win." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_4" Text="Durruti. I speak for nobody but my comrades, and they speak for themselves." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_1" Text="Salud." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_2" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_3" Text="Back to the front." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_4" Text="Salud." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_5" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_6" Text="Back to the front." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_1" Text="Comrade?" />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_2" Text="What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_4" Text="Comrade?" />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_5" Text="What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_7" Text="Comrade?" />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_7" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LOSEWAR_1" Text="A truce. The comrades need rest." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADEREQUEST_ANGRY" Text="An offer, between equals." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADEREQUEST_HAPPY" Text="Consider this." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADEREQUEST_NEUTRAL" Text="A proposal from the committee." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_HAPPY" Text="Not with us." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_NO_HAPPY" Text="The revolution pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_1" Text="Threats? We have heard them all." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_4" Text="Threats? We have heard them all." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_5" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_6" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_WINWAR_1" Text="The revolution holds. Now we build." />
+    <Replace Tag="TXT_KEY_CITYSTATE_ESP1936_PORTUGAL" Text="Portugal" />
+    <Replace Tag="TXT_KEY_CITY_ESP1936_PORTUGAL" Text="Lisbon" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ESP1936_GIBRALTAR" Text="Gibraltar (British)" />
+    <Replace Tag="TXT_KEY_CITY_ESP1936_GIBRALTAR" Text="Gibraltar" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ESP1936_TANGIER" Text="Tangier International Zone" />
+    <Replace Tag="TXT_KEY_CITY_ESP1936_TANGIER" Text="Tangier" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ESP1936_ANDORRA" Text="Andorra" />
+    <Replace Tag="TXT_KEY_CITY_ESP1936_ANDORRA" Text="Andorra la Vella" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ESP1936_FRANCE" Text="France" />
+    <Replace Tag="TXT_KEY_CITY_ESP1936_FRANCE" Text="Perpignan" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ESP1936_NAFRICA" Text="French North Africa" />
+    <Replace Tag="TXT_KEY_CITY_ESP1936_NAFRICA" Text="Oran" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_AIRLIFT_TITLE" Text="The airlift" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_AIRLIFT_TEXT" Text="Since 29 July German Ju 52 transports, joined by Italian SM.81s, have been flying the Army of Africa from Tetuan to Seville over the Republican fleet: the first airlift of troops in the history of war. Two banderas of the Legion, a tabor of Regulares and a Ju 52 arrive at Seville." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CONVOY_TITLE" Text="The Convoy of Victory" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CONVOY_TEXT" Text="Under air cover, a convoy of merchant ships escorted by a gunboat and a torpedo boat crosses the Strait from Ceuta and lands some 2,500 men, guns and ammunition at Algeciras. A bandera of the Legion, two tabors of Regulares and a battery land at Algeciras." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_ALCAZAR_TITLE" Text="The relief of the Alcazar" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_ALCAZAR_TEXT" Text="Varela&#x27;s columns, diverted from the road to Madrid, enter Toledo and relieve the cadets, Guardia Civil and civilians besieged in the Alcazar since 21 July. The delay gives Madrid time to prepare its defence. Units and 300 gold at Toledo." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_GENERALISIMO_TITLE" Text="Generalisimo" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_GENERALISIMO_TEXT" Text="At Burgos the Junta de Defensa Nacional names Franco commander-in-chief of all the Nationalist forces and Head of the Government of the State. The two armies now answer to one man. The Nationalists receive 1000 gold and a Great General, the Army of the North 500 gold." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CONDOR_TITLE" Text="The Condor Legion" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CONDOR_TEXT" Text="Germany sends a complete air legion under Sperrle: bombers, fighters, anti-aircraft guns and a tank battalion, with their own crews, landing at Cadiz and Seville. Ju 52 bombers, He 51 fighters, Panzer I tanks and an 88 mm Flak battery at Seville." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CTV_TITLE" Text="Italian Blackshirts at Cadiz" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CTV_TEXT" Text="The first three thousand Italian Blackshirt volunteers land at Cadiz; by February Mussolini&#x27;s Corpo Truppe Volontarie will number some forty thousand men with tanks and aircraft. Blackshirt battalions, CV-33 tankettes and CR.32 fighters at Cadiz." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_GUADALAJARA_TITLE" Text="The Italian offensive on Guadalajara" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_GUADALAJARA_TEXT" Text="The CTV attacks from the Siguenza front towards Guadalajara to encircle Madrid from the north-east, its motorised columns strung out on a single road in sleet and fog. CTV divisions and tankettes at Siguenza." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_UNIFICATION_TITLE" Text="The Decree of Unification" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_UNIFICATION_TEXT" Text="Franco merges the Falange and the Carlist Communion into a single party, FET y de las JONS, under his own leadership; the militias of both pass under army command. Falange militia at Seville, requetes at Pamplona and 500 gold." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_TERUEL_TITLE" Text="The counter-offensive at Teruel" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_TERUEL_TEXT" Text="Franco breaks off the planned attack on Guadalajara and sends his reserves to relieve Teruel in the coldest winter in decades. Divisions and artillery at Calamocha." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_ARAGON_TITLE" Text="The Aragon offensive" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_ARAGON_TEXT" Text="After Teruel the Nationalists strike along the whole Aragon front with tanks and massed aircraft, towards Lerida and the Mediterranean; on 15 April they would reach the sea at Vinaros and cut the Republic in two. Divisions, tanks and an SM.79 bomber at Zaragoza." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CATALONIA_TITLE" Text="The Catalonia offensive" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CATALONIA_TEXT" Text="Two days before Christmas the Nationalist armies attack the Segre and the Ebro fronts, which the Republican army, bled white on the Ebro, can no longer hold. Divisions, artillery and tanks at Lerida." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_AIRBRIDGE_TITLE" Text="The airlift goes on" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_AIRBRIDGE_TEXT" Text="Transports keep shuttling the Army of Africa across the Strait; by October some fourteen thousand men have been flown over. A tabor of Regulares at Seville." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_MOROCCO_TITLE" Text="Recruitment in the Protectorate" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_MOROCCO_TEXT" Text="Recruiting in the Spanish Protectorate of Morocco continues; tens of thousands of Moroccans will serve in the Nationalist army during the war. A tabor of Regulares at Tetuan." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CREDIT_TITLE" Text="Credit and supplies" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CREDIT_TEXT" Text="German and Italian deliveries on credit and American oil sold on deferred payment keep the Nationalist war economy running. The Nationalists receive 400 gold." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_REQUETES_TITLE" Text="The requetes of Navarre" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_REQUETES_TEXT" Text="Thousands of Carlist volunteers in red berets gather in Pamplona, the most numerous and most eager militia of the rising. Two units of requetes at Pamplona." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_CANARIAS_TITLE" Text="The cruiser Canarias" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_CANARIAS_TEXT" Text="The heavy cruiser Canarias, completed in haste at El Ferrol, sails for the Strait with the Almirante Cervera and at Cape Espartel breaks the Republican blockade, sinking the destroyer Almirante Ferrandiz. The Canarias joins the fleet at El Ferrol." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_BISCAY_TITLE" Text="The Biscay offensive" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_BISCAY_TEXT" Text="Mola opens the campaign against Biscay with the Navarrese brigades and the Condor Legion overhead; on the first day German aircraft bomb Durango. Navarrese brigades, artillery and aircraft at Vitoria." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_MOLA_TITLE" Text="The death of Mola" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_MOLA_TEXT" Text="General Mola is killed when his aircraft crashes in fog near Alcocero, north of Burgos. General Davila takes over the Army of the North." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_SANTANDER_TITLE" Text="The Santander offensive" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_SANTANDER_TEXT" Text="Navarrese brigades and the Italian CTV attack Santander from the south across the Cantabrian mountains. Navarrese brigades and CTV divisions at Reinosa." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_ASTURIAS_TITLE" Text="The Asturias campaign" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_ASTURIAS_TEXT" Text="The last Republican province of the north is attacked from the east and from Leon; its miners and battalions will fight in the mountains for seven weeks. Navarrese brigades and artillery at Leon." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_QUINTAS_TITLE" Text="Call-up in Old Castile" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_QUINTAS_TEXT" Text="A new class of conscripts reports to the depots of the Army of the North. A division at Burgos." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_NONINTERVENTION_TITLE" Text="Non-intervention" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_NONINTERVENTION_TEXT" Text="France closes its border to arms deliveries and, with Britain, proposes a non-intervention agreement that Germany and Italy will sign and ignore. The Republic must buy its weapons where it can. The Republic loses 300 gold." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_LARGO_TITLE" Text="The Largo Caballero government" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_LARGO_TEXT" Text="Francisco Largo Caballero, the leader of the UGT, forms a government of the Popular Front parties and sets out to rebuild a state and an army from the committees and the militias. The Republic receives 800 gold." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_SOVIET_TITLE" Text="Soviet aid" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_SOVIET_TEXT" Text="The freighter Komsomol docks at Cartagena with fifty T-26 tanks; fighters and bombers follow within weeks. In return most of the Bank of Spain&#x27;s gold reserve will be shipped from Cartagena to Odessa. T-26 tanks, I-15 fighters and an SB bomber at Cartagena." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_POPULAR_ARMY_TITLE" Text="The Popular Army" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_POPULAR_ARMY_TEXT" Text="The militias are militarised and the first six mixed brigades of the new Popular Army are formed: infantry, artillery and services under one command, with a political commissar beside every commander. Three mixed brigades at Madrid." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_MADRID_TITLE" Text="The defence of Madrid" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_MADRID_TEXT" Text="The government leaves for Valencia and General Miaja&#x27;s Junta de Defensa takes charge of the capital, with Varela&#x27;s columns in the Casa de Campo and the University City. The city is mobilised street by street. A Great General, the Fifth Regiment, machine guns and 500 gold at Madrid." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BRIGADES_TITLE" Text="The International Brigades" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BRIGADES_TEXT" Text="Volunteers from fifty countries, organised at Albacete since mid-October, march through Madrid to the front: the XI International Brigade goes into the line in the Casa de Campo. Two International Brigades at Madrid." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_JARAMA_TITLE" Text="The Jarama" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_JARAMA_TEXT" Text="The Nationalists attack across the Jarama to cut the road from Madrid to Valencia; the International Brigades, the XV among them, are thrown in to hold the heights. International Brigades, a T-26 and a battery at Madrid." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_GUADALAJARA_TITLE" Text="Guadalajara" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_GUADALAJARA_TEXT" Text="Lister&#x27;s division, the International Brigades and Republican aircraft counter-attack the Italian columns stalled on the Guadalajara road. Republican units and I-15 fighters at Guadalajara." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_NEGRIN_TITLE" Text="The Negrin government" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_NEGRIN_TEXT" Text="After the May crisis Largo Caballero resigns and Juan Negrin, the finance minister, forms a government committed to a centralised war effort. The Republic receives 800 gold." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BRUNETE_TITLE" Text="The Brunete offensive" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BRUNETE_TEXT" Text="The Popular Army&#x27;s first great offensive strikes west of Madrid at Brunete, to draw the Nationalists away from the north. Mixed brigades, T-26 tanks and artillery at Madrid." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_ARAGON_TITLE" Text="The Council of Aragon dissolved" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_ARAGON_TEXT" Text="A government decree dissolves the anarchist Council of Aragon; Lister&#x27;s 11th Division occupies Caspe and the regional committees are replaced by a governor-general. The Republic receives 300 gold, the CNT-FAI loses 300." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BELCHITE_TITLE" Text="The Zaragoza offensive" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BELCHITE_TEXT" Text="The Army of the East attacks towards Zaragoza; the advance stalls in the fight for the small town of Belchite. Divisions and a BT-5 tank at Caspe." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BARCELONA_TITLE" Text="The government moves to Barcelona" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BARCELONA_TEXT" Text="With the north lost, the Republican government moves from Valencia to Barcelona, closer to the war industry of Catalonia and to the French border. The Republic receives 500 gold." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_TERUEL_TITLE" Text="Teruel" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_TERUEL_TEXT" Text="In a December snowstorm the Army of the Levante attacks Teruel, the Nationalist salient pointing at Valencia, to forestall a new offensive on Madrid. Divisions, artillery and a T-26 near Teruel." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_EBRO_TITLE" Text="The Ebro" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_EBRO_TEXT" Text="At night the Army of the Ebro crosses the river in boats and on pontoons between Mequinenza and Amposta, in the last great offensive of the Republic. Divisions, artillery and machine guns on the Ebro." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_FAREWELL_TITLE" Text="Farewell to the International Brigades" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_FAREWELL_TEXT" Text="Negrin has announced the withdrawal of all foreign volunteers at the League of Nations. The International Brigades parade through Barcelona for the last time. The International Brigades leave the Republican army." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_CASADO_TITLE" Text="The Casado coup" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_CASADO_TEXT" Text="Colonel Casado and the National Defence Council depose the Negrin government in Madrid in the hope of negotiating a peace; units loyal to Negrin resist, and for a week Republicans fight Republicans in the capital. The Republic loses 500 gold; insurgent units appear at Madrid." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_QUINTAS_TITLE" Text="A new class called up" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_QUINTAS_TEXT" Text="The Republic calls up another age class into the mixed brigades. A mixed brigade at Madrid and one at Valencia." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_INDUSTRY_TITLE" Text="The War Industries Commission" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_INDUSTRY_TEXT" Text="The Generalitat sets up the Commission of War Industries under Josep Tarradellas, turning the metal and textile works of Barcelona to shells, guns and armoured cars. Artillery, machine guns and 500 gold at Barcelona." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_MALLORCA_TITLE" Text="Bayo&#x27;s landing on Mallorca" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_MALLORCA_TEXT" Text="Captain Alberto Bayo lands Catalan and Valencian militia at Porto Cristo to retake Mallorca; Italian aircraft arrive on the island, and early in September the expedition re-embarks. Bayo&#x27;s expedition at Mahon." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_MAYDAYS_TITLE" Text="The May Days" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_MAYDAYS_TEXT" Text="Assault Guards try to take the Telefonica building in Barcelona from the CNT; barricades go up across the city, and the Generalitat, the PSUC, the CNT, the POUM and the anarchist Friends of Durruti fight in the streets. The Republic sends Assault Guards from Valencia. Catalonia is at war with the CNT-FAI." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_MAYDAYS_END_TITLE" Text="The end of the May Days" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_MAYDAYS_END_TEXT" Text="The CNT leaders call for a ceasefire and the barricades come down; several hundred people have died. The Republic takes over public order and defence in Catalonia. Catalonia and the CNT-FAI make peace; Catalonia loses 300 gold, the Republic receives 300." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_RETIRADA_TITLE" Text="La Retirada" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_RETIRADA_TEXT" Text="France opens its border to the civilians fleeing Catalonia; within weeks about half a million people cross the Pyrenees in winter, to be held in camps on the beaches of Roussillon." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_LEVY_TITLE" Text="Catalan levy" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_LEVY_TEXT" Text="The Generalitat&#x27;s departments raise another division for the Aragon front. A division at Barcelona." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_AGUIRRE_TITLE" Text="The Basque government" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_AGUIRRE_TEXT" Text="The Cortes have approved the Statute of Autonomy, and under the oak of Guernica Jose Antonio Aguirre takes the oath as the first lehendakari. The Basque government raises its own army, the Euzko Gudarostea. Three Basque battalions and 600 gold at Bilbao." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_GUERNICA_TITLE" Text="Guernica" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_GUERNICA_TEXT" Text="On a market day, aircraft of the Condor Legion and the Italian Aviazione Legionaria bomb the Basque town of Guernica for about three hours. Much of the town is destroyed by fire; most estimates of the dead range from about 150 to 300 civilians. The bombing becomes one of the defining images of the war." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_HABANA_TITLE" Text="The Habana" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_HABANA_TEXT" Text="With Bilbao under siege, the liner Habana sails from Santurtzi with 3,861 Basque children evacuated to Britain; tens of thousands more go to France, Belgium and the Soviet Union, and many will never return." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_SANTONA_TITLE" Text="Santona" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_SANTONA_TEXT" Text="With Bilbao lost, the Basque battalions withdraw to Santona and surrender to the Italian CTV on the promise of safe passage abroad, a promise the Nationalist command does not honour. Basque battalions leave the Basque army." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_COUNCIL_TITLE" Text="The Council of Aragon" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_COUNCIL_TEXT" Text="The columns&#x27; committees and the villages of eastern Aragon found the Regional Defence Council of Aragon under Joaquin Ascaso, seated first at Fraga and later at Caspe, to govern the collectivised countryside. Two columns and 400 gold at Caspe." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_MINISTERS_TITLE" Text="Anarchists in the government" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_MINISTERS_TEXT" Text="For the first time in history anarchists enter a government: Juan Garcia Oliver, Federica Montseny, Juan Peiro and Juan Lopez become ministers under Largo Caballero. The CNT-FAI receives 300 gold." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_DURRUTI_MADRID_TITLE" Text="The Durruti column in Madrid" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_DURRUTI_MADRID_TEXT" Text="Several thousand men of the Durruti column leave the Aragon front for the defence of Madrid and go into the line in the University City. Three confederal columns at Madrid." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_DURRUTI_TITLE" Text="The death of Durruti" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_DURRUTI_TEXT" Text="Buenaventura Durruti, shot in the University City the day before under circumstances never fully explained, dies in Madrid. Hundreds of thousands follow his coffin through Barcelona." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_BARB_ASTURIAS_TITLE" Text="Into the mountains" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_BARB_ASTURIAS_TEXT" Text="With Gijon taken and the northern front gone, thousands of Republican soldiers who could not escape by sea take to the mountains of Asturias and Leon as fugitives. Armed bands appear around Oviedo." />
+    <Replace Tag="TXT_KEY_ESP1936_SIDE_REP" Text="Spanish Republic" />
+    <Replace Tag="TXT_KEY_ESP1936_SIDE_NAT" Text="Nationalists" />
+    <Replace Tag="TXT_KEY_ESP1936_SIDE_NORTH" Text="Army of the North" />
+    <Replace Tag="TXT_KEY_ESP1936_SIDE_CAT" Text="Catalonia" />
+    <Replace Tag="TXT_KEY_ESP1936_SIDE_EUZ" Text="Basque Country" />
+    <Replace Tag="TXT_KEY_ESP1936_SIDE_CNT" Text="CNT-FAI" />
+    <Replace Tag="TXT_KEY_ESP1936_SIDE_BARB" Text="Fugitives and insurgents" />
+    <Replace Tag="TXT_KEY_ESP1936_WEEK" Text="Week {1_Num}" />
+    <Replace Tag="TXT_KEY_ESP1936_WEEK_TT" Text="Week {1_Num} of the Civil War, counted from 25 July 1936" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_1" Text="January" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_2" Text="February" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_3" Text="March" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_4" Text="April" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_5" Text="May" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_6" Text="June" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_7" Text="July" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_8" Text="August" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_9" Text="September" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_10" Text="October" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_11" Text="November" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_12" Text="December" />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_T26" Text="T-26" />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_T26_HELP" Text="Republican replacement for the Landship. 65 [ICON_STRENGTH] Combat Strength instead of 60." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_T26_STRATEGY" Text="The T-26 is the Republican Landship: the best tank in Spain in 1936. Use it with infantry to break a line or to counter-attack a breakthrough." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_T26_TEXT" Text="The T-26 was a Soviet light tank armed with a 45 mm gun, which outgunned every German and Italian tank sent to Spain. About 280 were delivered to the Republic from October 1936; the first went into action at Sesena south of Madrid on 29 October 1936, and T-26s fought in every great battle of the war, from the Jarama to the Ebro." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_LEGION" Text="Spanish Legion" />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_LEGION_HELP" Text="Nationalist replacement for the Great War Infantry. 52 [ICON_STRENGTH] Combat Strength instead of 50, the Drill I and Shock I promotions; 10% more expensive." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_LEGION_STRATEGY" Text="The Legion is the shock infantry of the Army of Africa: stronger, already promoted, and dearer. Put it at the head of every attack and let the militias hold the line behind it." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_LEGION_TEXT" Text="The Spanish Legion (Tercio de Extranjeros) was founded in 1920 by Jose Millan-Astray on the model of the French Foreign Legion, to fight the Rif War in Morocco; Franco was its second commander. Its banderas, flown across the Strait in July and August 1936, were with the Regulares the only battle-hardened troops in Spain, and spearheaded the march from Seville to Madrid." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_REQUETE" Text="Requetes" />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_REQUETE_HELP" Text="Army of the North replacement for the Great War Infantry. The Drill I promotion: +15% in rough terrain (hills, forest)." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_REQUETE_STRATEGY" Text="The Requetes are the infantry of the Army of the North, at home in the mountains of Navarre, the Basque Country and the Sierra de Guadarrama. Send them where the front climbs." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_REQUETE_TEXT" Text="The requetes were the militia of the Carlist movement, trained in secret in Navarre before the rising. On 19 July 1936 thousands of them in red berets came into Pamplona; organised in tercios by the Carlist War Junta of Navarre, they fought on the Guadarrama passes, in Gipuzkoa and Biscay and on every front to the end of the war." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_BLINDAT" Text="Blindat" />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_BLINDAT_HELP" Text="Catalan replacement for the Landship. 20% cheaper (280 [ICON_PRODUCTION]) and +1 [ICON_MOVES] Movement, but 52 [ICON_STRENGTH] Combat Strength instead of 60." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_BLINDAT_STRATEGY" Text="The Blindat is an armoured car from the factories of Barcelona: cheap and fast, weaker than a tank. Use it to rush reinforcements along the roads and to pick off broken units." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_BLINDAT_TEXT" Text="Within days of the rising the metal works of Barcelona were building armoured cars on lorry chassis for the militia columns leaving for Aragon. From August 1936 the Generalitat&#x27;s War Industries Commission put the city&#x27;s industry on a war footing, and the Catalan factories turned out armoured cars, lorries, shells and rifles for the whole Republican army." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_GUDARI" Text="Gudaris" />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_GUDARI_HELP" Text="Basque replacement for the Great War Infantry. The Drill I promotion (+15% in rough terrain) and Cover I (+25% defence against ranged attacks); a little more expensive (340 [ICON_PRODUCTION])." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_GUDARI_STRATEGY" Text="The Gudaris are defenders: on the hills around Bilbao, under bombing and shelling, they hold. Dig them into the mountains and let the enemy come to them." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_GUDARI_TEXT" Text="Gudari is Basque for warrior. The Euzko Gudarostea, the army of the Basque Government, was formed from the autumn of 1936 out of battalions raised by the Basque nationalists, the socialists, the communists and the anarchists of Biscay. Short of artillery and aircraft, the gudaris held the mountains of Biscay against the Navarrese brigades and the Condor Legion until June 1937." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_MILICIA" Text="Confederal Militia" />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_MILICIA_HELP" Text="CNT-FAI replacement for the Great War Infantry. 25% cheaper (240 [ICON_PRODUCTION]) and the March promotion (heals every turn, even after moving), but 46 [ICON_STRENGTH] Combat Strength instead of 50." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_MILICIA_STRATEGY" Text="The Confederal Militia is cheap and keeps going: raise it in numbers, keep it moving and let it heal on the march. It is weaker than a regular division; do not throw it at fortified cities alone." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_MILICIA_TEXT" Text="On 24 July 1936 the first anarchist column, led by Buenaventura Durruti, left Barcelona for Aragon; the Ascaso, Ortiz, Aguiluchos and other confederal columns followed. They elected their delegates and refused military ranks, and they collectivised the villages they passed through. In 1937 they were militarised into divisions of the Popular Army, the Durruti Column becoming the 26th Division." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COMISARIADO" Text="War Commissariat" />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COMISARIADO_HELP" Text="Republican replacement for the Military Academy. A third cheaper (200 [ICON_PRODUCTION]) and no maintenance." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COMISARIADO_STRATEGY" Text="The War Commissariat gives new units the experience of a Military Academy for much less. Build it in the cities that raise the Popular Army." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_COMISARIADO_TEXT" Text="The General Commissariat of War, created on 15 October 1936, put a political commissar beside the commander of every unit of the new Popular Army: to keep up morale, to explain why they fought, and to watch the professional officers. Thousands of commissars, most of them socialists and communists, turned militia columns into brigades." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_BANDERIN" Text="Recruiting Office" />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_BANDERIN_HELP" Text="Nationalist replacement for the Barracks. +20 XP for land units instead of +15, and no maintenance." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_BANDERIN_STRATEGY" Text="The Recruiting Office trains better land units than ordinary Barracks and costs nothing to keep. Build it everywhere the Nationalists raise troops." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_BANDERIN_TEXT" Text="The banderines de enganche were the recruiting offices of the Legion, which enlisted volunteers with no questions asked about their past. Behind the Nationalist lines they multiplied in 1936, alongside the recruitment of tens of thousands of Moroccan Regulares in the protectorate." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_JUNTA" Text="Carlist War Junta" />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_JUNTA_HELP" Text="Army of the North replacement for the Armory. A quarter cheaper (120 [ICON_PRODUCTION]) and no maintenance." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_JUNTA_STRATEGY" Text="The Carlist War Junta gives new land units the experience of an Armory for less. Build it in every city that raises requetes." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_JUNTA_TEXT" Text="The Carlist War Junta of Navarre took charge of the requetes in Pamplona in July 1936: it raised, armed and supplied the Navarrese tercios, and ran Navarre almost as a state of its own until the Decree of Unification of April 1937 merged the Carlists into Franco&#x27;s single party." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COMISSIO" Text="War Industries Commission" />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COMISSIO_HELP" Text="Catalan replacement for the Factory. +5 [ICON_PRODUCTION] Production instead of +4, and 2 [ICON_GOLD] maintenance instead of 3." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COMISSIO_STRATEGY" Text="The War Industries Commission makes Catalonia the arsenal of the Republic. Build it in Barcelona and the industrial towns first." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_COMISSIO_TEXT" Text="The Generalitat set up the War Industries Commission on 7 August 1936 under Josep Tarradellas to convert the factories of Catalonia, the most industrial region of Spain, to war production. Textile mills, car works and metal shops turned to shells, cartridges, rifles, aircraft engines and armoured cars." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_CINTURON" Text="Iron Ring" />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_CINTURON_HELP" Text="Basque replacement for the Castle. +10 [ICON_STRENGTH] City Defense Strength instead of +7, and +50 Hit Points instead of +25." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_CINTURON_STRATEGY" Text="The Iron Ring makes a Basque city very hard to take. Build it in Bilbao before the Biscay offensive comes." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_CINTURON_TEXT" Text="The Iron Ring (Cinturon de Hierro) was the line of trenches, bunkers and wire built around Bilbao from the autumn of 1936. Its plans were taken to the Nationalists by one of its engineers, and on 12 June 1937, after a massive bombardment, the Navarrese brigades broke through it; Bilbao fell a week later." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COLECTIVIDAD" Text="Collective" />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COLECTIVIDAD_HELP" Text="CNT-FAI replacement for the Workshop. +1 [ICON_FOOD] Food as well, and 1 [ICON_GOLD] maintenance instead of 2." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COLECTIVIDAD_STRATEGY" Text="The Collective feeds and equips the columns at once, and costs half as much to keep. Build it in every Aragonese town." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_COLECTIVIDAD_TEXT" Text="In the summer of 1936 the land and workshops of hundreds of villages in Aragon were collectivised: money was abolished in some, the harvest was shared, and the produce went to the columns at the front. The Council of Aragon ran the region until August 1937, when the government dissolved it and broke up many of the collectives." />
+  </Language_en_US>
+  <Language_RU_RU>
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE" Text="Мануэль Асанья" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_PEDIA" Text="Мануэль Асанья Диас (1880-1940), писатель и лидер партии Левых республиканцев, был самым видным политиком Второй республики: военный министр и глава правительства в 1931-1933 годах, снова глава правительства после победы Народного фронта в феврале 1936 года и с мая 1936 года президент Республики.[NEWLINE][NEWLINE]Войну он провёл в Мадриде, Валенсии, Барселоне и Монтсеррате, добиваясь мира путём переговоров, и подал в отставку в эмиграции во Франции 27 февраля 1939 года. Умер в Монтобане в ноябре 1940 года." />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_DESC" Text="Испанская Республика" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_SHORT_DESC" Text="Испанская Республика" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_ADJECTIVE" Text="Республиканский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_RUSSIA_TEXT" Text="Президент Асанья, мятеж генералов провалился в Мадриде, Барселоне, Валенсии, Бильбао и в шахтёрских долинах Астурии. Республика сохранила столицу, золотой запас Банка Испании, большую часть флота и авиации и промышленные города. Армию она потеряла: офицеры восстали или под подозрением, и защита Республики легла на ополчения партий и профсоюзов.[NEWLINE][NEWLINE]Удержите перевалы Гвадаррамы и дороги с юга, превратите ополчения в армию и сделайте так, чтобы Женералитат, баски и анархисты вели одну войну, а не четыре. Париж и Лондон не продадут вам оружия; Москва продаст, но за свою цену." />
+    <Replace Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES_SHORT" Text="Арсеналы Республики" />
+    <Replace Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES" Text="Стратегические ресурсы дают +1 [ICON_PRODUCTION] производства, а лошади и железо дают удвоенное количество. Республика удержала столицу, арсеналы и большую часть промышленности." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_6" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_7" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_1" Text="Вы напали на законное правительство Испании? Лига Наций об этом услышит, сколько бы это ни стоило." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_2" Text="Ещё один враг. В них у Республики недостатка нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_3" Text="Мадрид уже выстоял однажды. Выстоит снова." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_4" Text="Вы выбрали сторону. Мы запомним." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_1" Text="Значит, вы с мятежниками. Республика будет защищаться." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_2" Text="Пусть так. Хватит генералам решать за Испанию." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_3" Text="Хорошо. История рассудит, кто из нас нарушил мир." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_1" Text="Республика пала. Мечта о свободной Испании нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_2" Text="Берите города. Память вы не возьмёте." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_3" Text="Я просил мира, милосердия и прощения. Надеюсь, вы их дадите." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_ANGRY" Text="Вы это дадите." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_HAPPY" Text="Платите, и мы забудем ваш нейтралитет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_NEUTRAL" Text="Республика требует взноса на свою оборону." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_2" Text="Исключено." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_3" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_5" Text="Исключено." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_6" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_1" Text="Мануэль Асанья, президент Испанской Республики. Республика законное правительство Испании, что бы ни говорили генералы." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_2" Text="Добро пожаловать в Мадрид. Вы застали Республику с оружием в руках, и это не было её желанием." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_3" Text="Республика принимает вас. До мира, милосердия и прощения ещё далеко, но они настанут." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_1" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_2" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_3" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_4" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_5" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_6" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_7" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_8" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_2" Text="Что привело вас в Мадрид?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_3" Text="Республика слушает." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_5" Text="Что привело вас в Мадрид?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_6" Text="Республика слушает." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_7" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_2" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_5" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_6" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_7" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_1" Text="Перемирие. Испании оно нужнее, чем каждому из нас." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_2" Text="Мир, так мир. Пусть умолкнут пушки." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_3" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_ANGRY" Text="Дело, ничего больше." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_HAPPY" Text="Рассмотрите его, по совести." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_NEUTRAL" Text="Предложение Республики." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_ANGRY" Text="Неприемлемо." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_HAPPY" Text="Республика не может на это пойти." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_ANGRY" Text="Договорились." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_NEUTRAL" Text="Согласен. Республика платит долги." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_ANGRY" Text="Республика никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_HAPPY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_NEUTRAL" Text="Республика никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_ANGRY" Text="Берите. Это дешевле войны." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_NEUTRAL" Text="Берите. Это дешевле войны." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_1" Text="Угрозы Республику не трогают." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_2" Text="Не испытывайте нас." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_3" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_4" Text="Угрозы Республику не трогают." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_5" Text="Не испытывайте нас." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WINWAR_1" Text="Мятеж окончен. Теперь Испании нужно снова научиться жить вместе." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA" Text="Франсиско Франко" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_PEDIA" Text="Франсиско Франко Баамонде (1892-1975), в 1926 году самый молодой генерал Европы, сделал карьеру в колониальной войне в Марокко и командовал Испанским легионом. В 1936 году он был военным комендантом Канарских островов; 19 июля прилетел в Тетуан и принял командование Африканской армией.[NEWLINE][NEWLINE]В сентябре 1936 года мятежные генералы провозгласили его генералиссимусом и главой государства; он привёл националистов к победе в апреле 1939 года и правил Испанией как диктатор до своей смерти в ноябре 1975 года." />
+    <Replace Tag="TXT_KEY_CIV_ZULU_DESC" Text="Националистическая Испания" />
+    <Replace Tag="TXT_KEY_CIV_ZULU_SHORT_DESC" Text="Националисты" />
+    <Replace Tag="TXT_KEY_CIV_ZULU_ADJECTIVE" Text="Националистический" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ZULU_TEXT" Text="Генерал Франко, мятеж удался наполовину. Вы командуете Африканской армией, единственными закалёнными в боях войсками Испании, но они в Марокко, а пролив держит республиканский флот. В Севилье, Кадисе и Кордове несколько тысяч солдат удерживают для вас Андалусию; Мола держит север, а между вашими армиями вся республиканская Эстремадура и Новая Кастилия.[NEWLINE][NEWLINE]Переправьте Африканскую армию по воздуху и по морю, идите на север на соединение с Молой, деблокируйте Алькасар в Толедо и возьмите Мадрид, пока у Республики нет армии. Германия и Италия готовы помочь; позаботьтесь, чтобы помощь шла к вам." />
+    <Replace Tag="TXT_KEY_TRAIT_BUFFALO_HORNS_SHORT" Text="Африканская армия" />
+    <Replace Tag="TXT_KEY_TRAIT_BUFFALO_HORNS" Text="Содержание юнитов ближнего боя дешевле на 50%. Всем юнитам нужно на 25% меньше опыта для следующего повышения. Легион и регуларес ветераны Рифа." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_1" Text="Вы напали на армию националистов? Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_2" Text="Ещё один враг. В Африке бывало и хуже." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_3" Text="Хорошо. Легион ответит." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_1" Text="Тогда разделите судьбу красных." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_2" Text="Пусть так. Армия не договаривается с врагами." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_3" Text="Значит, война." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_1" Text="Армия разбита. Это не последнее слово." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_2" Text="Берите города. Вы их не удержите." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_3" Text="Я в вас ошибся." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_ANGRY" Text="Взнос в общее дело." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_HAPPY" Text="Платите и оставайтесь в стороне." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_NEUTRAL" Text="Армии нужно снабжение. Вы его дадите." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_3" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_6" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_1" Text="Генерал Франко, командующий Африканской армией." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_2" Text="Вы застали Испанию в войне. Армия восстала, чтобы спасти её, как она это понимает." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_3" Text="Командование националистов принимает вас." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_1" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_2" Text="На этом всё." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_3" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_4" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_5" Text="На этом всё." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_6" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_2" Text="Короче." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_3" Text="В чём дело?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_5" Text="Короче." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_6" Text="В чём дело?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_2" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_5" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_1" Text="Перемирие. Пока что." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_2" Text="Согласен. Армии нужно перегруппироваться." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_ANGRY" Text="Предложение." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_HAPPY" Text="Рассмотрите." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_NEUTRAL" Text="Предложение командования националистов." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_HAPPY" Text="Неприемлемо." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_ANGRY" Text="Договорились." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_ANGRY" Text="Армия никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_HAPPY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_NEUTRAL" Text="Армия никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_ANGRY" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_NEUTRAL" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_1" Text="Не угрожайте армии." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_3" Text="Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WINWAR_1" Text="Война окончена. Наши войска достигли последних целей." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WINWAR_2" Text="Победа. Теперь порядок." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK" Text="Эмилио Мола" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_PEDIA" Text="Эмилио Мола Видаль (1887-1937), уроженец Кубы и ветеран марокканских войн, был последним генеральным директором безопасности монархии. Назначенный в 1936 году командовать в Памплону, он стал «Директором», спланировавшим военный мятеж июля 1936 года.[NEWLINE][NEWLINE]Он командовал Северной армией в Баскской кампании и погиб, когда его самолёт разбился у Алькосеро в провинции Бургос 3 июня 1937 года." />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_DESC" Text="Северная армия" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_SHORT_DESC" Text="Северная армия" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_ADJECTIVE" Text="Националистический" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_GERMANY_TEXT" Text="Генерал Мола, вы готовили мятеж как его Директор, и на севере он удался: Старая Кастилия и Леон, Галисия, Наварра, Алава, Риоха и западный Арагон ваши, а карлистские рекете Наварры откликнулись тысячами. Но Мадрид не пал, ваши колонны остановлены на перевалах Гвадаррамы, и патронов не хватает.[NEWLINE][NEWLINE]Удержите перевалы и Арагонский фронт, закройте французскую границу у Ируна, чтобы отрезать басков и астурийцев от Франции, а затем берите Бильбао, Сантандер и Астурию по одному. Франко идёт с юга; встретите ли вы его как равный, зависит от вас." />
+    <Replace Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS_SHORT" Text="Директор" />
+    <Replace Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS" Text="Когда сухопутный юнит побеждает варваров в лагере, с вероятностью 67% вы получаете 25 [ICON_GOLD] золота, а варвары переходят на вашу сторону. Содержание сухопутных юнитов дешевле на 25%." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_6" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_7" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_1" Text="Вы напали на Северную армию? Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_2" Text="Ещё один фронт. Их у нас и так хватает." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_3" Text="Хорошо. Наварра ответит." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_1" Text="Значит, война." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_2" Text="Вы на стороне Республики. Разделите её судьбу." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_3" Text="Пусть так." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_1" Text="Армия разбита. Дело нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_2" Text="Берите Бургос. Вы его не удержите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_3" Text="Вот и конец." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_4" Text="Армия разбита. Дело нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_ANGRY" Text="Взнос." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_HAPPY" Text="Платите и не вмешивайтесь." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_NEUTRAL" Text="Армии нужно снабжение. Вы его дадите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_3" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_6" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_1" Text="Генерал Мола, Северная армия." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_2" Text="Добро пожаловать в Бургос. Хунта обороны заседает здесь, пока что." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_3" Text="Северная армия принимает вас." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_1" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_2" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_3" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_4" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_5" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_6" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_7" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_2" Text="Говорите, у меня фронт." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_3" Text="В чём дело?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_5" Text="Говорите, у меня фронт." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_6" Text="В чём дело?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_3" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_6" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_7" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_8" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_1" Text="Перемирие. Мы согласны." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_2" Text="Мир, пока что." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_ANGRY" Text="Предложение." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_HAPPY" Text="Рассмотрите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_NEUTRAL" Text="Предложение из Бургоса." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_HAPPY" Text="Не можем." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_ANGRY" Text="Договорились." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_HAPPY" Text="Армия никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_ANGRY" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_NEUTRAL" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_1" Text="Не угрожайте нам." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_3" Text="Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_4" Text="Не угрожайте нам." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_5" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_6" Text="Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_1" Text="Север наш. Теперь остальное." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_2" Text="Победа." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_3" Text="Север наш. Теперь остальное." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO" Text="Льюис Компанис" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_PEDIA" Text="Льюис Компанис-и-Жовер (1882-1940), адвокат профсоюзов и лидер Левых республиканцев Каталонии, стал президентом Женералитата в 1934 году. Заключённый в тюрьму после провозглашения Каталонского государства в составе федеративной республики в октябре 1934 года, он был освобождён после победы Народного фронта в 1936 году.[NEWLINE][NEWLINE]Он руководил Каталонией всю войну и в феврале 1939 года перешёл во Францию. Арестованный гестапо в 1940 году и выданный Франко, он был осуждён военным трибуналом и расстрелян в Монжуике 15 октября 1940 года." />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_DESC" Text="Женералитат Каталонии" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_SHORT_DESC" Text="Каталония" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_ADJECTIVE" Text="Каталонский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_SHOSHONE_TEXT" Text="Президент Компанис, в Барселоне мятеж подавили за два дня штурмовая гвардия, гражданская гвардия и рабочие CNT, и генерал Годед в плену. Женералитат правит; улицами правит Центральный комитет антифашистских милиций, а колонны уже на дороге к Сарагосе и Уэске.[NEWLINE][NEWLINE]Превратите фабрики Барселоны в военную промышленность, верните Мальорку, если сможете, и удержите Каталонию единой между правительством в Мадриде, анархистскими комитетами и Арагонским фронтом. Никогда ещё автономия Каталонии не была такой полной и такой хрупкой." />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE_SHORT" Text="Visca Catalunya" />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE" Text="Юниты получают бонус к силе, сражаясь на своей территории. Основанные города сразу получают дополнительную территорию." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_1" Text="Вы напали на Каталонию? Все, кто пробовал, пожалели." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_2" Text="Ещё один враг. Нам и так хватает." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_3" Text="Хорошо. Милиции ответят." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_1" Text="Тогда Каталония будет защищаться." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_2" Text="Пусть так." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_3" Text="Барселона окажется крепче, чем вы думаете." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_1" Text="Каталония пала. Она поднималась и раньше." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_2" Text="Берите Барселону. Каталонцев вы не возьмёте." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_3" Text="Мы уходим в изгнание, как многие до нас." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_ANGRY" Text="Вы это дадите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_HAPPY" Text="Платите и живите в мире." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_NEUTRAL" Text="Женералитат требует взнос." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_3" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_6" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_1" Text="Льюис Компанис, президент Женералитата Каталонии." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_2" Text="Добро пожаловать в Барселону. Каталония осталась верна Республике и самой себе." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_3" Text="Женералитат принимает вас." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_1" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_2" Text="Adeu." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_3" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_4" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_5" Text="Adeu." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_6" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_2" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_3" Text="Что привело вас в Барселону?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_5" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_6" Text="Что привело вас в Барселону?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_3" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_1" Text="Перемирие. Каталонии оно нужно." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_2" Text="Мир, пока что." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_ANGRY" Text="Рассмотрите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_HAPPY" Text="Каталония предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_NEUTRAL" Text="Предложение Женералитата." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_HAPPY" Text="Каталония не может себе этого позволить." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_ANGRY" Text="Договорились." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_HAPPY" Text="Каталония никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_ANGRY" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_NEUTRAL" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_1" Text="Не угрожайте Каталонии." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_3" Text="Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_1" Text="Каталония в безопасности. Теперь отстраивать." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_2" Text="Победа. Visca Catalunya." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE" Text="Хосе Антонио Агирре" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_PEDIA" Text="Хосе Антонио Агирре-и-Лекубе (1904-1960), юрист, футболист «Атлетика» из Бильбао и лидер Баскской националистической партии, был избран первым лехендакари (президентом) баскского правительства и принёс присягу под дубом Герники 7 октября 1936 года.[NEWLINE][NEWLINE]После падения Бильбао в июне 1937 года его правительство ушло в изгнание, сначала в Барселону, затем во Францию; застигнутый в Бельгии немецким вторжением 1940 года, он под чужим именем пересёк нацистскую Германию и добрался до Америки. Он возглавлял баскское правительство в изгнании до своей смерти в Париже в 1960 году." />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_DESC" Text="Страна Басков (Эускади)" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC" Text="Страна Басков" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE" Text="Баскский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ETHIOPIA_TEXT" Text="Хосе Антонио, Бискайя и Гипускоа остались с Республикой; Алава и Наварра ушли к Моле. Ваша партия, католическая и консервативная, выбрала Республику, обещавшую баскам статут, и кортесы утвердят его через несколько недель. Север отрезан от остальной Республики, а Ирун, ворота во Францию, уже атакован.[NEWLINE][NEWLINE]Соберите армию баскских батальонов, постройте Железный пояс вокруг Бильбао, сохраните в работе рудники Соморростро и верфи Нервиона и защитите свой народ. Помощь может прийти только морем." />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT" Text="Гударис" />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH" Text="+20% [ICON_STRENGTH] к силе в бою против цивилизаций, у которых больше городов, чем у вас." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_1" Text="Вы напали на Эускади? Наш народ защищает эти долины тысячу лет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_2" Text="Ещё один враг. Нам не привыкать." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_3" Text="Хорошо. Гударис ответят." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_1" Text="Тогда баски будут защищать свою землю." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_2" Text="Пусть так." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_3" Text="Наши горы вам дорого обойдутся." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_1" Text="Эускади пала. Баски остаются." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_2" Text="Берите Бильбао. Наш язык и нашу веру вы не возьмёте." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_3" Text="Мы уходим в изгнание. Мы вернёмся." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_ANGRY" Text="Вы это дадите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY" Text="Платите и живите в мире." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_NEUTRAL" Text="Баскское правительство требует взнос." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_3" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_6" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_1" Text="Хосе Антонио Агирре, лехендакари баскского правительства." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_2" Text="Добро пожаловать в Бильбао. Эускади стоит за Республику и за свою свободу." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_3" Text="Баскское правительство принимает вас." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_1" Text="Агур." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_2" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_3" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_4" Text="Агур." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_5" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_6" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_2" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_3" Text="Что привело вас в Эускади?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_5" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_6" Text="Что привело вас в Эускади?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_3" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_1" Text="Перемирие. Нашему народу оно нужно." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_2" Text="Мир, пока что." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_ANGRY" Text="Рассмотрите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_HAPPY" Text="Эускади предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_NEUTRAL" Text="Предложение из Бильбао." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_HAPPY" Text="Эускади не может себе этого позволить." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_ANGRY" Text="Договорились." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_NEUTRAL" Text="Согласен. Баскское железо за ваш хлеб." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_HAPPY" Text="Эускади никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_ANGRY" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_NEUTRAL" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_1" Text="Не угрожайте Эускади." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_3" Text="Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_1" Text="Эускади свободна. Теперь отстраивать." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_2" Text="Победа. Теперь мир." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA" Text="Буэнавентура Дуррути" />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_PEDIA" Text="Хосе Буэнавентура Дуррути Думанже (1896-1936), железнодорожный механик из Леона, был самым известным активистом анархистского движения: член группы «Солидарные» в 1920-х годах, годы эмиграции в Америке и Европе, тюрьма при Республике. В июле 1936 года он сражался на улицах Барселоны и повёл колонну своего имени к воротам Сарагосы.[NEWLINE][NEWLINE]В ноябре 1936 года он привёл часть колонны на оборону Мадрида, где 19 ноября был смертельно ранен в Университетском городке и умер на следующий день. На его похороны в Барселоне пришли сотни тысяч человек." />
+    <Replace Tag="TXT_KEY_CIV_AZTEC_DESC" Text="CNT-FAI и Совет Арагона" />
+    <Replace Tag="TXT_KEY_CIV_AZTEC_SHORT_DESC" Text="CNT-FAI" />
+    <Replace Tag="TXT_KEY_CIV_AZTEC_ADJECTIVE" Text="Конфедеральный" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_AZTECS_TEXT" Text="Товарищ Дуррути, рабочие CNT разбили армию на улицах Барселоны, и арсеналы открыты. Через несколько дней колонны уходят в Арагон на реквизированных грузовиках: ваша на Сарагосу, колонна Аскасо на Уэску, колонна Ортиса на Каспе. За линией фронта сёла жгут земельные реестры и обобществляют землю.[NEWLINE][NEWLINE]Возьмите Сарагосу, если сможете, удержите Арагонский фронт и сохраните революцию, пока Республика и Женералитат заново строят вокруг вас государство. Республике нужны ваши колонны, и она не доверяет вашим комитетам; войну и революцию придётся выиграть вместе, или не выиграть ни ту, ни другую." />
+    <Replace Tag="TXT_KEY_TRAIT_CULTURE_FROM_KILLS_SHORT" Text="Революция" />
+    <Replace Tag="TXT_KEY_TRAIT_CULTURE_FROM_KILLS" Text="Даёт [ICON_CULTURE] культуру за каждый уничтоженный вражеский юнит." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_3" Text="Ладно." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_6" Text="Ладно." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_7" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_1" Text="Вы напали на вооружённых рабочих? Попробуйте." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_2" Text="Ещё один враг. У революции их много." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_3" Text="Хорошо. Колонна ответит." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_1" Text="Тогда встретитесь с колоннами." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_2" Text="Пусть так. Мы драки никогда не боялись." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_3" Text="Значит, война." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_1" Text="Нас можно убить. Идею убить нельзя." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_2" Text="Берите сёла. Земля помнит, кто её обрабатывал." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_3" Text="Колонна разбита. Движение нет." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_ANGRY" Text="Платите." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_HAPPY" Text="Взнос в дело революции." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_NEUTRAL" Text="Фронту нужно оружие. Вы его дадите." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_3" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_6" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_1" Text="Дуррути. Я говорю только за своих товарищей, а они говорят сами за себя." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_2" Text="Добро пожаловать на Арагонский фронт. Здесь никто не козыряет и все воюют." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_3" Text="CNT-FAI принимает вас. Коротко: нам выигрывать войну и революцию." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_4" Text="Дуррути. Я говорю только за своих товарищей, а они говорят сами за себя." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_1" Text="Salud." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_2" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_3" Text="Назад на фронт." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_4" Text="Salud." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_5" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_6" Text="Назад на фронт." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_1" Text="Товарищ?" />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_2" Text="В чём дело?" />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_3" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_4" Text="Товарищ?" />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_5" Text="В чём дело?" />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_6" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_7" Text="Товарищ?" />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_1" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_3" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_4" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_6" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_7" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_LOSEWAR_1" Text="Перемирие. Товарищам нужен отдых." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADEREQUEST_ANGRY" Text="Предложение, на равных." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADEREQUEST_HAPPY" Text="Рассмотрите." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADEREQUEST_NEUTRAL" Text="Предложение комитета." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_HAPPY" Text="Не с нами." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_ANGRY" Text="Договорились." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_NO_HAPPY" Text="Революция никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_ANGRY" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_NEUTRAL" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_1" Text="Угрозы? Мы слышали все." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_3" Text="Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_4" Text="Угрозы? Мы слышали все." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_5" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_6" Text="Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_MONTEZUMA_WINWAR_1" Text="Революция устояла. Теперь строить." />
+    <Replace Tag="TXT_KEY_CITYSTATE_ESP1936_PORTUGAL" Text="Португалия" />
+    <Replace Tag="TXT_KEY_CITY_ESP1936_PORTUGAL" Text="Лиссабон" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ESP1936_GIBRALTAR" Text="Гибралтар (британский)" />
+    <Replace Tag="TXT_KEY_CITY_ESP1936_GIBRALTAR" Text="Гибралтар" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ESP1936_TANGIER" Text="Международная зона Танжера" />
+    <Replace Tag="TXT_KEY_CITY_ESP1936_TANGIER" Text="Танжер" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ESP1936_ANDORRA" Text="Андорра" />
+    <Replace Tag="TXT_KEY_CITY_ESP1936_ANDORRA" Text="Андорра-ла-Велья" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ESP1936_FRANCE" Text="Франция" />
+    <Replace Tag="TXT_KEY_CITY_ESP1936_FRANCE" Text="Перпиньян" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ESP1936_NAFRICA" Text="Французская Северная Африка" />
+    <Replace Tag="TXT_KEY_CITY_ESP1936_NAFRICA" Text="Оран" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_AIRLIFT_TITLE" Text="Воздушный мост" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_AIRLIFT_TEXT" Text="С 29 июля немецкие транспортники Ju 52, а за ними итальянские SM.81, перебрасывают Африканскую армию из Тетуана в Севилью над головами республиканского флота: первая воздушная перевозка войск в истории войн. В Севилью прибывают две бандеры Легиона, табор регуларес и Ju 52." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CONVOY_TITLE" Text="Конвой Победы" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CONVOY_TEXT" Text="Под прикрытием авиации конвой торговых судов с канонеркой и миноносцем пересекает пролив из Сеуты и высаживает в Альхесирасе около 2500 человек, орудия и боеприпасы. В Альхесирасе высаживаются бандера Легиона, два табора регуларес и батарея." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_ALCAZAR_TITLE" Text="Деблокада Алькасара" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_ALCAZAR_TEXT" Text="Колонны Варелы, повёрнутые с мадридской дороги, входят в Толедо и деблокируют курсантов, гражданскую гвардию и гражданских, осаждённых в Алькасаре с 21 июля. Задержка даёт Мадриду время подготовить оборону. Отряды и 300 золота в Толедо." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_GENERALISIMO_TITLE" Text="Генералиссимус" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_GENERALISIMO_TEXT" Text="В Бургосе Хунта национальной обороны провозглашает Франко главнокомандующим всеми националистическими силами и главой правительства государства. Обе армии теперь подчиняются одному человеку. Националисты получают 1000 золота и Великого полководца, Северная армия 500 золота." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CONDOR_TITLE" Text="Легион «Кондор»" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CONDOR_TEXT" Text="Германия присылает целый авиационный легион под командованием Шперле: бомбардировщики, истребители, зенитную артиллерию и танковый батальон со своими экипажами, высадившиеся в Кадисе и Севилье. Бомбардировщики Ju 52, истребители He 51, танки Panzer I и батарея 88-мм зениток в Севилье." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CTV_TITLE" Text="Итальянские чернорубашечники в Кадисе" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CTV_TEXT" Text="В Кадисе высаживаются первые три тысячи итальянских добровольцев-чернорубашечников; к февралю Корпус добровольческих войск Муссолини насчитает около сорока тысяч человек с танками и авиацией. Батальоны чернорубашечников, танкетки CV-33 и истребители CR.32 в Кадисе." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_GUADALAJARA_TITLE" Text="Итальянское наступление на Гвадалахару" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_GUADALAJARA_TEXT" Text="Корпус добровольческих войск наступает от Сигуэнсы на Гвадалахару, чтобы окружить Мадрид с северо-востока; его моторизованные колонны растянуты по единственной дороге в мокром снегу и тумане. Дивизии CTV и танкетки у Сигуэнсы." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_UNIFICATION_TITLE" Text="Декрет об объединении" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_UNIFICATION_TEXT" Text="Франко сливает Фалангу и карлистское Традиционалистское причастие в единую партию FET y de las JONS под своим руководством; ополчения обеих переходят под командование армии. Ополчение Фаланги в Севилье, рекете в Памплоне и 500 золота." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_TERUEL_TITLE" Text="Контрнаступление под Теруэлем" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_TERUEL_TEXT" Text="Франко отменяет готовившийся удар на Гвадалахару и бросает резервы на выручку Теруэля в самую холодную за десятилетия зиму. Дивизии и артиллерия в Каламоче." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_ARAGON_TITLE" Text="Арагонское наступление" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_ARAGON_TEXT" Text="После Теруэля националисты наносят удар по всему Арагонскому фронту танками и массой авиации, на Лериду и к Средиземному морю; 15 апреля они выйдут к морю у Винароса и рассекут Республику надвое. Дивизии, танки и бомбардировщик SM.79 в Сарагосе." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CATALONIA_TITLE" Text="Каталонское наступление" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CATALONIA_TEXT" Text="За два дня до Рождества армии националистов атакуют фронты на Сегре и Эбро, которые обескровленная на Эбро республиканская армия больше не может удержать. Дивизии, артиллерия и танки в Лериде." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_AIRBRIDGE_TITLE" Text="Воздушный мост продолжается" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_AIRBRIDGE_TEXT" Text="Транспортники продолжают перевозить Африканскую армию через пролив; к октябрю по воздуху переброшено около четырнадцати тысяч человек. Табор регуларес в Севилье." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_MOROCCO_TITLE" Text="Вербовка в протекторате" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_MOROCCO_TEXT" Text="Вербовка в испанском протекторате Марокко продолжается; за войну в армии националистов прослужат десятки тысяч марокканцев. Табор регуларес в Тетуане." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CREDIT_TITLE" Text="Кредиты и поставки" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NAT_CREDIT_TEXT" Text="Немецкие и итальянские поставки в кредит и американская нефть с отсрочкой платежа поддерживают военную экономику националистов. Националисты получают 400 золота." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_REQUETES_TITLE" Text="Рекете Наварры" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_REQUETES_TEXT" Text="Тысячи карлистских добровольцев в красных беретах собираются в Памплоне: самое многочисленное и самое рвущееся в бой ополчение мятежа. Два отряда рекете в Памплоне." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_CANARIAS_TITLE" Text="Крейсер «Канариас»" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_CANARIAS_TEXT" Text="Тяжёлый крейсер «Канариас», спешно достроенный в Эль-Ферроле, уходит к проливу вместе с «Альмиранте Сервера» и у мыса Эспартель прорывает республиканскую блокаду, потопив эсминец «Альмиранте Феррандис». «Канариас» входит в строй в Эль-Ферроле." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_BISCAY_TITLE" Text="Бискайское наступление" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_BISCAY_TEXT" Text="Мола начинает кампанию против Бискайи силами наваррских бригад при поддержке легиона «Кондор»; в первый же день немецкая авиация бомбит Дуранго. Наваррские бригады, артиллерия и авиация в Витории." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_MOLA_TITLE" Text="Гибель Молы" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_MOLA_TEXT" Text="Генерал Мола погибает: его самолёт разбивается в тумане у Алькосеро, к северу от Бургоса. Командование Северной армией принимает генерал Давила." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_SANTANDER_TITLE" Text="Сантандерское наступление" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_SANTANDER_TEXT" Text="Наваррские бригады и итальянский CTV атакуют Сантандер с юга через Кантабрийские горы. Наваррские бригады и дивизии CTV в Рейносе." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_ASTURIAS_TITLE" Text="Астурийская кампания" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_ASTURIAS_TEXT" Text="Последнюю республиканскую провинцию севера атакуют с востока и со стороны Леона; её горняки и батальоны будут сражаться в горах семь недель. Наваррские бригады и артиллерия в Леоне." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_QUINTAS_TITLE" Text="Призыв в Старой Кастилии" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_NORTH_QUINTAS_TEXT" Text="Новый призывной возраст является на сборные пункты Северной армии. Дивизия в Бургосе." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_NONINTERVENTION_TITLE" Text="Невмешательство" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_NONINTERVENTION_TEXT" Text="Франция закрывает границу для поставок оружия и вместе с Великобританией предлагает соглашение о невмешательстве, которое Германия и Италия подпишут и не будут соблюдать. Республике приходится покупать оружие где придётся. Республика теряет 300 золота." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_LARGO_TITLE" Text="Правительство Ларго Кабальеро" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_LARGO_TEXT" Text="Франсиско Ларго Кабальеро, лидер ВСТ, формирует правительство партий Народного фронта и берётся заново построить государство и армию из комитетов и ополчений. Республика получает 800 золота." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_SOVIET_TITLE" Text="Советская помощь" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_SOVIET_TEXT" Text="Пароход «Комсомол» приходит в Картахену с пятьюдесятью танками Т-26; через несколько недель за ними следуют истребители и бомбардировщики. В уплату большая часть золотого запаса Банка Испании будет вывезена из Картахены в Одессу. Танки Т-26, истребители И-15 и бомбардировщик СБ в Картахене." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_POPULAR_ARMY_TITLE" Text="Народная армия" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_POPULAR_ARMY_TEXT" Text="Ополчения милитаризуются, и формируются первые шесть смешанных бригад новой Народной армии: пехота, артиллерия и службы под единым командованием, при каждом командире политический комиссар. Три смешанные бригады в Мадриде." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_MADRID_TITLE" Text="Оборона Мадрида" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_MADRID_TEXT" Text="Правительство уезжает в Валенсию, и столицу принимает Хунта обороны генерала Миахи; колонны Варелы уже в Каса-де-Кампо и Университетском городке. Город мобилизуется улица за улицей. Великий полководец, Пятый полк, пулемёты и 500 золота в Мадриде." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BRIGADES_TITLE" Text="Интернациональные бригады" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BRIGADES_TEXT" Text="Добровольцы из пятидесяти стран, с середины октября формировавшиеся в Альбасете, проходят через Мадрид на фронт: XI интернациональная бригада занимает позиции в Каса-де-Кампо. Две интернациональные бригады в Мадриде." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_JARAMA_TITLE" Text="Харама" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_JARAMA_TEXT" Text="Националисты наступают через Хараму, чтобы перерезать дорогу Мадрид - Валенсия; на удержание высот брошены интернациональные бригады, среди них XV. Интербригады, Т-26 и батарея в Мадриде." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_GUADALAJARA_TITLE" Text="Гвадалахара" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_GUADALAJARA_TEXT" Text="Дивизия Листера, интернациональные бригады и республиканская авиация контратакуют итальянские колонны, застрявшие на дороге на Гвадалахару. Республиканские части и истребители И-15 у Гвадалахары." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_NEGRIN_TITLE" Text="Правительство Негрина" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_NEGRIN_TEXT" Text="После майского кризиса Ларго Кабальеро уходит в отставку, и министр финансов Хуан Негрин формирует правительство централизованной военной политики. Республика получает 800 золота." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BRUNETE_TITLE" Text="Брунетское наступление" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BRUNETE_TEXT" Text="Первое крупное наступление Народной армии наносится западнее Мадрида, у Брунете, чтобы оттянуть националистов с севера. Смешанные бригады, танки Т-26 и артиллерия в Мадриде." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_ARAGON_TITLE" Text="Роспуск Совета Арагона" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_ARAGON_TEXT" Text="Правительственный декрет распускает анархистский Совет Арагона; 11-я дивизия Листера занимает Каспе, а местные комитеты заменяет генерал-губернатор. Республика получает 300 золота, CNT-FAI теряет 300." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BELCHITE_TITLE" Text="Сарагосское наступление" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BELCHITE_TEXT" Text="Восточная армия наступает на Сарагосу; наступление вязнет в боях за городок Бельчите. Дивизии и танк БТ-5 в Каспе." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BARCELONA_TITLE" Text="Правительство переезжает в Барселону" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_BARCELONA_TEXT" Text="После потери севера республиканское правительство переезжает из Валенсии в Барселону, ближе к военной промышленности Каталонии и к французской границе. Республика получает 500 золота." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_TERUEL_TITLE" Text="Теруэль" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_TERUEL_TEXT" Text="В декабрьскую метель Левантийская армия атакует Теруэль, выступ националистов, нацеленный на Валенсию, чтобы упредить новое наступление на Мадрид. Дивизии, артиллерия и Т-26 под Теруэлем." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_EBRO_TITLE" Text="Эбро" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_EBRO_TEXT" Text="Ночью армия Эбро форсирует реку на лодках и понтонах между Мекиненсой и Ампостой: последнее большое наступление Республики. Дивизии, артиллерия и пулемёты на Эбро." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_FAREWELL_TITLE" Text="Прощание с интербригадами" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_FAREWELL_TEXT" Text="Негрин объявил в Лиге Наций о выводе всех иностранных добровольцев. Интернациональные бригады в последний раз проходят по Барселоне. Интербригады покидают республиканскую армию." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_CASADO_TITLE" Text="Переворот Касадо" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_CASADO_TEXT" Text="Полковник Касадо и Совет национальной обороны смещают правительство Негрина в Мадриде в надежде договориться о мире; верные Негрину части сопротивляются, и неделю республиканцы воюют с республиканцами в столице. Республика теряет 500 золота; у Мадрида появляются мятежные части." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_QUINTAS_TITLE" Text="Призыв нового возраста" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_REP_QUINTAS_TEXT" Text="Республика призывает в смешанные бригады ещё один возраст. Смешанная бригада в Мадриде и ещё одна в Валенсии." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_INDUSTRY_TITLE" Text="Комиссия военной промышленности" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_INDUSTRY_TEXT" Text="Женералитат создаёт Комиссию военной промышленности во главе с Жузепом Таррадельясом, переводя металлургические и текстильные фабрики Барселоны на снаряды, орудия и бронемашины. Артиллерия, пулемёты и 500 золота в Барселоне." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_MALLORCA_TITLE" Text="Высадка Байо на Мальорке" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_MALLORCA_TEXT" Text="Капитан Альберто Байо высаживает каталонских и валенсийских ополченцев в Порто-Кристо, чтобы вернуть Мальорку; на остров прибывает итальянская авиация, и в начале сентября экспедиция снова грузится на суда. Экспедиция Байо у Маона." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_MAYDAYS_TITLE" Text="Майские дни" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_MAYDAYS_TEXT" Text="Штурмовая гвардия пытается отбить у CNT здание Телефоники в Барселоне; по всему городу вырастают баррикады, и Женералитат, ОСПК, CNT, ПОУМ и анархисты «Друзей Дуррути» сражаются на улицах. Республика присылает штурмовую гвардию из Валенсии. Каталония в войне с CNT-FAI." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_MAYDAYS_END_TITLE" Text="Конец Майских дней" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_MAYDAYS_END_TEXT" Text="Лидеры CNT призывают прекратить огонь, баррикады разбирают; погибли несколько сотен человек. Республика забирает у Каталонии охрану порядка и оборону. Каталония и CNT-FAI заключают мир; Каталония теряет 300 золота, Республика получает 300." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_RETIRADA_TITLE" Text="Ретирада" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_RETIRADA_TEXT" Text="Франция открывает границу для гражданских беженцев из Каталонии; за несколько недель около полумиллиона человек зимой переходят Пиренеи, и их размещают в лагерях на пляжах Руссильона." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_LEVY_TITLE" Text="Каталонский набор" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CAT_LEVY_TEXT" Text="Ведомства Женералитата формируют ещё одну дивизию для Арагонского фронта. Дивизия в Барселоне." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_AGUIRRE_TITLE" Text="Баскское правительство" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_AGUIRRE_TEXT" Text="Кортесы утвердили статут автономии, и под дубом Герники Хосе Антонио Агирре приносит присягу первого лехендакари. Баскское правительство создаёт свою армию, Эуско Гударостеа. Три баскских батальона и 600 золота в Бильбао." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_GUERNICA_TITLE" Text="Герника" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_GUERNICA_TEXT" Text="В базарный день самолёты легиона «Кондор» и итальянской Aviazione Legionaria около трёх часов бомбят баскский город Гернику. Большая часть города уничтожена пожаром; по большинству оценок погибли от 150 до 300 мирных жителей. Бомбардировка становится одним из символов войны." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_HABANA_TITLE" Text="«Абана»" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_HABANA_TEXT" Text="Пока Бильбао в осаде, лайнер «Абана» выходит из Сантурци с 3861 баскским ребёнком, эвакуированным в Великобританию; ещё десятки тысяч детей уезжают во Францию, Бельгию и Советский Союз, и многие из них никогда не вернутся." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_SANTONA_TITLE" Text="Сантонья" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_EUZ_SANTONA_TEXT" Text="После потери Бильбао баскские батальоны отходят к Сантонье и сдаются итальянскому CTV под обещание выпустить их за границу; командование националистов этого обещания не выполняет. Баскские батальоны покидают баскскую армию." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_COUNCIL_TITLE" Text="Совет Арагона" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_COUNCIL_TEXT" Text="Комитеты колонн и сёла восточного Арагона учреждают Региональный совет обороны Арагона во главе с Хоакином Аскасо, сначала во Фраге, затем в Каспе, чтобы управлять коллективизированной деревней. Две колонны и 400 золота в Каспе." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_MINISTERS_TITLE" Text="Анархисты в правительстве" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_MINISTERS_TEXT" Text="Впервые в истории анархисты входят в правительство: Хуан Гарсия Оливер, Федерика Монсени, Хуан Пейро и Хуан Лопес становятся министрами у Ларго Кабальеро. CNT-FAI получает 300 золота." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_DURRUTI_MADRID_TITLE" Text="Колонна Дуррути в Мадриде" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_DURRUTI_MADRID_TEXT" Text="Несколько тысяч бойцов колонны Дуррути уходят с Арагонского фронта на оборону Мадрида и занимают позиции в Университетском городке. Три конфедеральные колонны в Мадриде." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_DURRUTI_TITLE" Text="Смерть Дуррути" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_CNT_DURRUTI_TEXT" Text="Буэнавентура Дуррути, раненный накануне в Университетском городке при так и не выясненных до конца обстоятельствах, умирает в Мадриде. Сотни тысяч человек идут за его гробом по Барселоне." />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_BARB_ASTURIAS_TITLE" Text="Уход в горы" />
+    <Replace Tag="TXT_KEY_ESP1936_EVT_BARB_ASTURIAS_TEXT" Text="После взятия Хихона и крушения Северного фронта тысячи республиканских солдат, не сумевших уйти морем, уходят в горы Астурии и Леона. Вооружённые отряды появляются вокруг Овьедо." />
+    <Replace Tag="TXT_KEY_ESP1936_SIDE_REP" Text="Испанская Республика" />
+    <Replace Tag="TXT_KEY_ESP1936_SIDE_NAT" Text="Националисты" />
+    <Replace Tag="TXT_KEY_ESP1936_SIDE_NORTH" Text="Северная армия" />
+    <Replace Tag="TXT_KEY_ESP1936_SIDE_CAT" Text="Каталония" />
+    <Replace Tag="TXT_KEY_ESP1936_SIDE_EUZ" Text="Страна Басков" />
+    <Replace Tag="TXT_KEY_ESP1936_SIDE_CNT" Text="CNT-FAI" />
+    <Replace Tag="TXT_KEY_ESP1936_SIDE_BARB" Text="Беглецы и повстанцы" />
+    <Replace Tag="TXT_KEY_ESP1936_WEEK" Text="Неделя {1_Num}" />
+    <Replace Tag="TXT_KEY_ESP1936_WEEK_TT" Text="Неделя {1_Num} Гражданской войны, счёт с 25 июля 1936 года" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_1" Text="января" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_2" Text="февраля" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_3" Text="марта" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_4" Text="апреля" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_5" Text="мая" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_6" Text="июня" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_7" Text="июля" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_8" Text="августа" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_9" Text="сентября" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_10" Text="октября" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_11" Text="ноября" />
+    <Replace Tag="TXT_KEY_ESP1936_MONTH_12" Text="декабря" />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_T26" Text="Т-26" />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_T26_HELP" Text="Замена ландшипа у Республики. 65 [ICON_STRENGTH] боевой силы вместо 60." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_T26_STRATEGY" Text="Т-26 это республиканский ландшип и лучший танк Испании 1936 года. Используйте его вместе с пехотой, чтобы прорвать линию фронта или контратаковать прорыв." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_T26_TEXT" Text="Т-26 был советским лёгким танком с 45-мм пушкой, превосходившим по вооружению все немецкие и итальянские танки, присланные в Испанию. С октября 1936 года Республика получила около 280 машин; первые вступили в бой под Сесеньей к югу от Мадрида 29 октября 1936 года, и Т-26 участвовали во всех больших сражениях войны, от Харамы до Эбро." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_LEGION" Text="Испанский легион" />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_LEGION_HELP" Text="Замена пехоты Великой войны у националистов. 52 [ICON_STRENGTH] боевой силы вместо 50, повышения «Муштра I» и «Натиск I»; на 10% дороже." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_LEGION_STRATEGY" Text="Легион это ударная пехота Африканской армии: сильнее, уже с повышениями и дороже. Ставьте его во главе каждого наступления, а линию за ним пусть держит милиция." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_LEGION_TEXT" Text="Испанский легион (Терсио иностранцев) основал в 1920 году Хосе Мильян-Астрай по образцу французского Иностранного легиона для Рифской войны в Марокко; Франко был его вторым командиром. Его бандеры, переброшенные через пролив в июле и августе 1936 года, вместе с регуларес были единственными обстрелянными войсками в Испании и шли в голове наступления от Севильи на Мадрид." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_REQUETE" Text="Рекете" />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_REQUETE_HELP" Text="Замена пехоты Великой войны у Северной армии. Повышение «Муштра I»: +15% на пересечённой местности (холмы, лес)." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_REQUETE_STRATEGY" Text="Рекете это пехота Северной армии, привычная к горам Наварры, Страны Басков и Сьерра-де-Гуадаррамы. Посылайте её туда, где фронт уходит в горы." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_REQUETE_TEXT" Text="Рекете были милицией карлистского движения, тайно обученной в Наварре до мятежа. 19 июля 1936 года тысячи рекете в красных беретах вошли в Памплону; сведённые карлистской военной хунтой Наварры в терсио, они воевали на перевалах Гуадаррамы, в Гипускоа и Бискайе и на всех фронтах до конца войны." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_BLINDAT" Text="Блиндат" />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_BLINDAT_HELP" Text="Замена ландшипа у Каталонии. На 20% дешевле (280 [ICON_PRODUCTION]) и +1 [ICON_MOVES] к движению, но 52 [ICON_STRENGTH] боевой силы вместо 60." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_BLINDAT_STRATEGY" Text="Блиндат это бронеавтомобиль с заводов Барселоны: дешёвый и быстрый, но слабее танка. Используйте его, чтобы быстро перебрасывать подкрепления по дорогам и добивать разбитые части." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_BLINDAT_TEXT" Text="Уже через несколько дней после мятежа металлургические заводы Барселоны строили бронеавтомобили на шасси грузовиков для колонн милиции, уходивших в Арагон. С августа 1936 года Комиссия военной промышленности Женералитата перевела промышленность города на военные рельсы, и каталонские заводы выпускали бронемашины, грузовики, снаряды и винтовки для всей республиканской армии." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_GUDARI" Text="Гудари" />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_GUDARI_HELP" Text="Замена пехоты Великой войны у басков. Повышения «Муштра I» (+15% на пересечённой местности) и «Укрытие I» (+25% к защите от дальних атак); немного дороже (340 [ICON_PRODUCTION])." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_GUDARI_STRATEGY" Text="Гудари это защитники: на холмах вокруг Бильбао, под бомбами и снарядами, они держатся. Окапывайте их в горах и ждите, пока противник придёт сам." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_GUDARI_TEXT" Text="Гудари по-баскски значит «воин». Эуско Гударостеа, армия баскского правительства, была сформирована с осени 1936 года из батальонов, выставленных баскскими националистами, социалистами, коммунистами и анархистами Бискайи. Почти без артиллерии и авиации гудари удерживали горы Бискайи против наваррских бригад и легиона «Кондор» до июня 1937 года." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_MILICIA" Text="Конфедеральная милиция" />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_MILICIA_HELP" Text="Замена пехоты Великой войны у CNT-FAI. На 25% дешевле (240 [ICON_PRODUCTION]) и повышение «Марш» (лечится каждый ход, даже после движения), но 46 [ICON_STRENGTH] боевой силы вместо 50." />
+    <Replace Tag="TXT_KEY_UNIT_ESP1936_MILICIA_STRATEGY" Text="Конфедеральная милиция дешёвая и неутомимая: набирайте её много, держите в движении, пусть лечится на марше. Она слабее регулярной дивизии; не бросайте её одну на укреплённые города." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_MILICIA_TEXT" Text="24 июля 1936 года первая анархистская колонна во главе с Буэнавентурой Дуррути вышла из Барселоны в Арагон; за ней последовали колонны Аскасо, Ортиса, «Агильючос» и другие. Они выбирали делегатов, отказывались от воинских званий и коллективизировали деревни на своём пути. В 1937 году их милитаризовали в дивизии Народной армии; колонна Дуррути стала 26-й дивизией." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COMISARIADO" Text="Военный комиссариат" />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COMISARIADO_HELP" Text="Замена военной академии у Республики. На треть дешевле (200 [ICON_PRODUCTION]) и без содержания." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COMISARIADO_STRATEGY" Text="Военный комиссариат даёт новым юнитам опыт военной академии намного дешевле. Стройте его в городах, где формируется Народная армия." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_COMISARIADO_TEXT" Text="Генеральный военный комиссариат, созданный 15 октября 1936 года, поставил рядом с командиром каждой части новой Народной армии политического комиссара: поддерживать боевой дух, объяснять, за что идёт война, и следить за кадровыми офицерами. Тысячи комиссаров, по большей части социалистов и коммунистов, превратили колонны милиции в бригады." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_BANDERIN" Text="Вербовочный пункт" />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_BANDERIN_HELP" Text="Замена казарм у националистов. +20 опыта сухопутным юнитам вместо +15 и без содержания." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_BANDERIN_STRATEGY" Text="Вербовочный пункт готовит сухопутные юниты лучше обычных казарм и ничего не стоит в содержании. Стройте его везде, где националисты набирают войска." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_BANDERIN_TEXT" Text="«Бандеринес де энганче» были вербовочными пунктами Легиона, которые записывали добровольцев, не спрашивая об их прошлом. В 1936 году они множились в тылу националистов, а в протекторате шёл набор десятков тысяч марокканских регуларес." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_JUNTA" Text="Карлистская военная хунта" />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_JUNTA_HELP" Text="Замена оружейной у Северной армии. На четверть дешевле (120 [ICON_PRODUCTION]) и без содержания." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_JUNTA_STRATEGY" Text="Карлистская военная хунта даёт новым сухопутным юнитам опыт оружейной дешевле. Стройте её в каждом городе, где набирают рекете." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_JUNTA_TEXT" Text="Карлистская военная хунта Наварры взяла рекете под своё начало в Памплоне в июле 1936 года: она набирала, вооружала и снабжала наваррские терсио и правила Наваррой почти как отдельным государством, пока Декрет об объединении в апреле 1937 года не влил карлистов в единую партию Франко." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COMISSIO" Text="Комиссия военной промышленности" />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COMISSIO_HELP" Text="Замена фабрики у Каталонии. +5 [ICON_PRODUCTION] производства вместо +4 и содержание 2 [ICON_GOLD] вместо 3." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COMISSIO_STRATEGY" Text="Комиссия военной промышленности делает Каталонию арсеналом Республики. Стройте её сначала в Барселоне и промышленных городах." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_COMISSIO_TEXT" Text="Женералитат создал Комиссию военной промышленности 7 августа 1936 года во главе с Жузепом Таррадельясом, чтобы перевести на военное производство заводы Каталонии, самого промышленного региона Испании. Текстильные фабрики, автозаводы и металлические мастерские перешли на снаряды, патроны, винтовки, авиамоторы и бронеавтомобили." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_CINTURON" Text="Железный пояс" />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_CINTURON_HELP" Text="Замена замка у басков. +10 [ICON_STRENGTH] к защите города вместо +7 и +50 очков здоровья вместо +25." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_CINTURON_STRATEGY" Text="Железный пояс делает баскский город очень трудной целью. Постройте его в Бильбао до начала Бискайского наступления." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_CINTURON_TEXT" Text="Железный пояс (Синтурон де Йерро) был линией окопов, бункеров и проволоки, построенной вокруг Бильбао с осени 1936 года. Его планы передал националистам один из инженеров, и 12 июня 1937 года после массированного обстрела наваррские бригады прорвали его; через неделю Бильбао пал." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COLECTIVIDAD" Text="Коллектив" />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COLECTIVIDAD_HELP" Text="Замена мастерской у CNT-FAI. Ещё +1 [ICON_FOOD] еды и содержание 1 [ICON_GOLD] вместо 2." />
+    <Replace Tag="TXT_KEY_BUILDING_ESP1936_COLECTIVIDAD_STRATEGY" Text="Коллектив одновременно кормит и снаряжает колонны и вдвое дешевле в содержании. Стройте его в каждом арагонском городе." />
+    <Replace Tag="TXT_KEY_CIV5_ESP1936_COLECTIVIDAD_TEXT" Text="Летом 1936 года земля и мастерские сотен деревень Арагона были коллективизированы: в некоторых отменили деньги, урожай делили, а продукты шли колоннам на фронте. Совет Арагона управлял регионом до августа 1937 года, когда правительство распустило его и разогнало многие коллективы." />
+  </Language_RU_RU>
+</GameData>

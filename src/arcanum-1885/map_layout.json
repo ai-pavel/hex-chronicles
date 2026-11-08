@@ -1,0 +1,118 @@
+{
+ "starts": [
+  [
+   47,
+   54
+  ],
+  [
+   9,
+   5
+  ],
+  [
+   30,
+   16
+  ],
+  [
+   49,
+   77
+  ],
+  [
+   83,
+   88
+  ]
+ ],
+ "city_tiles": [
+  [
+   13,
+   80
+  ],
+  [
+   70,
+   59
+  ],
+  [
+   37,
+   29
+  ],
+  [
+   34,
+   74
+  ],
+  [
+   19,
+   38
+  ],
+  [
+   3,
+   24
+  ],
+  [
+   75,
+   91
+  ],
+  [
+   82,
+   68
+  ],
+  [
+   34,
+   102
+  ],
+  [
+   15,
+   104
+  ]
+ ],
+ "wonders": {
+  "Bellerogrim's Lair": [
+   57,
+   68
+  ],
+  "Ancient Temple of Derian-Ka": [
+   56,
+   63
+  ],
+  "Elven Burial Site": [
+   60,
+   57
+  ],
+  "Ruins of Kree": [
+   64,
+   45
+  ],
+  "Isle of Despair": [
+   80,
+   67
+  ],
+  "Ring of Brodgar": [
+   7,
+   22
+  ],
+  "Falcon's Ache": [
+   9,
+   86
+  ],
+  "Bangellian Deeps": [
+   34,
+   104
+  ],
+  "Lethe Wyvern's Lair": [
+   9,
+   57
+  ],
+  "Stonewall Peak": [
+   18,
+   44
+  ],
+  "Mines of the Wheel Clan": [
+   49,
+   84
+  ],
+  "Torg's Altar": [
+   31,
+   39
+  ]
+ },
+ "W": 92,
+ "H": 112
+}

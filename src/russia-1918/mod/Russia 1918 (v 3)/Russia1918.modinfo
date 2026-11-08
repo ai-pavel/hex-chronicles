@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5e2a9d1c-1918-4c7b-8a3f-9d4b6e0c2f17" version="3">
+  <Properties>
+    <Name>Russia 1918</Name>
+    <Teaser>The Russian Civil War from 1 June 1918: Reds, the White South, Siberia, the Allied North, Ukraine and Poland on a 160x104 map from East Prussia to Irkutsk.</Teaser>
+    <Description>Russia, Ukraine, Belarus, Poland, the Baltic, the Caucasus, Central Asia and Siberia to Lake Baikal as of 1 June 1918. The RSFSR (Russia) is at permanent war with the Don and Volunteer armies (Germany donor), the Czechoslovak Legion and Siberia (Shoshone) and the Allied Northern Region (England); the Ukrainian State (Ethiopia) and Poland (Poland) decide for themselves; Finland, the Baltic states, Romania, the Caucasus republics, the Ottomans, Persia, Bukhara and Khiva are city-states; Makhno, the Basmachi and the Greens are raging barbarians. One turn is one week; dated events bring the Allied landings, Kolchak, the Red cavalry, the Polish army and the German withdrawal. Domination victory only. Start it from the Mods menu via the scenario button.</Description>
+    <Authors>cryptoboy2283</Authors>
+    <SpecialThanks>Natural Earth, NOAA ETOPO 2022, Koppen-Geiger, Civ5MapImage</SpecialThanks>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadLeaderSystem>1</ReloadLeaderSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="9F0571458DBF4F20F45733D8575EB3FC" import="1">Russia1918.Civ5Map</File>
+    <File md5="3033EF43277D31A64282E13E14B1AC15" import="0">Russia1918_Rules.xml</File>
+    <File md5="96635C3591B5F28BF40DA4CF22B7AA1F" import="0">Russia1918LoadScreen.lua</File>
+    <File md5="411B88D84703C5F157D4D0333518BD37" import="0">Russia1918LoadScreen.xml</File>
+    <File md5="F4B48BF17D768A79EB58F3984AA0ED53" import="0">Russia1918_Production.lua</File>
+    <File md5="BAA1899A14020F7D2ACE48215C0DF013" import="0">Russia1918_Production.xml</File>
+    <File md5="9827FBBA503D9B1E501C61A06B3BFEDE" import="0">Russia1918_Events.lua</File>
+    <File md5="C554AE61D779AF6C6B96FB5947E0B05A" import="0">Russia1918_Events.xml</File>
+    <File md5="A1A2034F159003591877BBEF6FE94ECE" import="0">Russia1918_Uniques.sql</File>
+    <File md5="BEAB0CCA01BBDA8B43455829D55CDA87" import="0">Russia1918_Text.xml</File>
+    <File md5="641D7A08CAC5BB76D10D1DA3E3B8221F" import="0">Russia1918_Leaders.xml</File>
+    <File md5="7ED7E7BC490CCA5405D2EB2BB468FBF7" import="0">CREDITS.txt</File>
+    <File md5="405AB14AE9340009F3481271B735B70B" import="1">RUS1918_Lenin_Scene.xml</File>
+    <File md5="C495772A0B44595BD4B282C47914F7DD" import="1">RUS1918_Denikin_Scene.xml</File>
+    <File md5="AA7374C4D784BA27FB22DC941050E1A5" import="1">RUS1918_Kolchak_Scene.xml</File>
+    <File md5="46E7810DBCEE8625F900831E90CF9EB0" import="1">RUS1918_Yudenich_Scene.xml</File>
+    <File md5="6B521BA72A64D312FC497CDE5E1DD46E" import="1">RUS1918_Skoropadsky_Scene.xml</File>
+    <File md5="190D946FE05381C55FFF595E3D38AB3A" import="1">RUS1918_Pilsudski_Scene.xml</File>
+    <File md5="85B974E9F5C3EDFD4FB60D15CFBE801B" import="1">RUS1918_CivColor128.dds</File>
+    <File md5="F5B2562CCA3153C8F17AB9C6F211F285" import="1">RUS1918_CivColor256.dds</File>
+    <File md5="351FCE72E9CE717971B27B566C60D1F8" import="1">RUS1918_CivColor32.dds</File>
+    <File md5="952D206830249D87719A22B4484F1B37" import="1">RUS1918_CivColor45.dds</File>
+    <File md5="ACACE9F3AE5D5C2BD341757A2B74883B" import="1">RUS1918_CivColor64.dds</File>
+    <File md5="0002AFDD4548976887040E4065FFB73F" import="1">RUS1918_CivColor80.dds</File>
+    <File md5="1FFC8E69C2A4D45C015F5D4F112D142F" import="1">RUS1918_CivWhite128.dds</File>
+    <File md5="16DD20A5AEF3367D18BC81A0035DC7CB" import="1">RUS1918_CivWhite16.dds</File>
+    <File md5="697F6136FD002279D65CD524C2C44C35" import="1">RUS1918_CivWhite24.dds</File>
+    <File md5="B388B9E4FF2DC0D5B3263C954E636B2E" import="1">RUS1918_CivWhite32.dds</File>
+    <File md5="44A1D32DF5D2480159A9D48EA73E7E03" import="1">RUS1918_CivWhite48.dds</File>
+    <File md5="E30C21501EDDBA2EC44C4847C2A66E15" import="1">RUS1918_CivWhite64.dds</File>
+    <File md5="6DB9B89CA40701F93325B7BFABF70577" import="1">RUS1918_DOM_Denikin.dds</File>
+    <File md5="1DEAAEA8251F721ECAE2BA748CE67638" import="1">RUS1918_DOM_Kolchak.dds</File>
+    <File md5="4B1D981DEB16F74454A710CE9AF55344" import="1">RUS1918_DOM_Lenin.dds</File>
+    <File md5="63E646B4D9EDBA171A9656191A360AB7" import="1">RUS1918_DOM_Pilsudski.dds</File>
+    <File md5="D2FE93C5C49039B19D5F9B59FADA0778" import="1">RUS1918_DOM_Skoropadsky.dds</File>
+    <File md5="531088E3D947724C442615A40AA3E307" import="1">RUS1918_DOM_Yudenich.dds</File>
+    <File md5="397499A2F91C247479965E26ED5DC903" import="1">RUS1918_Leaders128.dds</File>
+    <File md5="59619FEC4AF1B6DBE46DCAB3049C7CF9" import="1">RUS1918_Leaders256.dds</File>
+    <File md5="7D61AF412EC021DAE7ED8A859949B063" import="1">RUS1918_Leaders64.dds</File>
+    <File md5="EE354BA7C4030C4C62FAA525AB345D36" import="1">RUS1918_Scene_Denikin.dds</File>
+    <File md5="0C6BFEB310E0E71484A8BE254E1BE685" import="1">RUS1918_Scene_Kolchak.dds</File>
+    <File md5="49CA662675C3AB3BD31968C1F2B56768" import="1">RUS1918_Scene_Lenin.dds</File>
+    <File md5="CF0FC3055CEFE430319E24448E90C758" import="1">RUS1918_Scene_Pilsudski.dds</File>
+    <File md5="3D49DF602CFD64A34C0DB98314FF0B83" import="1">RUS1918_Scene_Skoropadsky.dds</File>
+    <File md5="F35DFE53D913901F14A2FECB5FBBF7DD" import="1">RUS1918_Scene_Yudenich.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Russia1918_Rules.xml</UpdateDatabase>
+      <UpdateDatabase>Russia1918_Uniques.sql</UpdateDatabase>
+      <UpdateDatabase>Russia1918_Leaders.xml</UpdateDatabase>
+      <UpdateDatabase>Russia1918_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="Custom" file="Russia1918LoadScreen.xml">
+      <Name>Russia 1918</Name>
+      <Description>June 1918: Reds, Whites, the Allied North, Ukraine and Poland. Choose your side and difficulty.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Russia1918_Production.xml">
+      <Name>Russia 1918 setup</Name>
+      <Description>Production queues, unit names, White cooperation, weekly calendar.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Russia1918_Events.xml">
+      <Name>Russia 1918 events</Name>
+      <Description>Dated events of the Civil War, June 1918 to 1921.</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

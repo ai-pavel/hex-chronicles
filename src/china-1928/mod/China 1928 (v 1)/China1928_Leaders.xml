@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- China 1928: static leader scenes, portrait atlas, faction emblems and Dawn of Man images (Firaxis Civil War technique). -->
+<GameData>
+  <IconTextureAtlases>
+    <Row><Atlas>CHN1928_LEADER_ATLAS</Atlas><IconSize>256</IconSize><Filename>CHN1928_Leaders256.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CHN1928_LEADER_ATLAS</Atlas><IconSize>128</IconSize><Filename>CHN1928_Leaders128.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CHN1928_LEADER_ATLAS</Atlas><IconSize>64</IconSize><Filename>CHN1928_Leaders64.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CHN1928_CIV_COLOR_ATLAS</Atlas><IconSize>256</IconSize><Filename>CHN1928_CivColor256.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CHN1928_CIV_COLOR_ATLAS</Atlas><IconSize>128</IconSize><Filename>CHN1928_CivColor128.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CHN1928_CIV_COLOR_ATLAS</Atlas><IconSize>80</IconSize><Filename>CHN1928_CivColor80.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CHN1928_CIV_COLOR_ATLAS</Atlas><IconSize>64</IconSize><Filename>CHN1928_CivColor64.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CHN1928_CIV_COLOR_ATLAS</Atlas><IconSize>45</IconSize><Filename>CHN1928_CivColor45.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CHN1928_CIV_COLOR_ATLAS</Atlas><IconSize>32</IconSize><Filename>CHN1928_CivColor32.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CHN1928_CIV_ALPHA_ATLAS</Atlas><IconSize>128</IconSize><Filename>CHN1928_CivWhite128.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CHN1928_CIV_ALPHA_ATLAS</Atlas><IconSize>64</IconSize><Filename>CHN1928_CivWhite64.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CHN1928_CIV_ALPHA_ATLAS</Atlas><IconSize>48</IconSize><Filename>CHN1928_CivWhite48.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CHN1928_CIV_ALPHA_ATLAS</Atlas><IconSize>32</IconSize><Filename>CHN1928_CivWhite32.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CHN1928_CIV_ALPHA_ATLAS</Atlas><IconSize>24</IconSize><Filename>CHN1928_CivWhite24.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CHN1928_CIV_ALPHA_ATLAS</Atlas><IconSize>16</IconSize><Filename>CHN1928_CivWhite16.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+  </IconTextureAtlases>
+  <Leaders>
+    <Update><Where Type="LEADER_WU_ZETIAN" /><Set ArtDefineTag="CHN1928_Chiang_Scene.xml" PortraitIndex="0" IconAtlas="CHN1928_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_SHAKA" /><Set ArtDefineTag="CHN1928_Feng_Scene.xml" PortraitIndex="1" IconAtlas="CHN1928_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_CATHERINE" /><Set ArtDefineTag="CHN1928_Yan_Scene.xml" PortraitIndex="2" IconAtlas="CHN1928_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_BISMARCK" /><Set ArtDefineTag="CHN1928_Zhang_Scene.xml" PortraitIndex="3" IconAtlas="CHN1928_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_SELASSIE" /><Set ArtDefineTag="CHN1928_Li_Scene.xml" PortraitIndex="4" IconAtlas="CHN1928_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_POCATELLO" /><Set ArtDefineTag="CHN1928_Mao_Scene.xml" PortraitIndex="5" IconAtlas="CHN1928_LEADER_ATLAS" /></Update>
+  </Leaders>
+  <Civilizations>
+    <Update><Where Type="CIVILIZATION_CHINA" /><Set PortraitIndex="0" IconAtlas="CHN1928_CIV_COLOR_ATLAS" AlphaIconAtlas="CHN1928_CIV_ALPHA_ATLAS" DawnOfManImage="CHN1928_DOM_Chiang.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_ZULU" /><Set PortraitIndex="1" IconAtlas="CHN1928_CIV_COLOR_ATLAS" AlphaIconAtlas="CHN1928_CIV_ALPHA_ATLAS" DawnOfManImage="CHN1928_DOM_Feng.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_RUSSIA" /><Set PortraitIndex="2" IconAtlas="CHN1928_CIV_COLOR_ATLAS" AlphaIconAtlas="CHN1928_CIV_ALPHA_ATLAS" DawnOfManImage="CHN1928_DOM_Yan.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_GERMANY" /><Set PortraitIndex="3" IconAtlas="CHN1928_CIV_COLOR_ATLAS" AlphaIconAtlas="CHN1928_CIV_ALPHA_ATLAS" DawnOfManImage="CHN1928_DOM_Zhang.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_ETHIOPIA" /><Set PortraitIndex="4" IconAtlas="CHN1928_CIV_COLOR_ATLAS" AlphaIconAtlas="CHN1928_CIV_ALPHA_ATLAS" DawnOfManImage="CHN1928_DOM_Li.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_SHOSHONE" /><Set PortraitIndex="5" IconAtlas="CHN1928_CIV_COLOR_ATLAS" AlphaIconAtlas="CHN1928_CIV_ALPHA_ATLAS" DawnOfManImage="CHN1928_DOM_Mao.dds" /></Update>
+  </Civilizations>
+</GameData>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Canarias 1400 database rows: native city lists for the seven donor civilizations, faction colours, one turn = one year from 1400. -->
+<GameData>
+  <Civilization_CityNames>
+    <Delete CivilizationType="CIVILIZATION_SHOSHONE" />
+    <Row><CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_TENERIFE_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_TENERIFE_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_TENERIFE_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_TENERIFE_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_TENERIFE_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_TENERIFE_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_TENERIFE_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_TENERIFE_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_TENERIFE_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_TENERIFE_9</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_TENERIFE_10</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_TENERIFE_11</CityName></Row>
+    <Delete CivilizationType="CIVILIZATION_EGYPT" />
+    <Row><CivilizationType>CIVILIZATION_EGYPT</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_EGYPT</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_EGYPT</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_EGYPT</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_EGYPT</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_EGYPT</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_EGYPT</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_EGYPT</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_EGYPT</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_EGYPT</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_9</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_EGYPT</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_10</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_EGYPT</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_11</CityName></Row>
+    <Delete CivilizationType="CIVILIZATION_ETHIOPIA" />
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAPALMA_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAPALMA_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAPALMA_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAPALMA_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAPALMA_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAPALMA_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAPALMA_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAPALMA_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAPALMA_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAPALMA_9</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAPALMA_10</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAPALMA_11</CityName></Row>
+    <Delete CivilizationType="CIVILIZATION_INCA" />
+    <Row><CivilizationType>CIVILIZATION_INCA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_INCA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_INCA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_INCA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_INCA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_INCA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_INCA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_INCA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_INCA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_INCA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_9</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_INCA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_10</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_INCA</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_11</CityName></Row>
+    <Delete CivilizationType="CIVILIZATION_CELTS" />
+    <Row><CivilizationType>CIVILIZATION_CELTS</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CELTS</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CELTS</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CELTS</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CELTS</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CELTS</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CELTS</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CELTS</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CELTS</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CELTS</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_9</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CELTS</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_10</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CELTS</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_11</CityName></Row>
+    <Delete CivilizationType="CIVILIZATION_MOROCCO" />
+    <Row><CivilizationType>CIVILIZATION_MOROCCO</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_MOROCCO</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_MOROCCO</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_MOROCCO</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_MOROCCO</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_MOROCCO</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_MOROCCO</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_MOROCCO</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_MOROCCO</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_MOROCCO</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_9</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_MOROCCO</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_10</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_MOROCCO</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_11</CityName></Row>
+    <Delete CivilizationType="CIVILIZATION_CARTHAGE" />
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_9</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_10</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_11</CityName></Row>
+  </Civilization_CityNames>
+  <Colors>
+    <Row><Type>COLOR_PLAYER_CAN1400_TENERIFE_ICON</Type><Red>0.957</Red><Green>0.957</Green><Blue>0.957</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CAN1400_TENERIFE_BG</Type><Red>0.122</Red><Green>0.227</Green><Blue>0.576</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CAN1400_GRANCANARIA_ICON</Type><Red>1.000</Red><Green>0.835</Green><Blue>0.290</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CAN1400_GRANCANARIA_BG</Type><Red>0.106</Red><Green>0.420</Green><Blue>0.227</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CAN1400_LAPALMA_ICON</Type><Red>0.969</Red><Green>0.969</Green><Blue>0.969</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CAN1400_LAPALMA_BG</Type><Red>0.545</Red><Green>0.102</Green><Blue>0.102</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CAN1400_LAGOMERA_ICON</Type><Red>0.608</Red><Green>0.886</Green><Blue>0.478</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CAN1400_LAGOMERA_BG</Type><Red>0.118</Red><Green>0.231</Green><Blue>0.184</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CAN1400_ELHIERRO_ICON</Type><Red>0.973</Red><Green>0.914</Green><Blue>0.631</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CAN1400_ELHIERRO_BG</Type><Red>0.357</Red><Green>0.227</Green><Blue>0.161</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CAN1400_FUERTEVENTURA_ICON</Type><Red>0.169</Red><Green>0.169</Green><Blue>0.169</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CAN1400_FUERTEVENTURA_BG</Type><Red>0.910</Red><Green>0.843</Green><Blue>0.627</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CAN1400_LANZAROTE_ICON</Type><Red>0.949</Red><Green>0.757</Green><Blue>0.306</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CAN1400_LANZAROTE_BG</Type><Red>0.420</Red><Green>0.118</Green><Blue>0.180</Blue><Alpha>1</Alpha></Row>
+  </Colors>
+  <PlayerColors>
+    <Row><Type>PLAYERCOLOR_CAN1400_TENERIFE</Type><PrimaryColor>COLOR_PLAYER_CAN1400_TENERIFE_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_CAN1400_TENERIFE_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_CAN1400_GRANCANARIA</Type><PrimaryColor>COLOR_PLAYER_CAN1400_GRANCANARIA_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_CAN1400_GRANCANARIA_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_CAN1400_LAPALMA</Type><PrimaryColor>COLOR_PLAYER_CAN1400_LAPALMA_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_CAN1400_LAPALMA_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_CAN1400_LAGOMERA</Type><PrimaryColor>COLOR_PLAYER_CAN1400_LAGOMERA_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_CAN1400_LAGOMERA_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_CAN1400_ELHIERRO</Type><PrimaryColor>COLOR_PLAYER_CAN1400_ELHIERRO_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_CAN1400_ELHIERRO_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_CAN1400_FUERTEVENTURA</Type><PrimaryColor>COLOR_PLAYER_CAN1400_FUERTEVENTURA_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_CAN1400_FUERTEVENTURA_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_CAN1400_LANZAROTE</Type><PrimaryColor>COLOR_PLAYER_CAN1400_LANZAROTE_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_CAN1400_LANZAROTE_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+  </PlayerColors>
+  <Civilizations>
+    <Update><Where Type="CIVILIZATION_SHOSHONE" /><Set DefaultPlayerColor="PLAYERCOLOR_CAN1400_TENERIFE" /></Update>
+    <Update><Where Type="CIVILIZATION_EGYPT" /><Set DefaultPlayerColor="PLAYERCOLOR_CAN1400_GRANCANARIA" /></Update>
+    <Update><Where Type="CIVILIZATION_ETHIOPIA" /><Set DefaultPlayerColor="PLAYERCOLOR_CAN1400_LAPALMA" /></Update>
+    <Update><Where Type="CIVILIZATION_INCA" /><Set DefaultPlayerColor="PLAYERCOLOR_CAN1400_LAGOMERA" /></Update>
+    <Update><Where Type="CIVILIZATION_CELTS" /><Set DefaultPlayerColor="PLAYERCOLOR_CAN1400_ELHIERRO" /></Update>
+    <Update><Where Type="CIVILIZATION_MOROCCO" /><Set DefaultPlayerColor="PLAYERCOLOR_CAN1400_FUERTEVENTURA" /></Update>
+    <Update><Where Type="CIVILIZATION_CARTHAGE" /><Set DefaultPlayerColor="PLAYERCOLOR_CAN1400_LANZAROTE" /></Update>
+  </Civilizations>
+  <!-- Development stops at the end of the Classical era: no pikes, crossbows or castles, no Astronomy, no caravels or ocean crossing, no Printing Press and no World Congress. The techs stay in the tree but cannot be researched. -->
+  <Technologies>
+    <Update><Where Era="ERA_MEDIEVAL" /><Set Disable="true" /></Update>
+    <Update><Where Era="ERA_RENAISSANCE" /><Set Disable="true" /></Update>
+    <Update><Where Era="ERA_INDUSTRIAL" /><Set Disable="true" /></Update>
+    <Update><Where Era="ERA_MODERN" /><Set Disable="true" /></Update>
+    <Update><Where Era="ERA_POSTMODERN" /><Set Disable="true" /></Update>
+    <Update><Where Era="ERA_FUTURE" /><Set Disable="true" /></Update>
+    <Update><Where Type="TECH_GUILDS" /><Set Disable="false" /></Update>   <!-- the one Medieval technology: trading posts, the gold of the islands -->
+  </Technologies>
+  <!-- Calendar (Standard and Quick speeds): one turn = one year from 1400 on Standard speed; the game ends by time in 2000 (turn 600). -->
+  <Defines>
+    <Update><Where Name="START_YEAR" /><Set Value="1400" /></Update>
+  </Defines>
+  <GameSpeed_Turns>
+    <Delete GameSpeedType="GAMESPEED_STANDARD" />
+    <Row><GameSpeedType>GAMESPEED_STANDARD</GameSpeedType><MonthIncrement>12</MonthIncrement><TurnsPerIncrement>600</TurnsPerIncrement></Row>
+    <Delete GameSpeedType="GAMESPEED_QUICK" />
+    <Row><GameSpeedType>GAMESPEED_QUICK</GameSpeedType><MonthIncrement>12</MonthIncrement><TurnsPerIncrement>600</TurnsPerIncrement></Row>
+  </GameSpeed_Turns>
+</GameData>

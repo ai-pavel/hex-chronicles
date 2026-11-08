@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e7b3d1a5-1778-4c2e-9f40-8a6b2c5d7e91" version="1">
+  <Properties>
+    <Name>Hawaii 1778</Name>
+    <Teaser>The Hawaiian Islands on the eve of contact: five chiefdoms, three lesser islands, one natural wonder per island.</Teaser>
+    <Description>The Hawaiian Islands in 1778, on a 148x114 hex map (4 km per hex) built from NOAA ETOPO 2022 relief: trade-wind rainforest to windward, dry coasts to leeward, snow on Mauna Kea. Kamehameha's Kona and Keoua's Hilo share the Big Island; Kahekili's Maui, Kahahana's Oahu and Kamakahelei's Kauai each start from a Settler and a Warrior in the Ancient era; Molokai, Lanai and Niihau are city-states. One natural wonder per island (Mauna Kea, Kilauea, Haleakala, Leahi, Waimea Canyon, Kalaupapa, Keahiakawelo), no iron and no horses, stock rules, normal barbarians, Standard speed, one turn = one year, development capped at the Classical era, domination victory only. Start it from Mods, Single Player, Scenarios.</Description>
+    <Authors>cryptoboy2283</Authors>
+    <SpecialThanks>NOAA ETOPO 2022, Civ5MapImage, Black Forest Labs FLUX (leader art)</SpecialThanks>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadLeaderSystem>1</ReloadLeaderSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="5971ECFF82A851EBC75A661CE8781292" import="1">Hawaii1778.Civ5Map</File>
+    <File md5="B2F1BEAEC2F4D66D1B2BC7A6E1CFDB94" import="0">Hawaii1778LoadScreen.lua</File>
+    <File md5="411B88D84703C5F157D4D0333518BD37" import="0">Hawaii1778LoadScreen.xml</File>
+    <File md5="E1C94FF869696F116F6D977DF224A9A9" import="0">Hawaii1778_Rules.xml</File>
+    <File md5="78F3B50DE70E23F942B810D739EBD00D" import="0">Hawaii1778_Uniques.sql</File>
+    <File md5="58782F449CB129E121E3801163781522" import="0">Hawaii1778_Policies.sql</File>
+    <File md5="2A5ACA9A3AA46338796EE2A272F5FE20" import="0">Hawaii1778_Text.xml</File>
+    <File md5="9F6B9EAC492FC29B046AA931667B64BB" import="1">SocialPolicyPopup.lua</File>
+    <File md5="532F5CCD96559012A6C5E6CB83050795" import="1">SocialPolicyPopup.xml</File>
+    <File md5="B756C9821BED89BF99AB0BEA3A86696B" import="0">CREDITS.txt</File>
+    <File md5="C8CDE073E6BD537C7E0C5081CC2A012B" import="0">Hawaii1778_Leaders.xml</File>
+    <File md5="A369102A90BC62A49D5756ADAB0A803F" import="1">HI1778_KONA_Scene.xml</File>
+    <File md5="DBB8060458DDF5AF3F34F8794A530F02" import="1">HI1778_HILO_Scene.xml</File>
+    <File md5="5260E160DE83218334FDC9AECC0FA51B" import="1">HI1778_MAUI_Scene.xml</File>
+    <File md5="E134C0A46C9AA69942939ACBEF0A83C2" import="1">HI1778_OAHU_Scene.xml</File>
+    <File md5="A372E4A1154080C8B3922B3C156B4701" import="1">HI1778_KAUAI_Scene.xml</File>
+    <File md5="C507775AA794FAF334B290A44E76E327" import="1">HI1778_Actions45.dds</File>
+    <File md5="9681D5694C95CE2FF1E7BBB083DB6880" import="1">HI1778_Actions64.dds</File>
+    <File md5="02376DAD9877715F5D60937B7FB6B7C2" import="1">HI1778_Buildings128.dds</File>
+    <File md5="F72C224F212427631D91E334779319A6" import="1">HI1778_Buildings256.dds</File>
+    <File md5="E7BF334D6A65837A664D09C5FA02D624" import="1">HI1778_Buildings45.dds</File>
+    <File md5="0E3563A77C42B7859433DA21227402BE" import="1">HI1778_Buildings64.dds</File>
+    <File md5="E13EC5191165CC42CB716B7F665B98BA" import="1">HI1778_CivColor128.dds</File>
+    <File md5="137E418B75A456E182BC61D1F1E5FA88" import="1">HI1778_CivColor256.dds</File>
+    <File md5="A045F7A0136B45D20B2E2F1EBB13056D" import="1">HI1778_CivColor32.dds</File>
+    <File md5="2E15506EF32D894C26313521BB09F08F" import="1">HI1778_CivColor45.dds</File>
+    <File md5="07C46B1D4A3B643DCECDA2EDFC61D56E" import="1">HI1778_CivColor64.dds</File>
+    <File md5="7E9E670E1EAC41A6353379B19F5C5E09" import="1">HI1778_CivColor80.dds</File>
+    <File md5="51877C00EEABD791DF70119663D2D7DD" import="1">HI1778_CivWhite128.dds</File>
+    <File md5="DE3D51B70F169DC9891259D44CC8D461" import="1">HI1778_CivWhite16.dds</File>
+    <File md5="B8EC1288E2917A40DFA459BEE9DE4B98" import="1">HI1778_CivWhite24.dds</File>
+    <File md5="D8331C4617C44F3823D4B3131A240347" import="1">HI1778_CivWhite32.dds</File>
+    <File md5="C1C50C76FFD037DA0A4A225B50DDDEFB" import="1">HI1778_CivWhite48.dds</File>
+    <File md5="782E383FE81D14E174537D845DE6674E" import="1">HI1778_CivWhite64.dds</File>
+    <File md5="C2E0851EF05EC500AF9892BCBC2DC9D7" import="1">HI1778_DOM_HILO.dds</File>
+    <File md5="83E0E4418F24903AB5B2E5490B6BB4EA" import="1">HI1778_DOM_KAUAI.dds</File>
+    <File md5="E13ACDEB7C17D86212632CF453CC5B60" import="1">HI1778_DOM_KONA.dds</File>
+    <File md5="2465DB855C35031918A217C056BE934E" import="1">HI1778_DOM_MAUI.dds</File>
+    <File md5="B81542190519145FE74BB70BCE77D59E" import="1">HI1778_DOM_OAHU.dds</File>
+    <File md5="9E6E7F178C21AA8038CB31CBE14BE717" import="1">HI1778_Improvements256.dds</File>
+    <File md5="0FD05392F028CA85F7F25BB60BB35CDE" import="1">HI1778_Improvements64.dds</File>
+    <File md5="60D53D3363492C33DB051407F98628E7" import="1">HI1778_Leaders128.dds</File>
+    <File md5="77D4AE4EACA78783CE34691816EAD380" import="1">HI1778_Leaders256.dds</File>
+    <File md5="7DF044A5D7362478E645C2004B7B2C2E" import="1">HI1778_Leaders64.dds</File>
+    <File md5="AE61A88894DD619A632163C8D53D6153" import="1">HI1778_Religions128.dds</File>
+    <File md5="3E6ACCF55C325A12AE487827320CFF43" import="1">HI1778_Religions16.dds</File>
+    <File md5="E173F6D60C8C63551111D9BEDD7450C1" import="1">HI1778_Religions24.dds</File>
+    <File md5="97ABAA5AF07A3C18AD043FC62AB567E1" import="1">HI1778_Religions32.dds</File>
+    <File md5="AF6C38980A8A250F37BE819F0BA6224F" import="1">HI1778_Religions48.dds</File>
+    <File md5="EAE34FFCF400E62DABB8BCB3B366F028" import="1">HI1778_Religions64.dds</File>
+    <File md5="1D0E565FD165284259BDB39EFB0C8EB5" import="1">HI1778_Religions80.dds</File>
+    <File md5="E5E3287DCE56448FBB1684C3C8E5C1E8" import="1">HI1778_Scene_HILO.dds</File>
+    <File md5="F202BFDFE6A59B93521DED2BFA9A202F" import="1">HI1778_Scene_KAUAI.dds</File>
+    <File md5="D5BA12C0104F3AA714AB21E347301E08" import="1">HI1778_Scene_KONA.dds</File>
+    <File md5="F75830103D6DF2945E6990D1A129DD94" import="1">HI1778_Scene_MAUI.dds</File>
+    <File md5="A52BA54840FC70581B5E11A711E78317" import="1">HI1778_Scene_OAHU.dds</File>
+    <File md5="C9CA152C4A8548679ED879300B91EB5E" import="1">HI1778_UnitFlags32.dds</File>
+    <File md5="A0F4A1457D25E14C7C4E880523929FF5" import="1">HI1778_Units128.dds</File>
+    <File md5="1A4FACC7F5C8938F783F533F8D72641A" import="1">HI1778_Units256.dds</File>
+    <File md5="987B167DE2B96C35CEA2FDAB942F96DC" import="1">HI1778_Units32.dds</File>
+    <File md5="FAB7761EC51EB369DC0FB9563821BE01" import="1">HI1778_Units45.dds</File>
+    <File md5="6A1EB5728E2493B9AE3F32DCE11BC1EC" import="1">HI1778_Units64.dds</File>
+    <File md5="F8E3DD95AA54ED6BCFAD31605B1680E3" import="1">HI1778_Units80.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Hawaii1778_Rules.xml</UpdateDatabase>
+      <UpdateDatabase>Hawaii1778_Uniques.sql</UpdateDatabase>
+      <UpdateDatabase>Hawaii1778_Policies.sql</UpdateDatabase>
+      <UpdateDatabase>Hawaii1778_Leaders.xml</UpdateDatabase>
+      <UpdateDatabase>Hawaii1778_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="Custom" file="Hawaii1778LoadScreen.xml">
+      <Name>Hawaii 1778</Name>
+      <Description>The Hawaiian Islands before contact. Choose your chiefdom and difficulty.</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

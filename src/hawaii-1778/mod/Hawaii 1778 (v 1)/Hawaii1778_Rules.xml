@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hawaii 1778 database rows: Hawaiian city lists for the five donor civilizations, three city-states, colours, tech cap, one turn = one year from 1778. -->
+<GameData>
+  <Civilization_CityNames>
+    <Delete CivilizationType="CIVILIZATION_POLYNESIA" />
+    <Row><CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KONA_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KONA_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KONA_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KONA_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KONA_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KONA_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KONA_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KONA_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KONA_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KONA_9</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KONA_10</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KONA_11</CityName></Row>
+    <Delete CivilizationType="CIVILIZATION_JAPAN" />
+    <Row><CivilizationType>CIVILIZATION_JAPAN</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_HILO_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_JAPAN</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_HILO_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_JAPAN</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_HILO_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_JAPAN</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_HILO_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_JAPAN</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_HILO_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_JAPAN</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_HILO_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_JAPAN</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_HILO_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_JAPAN</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_HILO_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_JAPAN</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_HILO_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_JAPAN</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_HILO_9</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_JAPAN</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_HILO_10</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_JAPAN</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_HILO_11</CityName></Row>
+    <Delete CivilizationType="CIVILIZATION_ZULU" />
+    <Row><CivilizationType>CIVILIZATION_ZULU</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_MAUI_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ZULU</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_MAUI_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ZULU</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_MAUI_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ZULU</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_MAUI_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ZULU</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_MAUI_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ZULU</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_MAUI_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ZULU</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_MAUI_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ZULU</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_MAUI_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ZULU</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_MAUI_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ZULU</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_MAUI_9</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ZULU</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_MAUI_10</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ZULU</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_MAUI_11</CityName></Row>
+    <Delete CivilizationType="CIVILIZATION_CARTHAGE" />
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_OAHU_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_OAHU_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_OAHU_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_OAHU_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_OAHU_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_OAHU_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_OAHU_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_OAHU_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_OAHU_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_OAHU_9</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_OAHU_10</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_OAHU_11</CityName></Row>
+    <Delete CivilizationType="CIVILIZATION_ETHIOPIA" />
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KAUAI_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KAUAI_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KAUAI_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KAUAI_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KAUAI_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KAUAI_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KAUAI_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KAUAI_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KAUAI_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KAUAI_9</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KAUAI_10</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ETHIOPIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_HI1778_KAUAI_11</CityName></Row>
+  </Civilization_CityNames>
+  <Colors>
+    <Row><Type>COLOR_PLAYER_HI1778_KONA_ICON</Type><Red>1.000</Red><Green>0.843</Green><Blue>0.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_HI1778_KONA_BG</Type><Red>0.698</Red><Green>0.133</Green><Blue>0.133</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_HI1778_HILO_ICON</Type><Red>0.957</Red><Green>0.957</Green><Blue>0.957</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_HI1778_HILO_BG</Type><Red>0.110</Red><Green>0.110</Green><Blue>0.110</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_HI1778_MAUI_ICON</Type><Red>1.000</Red><Green>1.000</Green><Blue>1.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_HI1778_MAUI_BG</Type><Red>0.780</Red><Green>0.082</Green><Blue>0.522</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_HI1778_OAHU_ICON</Type><Red>1.000</Red><Green>0.835</Green><Blue>0.290</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_HI1778_OAHU_BG</Type><Red>0.122</Red><Green>0.227</Green><Blue>0.576</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_HI1778_KAUAI_ICON</Type><Red>0.941</Red><Green>0.902</Green><Blue>0.549</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_HI1778_KAUAI_BG</Type><Red>0.294</Red><Green>0.000</Green><Blue>0.510</Blue><Alpha>1</Alpha></Row>
+  </Colors>
+  <PlayerColors>
+    <Row><Type>PLAYERCOLOR_HI1778_KONA</Type><PrimaryColor>COLOR_PLAYER_HI1778_KONA_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_HI1778_KONA_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_HI1778_HILO</Type><PrimaryColor>COLOR_PLAYER_HI1778_HILO_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_HI1778_HILO_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_HI1778_MAUI</Type><PrimaryColor>COLOR_PLAYER_HI1778_MAUI_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_HI1778_MAUI_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_HI1778_OAHU</Type><PrimaryColor>COLOR_PLAYER_HI1778_OAHU_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_HI1778_OAHU_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_HI1778_KAUAI</Type><PrimaryColor>COLOR_PLAYER_HI1778_KAUAI_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_HI1778_KAUAI_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+  </PlayerColors>
+  <Civilizations>
+    <Update><Where Type="CIVILIZATION_POLYNESIA" /><Set DefaultPlayerColor="PLAYERCOLOR_HI1778_KONA" /></Update>
+    <Update><Where Type="CIVILIZATION_JAPAN" /><Set DefaultPlayerColor="PLAYERCOLOR_HI1778_HILO" /></Update>
+    <Update><Where Type="CIVILIZATION_ZULU" /><Set DefaultPlayerColor="PLAYERCOLOR_HI1778_MAUI" /></Update>
+    <Update><Where Type="CIVILIZATION_CARTHAGE" /><Set DefaultPlayerColor="PLAYERCOLOR_HI1778_OAHU" /></Update>
+    <Update><Where Type="CIVILIZATION_ETHIOPIA" /><Set DefaultPlayerColor="PLAYERCOLOR_HI1778_KAUAI" /></Update>
+  </Civilizations>
+  <MinorCivilizations>
+    <Row><Type>MINOR_CIV_HI_MOLOKAI</Type><Description>TXT_KEY_CITYSTATE_HI_MOLOKAI</Description><Civilopedia>TXT_KEY_CITYSTATE_HI_MOLOKAI</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_HI_MOLOKAI</ShortDescription><Adjective>TXT_KEY_CITYSTATE_HI_MOLOKAI</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_PURPLE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType><ArtStyleSuffix>_ASIA</ArtStyleSuffix><ArtStylePrefix>ASIAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_RELIGIOUS</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_HI_LANAI</Type><Description>TXT_KEY_CITYSTATE_HI_LANAI</Description><Civilopedia>TXT_KEY_CITYSTATE_HI_LANAI</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_HI_LANAI</ShortDescription><Adjective>TXT_KEY_CITYSTATE_HI_LANAI</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_BLUE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType><ArtStyleSuffix>_ASIA</ArtStyleSuffix><ArtStylePrefix>ASIAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_HI_NIIHAU</Type><Description>TXT_KEY_CITYSTATE_HI_NIIHAU</Description><Civilopedia>TXT_KEY_CITYSTATE_HI_NIIHAU</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_HI_NIIHAU</ShortDescription><Adjective>TXT_KEY_CITYSTATE_HI_NIIHAU</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_CYAN</DefaultPlayerColor><ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType><ArtStyleSuffix>_ASIA</ArtStyleSuffix><ArtStylePrefix>ASIAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait></Row>
+  </MinorCivilizations>
+  <MinorCivilization_CityNames>
+    <Row><MinorCivType>MINOR_CIV_HI_MOLOKAI</MinorCivType><CityName>TXT_KEY_CITY_HI_MOLOKAI</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_LANAI</MinorCivType><CityName>TXT_KEY_CITY_HI_LANAI</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_NIIHAU</MinorCivType><CityName>TXT_KEY_CITY_HI_NIIHAU</CityName></Row>
+  </MinorCivilization_CityNames>
+  <MinorCivilization_Flavors>
+    <Row><MinorCivType>MINOR_CIV_HI_MOLOKAI</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_MOLOKAI</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_MOLOKAI</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_MOLOKAI</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_MOLOKAI</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_LANAI</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_LANAI</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_LANAI</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_LANAI</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_LANAI</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_NIIHAU</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_NIIHAU</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_NIIHAU</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_NIIHAU</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_HI_NIIHAU</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+  </MinorCivilization_Flavors>
+  <!-- Development stops at the end of the Classical era: no pikes, crossbows or castles, no Astronomy, no caravels, no Printing Press and no World Congress. The techs stay in the tree but cannot be researched. -->
+  <Technologies>
+    <Update><Where Era="ERA_MEDIEVAL" /><Set Disable="true" /></Update>
+    <Update><Where Era="ERA_RENAISSANCE" /><Set Disable="true" /></Update>
+    <Update><Where Era="ERA_INDUSTRIAL" /><Set Disable="true" /></Update>
+    <Update><Where Era="ERA_MODERN" /><Set Disable="true" /></Update>
+    <Update><Where Era="ERA_POSTMODERN" /><Set Disable="true" /></Update>
+    <Update><Where Era="ERA_FUTURE" /><Set Disable="true" /></Update>
+    <Update><Where Type="TECH_GUILDS" /><Set Disable="false" /></Update>   <!-- the one Medieval technology: trading posts, the gold of the islands -->
+  </Technologies>
+  <!-- Calendar (Standard and Quick speeds): one turn = one year from 1778 on Standard speed; the game ends by time in 2078 (turn 300). -->
+  <Defines>
+    <Update><Where Name="START_YEAR" /><Set Value="1778" /></Update>
+  </Defines>
+  <GameSpeed_Turns>
+    <Delete GameSpeedType="GAMESPEED_STANDARD" />
+    <Row><GameSpeedType>GAMESPEED_STANDARD</GameSpeedType><MonthIncrement>12</MonthIncrement><TurnsPerIncrement>300</TurnsPerIncrement></Row>
+    <Delete GameSpeedType="GAMESPEED_QUICK" />
+    <Row><GameSpeedType>GAMESPEED_QUICK</GameSpeedType><MonthIncrement>12</MonthIncrement><TurnsPerIncrement>300</TurnsPerIncrement></Row>
+  </GameSpeed_Turns>
+</GameData>

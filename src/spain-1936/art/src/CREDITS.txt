@@ -1,0 +1,24 @@
+Spain 1936 - credits
+
+Author: cryptoboy2283
+
+Image sources (Wikimedia Commons, https://commons.wikimedia.org/wiki/File:<name>; licences as recorded on the file pages on 2026-10-31).
+Public domain, CC0, or free licences (CC BY-SA) whose terms are met by the attribution below. The CC BY-SA files and the textures made
+from them (round portraits, emblem discs, diplomacy scenes, Dawn of Man images) are shared under the same licence.
+
+azana.jpg        "Manuel Azaña Díaz.jpg" - unknown author, 1936-1939, Narodowe Archiwum Cyfrowe 1-E-6356 (published in Ilustrowany Kurier Codzienny) - public domain (PD-Poland)
+franco.jpg       "Francisco Franco 1930 (3x4 cropped).jpg" - Jalón Ángel, c. 1932-1935, Biblioteca Virtual de Defensa MUE-120279 - CC0 1.0
+mola.jpg         "Emilio Mola (3x4 cropped).jpg" - Jalón Ángel, 1930, Biblioteca Virtual de Defensa 93803 - CC0 1.0
+companys.jpg     "Lluís Companys.jpg" - unknown author, 1933-1934, Narodowe Archiwum Cyfrowe 1-E-6412 - public domain (PD-Polish)
+aguirre.jpg      "Agirre Lekube lehendakaria.jpg" - Jesús Elósegui Irazusta, 1939, GureGipuzkoa 1021080 - CC BY-SA 3.0
+                 (https://creativecommons.org/licenses/by-sa/3.0/); cropped here to the photograph inside the pinned print
+durruti.jpg      "Jose Buenaventura Durruti Dumange 1936.jpg" - unknown author, 1936, Narodowe Archiwum Cyfrowe (published in Na Szerokim Świecie, 25 Oct 1936) - public domain (PD-Polish, PD-Spain-photo)
+emb_rep.png      "Coat of Arms of Spain (1931-1939).svg" - Heralder - CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/), rendered by Commons as PNG
+emb_nat.png      "Flag of Spain (Civil) alternate colours.svg" - R-41 - CC0 1.0 (the red-yellow-red flag adopted by the Junta on 29 August 1936)
+emb_north.png    "Flag of Cross of Burgundy.svg" - Ningyou - public domain (PD-self)
+emb_cat.png      "Flag of Catalonia.svg" - Motoroil - public domain (PD-ineligible)
+emb_euz.png      "Flag of the Basque Country.svg" - Daniele Schirmo (Frankie688) - CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5/)
+emb_cnt.png      "Flag of the CNT-FAI.svg" - Martufellon (vector) - CC0 1.0
+
+The leaders are historical figures; their in-game dialogue is invented. The white unit-flag glyphs of the five flags are simple shapes drawn
+by art/build_art.py; the Republic's glyph is the silhouette of the coat of arms above.

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c4a2e9d1-1400-4b7f-8e63-5d1a9f0c2b77" version="1">
+  <Properties>
+    <Name>Canarias 1400</Name>
+    <Teaser>The Canary Islands before the conquest: seven islands, seven native peoples, settler starts, one natural wonder per island.</Teaser>
+    <Description>The Canary Islands in 1400, on a 160x83 hex map (3 km per hex) built from NOAA ETOPO 2022 relief. Guanches, Canarii, Benahoaritas, Gomeros, Bimbaches and the two Majo kingdoms each start from a Settler and a Warrior in the Ancient era at their historical seat; every island has one natural wonder (Teide, Roque Nublo, Caldera de Taburiente, Garajonay, Garoe, Tindaya, La Corona) and a balanced set of strategic resources. Stock rules, normal barbarians, Standard speed, one turn = one year, development capped at the Classical era, domination victory only. Shallow sills link neighbouring islands so that contact starts with Optics. Start it from Mods, Single Player, Scenarios.</Description>
+    <Authors>cryptoboy2283</Authors>
+    <SpecialThanks>NOAA ETOPO 2022, Civ5MapImage, Black Forest Labs FLUX (leader art)</SpecialThanks>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadLeaderSystem>1</ReloadLeaderSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="546B8FF35EDDB064E32B798650DE3781" import="1">Canarias1400.Civ5Map</File>
+    <File md5="70D5CC42512EF4A72B4D853E0BB800EA" import="0">Canarias1400LoadScreen.lua</File>
+    <File md5="411B88D84703C5F157D4D0333518BD37" import="0">Canarias1400LoadScreen.xml</File>
+    <File md5="97F9274C2555739B06B7F3DE01807572" import="0">Canarias1400_Rules.xml</File>
+    <File md5="F1421A6538346092A8D2176019137746" import="0">Canarias1400_Uniques.sql</File>
+    <File md5="129B0C51B41B8E9858FB7B52E27FAA6D" import="0">Canarias1400_Policies.sql</File>
+    <File md5="FBB68DC163382E8C3822F2CA0B7A1609" import="0">Canarias1400_Text.xml</File>
+    <File md5="DED3BD8B91FE34476E5188AC7353E9BE" import="1">SocialPolicyPopup.lua</File>
+    <File md5="60C39DAF45AC42473FA1A02C773D95B0" import="1">SocialPolicyPopup.xml</File>
+    <File md5="D3CE6E4152A4FABA6FB173BBFFF1B95D" import="0">CREDITS.txt</File>
+    <File md5="2CC9D8F1DC994158192F51E422FED1EE" import="0">Canarias1400_Leaders.xml</File>
+    <File md5="8220659AC4F3452F1E53A29714A4ECEF" import="1">CAN1400_TENERIFE_Scene.xml</File>
+    <File md5="DB6E9CA1F168BA63B215E7E2FBED0DD8" import="1">CAN1400_GRANCANARIA_Scene.xml</File>
+    <File md5="6A29C612E79F7D72116FC4B1CB921168" import="1">CAN1400_LAPALMA_Scene.xml</File>
+    <File md5="31DCA5375CF8CB51E6F7D53558ABD2C3" import="1">CAN1400_LAGOMERA_Scene.xml</File>
+    <File md5="1257C354DCB767D6EBBB6E44A8DCF99C" import="1">CAN1400_ELHIERRO_Scene.xml</File>
+    <File md5="20575925A339AD4D899A985E1AB3458F" import="1">CAN1400_FUERTEVENTURA_Scene.xml</File>
+    <File md5="59CBDBE3339BDFDC3B5D6E633834F8ED" import="1">CAN1400_LANZAROTE_Scene.xml</File>
+    <File md5="E01C1B1393AFEA93B05BCB0E29189EF1" import="1">CAN1400_Buildings128.dds</File>
+    <File md5="A319C4FECF03534A42B78045A6FF4BA3" import="1">CAN1400_Buildings256.dds</File>
+    <File md5="C80F61B44F18C63D1A2253DCB4AEC319" import="1">CAN1400_Buildings45.dds</File>
+    <File md5="32C8F108F0492E953C3127D37A13CBFE" import="1">CAN1400_Buildings64.dds</File>
+    <File md5="073A712C1D6C734F43DC611C1A7A6C16" import="1">CAN1400_CivColor128.dds</File>
+    <File md5="F496CBCB91237AD75EFA56E7F79A7E6C" import="1">CAN1400_CivColor256.dds</File>
+    <File md5="61352AEE62C9E893648EBD9487A90DE1" import="1">CAN1400_CivColor32.dds</File>
+    <File md5="F92C3A4A3E37B06AC1C2E1241BBD1AB0" import="1">CAN1400_CivColor45.dds</File>
+    <File md5="0C42ECD70DD8B1E066D030A377DF8485" import="1">CAN1400_CivColor64.dds</File>
+    <File md5="92DE95D5F2AEB5691E84AF356A0E8FE0" import="1">CAN1400_CivColor80.dds</File>
+    <File md5="EF5CFA86C4447EC1D329522FB37F0038" import="1">CAN1400_CivWhite128.dds</File>
+    <File md5="1C91C03E65ECD1C0E6D7A799C05DE8FB" import="1">CAN1400_CivWhite16.dds</File>
+    <File md5="8D37CD8DA5C3EF5BF1923750DECE9022" import="1">CAN1400_CivWhite24.dds</File>
+    <File md5="A73E19E0365E31EAC3BD5B518989FFB9" import="1">CAN1400_CivWhite32.dds</File>
+    <File md5="8A1E478D7079962031E5732C5E196C2F" import="1">CAN1400_CivWhite48.dds</File>
+    <File md5="F00EE238A9CC2BC553C97E99C797C116" import="1">CAN1400_CivWhite64.dds</File>
+    <File md5="349C8C4340722106623E4FB894BB8038" import="1">CAN1400_DOM_ELHIERRO.dds</File>
+    <File md5="FD64FE02C8592767D815B4B16EA8C7DD" import="1">CAN1400_DOM_FUERTEVENTURA.dds</File>
+    <File md5="899A54FB8B3251AE2F24578111EA8D8F" import="1">CAN1400_DOM_GRANCANARIA.dds</File>
+    <File md5="3F793F1E56F297F0F2E1115793AC9C3B" import="1">CAN1400_DOM_LAGOMERA.dds</File>
+    <File md5="E5DB40B8C20341947BAB2AB77A29CEF7" import="1">CAN1400_DOM_LANZAROTE.dds</File>
+    <File md5="AB215544CD733078D6B05E86B6E83743" import="1">CAN1400_DOM_LAPALMA.dds</File>
+    <File md5="6546AF0BDBF0482A1F8EA7C84592E5C5" import="1">CAN1400_DOM_TENERIFE.dds</File>
+    <File md5="DFB58E9F53C991DBE73299A38890A496" import="1">CAN1400_Leaders128.dds</File>
+    <File md5="5EDB3B03D0B1C304AF997DEE403E868A" import="1">CAN1400_Leaders256.dds</File>
+    <File md5="8CE190C3CA05E46469C4A72FB219A7B7" import="1">CAN1400_Leaders64.dds</File>
+    <File md5="B3262811081B4466CC38D9AB26B07056" import="1">CAN1400_Religions128.dds</File>
+    <File md5="75233675881D4B3F1E443A5FFC2F2355" import="1">CAN1400_Religions16.dds</File>
+    <File md5="AC7EEDA8BE5C2295C0821882140B99D4" import="1">CAN1400_Religions24.dds</File>
+    <File md5="CC94BD3992683DFA706EBFECEB35BC77" import="1">CAN1400_Religions32.dds</File>
+    <File md5="95B07499391BE739984E6AF12648CD4F" import="1">CAN1400_Religions48.dds</File>
+    <File md5="735189693A6DFFC0A652C28FEBA94191" import="1">CAN1400_Religions64.dds</File>
+    <File md5="61C1D1236351C390C1C3956AFFD8014C" import="1">CAN1400_Religions80.dds</File>
+    <File md5="4686012DDD576B122DA2B0517028305D" import="1">CAN1400_Scene_ELHIERRO.dds</File>
+    <File md5="3DBD819FCF8A8829AB6C220A7778CFC6" import="1">CAN1400_Scene_FUERTEVENTURA.dds</File>
+    <File md5="7D86F4853CB48825AD02A3440CB3ACE9" import="1">CAN1400_Scene_GRANCANARIA.dds</File>
+    <File md5="D21812F52F5AB2C9C43B12E2CEB731CB" import="1">CAN1400_Scene_LAGOMERA.dds</File>
+    <File md5="9CF0009528C045F18CB278C5618A1530" import="1">CAN1400_Scene_LANZAROTE.dds</File>
+    <File md5="B8D585ED13426E09EC01040BCA86C517" import="1">CAN1400_Scene_LAPALMA.dds</File>
+    <File md5="BD4B64BD630B704A93C5D0F0163F1D61" import="1">CAN1400_Scene_TENERIFE.dds</File>
+    <File md5="1B1342C1710ADFCEA42497724680CFC2" import="1">CAN1400_UnitFlags32.dds</File>
+    <File md5="1D2646EAD9D342C6999B90F1598B9130" import="1">CAN1400_Units128.dds</File>
+    <File md5="8605A60408983FA5838F860A49E89F8A" import="1">CAN1400_Units256.dds</File>
+    <File md5="2780230B3FAA75234682B95525135782" import="1">CAN1400_Units32.dds</File>
+    <File md5="97C623AA535C24E6426728BDF6597202" import="1">CAN1400_Units45.dds</File>
+    <File md5="963F84EB459685716DB39E9BC20AC340" import="1">CAN1400_Units64.dds</File>
+    <File md5="88321A2908ADD6ACB7D9A4BCAABEF59E" import="1">CAN1400_Units80.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Canarias1400_Rules.xml</UpdateDatabase>
+      <UpdateDatabase>Canarias1400_Uniques.sql</UpdateDatabase>
+      <UpdateDatabase>Canarias1400_Policies.sql</UpdateDatabase>
+      <UpdateDatabase>Canarias1400_Leaders.xml</UpdateDatabase>
+      <UpdateDatabase>Canarias1400_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="Custom" file="Canarias1400LoadScreen.xml">
+      <Name>Canarias 1400</Name>
+      <Description>The Canary Islands before the conquest. Choose your island and difficulty.</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

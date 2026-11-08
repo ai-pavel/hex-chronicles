@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Russia 1918: leader, civilization, city-state, event and unique unit text (EN + RU). -->
+<GameData>
+  <Language_en_US>
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE" Text="Vladimir Lenin" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_PEDIA" Text="Vladimir Ilyich Ulyanov, Lenin (1870-1924), led the Bolshevik seizure of power in October 1917 and chaired the Council of People&#x27;s Commissars through the Civil War. He signed the Brest-Litovsk peace to save the revolution, built the Red Army with Trotsky and held the centre while every border province fell away.[NEWLINE][NEWLINE]By 1921 his government had defeated the Whites, lost the war with Poland and faced a country in ruins; the New Economic Policy was his answer. He suffered his first stroke in 1922 and died in January 1924." />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_DESC" Text="Russian Socialist Federative Soviet Republic" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_SHORT_DESC" Text="Russian SFSR" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_ADJECTIVE" Text="Soviet" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_RUSSIA_TEXT" Text="Vladimir Ilyich, the revolution holds Moscow, Petrograd and the heart of the country, and nothing else is certain. The Czechoslovak Legion has seized the Trans-Siberian in a fortnight, the Don Cossacks have risen, the Germans sit in Kiev under a hetman of their choosing, and the Allies are landing in the north.[NEWLINE][NEWLINE]You have what the Whites do not: the railways, the arsenals and the manpower of central Russia. Hold the Volga, turn the Red Guards into an army, and strike the fronts one at a time before they can join hands. The Whites are many, but they are far apart." />
+    <Replace Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES_SHORT" Text="Arsenal of the Revolution" />
+    <Replace Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES" Text="Horses and Iron provide double quantity, and tiles with a strategic resource +1 [ICON_PRODUCTION] Production. The factories of Petrograd, Tula and the Urals arm the Red Army." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_6" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_7" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_1" Text="You attack the Soviet Republic? Then you will learn what a people in arms can do." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_2" Text="The world bourgeoisie sends another hireling. We have beaten better." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_3" Text="Very well. The workers of your own country will judge you." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_4" Text="You will not take Moscow. Nobody takes Moscow." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_1" Text="The revolution will defend itself. You have chosen the wrong side of history." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_2" Text="Then the Red Army will settle this." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_3" Text="So be it. Every worker is a soldier now." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_1" Text="You have won a battle against history. History will have the last word." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_2" Text="Take the cities. The idea does not surrender." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_3" Text="The revolution is not finished. It has only changed its address." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_ANGRY" Text="The Republic requires this." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_HAPPY" Text="Pay, and we overlook your past." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_NEUTRAL" Text="A contribution to the revolution, in advance." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_2" Text="Out of the question." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_5" Text="Out of the question." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_1" Text="I am Lenin. The Council of People&#x27;s Commissars speaks for the workers and peasants of Russia; who speaks for you?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_2" Text="Welcome to Moscow. The old order is gone, and you are talking to what replaced it." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_3" Text="The Soviet Republic receives you. Be brief, there is a war on." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_1" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_2" Text="We have work to do." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_3" Text="Goodbye." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_4" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_5" Text="We have work to do." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_6" Text="Goodbye." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_7" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_8" Text="We have work to do." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_1" Text="Comrade?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_2" Text="Yes. What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_3" Text="The Soviet government is listening." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_4" Text="Comrade?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_5" Text="Yes. What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_6" Text="The Soviet government is listening." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_7" Text="Comrade?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_2" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_3" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_5" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_6" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_7" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_1" Text="A breathing space. We accept." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_2" Text="Peace, for now. Brest-Litovsk taught us patience." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_3" Text="Let the guns rest. We will need them later." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_ANGRY" Text="Consider this." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_HAPPY" Text="Business, nothing more." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_NEUTRAL" Text="A proposal from the Soviet government. Purely practical." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_ANGRY" Text="We cannot." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_HAPPY" Text="Unacceptable." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_NEUTRAL" Text="No. The Republic is not a shop." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_HAPPY" Text="Yes. Grain and iron do not care about ideology." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_NEUTRAL" Text="Agreed. The Republic honours its bargains, whatever they say in Paris." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_ANGRY" Text="The Republic pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_HAPPY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_NEUTRAL" Text="The Republic pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_ANGRY" Text="Take it. It costs us less than a war." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_NEUTRAL" Text="Take it. It costs us less than a war." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_1" Text="Threats? The Entente threatens us daily." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_2" Text="Do not test the Red Army." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_3" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_4" Text="Threats? The Entente threatens us daily." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_5" Text="Do not test the Red Army." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WINWAR_1" Text="The counter-revolution is broken. Now we build." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK" Text="Anton Denikin" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_PEDIA" Text="Anton Ivanovich Denikin (1872-1947), a general of peasant stock, took command of the Volunteer Army after Kornilov&#x27;s death in April 1918 and of the Armed Forces of South Russia from January 1919. His 1919 offensive reached Oryol, two hundred miles from Moscow, before Red cavalry and overstretched supply lines broke it.[NEWLINE][NEWLINE]He handed command to Wrangel after the Novorossiysk evacuation of March 1920 and spent the rest of his life in exile, writing a five-volume history of the Russian turmoil and refusing to serve the Germans in 1941." />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_DESC" Text="Armed Forces of South Russia" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_SHORT_DESC" Text="White South" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_ADJECTIVE" Text="White" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_GERMANY_TEXT" Text="General Denikin, the Volunteer Army is nine thousand officers, cadets and students in the Don steppe, and the Don Cossacks of Ataman Krasnov hold Novocherkassk and Rostov with German blessing. Kuban is Red, Tsaritsyn is Red, and between you and the Siberians lies the whole of the Volga.[NEWLINE][NEWLINE]Your soldiers are the best in Russia and there are not enough of them. Take Ekaterinodar and the Kuban, bring the Cossack hosts into the fold, open the Black Sea ports to British tanks, and march on Moscow before the Reds learn how to fight." />
+    <Replace Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS_SHORT" Text="Officers&#x27; Army" />
+    <Replace Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS" Text="When a land unit defeats a barbarian unit inside an encampment there is a 67% chance it joins your army. Land unit maintenance reduced by 25%." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_6" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_7" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_1" Text="You attack officers of the Russian army? You will regret it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_2" Text="One more enemy. Russia has survived worse." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_3" Text="Very well. The Volunteers do not retreat without a fight." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_1" Text="Then it is war. We have been at war since 1917 anyway." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_2" Text="You have chosen the Bolsheviks&#x27; side. You will share their fate." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_1" Text="The army is beaten. Russia is not." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_2" Text="Take the Don. The cause survives in exile." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_3" Text="We leave the way we came: with our honour." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_4" Text="The army is beaten. Russia is not." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_ANGRY" Text="A contribution to the Russian cause." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_HAPPY" Text="Pay, or explain yourself to my Cossacks." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_NEUTRAL" Text="The army needs boots and shells. You will provide them." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_1" Text="General Denikin. I speak for Russia, one and indivisible; the people in Moscow speak for a party." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_2" Text="Welcome to the Don. Here Russia is still Russia." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_3" Text="The Armed Forces of South Russia receive you." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_1" Text="God be with you." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_2" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_3" Text="Until we meet again." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_4" Text="God be with you." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_5" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_6" Text="Until we meet again." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_7" Text="God be with you." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_2" Text="What brings you to the Don?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_3" Text="Speak, I have a front to run." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_5" Text="What brings you to the Don?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_6" Text="Speak, I have a front to run." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_3" Text="Please." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_6" Text="Please." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_7" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_8" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_1" Text="A truce. We need to breathe." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_2" Text="Peace, then. For now." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_3" Text="Agreed, with a heavy heart." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_ANGRY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_HAPPY" Text="Russia offers this." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_NEUTRAL" Text="A proposal from the South. We are honest partners." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_HAPPY" Text="We cannot accept that." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_ANGRY" Text="Acceptable." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_NEUTRAL" Text="Agreed. Russia pays her debts." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_ANGRY" Text="The Volunteer Army does not pay tribute." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_HAPPY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_NEUTRAL" Text="The Volunteer Army does not pay tribute." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_ANGRY" Text="Take it, and leave us to the Reds." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_NEUTRAL" Text="Take it, and leave us to the Reds." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_1" Text="Do not threaten Russian officers." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_2" Text="You would not dare." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_3" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_4" Text="Do not threaten Russian officers." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_5" Text="You would not dare." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_6" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_1" Text="Russia is whole again. Now to heal her." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_2" Text="The Reds are finished. Thank God." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_3" Text="Russia is whole again. Now to heal her." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO" Text="Alexander Kolchak" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_PEDIA" Text="Alexander Vasilyevich Kolchak (1874-1920), polar explorer and admiral of the Black Sea Fleet, was made Supreme Ruler of Russia by a coup in Omsk on 18 November 1918. His armies reached the Volga at Kazan and Samara in the spring of 1919 and then collapsed eastward along the Trans-Siberian.[NEWLINE][NEWLINE]Abandoned by the Czechoslovak Legion and handed to the Irkutsk revolutionaries, he was shot on 7 February 1920 and his body pushed under the ice of the Angara." />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_DESC" Text="Provisional All-Russian Government" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_SHORT_DESC" Text="Siberia" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_ADJECTIVE" Text="Siberian" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_SHOSHONE_TEXT" Text="Admiral Kolchak, from Samara to Irkutsk the Czechoslovak Legion has thrown the Soviets off the Trans-Siberian in a fortnight. Komuch sits in Samara with its People&#x27;s Army, the Siberian Government in Omsk, the Orenburg and Ural Cossacks guard the steppe, and in November the generals will make you Supreme Ruler.[NEWLINE][NEWLINE]Your land is endless and empty, your army is a railway and a few regiments, your supplies come from Vladivostok, five thousand miles away. Take the Volga crossings, link up with the Don, and bring the Supreme Ruler to Moscow before the winter." />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE_SHORT" Text="Endless Siberia" />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE" Text="Land units receive +15% [ICON_STRENGTH] Combat Strength in friendly territory, and move through forest in friendly territory as along a road. The taiga is home ground." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_1" Text="You attack the lawful government of Russia. You will answer for it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_2" Text="Another enemy. The taiga has room for all of them." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_3" Text="A sailor does not strike his colours. Fight, then." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_1" Text="You side with the Bolsheviks. Then you are my enemy." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_2" Text="Very well. Siberia has swallowed armies before." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_1" Text="Siberia is lost. Russia is not finished." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_2" Text="Take Omsk. You will find it harder to keep." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_3" Text="I have done my duty. Do yours." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_ANGRY" Text="You will provide this." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_HAPPY" Text="Pay, and keep your railway." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_NEUTRAL" Text="The Supreme Ruler requires a contribution." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_1" Text="Admiral Kolchak, Supreme Ruler of Russia. The capital is in Omsk until Moscow is free." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_2" Text="Welcome to Siberia. It is larger than you think." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_3" Text="The All-Russian Government receives you." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_1" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_2" Text="God keep you." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_3" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_4" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_5" Text="God keep you." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_6" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_2" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_3" Text="What do you want of Siberia?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_5" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_6" Text="What do you want of Siberia?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_1" Text="A truce. Siberia needs to breathe." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_2" Text="Peace, for now." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_ANGRY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_HAPPY" Text="Siberia offers this." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_NEUTRAL" Text="A proposal from Omsk." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_HAPPY" Text="Siberia cannot afford that." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_NEUTRAL" Text="Agreed. Siberia has furs and gold enough." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_ANGRY" Text="Siberia pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_HAPPY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_NEUTRAL" Text="Siberia pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_1" Text="Do not threaten the admiral." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_2" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_3" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_1" Text="Russia is one again. The Supreme Ruler lays down his title." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_2" Text="The Reds are broken. Now the hard part." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH" Text="Nikolai Yudenich" />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_PEDIA" Text="Nikolai Nikolayevich Yudenich (1862-1933), the most successful Russian commander of the World War, beat the Ottomans at Sarikamish and took Erzurum in 1916. In 1919 he led the Northwestern Army from Estonia to the suburbs of Petrograd, reaching Pulkovo Heights in October before Trotsky&#x27;s counter-attack threw it back.[NEWLINE][NEWLINE]The army was interned and disbanded in Estonia; Yudenich died in exile in Nice. The separate Northern Region government in Arkhangelsk, under General Miller, fell in February 1920 after the Allies had gone." />
+    <Replace Tag="TXT_KEY_CIV_ENGLAND_DESC" Text="Northern Region and Northwestern Army" />
+    <Replace Tag="TXT_KEY_CIV_ENGLAND_SHORT_DESC" Text="Northern Region" />
+    <Replace Tag="TXT_KEY_CIV_ENGLAND_ADJECTIVE" Text="Northern" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ENGLAND_TEXT" Text="General Yudenich, the north is Murmansk and Arkhangelsk, British battalions, American infantry and a few thousand Russians of the Slavo-British Legion, with the Royal Navy behind you and the taiga in front. The Allies came to guard their war stores and stayed to fight the Bolsheviks.[NEWLINE][NEWLINE]Push down the Dvina and the Murmansk railway towards Vologda and Petrograd, and when the Baltic states break free, raise the Northwestern Army on the Estonian border for the drive on the old capital. The Allies will not stay forever; use them while they are here." />
+    <Replace Tag="TXT_KEY_TRAIT_OCEAN_MOVEMENT_SHORT" Text="Royal Navy Behind Us" />
+    <Replace Tag="TXT_KEY_TRAIT_OCEAN_MOVEMENT" Text="+2 [ICON_MOVES] Movement for all naval units. Influence with city-states degrades at half and recovers at twice the normal rate. The White Sea and the Baltic belong to the Allied fleets." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_6" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_7" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_ATTACKED_1" Text="You attack the Allied North? London and Paris are watching." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_ATTACKED_3" Text="Very well. We will fight." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DECLAREWAR_1" Text="You have chosen the Reds. The Royal Navy will have something to say about it." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DECLAREWAR_2" Text="Then it is war." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_1" Text="The North is lost. We leave by sea, as we came." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_2" Text="Take Arkhangelsk. Russia will remember who sold her." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_3" Text="The army is finished. The cause is not." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DEMANDTRIBUTE_ANGRY" Text="A contribution to the cause." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DEMANDTRIBUTE_HAPPY" Text="Pay, and the Navy stays out of your harbours." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DEMANDTRIBUTE_NEUTRAL" Text="The army needs supplies. You will provide them." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_1" Text="General Yudenich. The Northwestern Army and the Allied Northern Region stand for Russia against the Bolsheviks." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_2" Text="Welcome to Arkhangelsk. Mind the mud." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_3" Text="The North receives you." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_4" Text="General Yudenich. The Northwestern Army and the Allied Northern Region stand for Russia against the Bolsheviks." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_1" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_2" Text="Good luck." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_3" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_4" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_5" Text="Good luck." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_6" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_7" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_2" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_3" Text="What news?" />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_5" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_6" Text="What news?" />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_7" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_7" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_8" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LOSEWAR_1" Text="A truce. We accept." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADEREQUEST_ANGRY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADEREQUEST_HAPPY" Text="The Allies offer this." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADEREQUEST_NEUTRAL" Text="A proposal from the North." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_HAPPY" Text="We cannot." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_NEUTRAL" Text="Agreed. Allied stores for Russian timber." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_NO_HAPPY" Text="The North pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_1" Text="Do not threaten us." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_4" Text="Do not threaten us." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_5" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_6" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_WINWAR_1" Text="Petrograd is free. Russia is whole." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE" Text="Pavlo Skoropadsky" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_PEDIA" Text="Pavlo Skoropadsky (1873-1945), a lieutenant-general of the Imperial Russian army and descendant of an eighteenth-century hetman, was installed as Hetman of the Ukrainian State by a German-backed coup on 29 April 1918. His government minted money, opened universities and shipped grain west; its army and its popularity never caught up.[NEWLINE][NEWLINE]When Germany collapsed in November 1918 Petliura&#x27;s Directory rose against him and he fled to Berlin in a German hospital train. He died in 1945, hit by an Allied bomb in Bavaria." />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_DESC" Text="Ukrainian State" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC" Text="Ukraine" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE" Text="Ukrainian" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ETHIOPIA_TEXT" Text="Hetman Skoropadsky, you rule in Kiev under German bayonets: the richest provinces of the old empire, Odessa, Kharkov, the Donbass and Crimea, a treasury of grain, and an army that exists mostly on paper. In November the Germans will go home and the Directory, the Reds, Denikin and the Poles will all want what you hold.[NEWLINE][NEWLINE]Build a Ukrainian army while the occupation still shields you, decide between the Whites and the Poles, and keep the state alive through the winter of 1919. Nobody will do it for you." />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT" Text="Spirit of the Haidamaks" />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH" Text="+20% [ICON_STRENGTH] Combat Strength against civilizations that have more cities than you." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_1" Text="You attack Ukraine? Every neighbour has tried." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_2" Text="Another enemy. We are used to it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_3" Text="Very well. The haidamaks will answer." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_1" Text="You want Ukrainian grain by force? Come and take it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_2" Text="Then it is war." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_1" Text="Kiev has fallen before and risen before." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_2" Text="Take the cities. The idea of Ukraine does not surrender." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_3" Text="The Hetmanate is finished. Ukraine is not." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_ANGRY" Text="You will provide this." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY" Text="Pay, and keep the peace." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_NEUTRAL" Text="The Hetmanate requires a contribution." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_1" Text="I am Hetman Skoropadsky. Ukraine is a state again, and it will remain one." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_2" Text="Welcome to Kiev. The Germans are our guests, not our masters, whatever you have heard." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_3" Text="The Ukrainian State receives you." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_1" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_2" Text="God be with you." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_3" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_4" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_5" Text="God be with you." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_6" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_2" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_3" Text="What does Ukraine owe this visit to?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_5" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_6" Text="What does Ukraine owe this visit to?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_1" Text="A truce. Ukraine needs time." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_2" Text="Peace, for now." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_ANGRY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_HAPPY" Text="Ukraine offers this." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_NEUTRAL" Text="A proposal from Kiev." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_HAPPY" Text="Ukraine cannot afford that." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_NEUTRAL" Text="Agreed. Grain for guns is the oldest trade in Ukraine." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_HAPPY" Text="Ukraine pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_1" Text="Do not threaten Ukraine." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_1" Text="Ukraine is secure. Now to build it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_2" Text="The enemy is beaten." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR" Text="Jozef Pilsudski" />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_PEDIA" Text="Jozef Pilsudski (1867-1935), socialist conspirator, commander of the Polish Legions and prisoner of the Germans at Magdeburg, returned to Warsaw on 10 November 1918 and became head of state of the reborn republic the next day. He fought the Soviets from February 1919, took Kiev in May 1920, lost it in June and won the Battle of Warsaw in August.[NEWLINE][NEWLINE]The Peace of Riga of 1921 fixed the border he had fought for. He retired, returned by coup in 1926 and ruled Poland until his death." />
+    <Replace Tag="TXT_KEY_CIV_POLAND_DESC" Text="Republic of Poland" />
+    <Replace Tag="TXT_KEY_CIV_POLAND_SHORT_DESC" Text="Poland" />
+    <Replace Tag="TXT_KEY_CIV_POLAND_ADJECTIVE" Text="Polish" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_POLAND_TEXT" Text="Commandant Pilsudski, Poland does not yet exist; it will in November. Until then you have the Regency Council in Warsaw, the legion cadres and the certainty that the German occupation is ending and that neither Berlin nor Moscow will draw your borders for you.[NEWLINE][NEWLINE]Raise the army, hold Lwow, take Wilno and Minsk, decide how far east the border runs and whether to march with Petliura on Kiev, and when the Red Army turns west in the summer of 1920, hold Warsaw." />
+    <Replace Tag="TXT_KEY_TRAIT_SOLIDARITY_SHORT" Text="Miracle on the Vistula" />
+    <Replace Tag="TXT_KEY_TRAIT_SOLIDARITY" Text="Great Generals are earned 50% faster and give nearby units 15% more [ICON_STRENGTH] Combat Strength." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_ATTACKED_1" Text="You attack Poland? Every empire in Europe has tried." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_ATTACKED_2" Text="Another enemy. We have outlasted three partitions." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_ATTACKED_3" Text="Very well. The uhlans will answer." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DECLAREWAR_1" Text="Poland has fought for a hundred and twenty years to exist. One more war is nothing." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DECLAREWAR_2" Text="Then it is war." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DEFEATED_1" Text="Poland has been erased before. It never lasts." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DEFEATED_2" Text="Take Warsaw. You will not keep it." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DEFEATED_3" Text="The republic falls. The nation does not." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DEMANDTRIBUTE_ANGRY" Text="You will provide this." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DEMANDTRIBUTE_HAPPY" Text="Pay, and keep the peace." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DEMANDTRIBUTE_NEUTRAL" Text="The Republic requires a contribution." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_FIRSTGREETING_1" Text="Pilsudski. Poland is back on the map, and she intends to stay there." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_FIRSTGREETING_2" Text="Welcome to Warsaw. Yesterday it was a German garrison town." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_FIRSTGREETING_3" Text="The Republic of Poland receives you." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_1" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_2" Text="God keep you." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_3" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_4" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_5" Text="God keep you." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_6" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GREETING_2" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GREETING_3" Text="What does Poland owe this visit to?" />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GREETING_5" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GREETING_6" Text="What does Poland owe this visit to?" />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_LOSEWAR_1" Text="A truce. Poland needs time." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_LOSEWAR_2" Text="Peace, for now." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADEREQUEST_ANGRY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADEREQUEST_HAPPY" Text="Poland offers this." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADEREQUEST_NEUTRAL" Text="A proposal from Warsaw." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NO_HAPPY" Text="Poland cannot afford that." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_NO_HAPPY" Text="Poland pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_WARBLUFF_1" Text="Do not threaten Poland." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_WINWAR_1" Text="Poland is secure. The border is where we drew it." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_WINWAR_2" Text="Victory. Now to build the state." />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_FINLAND" Text="Finland" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_FINLAND" Text="Helsinki" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_ESTONIA" Text="Estonia" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_ESTONIA" Text="Reval" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_LATVIA" Text="Latvia" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_LATVIA" Text="Riga" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_LITHUANIA" Text="Lithuania" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_LITHUANIA" Text="Vilna" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_GERMANY" Text="Germany (Ober Ost)" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_GERMANY" Text="Konigsberg" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_ROMANIA" Text="Romania" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_ROMANIA" Text="Kishinev" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_GEORGIA" Text="Georgia" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_GEORGIA" Text="Tiflis" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_AZERBAIJAN" Text="Azerbaijan" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_AZERBAIJAN" Text="Baku" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_ARMENIA" Text="Armenia" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_ARMENIA" Text="Erivan" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_OTTOMAN" Text="Ottoman Empire" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_OTTOMAN" Text="Kars" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_PERSIA" Text="Persia" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_PERSIA" Text="Tabriz" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_BUKHARA" Text="Emirate of Bukhara" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_BUKHARA" Text="Bukhara" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_KHIVA" Text="Khanate of Khiva" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_KHIVA" Text="Khiva" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_VSEVOBUCH_TITLE" Text="Compulsory military service" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_VSEVOBUCH_TEXT" Text="The Central Executive Committee abolishes the volunteer principle: workers and peasants of the central provinces are called up by decree, and the Red Guards become the Red Army. Moscow receives three rifle divisions and 500 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_LATVIANS_TITLE" Text="The Latvian Riflemen" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_LATVIANS_TEXT" Text="The most disciplined regiments of the old army put down the Left SR rising in Moscow and become the backbone of the Red Army. Two veteran divisions join in Moscow." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_SVIYAZHSK_TITLE" Text="Trotsky&#x27;s train at Sviyazhsk" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_SVIYAZHSK_TEXT" Text="The People&#x27;s Commissar for War arrives on the Kazan front in his armoured train, shoots deserters and commissars alike and turns a rout into an army. A Great General and an armoured train appear at Kazan." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_BREST_TITLE" Text="Brest-Litovsk annulled" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_BREST_TEXT" Text="Germany has surrendered in the west. The Soviet government tears up the Brest-Litovsk treaty and claims everything the Germans are leaving behind. The RSFSR receives 1000 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_UKRWAR_TITLE" Text="The Ukrainian Soviet offensive" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_UKRWAR_TEXT" Text="With the Germans gone, the Ukrainian Soviet Government in Kursk proclaims itself and the Red Army crosses the border. The RSFSR is at war with the Ukrainian State." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_KONARMIYA_TITLE" Text="The First Cavalry Army" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_KONARMIYA_TEXT" Text="Budyonny&#x27;s cavalry corps becomes an army: four divisions of horsemen with tachankas and armoured cars, the answer to the Cossack raids. They muster at Voronezh." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_NEP_TITLE" Text="The New Economic Policy" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_NEP_TEXT" Text="The Tenth Party Congress replaces grain requisitioning with a tax in kind and lets the markets reopen. The country begins to breathe. The RSFSR receives 1500 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_MOBILIZATION_TITLE" Text="Mobilisation" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_MOBILIZATION_TEXT" Text="Another call-up of the central provinces: two rifle divisions muster in Moscow and a regiment of Petrograd workers takes up arms." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_KUBAN_TITLE" Text="The Second Kuban Campaign" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_KUBAN_TEXT" Text="Denikin leads the Volunteer Army out of the Don steppe against the Red North Caucasus. Two Volunteer regiments and two Don Cossack regiments join at Novocherkassk." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_AFSR_TITLE" Text="The Armed Forces of South Russia" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_AFSR_TEXT" Text="The Don Army submits to Denikin&#x27;s command: Volunteers, Don and Kuban Cossacks under one staff. The South receives 1000 gold and a Great General." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_BRITISH_TITLE" Text="British tanks at Novorossiysk" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_BRITISH_TEXT" Text="The first Mark V tanks and RAF squadrons are unloaded in Novorossiysk with uniforms for a hundred thousand men. The South receives two tanks, two squadrons and 1500 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_MOSCOW_DIRECTIVE_TITLE" Text="The Moscow Directive" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_MOSCOW_DIRECTIVE_TEXT" Text="From Tsaritsyn Denikin orders the march on Moscow on three axes. Fresh Volunteer regiments and Kuban cavalry muster at Kharkov, or at the capital if Kharkov is not held." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_MAMONTOV_TITLE" Text="Mamontov&#x27;s raid" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_MAMONTOV_TEXT" Text="Six thousand Don Cossacks break through the Red front and ride for Tambov and Voronezh, wrecking the railways behind the Red armies. Three cavalry regiments appear at Novocherkassk." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_WRANGEL_TITLE" Text="Wrangel takes command" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_WRANGEL_TEXT" Text="After the Novorossiysk disaster Denikin resigns and Baron Wrangel reorganises the remnant in Crimea as the Russian Army. The South receives 800 gold and two regiments at Sevastopol." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_ENTENTE_TITLE" Text="Allied supplies" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_ENTENTE_TEXT" Text="Another convoy of British and French stores reaches the Black Sea ports. The South receives 600 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_KOMUCH_TITLE" Text="Komuch in Samara" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_KOMUCH_TEXT" Text="Members of the dispersed Constituent Assembly proclaim a government in Samara under Czech protection and begin raising the People&#x27;s Army. Siberia receives three regiments and 500 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_KOLCHAK_TITLE" Text="Supreme Ruler" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_KOLCHAK_TEXT" Text="A coup in Omsk sweeps away the Directory and makes Admiral Kolchak Supreme Ruler of Russia. Siberia receives 1500 gold and a Great General." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_ENTENTE_TITLE" Text="British supplies via Vladivostok" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_ENTENTE_TEXT" Text="Trains of British rifles, guns and uniforms reach Omsk from the Pacific. Siberia receives 2000 gold, two batteries and two machine-gun companies." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_SPRING_TITLE" Text="The spring offensive" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_SPRING_TEXT" Text="Kolchak&#x27;s Western Army breaks the Red front and drives for the Volga. Fresh regiments and Orenburg Cossacks muster at Ufa, or at the capital if Ufa is lost." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_ENTENTE2_TITLE" Text="Allied recognition" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_ENTENTE2_TEXT" Text="The Allied powers promise to recognise the Omsk government in exchange for democratic guarantees. Siberia receives 1500 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_VLADIVOSTOK_TITLE" Text="The Trans-Siberian lifeline" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_VLADIVOSTOK_TEXT" Text="Another supply train arrives from Vladivostok after a month on the rails. Siberia receives 400 gold and a regiment at Omsk." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_ARKHANGELSK_TITLE" Text="The Allied landing at Arkhangelsk" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_ARKHANGELSK_TEXT" Text="British, French and American troops land at Arkhangelsk as the local Soviet flees; the Supreme Administration of the Northern Region takes office. The North receives three battalions, a battery, a destroyer and 1000 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_US_TITLE" Text="The Polar Bears" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_US_TEXT" Text="The 339th Infantry Regiment from Michigan arrives in Arkhangelsk and is sent up the Dvina. Two battalions join the North." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_NWCORPS_TITLE" Text="The Northern Corps" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_NWCORPS_TEXT" Text="Russian volunteers in Estonia form a corps under Rodzianko and strike at Yamburg and Pskov. Three regiments, a cavalry regiment and a Great General appear at Reval." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_EVACUATION_TITLE" Text="The Allies leave" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_EVACUATION_TEXT" Text="London has had enough: the last British and American troops sail from Arkhangelsk, leaving General Miller&#x27;s Russians to hold the North alone. Up to five Allied units withdraw and the North loses 500 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_PETROGRAD_TITLE" Text="Yudenich marches on Petrograd" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_PETROGRAD_TEXT" Text="The Northwestern Army, with British tanks and Estonian support, drives for Petrograd and reaches Pulkovo Heights. Three regiments and a tank appear at Reval; the North receives 800 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_ARMISTICE_TITLE" Text="The Germans go home" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_ARMISTICE_TEXT" Text="The armistice at Compiegne ends the war in the west, and the German divisions start boarding trains for home. The Hetman&#x27;s protection is gone, Petliura&#x27;s Directory rises at Belaya Tserkov. German garrisons leave, insurgents appear at Vinnitsa, the treasury loses 500 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_DIRECTORY_TITLE" Text="The Directory enters Kiev" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_DIRECTORY_TEXT" Text="Skoropadsky abdicates and leaves with the Germans; the Sich Riflemen bring Petliura&#x27;s Directory into Kiev. Two regiments of Sich Riflemen join the Ukrainian army." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_ZLUKA_TITLE" Text="The Act of Unity" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_ZLUKA_TEXT" Text="The West Ukrainian People&#x27;s Republic unites with the Directory on St Sophia Square. Two regiments of the Galician Army join at Tarnopol." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_WARSAW_TITLE" Text="The Warsaw agreement" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_WARSAW_TEXT" Text="Petliura cedes Galicia and Volhynia to Poland in exchange for an alliance against the Reds. Ukraine and Poland become friends; Ukraine receives 500 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_INDEPENDENCE_TITLE" Text="Poland reborn" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_INDEPENDENCE_TEXT" Text="Pilsudski returns from Magdeburg, the Regency Council hands him the army and the Germans leave Warsaw. Poland receives three regiments and 1500 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_WAR_TITLE" Text="Bereza Kartuska" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_WAR_TEXT" Text="Polish and Soviet troops meet in the former German zone and fire the first shots of the Polish-Soviet War. Poland is at war with the RSFSR." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_HALLER_TITLE" Text="The Blue Army" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_HALLER_TEXT" Text="General Haller&#x27;s army, raised in France and equipped by the French, arrives by rail with tanks, aircraft and seventy thousand men. Poland receives four veteran regiments, two batteries and a squadron." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_GREATER_POLAND_TITLE" Text="The Greater Poland Army" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_GREATER_POLAND_TEXT" Text="The uprising in Poznan has won; its army joins the republic. Two regiments muster at Lodz." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_KIEV_TITLE" Text="The Kiev offensive" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_KIEV_TEXT" Text="Pilsudski and Petliura march on Kiev. Uhlans and infantry muster at Lwow; Poland receives 800 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_VOLUNTEERS_TITLE" Text="The Volunteer Army" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_VOLUNTEERS_TEXT" Text="With the Red Army at the Vistula, a hundred thousand volunteers enlist in a month. Three regiments and two cavalry regiments muster at Warsaw; Poland receives 1000 gold." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_BARB_GRIGORIEV_TITLE" Text="Grigoriev&#x27;s mutiny" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_BARB_GRIGORIEV_TEXT" Text="Ataman Grigoriev, who has already served the Hetman, Petliura and the Reds, turns on the Reds and loots the Kherson province. Insurgent bands appear around Elisavetgrad." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_BARB_TAMBOV_TITLE" Text="The Tambov rising" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_BARB_TAMBOV_TEXT" Text="Antonov&#x27;s peasants rise against grain requisitioning and raise an army of tens of thousands in the Tambov province. Partisan bands appear around Tambov." />
+    <Replace Tag="TXT_KEY_RUS1918_SIDE_RED" Text="Russian SFSR" />
+    <Replace Tag="TXT_KEY_RUS1918_SIDE_SOUTH" Text="White South" />
+    <Replace Tag="TXT_KEY_RUS1918_SIDE_SIB" Text="Siberia" />
+    <Replace Tag="TXT_KEY_RUS1918_SIDE_NORTH" Text="Northern Region" />
+    <Replace Tag="TXT_KEY_RUS1918_SIDE_UKR" Text="Ukrainian State" />
+    <Replace Tag="TXT_KEY_RUS1918_SIDE_POL" Text="Poland" />
+    <Replace Tag="TXT_KEY_RUS1918_SIDE_BARB" Text="Insurgents" />
+    <Replace Tag="TXT_KEY_RUS1918_WEEK" Text="Week {1_Num}" />
+    <Replace Tag="TXT_KEY_RUS1918_WEEK_TT" Text="Week {1_Num} of the Civil War, counted from 1 June 1918" />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_TACHANKA" Text="Tachanka" />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_TACHANKA_HELP" Text="Soviet replacement for the Gatling Gun. 3 [ICON_MOVES] Movement instead of 2." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_TACHANKA_STRATEGY" Text="The Tachanka is a machine gun on a horse cart: as strong as a Gatling Gun and a third faster. Bring it up behind the cavalry and the infantry to hold what they take." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_TACHANKA_TEXT" Text="The tachanka was a light sprung cart drawn by two to four horses, with a Maxim machine gun mounted to fire over the back. It became the emblem of the mobile war in the steppe: Nestor Makhno&#x27;s insurgent army in southern Ukraine made it famous, and the Red cavalry took it up in numbers, Budyonny&#x27;s First Cavalry Army above all. A tachanka could keep pace with the horsemen, wheel round and open fire in moments." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_COLOURED" Text="Coloured Regiment" />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_COLOURED_HELP" Text="White South replacement for the Great War Infantry. 54 [ICON_STRENGTH] Combat Strength instead of 50 and the Shock I promotion; 10% more expensive." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_COLOURED_STRATEGY" Text="The Coloured Regiments are the shock troops of the Volunteer Army: stronger and dearer than ordinary infantry. Lead every attack with them and leave the line to the Cossacks and the mobilised." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_COLOURED_TEXT" Text="The Kornilov, Markov, Drozdovsky and Alekseev regiments of the Volunteer Army were called the coloured units after the distinctive colours of their caps and shoulder boards. They were raised in 1917 and 1918 largely from officers serving in the ranks: the Kornilov Shock Regiment dated from the summer of 1917, Markov&#x27;s Officer Regiment fought through the Ice March of 1918, and Drozdovsky&#x27;s brigade marched some 1,200 km from the Romanian front to the Don that spring. Expanded into divisions, they led the 1919 drive on Moscow, and the Kornilov division took Oryol in October." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_ARMOURED_TRAIN" Text="Armoured Train" />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_ARMOURED_TRAIN_HELP" Text="Siberian replacement for the Artillery. 30 [ICON_STRENGTH] Combat Strength instead of 21 and 3 [ICON_MOVES] Movement instead of 2; 10% more expensive." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_ARMOURED_TRAIN_STRATEGY" Text="The Armoured Train hits as hard as Artillery, defends itself better and moves faster. Use it to shell the enemy from behind the infantry, and move it along the railway to where the front breaks." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_ARMOURED_TRAIN_TEXT" Text="In May 1918 the Czechoslovak Legion, some forty thousand former Austro-Hungarian soldiers strung out along the Trans-Siberian on their way to Vladivostok, rose against the Soviets and within weeks held the railway from the Volga to the Pacific. Its war was fought along the line, and its spearheads were armoured trains: some improvised in the railway workshops from flatcars, sandbags and boiler plate, some captured from the Red Guards. The best known, Orlik, had begun life in 1916 as the Russian army&#x27;s Zaamurets." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_MARK_V" Text="Mark V Tank" />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_MARK_V_HELP" Text="Northern Region replacement for the Landship. 65 [ICON_STRENGTH] Combat Strength instead of 60, but 3 [ICON_MOVES] Movement instead of 4." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_MARK_V_STRATEGY" Text="The Mark V is a slow, heavy tank that breaks a line the infantry cannot. Send it against entrenched positions and towns, with infantry beside it." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_MARK_V_TEXT" Text="The Mark V, the last of the British rhomboid heavy tanks of the World War, entered service in 1918; it was the first that one driver could steer alone. In 1919 Britain shipped tanks with instructors to the White armies: most went to the south through Novorossiysk, and a small detachment went to Yudenich&#x27;s Northwestern Army in Estonia, whose tanks joined its October advance on Petrograd." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_SERDIUK" Text="Serdiuk Division" />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_SERDIUK_HELP" Text="Ukrainian replacement for the Great War Infantry. 52 [ICON_STRENGTH] Combat Strength instead of 50 and the Cover I promotion (+25% defence against ranged attacks); a little more expensive (340 [ICON_PRODUCTION])." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_SERDIUK_STRATEGY" Text="The Serdiuk Division is a guard infantry that holds well under shelling. Put it in the cities and on the lines the enemy artillery will hit first." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_SERDIUK_TEXT" Text="The Serdiuk Division was the guard of the Hetman, raised in the summer of 1918 from the sons of land-owning peasants of the Left-Bank governorates and named after the Cossack guard of the old hetmans. It was one of the best equipped formations of the Ukrainian State, some five thousand strong. When the Directory rose against the Hetman in November 1918, much of it went over to the insurgents." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_UHLAN" Text="Uhlans" />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_UHLAN_HELP" Text="Polish replacement for the Lancer. 32 [ICON_STRENGTH] Combat Strength instead of 25; a little more expensive (200 [ICON_PRODUCTION])." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_UHLAN_STRATEGY" Text="The Uhlans are the Polish cavalry: fast and strong for horsemen, but no match for entrenched infantry. Use them to raid, to pursue and to hit the enemy where the line is thin." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_UHLAN_TEXT" Text="The uhlan regiments of the reborn Polish Army were raised from 1918 from the Legions, from Polish units of the three partitioning armies and from volunteers, and they kept the lance and the traditions of the Polish cavalry. In the war of 1920 they fought the Soviet cavalry on its own terms: at Komarow on 31 August 1920 Polish cavalry defeated Budyonny&#x27;s First Cavalry Army in one of the last great cavalry battles in Europe." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_VOENKOMAT" Text="Military Commissariat" />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_VOENKOMAT_HELP" Text="Soviet replacement for the Barracks. +15% [ICON_PRODUCTION] Production of land units as well, and no maintenance." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_VOENKOMAT_STRATEGY" Text="The Military Commissariat trains new units like Barracks and raises them faster. Build it in every city that sends men to the front." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_VOENKOMAT_TEXT" Text="A decree of the Council of People&#x27;s Commissars of 8 April 1918 set up military commissariats in every volost, uezd, governorate and military district. They registered the men liable for service, carried out the mobilisations that followed the decree on compulsory service of 29 May 1918, and turned the volunteer Red Army into a conscript army of millions." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_STANITSA" Text="Cossack Stanitsa" />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_STANITSA_HELP" Text="White South replacement for the Stable. Mounted units built here get +15 XP, and no maintenance." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_STANITSA_STRATEGY" Text="The Cossack Stanitsa trains horsemen who start their war already promoted. Build it in the Don and Kuban towns with horses nearby." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_STANITSA_TEXT" Text="The stanitsa was the self-governing village of the Cossack hosts, whose men owed the state military service with their own horse and equipment in exchange for their land. The Don and Kuban stanitsas rose against the Soviets in the spring of 1918 and gave the White South the bulk of its cavalry; Krasnov&#x27;s Don Army and the Kuban regiments fought beside the Volunteers to the end of the war." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_RAILWAY_WORKSHOPS" Text="Railway Workshops" />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_RAILWAY_WORKSHOPS_HELP" Text="Siberian replacement for the Workshop. +3 [ICON_PRODUCTION] Production instead of +2, and 1 [ICON_GOLD] maintenance instead of 2." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_RAILWAY_WORKSHOPS_STRATEGY" Text="The Railway Workshops are the industry of Siberia. Build them in the towns along the Trans-Siberian." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_RAILWAY_WORKSHOPS_TEXT" Text="Along the Trans-Siberian the railway workshops at Omsk, Krasnoyarsk, Irkutsk and the other division points were the largest industrial plants east of the Urals. In 1918 and 1919 they kept the locomotives running, repaired the rolling stock and fitted out the armoured trains of the Czechoslovaks and the Siberian army." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_SUPPLY_BASE" Text="Allied Supply Base" />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_SUPPLY_BASE_HELP" Text="Northern Region replacement for the Seaport. +2 [ICON_PRODUCTION] Production as well, and cheaper (200 [ICON_PRODUCTION] instead of 250)." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_SUPPLY_BASE_STRATEGY" Text="The Allied Supply Base turns a harbour into a depot for Allied munitions. Build it in Arkhangelsk and Murmansk first." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_SUPPLY_BASE_TEXT" Text="The Allies first came to Murmansk and Arkhangelsk to guard the war stores they had shipped to Russia since 1914, a great mass of munitions, metal and equipment piled on the quays. From 1918 the two ports became the bases of the Allied intervention in the north, and through them came the guns, uniforms and food of the Northern Region&#x27;s army until the Allies left in the autumn of 1919." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_SUGAR_MILL" Text="Sugar Refinery" />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_SUGAR_MILL_HELP" Text="Ukrainian replacement for the Windmill. +2 [ICON_GOLD] Gold as well." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_SUGAR_MILL_STRATEGY" Text="The Sugar Refinery adds gold to the production of a Windmill. Build it in the farming towns of the Right Bank and the Left Bank." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_SUGAR_MILL_TEXT" Text="Before the World War the sugar mills of the Ukrainian governorates, about two hundred of them on the beet fields of Kiev, Podolia, Volhynia, Kharkov and Poltava, made some four fifths of the sugar of the Russian Empire. The industry made the fortunes of the Tereshchenko, Brodsky and Kharitonenko families and was one of the riches of the Ukrainian State." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_OFFICER_SCHOOL" Text="Officer School" />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_OFFICER_SCHOOL_HELP" Text="Polish replacement for the Military Academy. Needs no Armory, costs a third less (200 [ICON_PRODUCTION]) and has no maintenance." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_OFFICER_SCHOOL_STRATEGY" Text="The Officer School gives new units the experience of a Military Academy in any city. Build it early where the army is raised." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_OFFICER_SCHOOL_TEXT" Text="The Polish Army of 1918 had to make one officer corps out of men of the Legions and of the Austrian, Russian and German armies, with different drill, languages of command and habits. Officer schools opened in Warsaw and other cities from the first months of independence, and short courses turned out the thousands of junior officers the army needed for the wars of 1919 and 1920." />
+  </Language_en_US>
+  <Language_RU_RU>
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE" Text="Владимир Ленин" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_PEDIA" Text="Владимир Ильич Ульянов, Ленин (1870-1924), возглавил большевистский захват власти в октябре 1917 года и председательствовал в Совнаркоме всю Гражданскую войну. Он подписал Брестский мир, чтобы спасти революцию, вместе с Троцким построил Красную армию и удержал центр, пока отпадали все окраины.[NEWLINE][NEWLINE]К 1921 году его правительство разбило белых, проиграло войну Польше и получило страну в руинах; ответом стала новая экономическая политика. В 1922 году его разбил первый инсульт, в январе 1924-го он умер." />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_DESC" Text="Российская Социалистическая Федеративная Советская Республика" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_SHORT_DESC" Text="РСФСР" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_ADJECTIVE" Text="Советский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_RUSSIA_TEXT" Text="Владимир Ильич, революция держит Москву, Петроград и сердце страны, и больше ничего не ясно. Чехословацкий корпус за две недели захватил Транссиб, Дон восстал, немцы сидят в Киеве при гетмане собственного выбора, а союзники высаживаются на севере.[NEWLINE][NEWLINE]У вас есть то, чего нет у белых: железные дороги, арсеналы и людские резервы центральной России. Удержите Волгу, превратите Красную гвардию в армию и бейте фронты по одному, пока они не соединились. Белых много, но они далеко друг от друга." />
+    <Replace Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES_SHORT" Text="Арсенал революции" />
+    <Replace Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES" Text="Лошади и железо дают удвоенное количество, а клетки со стратегическими ресурсами +1 [ICON_PRODUCTION] производства. Заводы Петрограда, Тулы и Урала вооружают Красную армию." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_1" Text="Согласны." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_4" Text="Согласны." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_6" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_7" Text="Согласны." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_1" Text="Вы напали на Советскую республику? Узнаете, на что способен вооружённый народ." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_2" Text="Мировая буржуазия присылает очередного наёмника. Мы бивали и получше." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_3" Text="Хорошо. Вас будут судить рабочие вашей же страны." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_4" Text="Москву вы не возьмёте. Москву не берёт никто." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_1" Text="Революция будет защищаться. Вы выбрали не ту сторону истории." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_2" Text="Тогда это решит Красная армия." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_3" Text="Пусть так. Теперь каждый рабочий солдат." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_1" Text="Вы выиграли сражение у истории. Последнее слово останется за историей." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_2" Text="Берите города. Идея не сдаётся." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_3" Text="Революция не кончилась. Она лишь сменила адрес." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_ANGRY" Text="Республика требует этого." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_HAPPY" Text="Платите, и мы забудем ваше прошлое." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_NEUTRAL" Text="Взнос в дело революции, авансом." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_2" Text="Исключено." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_3" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_5" Text="Исключено." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_6" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_1" Text="Я Ленин. Совет народных комиссаров говорит от имени рабочих и крестьян России. От чьего имени говорите вы?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_2" Text="Добро пожаловать в Москву. Старого порядка больше нет, вы говорите с тем, что пришло ему на смену." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_3" Text="Советская республика принимает вас. Коротко, идёт война." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_1" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_2" Text="У нас много работы." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_3" Text="До свидания." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_4" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_5" Text="У нас много работы." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_6" Text="До свидания." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_7" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_8" Text="У нас много работы." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_1" Text="Товарищ?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_2" Text="Да. В чём дело?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_3" Text="Советское правительство слушает." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_4" Text="Товарищ?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_5" Text="Да. В чём дело?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_6" Text="Советское правительство слушает." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_7" Text="Товарищ?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_2" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_5" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_6" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_7" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_1" Text="Передышка. Мы согласны." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_2" Text="Мир, пока что. Брест научил нас терпению." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_3" Text="Пусть орудия отдохнут. Они ещё понадобятся." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_ANGRY" Text="Рассмотрите." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_HAPPY" Text="Дело, ничего больше." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_NEUTRAL" Text="Предложение советского правительства. Чисто практическое." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_ANGRY" Text="Не можем." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_HAPPY" Text="Неприемлемо." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_NEUTRAL" Text="Нет. Республика не лавка." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_ANGRY" Text="Договорились." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_HAPPY" Text="Да. Хлебу и железу идеология безразлична." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_NEUTRAL" Text="Согласны. Республика держит слово, что бы ни говорили в Париже." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_ANGRY" Text="Республика никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_HAPPY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_NEUTRAL" Text="Республика никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_ANGRY" Text="Берите. Это дешевле войны." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_NEUTRAL" Text="Берите. Это дешевле войны." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_1" Text="Угрозы? Антанта грозит нам ежедневно." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_2" Text="Не испытывайте Красную армию." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_3" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_4" Text="Угрозы? Антанта грозит нам ежедневно." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_5" Text="Не испытывайте Красную армию." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WINWAR_1" Text="Контрреволюция разбита. Теперь строить." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK" Text="Антон Деникин" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_PEDIA" Text="Антон Иванович Деникин (1872-1947), генерал из крестьян, принял Добровольческую армию после гибели Корнилова в апреле 1918 года, а с января 1919-го Вооружённые силы Юга России. Его наступление 1919 года дошло до Орла, в трёхстах километрах от Москвы, пока красная конница и растянутые тылы не сломали его.[NEWLINE][NEWLINE]После новороссийской эвакуации в марте 1920 года он передал командование Врангелю и провёл остаток жизни в эмиграции, написав пятитомные «Очерки русской смуты» и отказавшись служить немцам в 1941 году." />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_DESC" Text="Вооружённые силы Юга России" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_SHORT_DESC" Text="Белый Юг" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_ADJECTIVE" Text="Белый" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_GERMANY_TEXT" Text="Генерал Деникин, Добровольческая армия это девять тысяч офицеров, юнкеров и студентов в донской степи, а донские казаки атамана Краснова держат Новочеркасск и Ростов с немецкого благословения. Кубань красная, Царицын красный, а между вами и сибиряками вся Волга.[NEWLINE][NEWLINE]Ваши солдаты лучшие в России, и их не хватает. Возьмите Екатеринодар и Кубань, приведите казачьи войска под свою руку, откройте черноморские порты британским танкам и идите на Москву, пока красные не научились воевать." />
+    <Replace Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS_SHORT" Text="Офицерская армия" />
+    <Replace Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS" Text="Когда сухопутный юнит побеждает варваров в лагере, с вероятностью 67% они переходят в вашу армию. Содержание сухопутных юнитов дешевле на 25%." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_6" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_7" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_1" Text="Вы напали на офицеров русской армии? Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_2" Text="Ещё один враг. Россия переживала и худшее." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_3" Text="Хорошо. Добровольцы не отступают без боя." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_1" Text="Значит, война. Мы воюем с семнадцатого года и так." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_2" Text="Вы выбрали сторону большевиков. Разделите их судьбу." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_3" Text="Пусть так." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_1" Text="Армия разбита. Россия нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_2" Text="Берите Дон. Дело живёт в изгнании." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_3" Text="Мы уходим так же, как пришли: с честью." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_4" Text="Армия разбита. Россия нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_ANGRY" Text="Взнос в русское дело." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_HAPPY" Text="Платите, или объясняйтесь с моими казаками." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_NEUTRAL" Text="Армии нужны сапоги и снаряды. Вы их дадите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_3" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_6" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_1" Text="Генерал Деникин. Я говорю от имени России единой и неделимой; люди в Москве говорят от имени партии." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_2" Text="Добро пожаловать на Дон. Здесь Россия всё ещё Россия." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_3" Text="Вооружённые силы Юга России принимают вас." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_1" Text="С Богом." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_2" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_3" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_4" Text="С Богом." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_5" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_6" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_7" Text="С Богом." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_2" Text="Что привело вас на Дон?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_3" Text="Говорите, у меня фронт." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_5" Text="Что привело вас на Дон?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_6" Text="Говорите, у меня фронт." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_3" Text="Прошу." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_6" Text="Прошу." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_7" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_8" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_1" Text="Перемирие. Нам нужно вздохнуть." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_2" Text="Мир, пока что." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_3" Text="Согласен, с тяжёлым сердцем." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_ANGRY" Text="Рассмотрите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_HAPPY" Text="Россия предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_NEUTRAL" Text="Предложение с Юга. Мы честные партнёры." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_HAPPY" Text="Мы не можем это принять." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_ANGRY" Text="Приемлемо." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_NEUTRAL" Text="Согласен. Россия платит по долгам." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_ANGRY" Text="Добровольческая армия дани не платит." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_HAPPY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_NEUTRAL" Text="Добровольческая армия дани не платит." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_ANGRY" Text="Берите и оставьте нас красным." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_NEUTRAL" Text="Берите и оставьте нас красным." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_1" Text="Не угрожайте русским офицерам." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_2" Text="Вы не посмеете." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_3" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_4" Text="Не угрожайте русским офицерам." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_5" Text="Вы не посмеете." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_6" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_1" Text="Россия снова едина. Теперь лечить её." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_2" Text="С красными покончено. Слава Богу." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_3" Text="Россия снова едина. Теперь лечить её." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO" Text="Александр Колчак" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_PEDIA" Text="Александр Васильевич Колчак (1874-1920), полярный исследователь и командующий Черноморским флотом, стал Верховным правителем России после переворота в Омске 18 ноября 1918 года. Весной 1919-го его армии вышли к Волге у Казани и Самары, а затем покатились на восток вдоль Транссиба.[NEWLINE][NEWLINE]Брошенный Чехословацким корпусом и выданный иркутским повстанцам, он был расстрелян 7 февраля 1920 года, а тело спущено под лёд Ангары." />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_DESC" Text="Временное Всероссийское правительство" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_SHORT_DESC" Text="Сибирь" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_ADJECTIVE" Text="Сибирский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_SHOSHONE_TEXT" Text="Адмирал Колчак, от Самары до Иркутска Чехословацкий корпус за две недели сбросил Советы с Транссиба. Комуч сидит в Самаре со своей Народной армией, Сибирское правительство в Омске, оренбургские и уральские казаки стерегут степь, а в ноябре генералы сделают вас Верховным правителем.[NEWLINE][NEWLINE]Ваша земля бескрайняя и пустая, ваша армия это железная дорога и несколько полков, снабжение идёт из Владивостока за восемь тысяч вёрст. Возьмите волжские переправы, соединитесь с Доном и приведите Верховного правителя в Москву до зимы." />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE_SHORT" Text="Бескрайняя Сибирь" />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE" Text="Сухопутные юниты получают +15% [ICON_STRENGTH] боевой силы на своей территории и проходят леса на своей территории как по дороге. Тайга знакома сибирякам." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_1" Text="Вы напали на законное правительство России. Ответите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_2" Text="Ещё один враг. В тайге места хватит всем." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_3" Text="Моряк не спускает флага. Будем драться." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_1" Text="Вы на стороне большевиков. Значит, вы мой враг." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_2" Text="Хорошо. Сибирь глотала армии и раньше." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_3" Text="Пусть так." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_1" Text="Сибирь потеряна. Россия не кончилась." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_2" Text="Берите Омск. Удержать его будет труднее." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_3" Text="Я исполнил свой долг. Исполняйте свой." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_ANGRY" Text="Вы это дадите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_HAPPY" Text="Платите и оставьте себе железную дорогу." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_NEUTRAL" Text="Верховный правитель требует взнос." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_3" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_6" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_1" Text="Адмирал Колчак, Верховный правитель России. Столица в Омске, пока не освобождена Москва." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_2" Text="Добро пожаловать в Сибирь. Она больше, чем вы думаете." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_3" Text="Всероссийское правительство принимает вас." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_1" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_2" Text="Храни вас Бог." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_3" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_4" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_5" Text="Храни вас Бог." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_6" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_2" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_3" Text="Что вам нужно от Сибири?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_5" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_6" Text="Что вам нужно от Сибири?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_3" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_1" Text="Перемирие. Сибири надо вздохнуть." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_2" Text="Мир, пока что." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_ANGRY" Text="Рассмотрите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_HAPPY" Text="Сибирь предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_NEUTRAL" Text="Предложение из Омска." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_HAPPY" Text="Сибирь не может себе этого позволить." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_ANGRY" Text="Договорились." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_NEUTRAL" Text="Согласен. Мехов и золота в Сибири хватает." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_ANGRY" Text="Сибирь никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_HAPPY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_NEUTRAL" Text="Сибирь никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_ANGRY" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_NEUTRAL" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_1" Text="Не угрожайте адмиралу." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_2" Text="Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_3" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_1" Text="Россия снова едина. Верховный правитель слагает полномочия." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_2" Text="Красные разбиты. Теперь самое трудное." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH" Text="Николай Юденич" />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_PEDIA" Text="Николай Николаевич Юденич (1862-1933), самый успешный русский полководец мировой войны, разбил турок под Сарыкамышем и взял Эрзурум в 1916 году. В 1919-м он провёл Северо-Западную армию из Эстонии до пригородов Петрограда, выйдя в октябре на Пулковские высоты, пока контрудар Троцкого не отбросил её.[NEWLINE][NEWLINE]Армия была интернирована и распущена в Эстонии; Юденич умер в эмиграции в Ницце. Отдельное правительство Северной области в Архангельске под генералом Миллером пало в феврале 1920 года после ухода союзников." />
+    <Replace Tag="TXT_KEY_CIV_ENGLAND_DESC" Text="Северная область и Северо-Западная армия" />
+    <Replace Tag="TXT_KEY_CIV_ENGLAND_SHORT_DESC" Text="Северная область" />
+    <Replace Tag="TXT_KEY_CIV_ENGLAND_ADJECTIVE" Text="Северный" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ENGLAND_TEXT" Text="Генерал Юденич, Север это Мурманск и Архангельск, британские батальоны, американская пехота и несколько тысяч русских Славяно-британского легиона, за спиной Королевский флот, впереди тайга. Союзники пришли охранять свои военные склады и остались воевать с большевиками.[NEWLINE][NEWLINE]Наступайте по Двине и Мурманской дороге на Вологду и Петроград, а когда прибалтийские государства вырвутся на волю, поднимите на эстонской границе Северо-Западную армию для броска на старую столицу. Союзники не останутся навсегда; используйте их, пока они здесь." />
+    <Replace Tag="TXT_KEY_TRAIT_OCEAN_MOVEMENT_SHORT" Text="За нами Королевский флот" />
+    <Replace Tag="TXT_KEY_TRAIT_OCEAN_MOVEMENT" Text="+2 [ICON_MOVES] к передвижению всех морских юнитов. Влияние на города-государства падает вдвое медленнее и восстанавливается вдвое быстрее. Белое море и Балтика принадлежат союзным флотам." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_6" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_AGREE_SHORT_7" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_ATTACKED_1" Text="Вы напали на союзный Север? Лондон и Париж смотрят." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_ATTACKED_3" Text="Хорошо. Будем драться." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DECLAREWAR_1" Text="Вы выбрали красных. Королевскому флоту будет что сказать на это." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DECLAREWAR_2" Text="Значит, война." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DECLAREWAR_3" Text="Пусть так." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_1" Text="Север потерян. Уходим морем, как и пришли." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_2" Text="Берите Архангельск. Россия запомнит, кто её продал." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DEFEATED_3" Text="Армии конец. Делу нет." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DEMANDTRIBUTE_ANGRY" Text="Взнос в общее дело." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DEMANDTRIBUTE_HAPPY" Text="Платите, и флот не войдёт в ваши гавани." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DEMANDTRIBUTE_NEUTRAL" Text="Армии нужно снабжение. Вы его дадите." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_3" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_6" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_1" Text="Генерал Юденич. Северо-Западная армия и союзная Северная область стоят за Россию против большевиков." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_2" Text="Добро пожаловать в Архангельск. Осторожно, грязь." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_3" Text="Север принимает вас." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_FIRSTGREETING_4" Text="Генерал Юденич. Северо-Западная армия и союзная Северная область стоят за Россию против большевиков." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_1" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_2" Text="Удачи." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_3" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_4" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_5" Text="Удачи." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_6" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GOODBYE_7" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_2" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_3" Text="Какие новости?" />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_5" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_6" Text="Какие новости?" />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_7" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_3" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_6" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_7" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LETSHEARIT_8" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_LOSEWAR_1" Text="Перемирие. Мы согласны." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADEREQUEST_ANGRY" Text="Рассмотрите." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADEREQUEST_HAPPY" Text="Союзники предлагают это." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADEREQUEST_NEUTRAL" Text="Предложение с Севера." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_HAPPY" Text="Не можем." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_ANGRY" Text="Договорились." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_YES_NEUTRAL" Text="Согласен. Союзные склады за русский лес." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_NO_HAPPY" Text="Север никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_YES_ANGRY" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_TRIBUTE_YES_NEUTRAL" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_1" Text="Не угрожайте нам." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_3" Text="Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_4" Text="Не угрожайте нам." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_5" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_WARBLUFF_6" Text="Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH_WINWAR_1" Text="Петроград свободен. Россия едина." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE" Text="Павел Скоропадский" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_PEDIA" Text="Павел Петрович Скоропадский (1873-1945), генерал-лейтенант императорской армии и потомок гетмана XVIII века, был поставлен гетманом Украинской Державы немецким переворотом 29 апреля 1918 года. Его правительство чеканило монету, открывало университеты и вывозило хлеб на запад; армия и популярность так и не догнали.[NEWLINE][NEWLINE]Когда в ноябре 1918 года рухнула Германия, Директория Петлюры поднялась против него, и он бежал в Берлин в немецком санитарном поезде. Погиб в 1945 году под союзной бомбой в Баварии." />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_DESC" Text="Украинская Держава" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC" Text="Украина" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE" Text="Украинский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ETHIOPIA_TEXT" Text="Гетман Скоропадский, вы правите в Киеве под немецкими штыками: богатейшие губернии старой империи, Одесса, Харьков, Донбасс и Крым, хлебная казна и армия, существующая в основном на бумаге. В ноябре немцы уйдут домой, и Директория, красные, Деникин и поляки захотят всё, что вы держите.[NEWLINE][NEWLINE]Создайте украинскую армию, пока оккупация ещё прикрывает вас, выберите между белыми и поляками и сохраните государство через зиму 1919 года. Никто не сделает этого за вас." />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT" Text="Дух гайдамаков" />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH" Text="+20% [ICON_STRENGTH] боевой силы против цивилизаций, у которых больше городов, чем у вас." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_1" Text="Вы напали на Украину? Все соседи пробовали." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_2" Text="Ещё один враг. Нам не привыкать." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_3" Text="Хорошо. Гайдамаки ответят." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_1" Text="Хотите украинский хлеб силой? Приходите и возьмите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_2" Text="Значит, война." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_3" Text="Пусть так." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_1" Text="Киев падал и раньше и поднимался." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_2" Text="Берите города. Идея Украины не сдаётся." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_3" Text="Гетманату конец. Украине нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_ANGRY" Text="Вы это дадите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY" Text="Платите и живите в мире." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_NEUTRAL" Text="Гетманат требует взнос." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_3" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_6" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_1" Text="Я гетман Скоропадский. Украина снова государство и останется им." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_2" Text="Добро пожаловать в Киев. Немцы наши гости, а не хозяева, что бы вам ни говорили." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_3" Text="Украинская Держава принимает вас." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_1" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_2" Text="С Богом." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_3" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_4" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_5" Text="С Богом." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_6" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_2" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_3" Text="Чему Украина обязана визитом?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_5" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_6" Text="Чему Украина обязана визитом?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_3" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_1" Text="Перемирие. Украине нужно время." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_2" Text="Мир, пока что." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_ANGRY" Text="Рассмотрите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_HAPPY" Text="Украина предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_NEUTRAL" Text="Предложение из Киева." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_HAPPY" Text="Украина не может себе этого позволить." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_ANGRY" Text="Договорились." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_NEUTRAL" Text="Согласен. Хлеб за оружие древнейшая торговля на Украине." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_HAPPY" Text="Украина никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_ANGRY" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_NEUTRAL" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_1" Text="Не угрожайте Украине." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_3" Text="Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_1" Text="Украина в безопасности. Теперь строить." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_2" Text="Враг разбит." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR" Text="Юзеф Пилсудский" />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_PEDIA" Text="Юзеф Пилсудский (1867-1935), социалист-заговорщик, командир Польских легионов и узник немцев в Магдебурге, вернулся в Варшаву 10 ноября 1918 года и на следующий день стал главой возрождённого государства. Он воевал с Советами с февраля 1919-го, взял Киев в мае 1920-го, потерял его в июне и выиграл битву за Варшаву в августе.[NEWLINE][NEWLINE]Рижский мир 1921 года закрепил границу, за которую он воевал. Он ушёл в отставку, вернулся переворотом в 1926 году и правил Польшей до смерти." />
+    <Replace Tag="TXT_KEY_CIV_POLAND_DESC" Text="Польская Республика" />
+    <Replace Tag="TXT_KEY_CIV_POLAND_SHORT_DESC" Text="Польша" />
+    <Replace Tag="TXT_KEY_CIV_POLAND_ADJECTIVE" Text="Польский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_POLAND_TEXT" Text="Комендант Пилсудский, Польши ещё нет; она появится в ноябре. Пока у вас Регентский совет в Варшаве, кадры легионов и уверенность, что немецкая оккупация кончается и что ни Берлин, ни Москва не станут чертить ваши границы за вас.[NEWLINE][NEWLINE]Соберите армию, удержите Львов, возьмите Вильно и Минск, решите, как далеко на восток пройдёт граница и идти ли с Петлюрой на Киев, а когда летом 1920 года Красная армия повернёт на запад, удержите Варшаву." />
+    <Replace Tag="TXT_KEY_TRAIT_SOLIDARITY_SHORT" Text="Чудо на Висле" />
+    <Replace Tag="TXT_KEY_TRAIT_SOLIDARITY" Text="Великие полководцы появляются на 50% быстрее и дают юнитам рядом на 15% больше [ICON_STRENGTH] боевой силы." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_ATTACKED_1" Text="Вы напали на Польшу? Все империи Европы пробовали." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_ATTACKED_2" Text="Ещё один враг. Мы пережили три раздела." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_ATTACKED_3" Text="Хорошо. Уланы ответят." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DECLAREWAR_1" Text="Польша сто двадцать лет боролась за то, чтобы существовать. Ещё одна война ничто." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DECLAREWAR_2" Text="Значит, война." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DECLAREWAR_3" Text="Пусть так." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DEFEATED_1" Text="Польшу стирали с карты и раньше. Это никогда не длится долго." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DEFEATED_2" Text="Берите Варшаву. Вы её не удержите." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DEFEATED_3" Text="Республика пала. Народ нет." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DEMANDTRIBUTE_ANGRY" Text="Вы это дадите." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DEMANDTRIBUTE_HAPPY" Text="Платите и живите в мире." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DEMANDTRIBUTE_NEUTRAL" Text="Республика требует взнос." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_3" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_6" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_FIRSTGREETING_1" Text="Пилсудский. Польша снова на карте и намерена на ней остаться." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_FIRSTGREETING_2" Text="Добро пожаловать в Варшаву. Вчера это был немецкий гарнизонный город." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_FIRSTGREETING_3" Text="Польская Республика принимает вас." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_1" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_2" Text="Храни вас Бог." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_3" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_4" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_5" Text="Храни вас Бог." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_6" Text="До встречи." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GREETING_2" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GREETING_3" Text="Чему Польша обязана визитом?" />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GREETING_5" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_GREETING_6" Text="Чему Польша обязана визитом?" />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_3" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_LOSEWAR_1" Text="Перемирие. Польше нужно время." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_LOSEWAR_2" Text="Мир, пока что." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADEREQUEST_ANGRY" Text="Рассмотрите." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADEREQUEST_HAPPY" Text="Польша предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADEREQUEST_NEUTRAL" Text="Предложение из Варшавы." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NO_HAPPY" Text="Польша не может себе этого позволить." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADE_YES_ANGRY" Text="Договорились." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_NO_HAPPY" Text="Польша никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_ANGRY" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_NEUTRAL" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_WARBLUFF_1" Text="Не угрожайте Польше." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_WARBLUFF_3" Text="Пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_WINWAR_1" Text="Польша в безопасности. Граница там, где мы её провели." />
+    <Replace Tag="TXT_KEY_LEADER_CASIMIR_WINWAR_2" Text="Победа. Теперь строить государство." />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_FINLAND" Text="Финляндия" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_FINLAND" Text="Гельсингфорс" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_ESTONIA" Text="Эстония" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_ESTONIA" Text="Ревель" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_LATVIA" Text="Латвия" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_LATVIA" Text="Рига" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_LITHUANIA" Text="Литва" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_LITHUANIA" Text="Вильна" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_GERMANY" Text="Германия (Обер Ост)" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_GERMANY" Text="Кёнигсберг" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_ROMANIA" Text="Румыния" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_ROMANIA" Text="Кишинёв" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_GEORGIA" Text="Грузия" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_GEORGIA" Text="Тифлис" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_AZERBAIJAN" Text="Азербайджан" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_AZERBAIJAN" Text="Баку" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_ARMENIA" Text="Армения" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_ARMENIA" Text="Эривань" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_OTTOMAN" Text="Османская империя" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_OTTOMAN" Text="Карс" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_PERSIA" Text="Персия" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_PERSIA" Text="Тебриз" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_BUKHARA" Text="Бухарский эмират" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_BUKHARA" Text="Бухара" />
+    <Replace Tag="TXT_KEY_CITYSTATE_RUS1918_KHIVA" Text="Хивинское ханство" />
+    <Replace Tag="TXT_KEY_CITY_RUS1918_KHIVA" Text="Хива" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_VSEVOBUCH_TITLE" Text="Всеобщая воинская повинность" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_VSEVOBUCH_TEXT" Text="ВЦИК отменяет добровольческий принцип: рабочие и крестьяне центральных губерний призываются декретом, Красная гвардия становится Красной армией. Москва получает три стрелковые дивизии и 500 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_LATVIANS_TITLE" Text="Латышские стрелки" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_LATVIANS_TEXT" Text="Самые дисциплинированные полки старой армии подавляют восстание левых эсеров в Москве и становятся костяком Красной армии. Две ветеранские дивизии прибывают в Москву." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_SVIYAZHSK_TITLE" Text="Поезд Троцкого под Свияжском" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_SVIYAZHSK_TEXT" Text="Нарком по военным делам прибывает на Казанский фронт в бронепоезде, расстреливает дезертиров вместе с комиссарами и превращает бегство в армию. В Казани появляются Великий полководец и бронепоезд." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_BREST_TITLE" Text="Брестский мир аннулирован" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_BREST_TEXT" Text="Германия капитулировала на западе. Советское правительство разрывает Брестский договор и претендует на всё, что оставляют немцы. РСФСР получает 1000 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_UKRWAR_TITLE" Text="Наступление на Украину" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_UKRWAR_TEXT" Text="После ухода немцев Временное рабоче-крестьянское правительство Украины провозглашает себя в Курске, и Красная армия переходит границу. РСФСР в войне с Украинской Державой." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_KONARMIYA_TITLE" Text="Первая Конная армия" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_KONARMIYA_TEXT" Text="Конный корпус Будённого становится армией: четыре дивизии всадников с тачанками и броневиками, ответ на казачьи рейды. Они собираются под Воронежем." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_NEP_TITLE" Text="Новая экономическая политика" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_NEP_TEXT" Text="Десятый съезд партии заменяет продразвёрстку продналогом и разрешает торговлю. Страна начинает дышать. РСФСР получает 1500 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_MOBILIZATION_TITLE" Text="Мобилизация" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_RED_MOBILIZATION_TEXT" Text="Очередной призыв центральных губерний: две стрелковые дивизии собираются в Москве, полк петроградских рабочих берётся за оружие." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_KUBAN_TITLE" Text="Второй Кубанский поход" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_KUBAN_TEXT" Text="Деникин выводит Добровольческую армию из донских степей против красного Северного Кавказа. В Новочеркасске присоединяются два добровольческих и два донских казачьих полка." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_AFSR_TITLE" Text="Вооружённые силы Юга России" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_AFSR_TEXT" Text="Донская армия подчиняется Деникину: добровольцы, донцы и кубанцы под одним штабом. Юг получает 1000 золота и Великого полководца." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_BRITISH_TITLE" Text="Британские танки в Новороссийске" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_BRITISH_TEXT" Text="Первые танки Mark V и эскадрильи RAF выгружаются в Новороссийске вместе с обмундированием на сто тысяч человек. Юг получает два танка, две эскадрильи и 1500 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_MOSCOW_DIRECTIVE_TITLE" Text="Московская директива" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_MOSCOW_DIRECTIVE_TEXT" Text="Из Царицына Деникин приказывает наступать на Москву по трём направлениям. Свежие добровольческие полки и кубанская конница собираются в Харькове или в столице, если Харьков не удержан." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_MAMONTOV_TITLE" Text="Рейд Мамонтова" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_MAMONTOV_TEXT" Text="Шесть тысяч донских казаков прорывают красный фронт и идут на Тамбов и Воронеж, разрушая железные дороги в тылу красных армий. В Новочеркасске появляются три кавалерийских полка." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_WRANGEL_TITLE" Text="Врангель принимает командование" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_WRANGEL_TEXT" Text="После новороссийской катастрофы Деникин уходит, и барон Врангель переформировывает остатки в Крыму в Русскую армию. Юг получает 800 золота и два полка в Севастополе." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_ENTENTE_TITLE" Text="Поставки Антанты" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SOUTH_ENTENTE_TEXT" Text="Очередной конвой британских и французских грузов приходит в черноморские порты. Юг получает 600 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_KOMUCH_TITLE" Text="Комуч в Самаре" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_KOMUCH_TEXT" Text="Члены разогнанного Учредительного собрания провозглашают правительство в Самаре под защитой чехов и начинают формировать Народную армию. Сибирь получает три полка и 500 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_KOLCHAK_TITLE" Text="Верховный правитель" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_KOLCHAK_TEXT" Text="Переворот в Омске сметает Директорию и делает адмирала Колчака Верховным правителем России. Сибирь получает 1500 золота и Великого полководца." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_ENTENTE_TITLE" Text="Британские поставки через Владивосток" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_ENTENTE_TEXT" Text="Эшелоны британских винтовок, орудий и обмундирования доходят до Омска с Тихого океана. Сибирь получает 2000 золота, две батареи и две пулемётные роты." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_SPRING_TITLE" Text="Весеннее наступление" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_SPRING_TEXT" Text="Западная армия Колчака прорывает красный фронт и идёт к Волге. Свежие полки и оренбургские казаки собираются в Уфе или в столице, если Уфа потеряна." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_ENTENTE2_TITLE" Text="Признание союзников" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_ENTENTE2_TEXT" Text="Союзные державы обещают признать омское правительство в обмен на демократические гарантии. Сибирь получает 1500 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_VLADIVOSTOK_TITLE" Text="Транссиб кормит фронт" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_SIB_VLADIVOSTOK_TEXT" Text="Очередной эшелон приходит из Владивостока после месяца пути. Сибирь получает 400 золота и полк в Омске." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_ARKHANGELSK_TITLE" Text="Высадка союзников в Архангельске" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_ARKHANGELSK_TEXT" Text="Британские, французские и американские войска высаживаются в Архангельске, местный Совет бежит; к власти приходит Верховное управление Северной области. Север получает три батальона, батарею, эсминец и 1000 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_US_TITLE" Text="Полярные медведи" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_US_TEXT" Text="339-й пехотный полк из Мичигана прибывает в Архангельск и отправляется вверх по Двине. К Северу присоединяются два батальона." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_NWCORPS_TITLE" Text="Северный корпус" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_NWCORPS_TEXT" Text="Русские добровольцы в Эстонии формируют корпус Родзянко и бьют на Ямбург и Псков. В Ревеле появляются три полка, кавалерийский полк и Великий полководец." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_EVACUATION_TITLE" Text="Союзники уходят" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_EVACUATION_TEXT" Text="Лондону надоело: последние британские и американские части уходят из Архангельска, оставляя русских генерала Миллера держать Север в одиночку. До пяти союзных частей выводятся, Север теряет 500 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_PETROGRAD_TITLE" Text="Юденич идёт на Петроград" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_NORTH_PETROGRAD_TEXT" Text="Северо-Западная армия с британскими танками и эстонской поддержкой рвётся к Петрограду и выходит на Пулковские высоты. В Ревеле появляются три полка и танк; Север получает 800 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_ARMISTICE_TITLE" Text="Немцы уходят домой" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_ARMISTICE_TEXT" Text="Компьенское перемирие заканчивает войну на западе, и немецкие дивизии грузятся в эшелоны. Защиты гетмана больше нет, Директория Петлюры поднимается в Белой Церкви. Немецкие гарнизоны уходят, повстанцы появляются в Виннице, казна теряет 500 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_DIRECTORY_TITLE" Text="Директория входит в Киев" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_DIRECTORY_TEXT" Text="Скоропадский отрекается и уезжает с немцами; Сечевые стрельцы вводят Директорию Петлюры в Киев. Два полка Сечевых стрельцов вступают в украинскую армию." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_ZLUKA_TITLE" Text="Акт Злуки" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_ZLUKA_TEXT" Text="Западно-Украинская Народная Республика объединяется с Директорией на Софийской площади. Два полка Галицкой армии присоединяются в Тарнополе." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_WARSAW_TITLE" Text="Варшавский договор" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_UKR_WARSAW_TEXT" Text="Петлюра уступает Польше Галицию и Волынь в обмен на союз против красных. Украина и Польша становятся друзьями; Украина получает 500 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_INDEPENDENCE_TITLE" Text="Возрождение Польши" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_INDEPENDENCE_TEXT" Text="Пилсудский возвращается из Магдебурга, Регентский совет передаёт ему армию, немцы уходят из Варшавы. Польша получает три полка и 1500 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_WAR_TITLE" Text="Берёза-Картузская" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_WAR_TEXT" Text="Польские и советские части сталкиваются в бывшей немецкой зоне и делают первые выстрелы советско-польской войны. Польша в войне с РСФСР." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_HALLER_TITLE" Text="Голубая армия" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_HALLER_TEXT" Text="Армия генерала Галлера, набранная во Франции и снаряжённая французами, прибывает по железной дороге с танками, самолётами и семьюдесятью тысячами солдат. Польша получает четыре ветеранских полка, две батареи и эскадрилью." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_GREATER_POLAND_TITLE" Text="Великопольская армия" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_GREATER_POLAND_TEXT" Text="Познанское восстание победило; его армия входит в состав республики. Два полка собираются в Лодзи." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_KIEV_TITLE" Text="Киевская операция" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_KIEV_TEXT" Text="Пилсудский и Петлюра идут на Киев. Уланы и пехота собираются во Львове; Польша получает 800 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_VOLUNTEERS_TITLE" Text="Добровольческая армия" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_POL_VOLUNTEERS_TEXT" Text="Красная армия у Вислы, и за месяц записываются сто тысяч добровольцев. Три полка и два кавалерийских полка собираются в Варшаве; Польша получает 1000 золота." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_BARB_GRIGORIEV_TITLE" Text="Мятеж Григорьева" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_BARB_GRIGORIEV_TEXT" Text="Атаман Григорьев, успевший послужить гетману, Петлюре и красным, поворачивает против красных и грабит Херсонщину. Повстанческие отряды появляются вокруг Елисаветграда." />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_BARB_TAMBOV_TITLE" Text="Тамбовское восстание" />
+    <Replace Tag="TXT_KEY_RUS1918_EVT_BARB_TAMBOV_TEXT" Text="Крестьяне Антонова поднимаются против продразвёрстки и собирают армию в десятки тысяч в Тамбовской губернии. Партизанские отряды появляются вокруг Тамбова." />
+    <Replace Tag="TXT_KEY_RUS1918_SIDE_RED" Text="РСФСР" />
+    <Replace Tag="TXT_KEY_RUS1918_SIDE_SOUTH" Text="Белый Юг" />
+    <Replace Tag="TXT_KEY_RUS1918_SIDE_SIB" Text="Сибирь" />
+    <Replace Tag="TXT_KEY_RUS1918_SIDE_NORTH" Text="Северная область" />
+    <Replace Tag="TXT_KEY_RUS1918_SIDE_UKR" Text="Украинская Держава" />
+    <Replace Tag="TXT_KEY_RUS1918_SIDE_POL" Text="Польша" />
+    <Replace Tag="TXT_KEY_RUS1918_SIDE_BARB" Text="Повстанцы" />
+    <Replace Tag="TXT_KEY_RUS1918_WEEK" Text="Неделя {1_Num}" />
+    <Replace Tag="TXT_KEY_RUS1918_WEEK_TT" Text="Неделя {1_Num} Гражданской войны, счёт с 1 июня 1918 года" />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_TACHANKA" Text="Тачанка" />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_TACHANKA_HELP" Text="Замена пулемёта Гатлинга у РСФСР. 3 [ICON_MOVES] передвижения вместо 2." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_TACHANKA_STRATEGY" Text="Тачанка это пулемёт на конной повозке: так же сильна, как пулемёт Гатлинга, и на треть быстрее. Подтягивайте её за кавалерией и пехотой, чтобы удержать взятое." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_TACHANKA_TEXT" Text="Тачанка была лёгкой рессорной повозкой в упряжке из двух-четырёх лошадей с пулемётом «Максим», стрелявшим назад. Она стала символом манёвренной войны в степи: её прославила повстанческая армия Нестора Махно на юге Украины, а Красная кавалерия, прежде всего Первая Конная армия Будённого, приняла её в большом числе. Тачанка поспевала за конницей, разворачивалась и открывала огонь за считаные мгновения." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_COLOURED" Text="Цветной полк" />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_COLOURED_HELP" Text="Замена пехоты Великой войны у Белого Юга. 54 [ICON_STRENGTH] боевой силы вместо 50 и повышение «Натиск I»; на 10% дороже." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_COLOURED_STRATEGY" Text="Цветные полки это ударные части Добровольческой армии: сильнее и дороже обычной пехоты. Ставьте их во главе каждого наступления, а линию оставьте казакам и мобилизованным." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_COLOURED_TEXT" Text="Корниловский, Марковский, Дроздовский и Алексеевский полки Добровольческой армии называли цветными по особым цветам их фуражек и погон. Они формировались в 1917 и 1918 годах в основном из офицеров, служивших рядовыми: Корниловский ударный полк вёл историю с лета 1917 года, Офицерский полк Маркова прошёл Ледяной поход 1918 года, а бригада Дроздовского весной того же года прошла около 1200 км с Румынского фронта на Дон. Развёрнутые в дивизии, они шли в голове похода на Москву 1919 года, и в октябре Корниловская дивизия взяла Орёл." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_ARMOURED_TRAIN" Text="Бронепоезд" />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_ARMOURED_TRAIN_HELP" Text="Замена артиллерии у Сибири. 30 [ICON_STRENGTH] боевой силы вместо 21 и 3 [ICON_MOVES] передвижения вместо 2; на 10% дороже." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_ARMOURED_TRAIN_STRATEGY" Text="Бронепоезд бьёт так же сильно, как артиллерия, лучше защищается и быстрее движется. Обстреливайте им противника из-за пехоты и перебрасывайте его по железной дороге туда, где прорван фронт." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_ARMOURED_TRAIN_TEXT" Text="В мае 1918 года Чехословацкий корпус, около сорока тысяч бывших австро-венгерских солдат, растянутых по Транссибу на пути во Владивосток, восстал против Советов и за несколько недель занял дорогу от Волги до Тихого океана. Его война шла вдоль линии, и острием её были бронепоезда: одни собраны в железнодорожных мастерских из платформ, мешков с песком и котельного железа, другие отбиты у красногвардейцев. Самый известный, «Орлик», начинал службу в 1916 году как «Заамурец» русской армии." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_MARK_V" Text="Танк Mark V" />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_MARK_V_HELP" Text="Замена ландшипа у Северной области. 65 [ICON_STRENGTH] боевой силы вместо 60, но 3 [ICON_MOVES] передвижения вместо 4." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_MARK_V_STRATEGY" Text="Mark V это медленный тяжёлый танк, который прорывает линию, непосильную для пехоты. Посылайте его на укреплённые позиции и города вместе с пехотой." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_MARK_V_TEXT" Text="Mark V, последний из британских ромбовидных тяжёлых танков мировой войны, поступил на вооружение в 1918 году; это был первый танк, которым мог управлять один водитель. В 1919 году Британия отправила танки с инструкторами белым армиям: большая часть ушла на юг через Новороссийск, а небольшой отряд получила Северо-Западная армия Юденича в Эстонии, и её танки участвовали в октябрьском наступлении на Петроград." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_SERDIUK" Text="Сердюцкая дивизия" />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_SERDIUK_HELP" Text="Замена пехоты Великой войны у Украинской Державы. 52 [ICON_STRENGTH] боевой силы вместо 50 и повышение «Укрытие I» (+25% к защите от дальних атак); немного дороже (340 [ICON_PRODUCTION])." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_SERDIUK_STRATEGY" Text="Сердюцкая дивизия это гвардейская пехота, стойкая под обстрелом. Ставьте её в города и на участки, по которым первой ударит вражеская артиллерия." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_SERDIUK_TEXT" Text="Сердюцкая дивизия была гвардией гетмана, набранной летом 1918 года из сыновей крестьян-землевладельцев Левобережья и названной в честь казачьей стражи старых гетманов. Около пяти тысяч человек, она была одним из лучше всего снаряжённых соединений Украинской Державы. Когда в ноябре 1918 года Директория подняла восстание против гетмана, значительная часть дивизии перешла к повстанцам." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_UHLAN" Text="Польские уланы" />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_UHLAN_HELP" Text="Замена улана у Польши. 32 [ICON_STRENGTH] боевой силы вместо 25; немного дороже (200 [ICON_PRODUCTION])." />
+    <Replace Tag="TXT_KEY_UNIT_RUS1918_UHLAN_STRATEGY" Text="Польские уланы это польская конница: быстрая и сильная для кавалерии, но не ровня окопавшейся пехоте. Используйте их для рейдов, преследования и ударов там, где линия тонка." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_UHLAN_TEXT" Text="Уланские полки возрождённой польской армии формировались с 1918 года из легионеров, польских частей трёх армий, деливших Польшу, и добровольцев; они сохранили пику и традиции польской кавалерии. В войне 1920 года они сражались с советской конницей на её условиях: под Комаровом 31 августа 1920 года польская кавалерия разбила Первую Конную армию Будённого в одном из последних больших кавалерийских сражений Европы." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_VOENKOMAT" Text="Военный комиссариат" />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_VOENKOMAT_HELP" Text="Замена казарм у РСФСР. Ещё +15% [ICON_PRODUCTION] к производству сухопутных юнитов и без содержания." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_VOENKOMAT_STRATEGY" Text="Военный комиссариат обучает новые юниты, как казармы, и быстрее их формирует. Стройте его в каждом городе, который посылает людей на фронт." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_VOENKOMAT_TEXT" Text="Декрет Совета народных комиссаров от 8 апреля 1918 года учредил военные комиссариаты в каждой волости, уезде, губернии и военном округе. Они вели учёт военнообязанных, проводили мобилизации, начатые декретом о принудительном наборе от 29 мая 1918 года, и превратили добровольческую Красную армию в многомиллионную армию по призыву." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_STANITSA" Text="Казачья станица" />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_STANITSA_HELP" Text="Замена конюшни у Белого Юга. Конные юниты, построенные здесь, получают +15 опыта; без содержания." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_STANITSA_STRATEGY" Text="Казачья станица готовит всадников, которые начинают войну уже с повышением. Стройте её в донских и кубанских городах, рядом с которыми есть лошади." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_STANITSA_TEXT" Text="Станица была самоуправляемым поселением казачьего войска, мужчины которого несли военную службу со своим конём и снаряжением в обмен на землю. Донские и кубанские станицы весной 1918 года восстали против Советов и дали Белому Югу основную часть его кавалерии; Донская армия Краснова и кубанские полки воевали рядом с добровольцами до конца войны." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_RAILWAY_WORKSHOPS" Text="Железнодорожные мастерские" />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_RAILWAY_WORKSHOPS_HELP" Text="Замена мастерской у Сибири. +3 [ICON_PRODUCTION] производства вместо +2 и содержание 1 [ICON_GOLD] вместо 2." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_RAILWAY_WORKSHOPS_STRATEGY" Text="Железнодорожные мастерские это промышленность Сибири. Стройте их в городах вдоль Транссиба." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_RAILWAY_WORKSHOPS_TEXT" Text="Железнодорожные мастерские Омска, Красноярска, Иркутска и других узловых станций Транссиба были крупнейшими предприятиями к востоку от Урала. В 1918 и 1919 годах они держали на ходу паровозы, чинили подвижной состав и оборудовали бронепоезда чехословаков и Сибирской армии." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_SUPPLY_BASE" Text="Союзная база снабжения" />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_SUPPLY_BASE_HELP" Text="Замена морского порта у Северной области. Ещё +2 [ICON_PRODUCTION] производства и дешевле (200 [ICON_PRODUCTION] вместо 250)." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_SUPPLY_BASE_STRATEGY" Text="Союзная база снабжения превращает гавань в склад союзных боеприпасов. Стройте её прежде всего в Архангельске и Мурманске." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_SUPPLY_BASE_TEXT" Text="Союзники впервые пришли в Мурманск и Архангельск охранять военные грузы, которые они с 1914 года везли в Россию: на причалах лежали огромные запасы боеприпасов, металла и снаряжения. С 1918 года оба порта стали базами союзной интервенции на севере, и через них шли пушки, обмундирование и продовольствие армии Северной области, пока осенью 1919 года союзники не ушли." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_SUGAR_MILL" Text="Сахарный завод" />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_SUGAR_MILL_HELP" Text="Замена ветряной мельницы у Украинской Державы. Ещё +2 [ICON_GOLD] золота." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_SUGAR_MILL_STRATEGY" Text="Сахарный завод добавляет золото к производству ветряной мельницы. Стройте его в земледельческих городах Правобережья и Левобережья." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_SUGAR_MILL_TEXT" Text="До мировой войны сахарные заводы украинских губерний, около двухсот на свекловичных полях Киевщины, Подолии, Волыни, Харьковщины и Полтавщины, давали около четырёх пятых сахара Российской империи. Эта промышленность составила состояния Терещенко, Бродских и Харитоненко и была одним из богатств Украинской Державы." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_OFFICER_SCHOOL" Text="Офицерская школа" />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_OFFICER_SCHOOL_HELP" Text="Замена военной академии у Польши. Не требует оружейной, на треть дешевле (200 [ICON_PRODUCTION]) и без содержания." />
+    <Replace Tag="TXT_KEY_BUILDING_RUS1918_OFFICER_SCHOOL_STRATEGY" Text="Офицерская школа даёт новым юнитам опыт военной академии в любом городе. Стройте её рано там, где формируется армия." />
+    <Replace Tag="TXT_KEY_CIV5_RUS1918_OFFICER_SCHOOL_TEXT" Text="Польской армии 1918 года пришлось создавать единый офицерский корпус из легионеров и выходцев из австрийской, русской и германской армий, с разной муштрой, языками команд и привычками. Офицерские школы открылись в Варшаве и других городах в первые же месяцы независимости, и краткие курсы выпустили тысячи младших офицеров, нужных армии для войн 1919 и 1920 годов." />
+  </Language_RU_RU>
+</GameData>

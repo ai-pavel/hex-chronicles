@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<!-- Created by ModBuddy on 11/16/2010 12:16:20 PM -->
+<Context ColorSet="Beige_Black" Font="TwCenMT20" FontStyle="Shadow">
+	<Grid ID="Grid" Offset="0,-4" Anchor="C,T" Size="400,120" Color="White.256" Style="Grid9DetailSix140" Padding="70,60" ConsumeMouse="0">
+		<Label Anchor="C,C" Offset="0,-30" Font="TwCenMT20" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" ID="QuickStatusLabel" String="TXT_KEY_STEAMPUNK_SCENARIO_TURNS_REMAINING"/>
+		<Label Anchor="C,C" Offset="0,10" Font="TwCenMT20" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" ID="BriefingLabel">
+			<GridButton Offset="-70, 0" Font="TwCenMT16" Anchor="R,B" AnchorSide="o,i" Size="140,27" Style="SmallButton" String="TXT_KEY_STEAMPUNK_SCENARIO_BRIEFING_BUTTON" ID="BriefingButton"/>
+		</Label>
+		<Label Anchor="C,C" Offset="0,38" Font="TwCenMT20" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" ID="VictoryStatusLabel">
+			<GridButton Offset="-70, 0" Font="TwCenMT16" Anchor="R,B" AnchorSide="o,i" Size="140,27" Style="SmallButton" String="TXT_KEY_STEAMPUNK_SCENARIO_VSCREEN_BUTTON" ID="VictoryStatusButton"/>
+		</Label>
+	</Grid>
+	<LuaContext FileName="VictoryStatus" ID="VictoryStatus" Hidden="1"/>
+</Context>

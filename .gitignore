@@ -1,0 +1,15 @@
+# generated art (rebuild with <mod>/art/build_art.py from <mod>/art/src); art/gen holds every AI variant, art/src the chosen ones
+src/*/art/out/
+src/*/art/tmp/
+src/*/art/gen/
+__pycache__/
+# downloaded inputs and game XML extracts (tools/fetch_data.py, tools/extract_game_xml.py)
+data/
+.DS_Store
+# packed mods for release (tools/pack_civ5mod.py)
+dist/
+Thumbs.db
+# the built download site and the checkout of its GitLab project (site/build_site.py)
+site/out/
+# Claude
+.claude/

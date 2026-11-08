@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- China 1928: no world wonders, no Manhattan Project, no Apollo Program; weekly calendar parked; neighbours as city-states; faction colours; Asian city art for every side. -->
+<GameData>
+  <Buildings>
+    <Update><Where Type="BUILDING_ALHAMBRA" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_ANGKOR_WAT" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_BIG_BEN" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_BOROBUDUR" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_BRANDENBURG_GATE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_BROADWAY" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_CHICHEN_ITZA" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_CN_TOWER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_COLOSSUS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_CRISTO_REDENTOR" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_EIFFEL_TOWER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_FORBIDDEN_PALACE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GLOBE_THEATER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GREAT_FIREWALL" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GREAT_LIBRARY" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GREAT_LIGHTHOUSE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GREAT_WALL" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_HAGIA_SOPHIA" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_HANGING_GARDEN" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_HIMEJI_CASTLE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_HUBBLE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_INTERNATIONAL_SPACE_STATION" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_KREMLIN" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_LEANING_TOWER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_LOUVRE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_MACHU_PICHU" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_MAUSOLEUM_HALICARNASSUS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_MOSQUE_OF_DJENNE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_NEUSCHWANSTEIN" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_NOTRE_DAME" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_ORACLE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PARTHENON" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PENTAGON" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PETRA" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PORCELAIN_TOWER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PRORA_RESORT" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PYRAMID" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_RED_FORT" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_SISTINE_CHAPEL" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_STATUE_OF_LIBERTY" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_STATUE_ZEUS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_STONEHENGE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_SYDNEY_OPERA_HOUSE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_TAJ_MAHAL" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_TEMPLE_ARTEMIS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_TERRACOTTA_ARMY" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_UFFIZI" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_UNITED_NATIONS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+  </Buildings>
+  <Projects>
+    <Update><Where Type="PROJECT_MANHATTAN_PROJECT" /><Set TechPrereq="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="PROJECT_APOLLO_PROGRAM" /><Set TechPrereq="TECH_FUTURE_TECH" /></Update>
+  </Projects>
+  <GameSpeed_Turns>
+    <Delete GameSpeedType="GAMESPEED_STANDARD" />
+    <Row><GameSpeedType>GAMESPEED_STANDARD</GameSpeedType><MonthIncrement>1</MonthIncrement><TurnsPerIncrement>100000</TurnsPerIncrement></Row>
+    <Delete GameSpeedType="GAMESPEED_QUICK" />
+    <Row><GameSpeedType>GAMESPEED_QUICK</GameSpeedType><MonthIncrement>1</MonthIncrement><TurnsPerIncrement>100000</TurnsPerIncrement></Row>
+  </GameSpeed_Turns>
+  <Defines>
+    <Update><Where Name="START_YEAR" /><Set Value="1928" /></Update>
+  </Defines>
+  <Colors>
+    <Row><Type>COLOR_PLAYER_CHN1928_NAN_ICON</Type><Red>1.000</Red><Green>1.000</Green><Blue>1.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CHN1928_NAN_BG</Type><Red>0.122</Red><Green>0.235</Green><Blue>0.600</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CHN1928_GMJ_ICON</Type><Red>0.949</Red><Green>0.902</Green><Blue>0.784</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CHN1928_GMJ_BG</Type><Red>0.333</Red><Green>0.420</Green><Blue>0.184</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CHN1928_SHX_ICON</Type><Red>0.961</Red><Green>0.843</Green><Blue>0.431</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CHN1928_SHX_BG</Type><Red>0.482</Red><Green>0.290</Green><Blue>0.133</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CHN1928_FT_ICON</Type><Red>0.102</Red><Green>0.102</Green><Blue>0.102</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CHN1928_FT_BG</Type><Red>0.910</Red><Green>0.706</Green><Blue>0.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CHN1928_GX_ICON</Type><Red>1.000</Red><Green>1.000</Green><Blue>1.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CHN1928_GX_BG</Type><Red>0.118</Red><Green>0.541</Green><Blue>0.541</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CHN1928_CCP_ICON</Type><Red>1.000</Red><Green>0.843</Green><Blue>0.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_CHN1928_CCP_BG</Type><Red>0.784</Red><Green>0.063</Green><Blue>0.180</Blue><Alpha>1</Alpha></Row>
+  </Colors>
+  <PlayerColors>
+    <Row><Type>PLAYERCOLOR_CHN1928_NAN</Type><PrimaryColor>COLOR_PLAYER_CHN1928_NAN_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_CHN1928_NAN_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_CHN1928_GMJ</Type><PrimaryColor>COLOR_PLAYER_CHN1928_GMJ_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_CHN1928_GMJ_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_CHN1928_SHX</Type><PrimaryColor>COLOR_PLAYER_CHN1928_SHX_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_CHN1928_SHX_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_CHN1928_FT</Type><PrimaryColor>COLOR_PLAYER_CHN1928_FT_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_CHN1928_FT_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_CHN1928_GX</Type><PrimaryColor>COLOR_PLAYER_CHN1928_GX_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_CHN1928_GX_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_CHN1928_CCP</Type><PrimaryColor>COLOR_PLAYER_CHN1928_CCP_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_CHN1928_CCP_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+  </PlayerColors>
+  <Civilizations>
+    <Update><Where Type="CIVILIZATION_CHINA" /><Set DefaultPlayerColor="PLAYERCOLOR_CHN1928_NAN" ArtStyleType="ARTSTYLE_ASIAN" ArtStyleSuffix="_ASIA" ArtStylePrefix="ASIAN " /></Update>
+    <Update><Where Type="CIVILIZATION_ZULU" /><Set DefaultPlayerColor="PLAYERCOLOR_CHN1928_GMJ" ArtStyleType="ARTSTYLE_ASIAN" ArtStyleSuffix="_ASIA" ArtStylePrefix="ASIAN " /></Update>
+    <Update><Where Type="CIVILIZATION_RUSSIA" /><Set DefaultPlayerColor="PLAYERCOLOR_CHN1928_SHX" ArtStyleType="ARTSTYLE_ASIAN" ArtStyleSuffix="_ASIA" ArtStylePrefix="ASIAN " /></Update>
+    <Update><Where Type="CIVILIZATION_GERMANY" /><Set DefaultPlayerColor="PLAYERCOLOR_CHN1928_FT" ArtStyleType="ARTSTYLE_ASIAN" ArtStyleSuffix="_ASIA" ArtStylePrefix="ASIAN " /></Update>
+    <Update><Where Type="CIVILIZATION_ETHIOPIA" /><Set DefaultPlayerColor="PLAYERCOLOR_CHN1928_GX" ArtStyleType="ARTSTYLE_ASIAN" ArtStyleSuffix="_ASIA" ArtStylePrefix="ASIAN " /></Update>
+    <Update><Where Type="CIVILIZATION_SHOSHONE" /><Set DefaultPlayerColor="PLAYERCOLOR_CHN1928_CCP" ArtStyleType="ARTSTYLE_ASIAN" ArtStyleSuffix="_ASIA" ArtStylePrefix="ASIAN " /></Update>
+  </Civilizations>
+  <MinorCivilizations>
+    <Row><Type>MINOR_CIV_CHN1928_JAPAN</Type><Description>TXT_KEY_CITYSTATE_CHN1928_JAPAN</Description><Civilopedia>TXT_KEY_CITYSTATE_CHN1928_JAPAN</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_CHN1928_JAPAN</ShortDescription><Adjective>TXT_KEY_CITYSTATE_CHN1928_JAPAN</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_WHITE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType><ArtStyleSuffix>_ASIA</ArtStyleSuffix><ArtStylePrefix>ASIAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_CHN1928_SOVIET</Type><Description>TXT_KEY_CITYSTATE_CHN1928_SOVIET</Description><Civilopedia>TXT_KEY_CITYSTATE_CHN1928_SOVIET</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_CHN1928_SOVIET</ShortDescription><Adjective>TXT_KEY_CITYSTATE_CHN1928_SOVIET</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_PURPLE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_CHN1928_MONGOLIA</Type><Description>TXT_KEY_CITYSTATE_CHN1928_MONGOLIA</Description><Civilopedia>TXT_KEY_CITYSTATE_CHN1928_MONGOLIA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_CHN1928_MONGOLIA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_CHN1928_MONGOLIA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_BLUE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType><ArtStyleSuffix>_ASIA</ArtStyleSuffix><ArtStylePrefix>ASIAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_CHN1928_SICHUAN</Type><Description>TXT_KEY_CITYSTATE_CHN1928_SICHUAN</Description><Civilopedia>TXT_KEY_CITYSTATE_CHN1928_SICHUAN</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_CHN1928_SICHUAN</ShortDescription><Adjective>TXT_KEY_CITYSTATE_CHN1928_SICHUAN</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_PEACH</DefaultPlayerColor><ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType><ArtStyleSuffix>_ASIA</ArtStyleSuffix><ArtStylePrefix>ASIAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_CHN1928_CHONGQING</Type><Description>TXT_KEY_CITYSTATE_CHN1928_CHONGQING</Description><Civilopedia>TXT_KEY_CITYSTATE_CHN1928_CHONGQING</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_CHN1928_CHONGQING</ShortDescription><Adjective>TXT_KEY_CITYSTATE_CHN1928_CHONGQING</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_ORANGE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType><ArtStyleSuffix>_ASIA</ArtStyleSuffix><ArtStylePrefix>ASIAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_CHN1928_YUNNAN</Type><Description>TXT_KEY_CITYSTATE_CHN1928_YUNNAN</Description><Civilopedia>TXT_KEY_CITYSTATE_CHN1928_YUNNAN</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_CHN1928_YUNNAN</ShortDescription><Adjective>TXT_KEY_CITYSTATE_CHN1928_YUNNAN</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_DARK_LEMON</DefaultPlayerColor><ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType><ArtStyleSuffix>_ASIA</ArtStyleSuffix><ArtStylePrefix>ASIAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_CHN1928_GUIZHOU</Type><Description>TXT_KEY_CITYSTATE_CHN1928_GUIZHOU</Description><Civilopedia>TXT_KEY_CITYSTATE_CHN1928_GUIZHOU</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_CHN1928_GUIZHOU</ShortDescription><Adjective>TXT_KEY_CITYSTATE_CHN1928_GUIZHOU</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_GREEN</DefaultPlayerColor><ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType><ArtStyleSuffix>_ASIA</ArtStyleSuffix><ArtStylePrefix>ASIAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_CHN1928_GUANGDONG</Type><Description>TXT_KEY_CITYSTATE_CHN1928_GUANGDONG</Description><Civilopedia>TXT_KEY_CITYSTATE_CHN1928_GUANGDONG</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_CHN1928_GUANGDONG</ShortDescription><Adjective>TXT_KEY_CITYSTATE_CHN1928_GUANGDONG</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_GOLDENROD</DefaultPlayerColor><ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType><ArtStyleSuffix>_ASIA</ArtStyleSuffix><ArtStylePrefix>ASIAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_CHN1928_QINGHAI</Type><Description>TXT_KEY_CITYSTATE_CHN1928_QINGHAI</Description><Civilopedia>TXT_KEY_CITYSTATE_CHN1928_QINGHAI</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_CHN1928_QINGHAI</ShortDescription><Adjective>TXT_KEY_CITYSTATE_CHN1928_QINGHAI</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_GRAY</DefaultPlayerColor><ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType><ArtStyleSuffix>_ASIA</ArtStyleSuffix><ArtStylePrefix>ASIAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_CHN1928_HONGKONG</Type><Description>TXT_KEY_CITYSTATE_CHN1928_HONGKONG</Description><Civilopedia>TXT_KEY_CITYSTATE_CHN1928_HONGKONG</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_CHN1928_HONGKONG</ShortDescription><Adjective>TXT_KEY_CITYSTATE_CHN1928_HONGKONG</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_CYAN</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_CHN1928_MACAU</Type><Description>TXT_KEY_CITYSTATE_CHN1928_MACAU</Description><Civilopedia>TXT_KEY_CITYSTATE_CHN1928_MACAU</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_CHN1928_MACAU</ShortDescription><Adjective>TXT_KEY_CITYSTATE_CHN1928_MACAU</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_YELLOW</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_CHN1928_WEIHAIWEI</Type><Description>TXT_KEY_CITYSTATE_CHN1928_WEIHAIWEI</Description><Civilopedia>TXT_KEY_CITYSTATE_CHN1928_WEIHAIWEI</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_CHN1928_WEIHAIWEI</ShortDescription><Adjective>TXT_KEY_CITYSTATE_CHN1928_WEIHAIWEI</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_BLUE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_CHN1928_INDOCHINA</Type><Description>TXT_KEY_CITYSTATE_CHN1928_INDOCHINA</Description><Civilopedia>TXT_KEY_CITYSTATE_CHN1928_INDOCHINA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_CHN1928_INDOCHINA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_CHN1928_INDOCHINA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_PURPLE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait></Row>
+  </MinorCivilizations>
+  <MinorCivilization_CityNames>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_JAPAN</MinorCivType><CityName>TXT_KEY_CITY_CHN1928_JAPAN</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_SOVIET</MinorCivType><CityName>TXT_KEY_CITY_CHN1928_SOVIET</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_MONGOLIA</MinorCivType><CityName>TXT_KEY_CITY_CHN1928_MONGOLIA</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_SICHUAN</MinorCivType><CityName>TXT_KEY_CITY_CHN1928_SICHUAN</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_CHONGQING</MinorCivType><CityName>TXT_KEY_CITY_CHN1928_CHONGQING</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_YUNNAN</MinorCivType><CityName>TXT_KEY_CITY_CHN1928_YUNNAN</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_GUIZHOU</MinorCivType><CityName>TXT_KEY_CITY_CHN1928_GUIZHOU</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_GUANGDONG</MinorCivType><CityName>TXT_KEY_CITY_CHN1928_GUANGDONG</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_QINGHAI</MinorCivType><CityName>TXT_KEY_CITY_CHN1928_QINGHAI</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_HONGKONG</MinorCivType><CityName>TXT_KEY_CITY_CHN1928_HONGKONG</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_MACAU</MinorCivType><CityName>TXT_KEY_CITY_CHN1928_MACAU</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_WEIHAIWEI</MinorCivType><CityName>TXT_KEY_CITY_CHN1928_WEIHAIWEI</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_INDOCHINA</MinorCivType><CityName>TXT_KEY_CITY_CHN1928_INDOCHINA</CityName></Row>
+  </MinorCivilization_CityNames>
+  <MinorCivilization_Flavors>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_JAPAN</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_JAPAN</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_JAPAN</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_JAPAN</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_JAPAN</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_SOVIET</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_SOVIET</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_SOVIET</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_SOVIET</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_SOVIET</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_MONGOLIA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_MONGOLIA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_MONGOLIA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_MONGOLIA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_MONGOLIA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_SICHUAN</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_SICHUAN</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_SICHUAN</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_SICHUAN</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_SICHUAN</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_CHONGQING</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_CHONGQING</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_CHONGQING</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_CHONGQING</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_CHONGQING</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_YUNNAN</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_YUNNAN</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_YUNNAN</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_YUNNAN</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_YUNNAN</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_GUIZHOU</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_GUIZHOU</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_GUIZHOU</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_GUIZHOU</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_GUIZHOU</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_GUANGDONG</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_GUANGDONG</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_GUANGDONG</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_GUANGDONG</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_GUANGDONG</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_QINGHAI</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_QINGHAI</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_QINGHAI</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_QINGHAI</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_QINGHAI</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_HONGKONG</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_HONGKONG</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_HONGKONG</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_HONGKONG</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_HONGKONG</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_MACAU</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_MACAU</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_MACAU</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_MACAU</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_MACAU</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_WEIHAIWEI</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_WEIHAIWEI</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_WEIHAIWEI</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_WEIHAIWEI</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_WEIHAIWEI</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_INDOCHINA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_INDOCHINA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_INDOCHINA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_INDOCHINA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_CHN1928_INDOCHINA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+  </MinorCivilization_Flavors>
+</GameData>

@@ -1,0 +1,1041 @@
+{
+"W": 100,
+"H": 112,
+"cities": {
+"Nanjing": {
+"x": 58,
+"y": 42,
+"owner": 0
+},
+"Shanghai": {
+"x": 65,
+"y": 39,
+"owner": 0
+},
+"Suzhou": {
+"x": 63,
+"y": 40,
+"owner": 0
+},
+"Xuzhou": {
+"x": 53,
+"y": 49,
+"owner": 0
+},
+"Haizhou": {
+"x": 58,
+"y": 51,
+"owner": 0
+},
+"Huaiyin": {
+"x": 58,
+"y": 47,
+"owner": 0
+},
+"Hangzhou": {
+"x": 62,
+"y": 36,
+"owner": 0
+},
+"Ningbo": {
+"x": 65,
+"y": 35,
+"owner": 0
+},
+"Wenzhou": {
+"x": 64,
+"y": 28,
+"owner": 0
+},
+"Jinhua": {
+"x": 60,
+"y": 31,
+"owner": 0
+},
+"Anqing": {
+"x": 54,
+"y": 36,
+"owner": 0
+},
+"Wuhu": {
+"x": 57,
+"y": 39,
+"owner": 0
+},
+"Bengbu": {
+"x": 54,
+"y": 45,
+"owner": 0
+},
+"Lu'an": {
+"x": 52,
+"y": 41,
+"owner": 0
+},
+"Tunxi": {
+"x": 57,
+"y": 34,
+"owner": 0
+},
+"Fuyang": {
+"x": 50,
+"y": 45,
+"owner": 0
+},
+"Nanchang": {
+"x": 50,
+"y": 29,
+"owner": 0
+},
+"Jiujiang": {
+"x": 50,
+"y": 33,
+"owner": 0
+},
+"Ji'an": {
+"x": 48,
+"y": 24,
+"owner": 0
+},
+"Ganzhou": {
+"x": 47,
+"y": 19,
+"owner": 0
+},
+"Ruijin": {
+"x": 51,
+"y": 20,
+"owner": 0
+},
+"Jingdezhen": {
+"x": 54,
+"y": 32,
+"owner": 0
+},
+"Pingxiang": {
+"x": 45,
+"y": 26,
+"owner": 0
+},
+"Fuzhou": {
+"x": 60,
+"y": 20,
+"owner": 0
+},
+"Xiamen": {
+"x": 56,
+"y": 15,
+"owner": 0
+},
+"Longyan": {
+"x": 53,
+"y": 17,
+"owner": 0
+},
+"Jian'ou": {
+"x": 57,
+"y": 24,
+"owner": 0
+},
+"Changsha": {
+"x": 43,
+"y": 28,
+"owner": 0
+},
+"Hengyang": {
+"x": 41,
+"y": 23,
+"owner": 0
+},
+"Yueyang": {
+"x": 43,
+"y": 32,
+"owner": 0
+},
+"Changde": {
+"x": 39,
+"y": 31,
+"owner": 0
+},
+"Shaoyang": {
+"x": 38,
+"y": 25,
+"owner": 0
+},
+"Chenzhou": {
+"x": 42,
+"y": 19,
+"owner": 0
+},
+"Hongjiang": {
+"x": 34,
+"y": 25,
+"owner": 0
+},
+"Yuanling": {
+"x": 35,
+"y": 29,
+"owner": 0
+},
+"Sangzhi": {
+"x": 35,
+"y": 33,
+"owner": 0
+},
+"Qingdao": {
+"x": 61,
+"y": 57,
+"owner": 0
+},
+"Weixian": {
+"x": 58,
+"y": 59,
+"owner": 0
+},
+"Yizhou": {
+"x": 55,
+"y": 57,
+"owner": 0
+},
+"Kaifeng": {
+"x": 47,
+"y": 52,
+"owner": 1
+},
+"Luoyang": {
+"x": 41,
+"y": 51,
+"owner": 1
+},
+"Xinyang": {
+"x": 46,
+"y": 42,
+"owner": 1
+},
+"Nanyang": {
+"x": 41,
+"y": 45,
+"owner": 1
+},
+"Zhoukou": {
+"x": 47,
+"y": 48,
+"owner": 1
+},
+"Shangqiu": {
+"x": 50,
+"y": 50,
+"owner": 1
+},
+"Anyang": {
+"x": 46,
+"y": 57,
+"owner": 1
+},
+"Jiaozuo": {
+"x": 43,
+"y": 55,
+"owner": 1
+},
+"Xi'an": {
+"x": 32,
+"y": 51,
+"owner": 1
+},
+"Tongguan": {
+"x": 36,
+"y": 52,
+"owner": 1
+},
+"Baoji": {
+"x": 28,
+"y": 52,
+"owner": 1
+},
+"Hanzhong": {
+"x": 28,
+"y": 46,
+"owner": 1
+},
+"Yan'an": {
+"x": 34,
+"y": 59,
+"owner": 1
+},
+"Yulin": {
+"x": 35,
+"y": 65,
+"owner": 1
+},
+"Ankang": {
+"x": 32,
+"y": 45,
+"owner": 1
+},
+"Lanzhou": {
+"x": 20,
+"y": 59,
+"owner": 1
+},
+"Tianshui": {
+"x": 24,
+"y": 53,
+"owner": 1
+},
+"Pingliang": {
+"x": 28,
+"y": 56,
+"owner": 1
+},
+"Wuwei": {
+"x": 19,
+"y": 66,
+"owner": 1
+},
+"Zhangye": {
+"x": 14,
+"y": 70,
+"owner": 1
+},
+"Wudu": {
+"x": 23,
+"y": 48,
+"owner": 1
+},
+"Ningxia": {
+"x": 27,
+"y": 66,
+"owner": 1
+},
+"Jinan": {
+"x": 53,
+"y": 59,
+"owner": 1
+},
+"Jining": {
+"x": 52,
+"y": 54,
+"owner": 1
+},
+"Linqing": {
+"x": 50,
+"y": 58,
+"owner": 1
+},
+"Taiyuan": {
+"x": 42,
+"y": 63,
+"owner": 2
+},
+"Datong": {
+"x": 44,
+"y": 71,
+"owner": 2
+},
+"Linfen": {
+"x": 39,
+"y": 57,
+"owner": 2
+},
+"Yuncheng": {
+"x": 38,
+"y": 53,
+"owner": 2
+},
+"Changzhi": {
+"x": 44,
+"y": 58,
+"owner": 2
+},
+"Fenyang": {
+"x": 40,
+"y": 61,
+"owner": 2
+},
+"Shuozhou": {
+"x": 42,
+"y": 68,
+"owner": 2
+},
+"Beiping": {
+"x": 52,
+"y": 70,
+"owner": 2
+},
+"Tianjin": {
+"x": 53,
+"y": 67,
+"owner": 2
+},
+"Baoding": {
+"x": 49,
+"y": 67,
+"owner": 2
+},
+"Shijiazhuang": {
+"x": 47,
+"y": 64,
+"owner": 2
+},
+"Shunde": {
+"x": 47,
+"y": 60,
+"owner": 2
+},
+"Tangshan": {
+"x": 55,
+"y": 69,
+"owner": 2
+},
+"Shanhaiguan": {
+"x": 59,
+"y": 71,
+"owner": 2
+},
+"Zhangjiakou": {
+"x": 48,
+"y": 74,
+"owner": 2
+},
+"Duolun": {
+"x": 50,
+"y": 79,
+"owner": 2
+},
+"Guisui": {
+"x": 41,
+"y": 74,
+"owner": 2
+},
+"Baotou": {
+"x": 36,
+"y": 73,
+"owner": 2
+},
+"Wuyuan": {
+"x": 32,
+"y": 75,
+"owner": 2
+},
+"Bailingmiao": {
+"x": 37,
+"y": 77,
+"owner": 2
+},
+"Pangjiang": {
+"x": 45,
+"y": 80,
+"owner": 2
+},
+"Mukden": {
+"x": 68,
+"y": 78,
+"owner": 3
+},
+"Harbin": {
+"x": 73,
+"y": 93,
+"owner": 3
+},
+"Changchun": {
+"x": 71,
+"y": 86,
+"owner": 3
+},
+"Jilin": {
+"x": 74,
+"y": 86,
+"owner": 3
+},
+"Qiqihar": {
+"x": 67,
+"y": 98,
+"owner": 3
+},
+"Hailar": {
+"x": 58,
+"y": 104,
+"owner": 3
+},
+"Manzhouli": {
+"x": 53,
+"y": 105,
+"owner": 3
+},
+"Jiamusi": {
+"x": 81,
+"y": 98,
+"owner": 3
+},
+"Ningguta": {
+"x": 80,
+"y": 89,
+"owner": 3
+},
+"Suifenhe": {
+"x": 84,
+"y": 90,
+"owner": 3
+},
+"Yanji": {
+"x": 81,
+"y": 84,
+"owner": 3
+},
+"Tonghua": {
+"x": 73,
+"y": 78,
+"owner": 3
+},
+"Andong": {
+"x": 70,
+"y": 72,
+"owner": 3
+},
+"Yingkou": {
+"x": 65,
+"y": 74,
+"owner": 3
+},
+"Jinzhou": {
+"x": 62,
+"y": 75,
+"owner": 3
+},
+"Taonan": {
+"x": 65,
+"y": 91,
+"owner": 3
+},
+"Liaoyuan": {
+"x": 71,
+"y": 82,
+"owner": 3
+},
+"Chengde": {
+"x": 55,
+"y": 74,
+"owner": 3
+},
+"Chifeng": {
+"x": 57,
+"y": 79,
+"owner": 3
+},
+"Tongliao": {
+"x": 65,
+"y": 84,
+"owner": 3
+},
+"Fuxin": {
+"x": 63,
+"y": 79,
+"owner": 3
+},
+"Hailun": {
+"x": 73,
+"y": 99,
+"owner": 3
+},
+"Fujin": {
+"x": 84,
+"y": 100,
+"owner": 3
+},
+"Lingyuan": {
+"x": 58,
+"y": 75,
+"owner": 3
+},
+"Zhuanghe": {
+"x": 67,
+"y": 70,
+"owner": 3
+},
+"Dunhua": {
+"x": 77,
+"y": 85,
+"owner": 3
+},
+"Nanning": {
+"x": 29,
+"y": 10,
+"owner": 4
+},
+"Guilin": {
+"x": 35,
+"y": 18,
+"owner": 4
+},
+"Wuzhou": {
+"x": 37,
+"y": 11,
+"owner": 4
+},
+"Liuzhou": {
+"x": 32,
+"y": 15,
+"owner": 4
+},
+"Baise": {
+"x": 24,
+"y": 14,
+"owner": 4
+},
+"Longzhou": {
+"x": 25,
+"y": 8,
+"owner": 4
+},
+"Hechi": {
+"x": 29,
+"y": 16,
+"owner": 4
+},
+"Hezhou": {
+"x": 38,
+"y": 15,
+"owner": 4
+},
+"Hankou": {
+"x": 46,
+"y": 37,
+"owner": 4
+},
+"Yichang": {
+"x": 38,
+"y": 37,
+"owner": 4
+},
+"Xiangyang": {
+"x": 41,
+"y": 42,
+"owner": 4
+},
+"Macheng": {
+"x": 48,
+"y": 39,
+"owner": 4
+},
+"Suizhou": {
+"x": 44,
+"y": 40,
+"owner": 4
+},
+"Yunyang": {
+"x": 37,
+"y": 45,
+"owner": 4
+},
+"Enshi": {
+"x": 34,
+"y": 36,
+"owner": 4
+},
+"Daye": {
+"x": 48,
+"y": 35,
+"owner": 4
+},
+"Puqi": {
+"x": 45,
+"y": 33,
+"owner": 4
+},
+"Jinggangshan": {
+"x": 46,
+"y": 22,
+"owner": 5
+},
+"Hengfeng": {
+"x": 55,
+"y": 29,
+"owner": 5
+},
+"Dairen": {
+"x": 63,
+"y": 67,
+"owner": 32
+},
+"Vladivostok": {
+"x": 86,
+"y": 86,
+"owner": 33
+},
+"Ulan Bator": {
+"x": 31,
+"y": 100,
+"owner": 34
+},
+"Chengdu": {
+"x": 19,
+"y": 39,
+"owner": 35
+},
+"Chongqing": {
+"x": 26,
+"y": 34,
+"owner": 36
+},
+"Kunming": {
+"x": 13,
+"y": 19,
+"owner": 37
+},
+"Guiyang": {
+"x": 25,
+"y": 23,
+"owner": 38
+},
+"Canton": {
+"x": 43,
+"y": 10,
+"owner": 39
+},
+"Xining": {
+"x": 15,
+"y": 61,
+"owner": 40
+},
+"Hong Kong": {
+"x": 45,
+"y": 7,
+"owner": 41
+},
+"Macau": {
+"x": 43,
+"y": 7,
+"owner": 42
+},
+"Weihaiwei": {
+"x": 66,
+"y": 62,
+"owner": 43
+},
+"Hanoi": {
+"x": 21,
+"y": 4,
+"owner": 44
+},
+"Seoul": {
+"x": 77,
+"y": 64,
+"owner": 32
+},
+"Pyongyang": {
+"x": 73,
+"y": 69,
+"owner": 32
+},
+"Busan": {
+"x": 83,
+"y": 56,
+"owner": 32
+},
+"Hamhung": {
+"x": 78,
+"y": 72,
+"owner": 32
+},
+"Chongjin": {
+"x": 82,
+"y": 80,
+"owner": 32
+},
+"Mokpo": {
+"x": 76,
+"y": 53,
+"owner": 32
+},
+"Taipei": {
+"x": 66,
+"y": 17,
+"owner": 32
+},
+"Tainan": {
+"x": 63,
+"y": 10,
+"owner": 32
+},
+"Taichung": {
+"x": 64,
+"y": 14,
+"owner": 32
+},
+"Fukuoka": {
+"x": 87,
+"y": 51,
+"owner": 32
+},
+"Nagasaki": {
+"x": 87,
+"y": 47,
+"owner": 32
+},
+"Kagoshima": {
+"x": 88,
+"y": 43,
+"owner": 32
+},
+"Naha": {
+"x": 84,
+"y": 25,
+"owner": 32
+},
+"Hiroshima": {
+"x": 92,
+"y": 54,
+"owner": 32
+},
+"Matsue": {
+"x": 93,
+"y": 58,
+"owner": 32
+},
+"Khabarovsk": {
+"x": 90,
+"y": 106,
+"owner": 33
+},
+"Blagoveshchensk": {
+"x": 74,
+"y": 109,
+"owner": 33
+},
+"Nikolsk-Ussuriysky": {
+"x": 86,
+"y": 89,
+"owner": 33
+},
+"Iman": {
+"x": 89,
+"y": 96,
+"owner": 33
+},
+"Bayan Tumen": {
+"x": 47,
+"y": 100,
+"owner": 34
+},
+"Sainshand": {
+"x": 37,
+"y": 89,
+"owner": 34
+},
+"Mandalgovi": {
+"x": 29,
+"y": 93,
+"owner": 34
+},
+"Undurkhaan": {
+"x": 39,
+"y": 97,
+"owner": 34
+},
+"Dalanzadgad": {
+"x": 24,
+"y": 85,
+"owner": 34
+},
+"Arvaikheer": {
+"x": 22,
+"y": 95,
+"owner": 34
+},
+"Bulgan": {
+"x": 25,
+"y": 104,
+"owner": 34
+},
+"Baruun-Urt": {
+"x": 44,
+"y": 95,
+"owner": 34
+},
+"Leshan": {
+"x": 18,
+"y": 35,
+"owner": 35
+},
+"Guangyuan": {
+"x": 24,
+"y": 45,
+"owner": 35
+},
+"Kangding": {
+"x": 12,
+"y": 37,
+"owner": 35
+},
+"Songpan": {
+"x": 18,
+"y": 46,
+"owner": 35
+},
+"Xichang": {
+"x": 14,
+"y": 29,
+"owner": 35
+},
+"Wanxian": {
+"x": 31,
+"y": 38,
+"owner": 36
+},
+"Luzhou": {
+"x": 22,
+"y": 32,
+"owner": 36
+},
+"Nanchong": {
+"x": 24,
+"y": 39,
+"owner": 36
+},
+"Bazhong": {
+"x": 27,
+"y": 42,
+"owner": 36
+},
+"Youyang": {
+"x": 31,
+"y": 31,
+"owner": 36
+},
+"Gejiu": {
+"x": 14,
+"y": 13,
+"owner": 37
+},
+"Dali": {
+"x": 7,
+"y": 22,
+"owner": 37
+},
+"Zhaotong": {
+"x": 17,
+"y": 27,
+"owner": 37
+},
+"Qujing": {
+"x": 17,
+"y": 20,
+"owner": 37
+},
+"Lijiang": {
+"x": 8,
+"y": 27,
+"owner": 37
+},
+"Simao": {
+"x": 8,
+"y": 12,
+"owner": 37
+},
+"Baoshan": {
+"x": 4,
+"y": 19,
+"owner": 37
+},
+"Zunyi": {
+"x": 26,
+"y": 27,
+"owner": 38
+},
+"Tongren": {
+"x": 32,
+"y": 27,
+"owner": 38
+},
+"Bijie": {
+"x": 22,
+"y": 26,
+"owner": 38
+},
+"Xingyi": {
+"x": 20,
+"y": 18,
+"owner": 38
+},
+"Liping": {
+"x": 32,
+"y": 22,
+"owner": 38
+},
+"Shantou": {
+"x": 52,
+"y": 11,
+"owner": 39
+},
+"Meixian": {
+"x": 51,
+"y": 15,
+"owner": 39
+},
+"Shaoguan": {
+"x": 44,
+"y": 16,
+"owner": 39
+},
+"Gaozhou": {
+"x": 36,
+"y": 6,
+"owner": 39
+},
+"Beihai": {
+"x": 30,
+"y": 5,
+"owner": 39
+},
+"Heyuan": {
+"x": 47,
+"y": 12,
+"owner": 39
+},
+"Shanwei": {
+"x": 49,
+"y": 9,
+"owner": 39
+},
+"Yangjiang": {
+"x": 39,
+"y": 5,
+"owner": 39
+},
+"Haiphong": {
+"x": 23,
+"y": 3,
+"owner": 44
+},
+"Lao Cai": {
+"x": 17,
+"y": 9,
+"owner": 44
+},
+"Cao Bang": {
+"x": 23,
+"y": 10,
+"owner": 44
+},
+"Fort-Bayard": {
+"x": 34,
+"y": 3,
+"owner": 44
+},
+"Phongsaly": {
+"x": 10,
+"y": 7,
+"owner": 44
+},
+"Mong Cai": {
+"x": 26,
+"y": 5,
+"owner": 44
+},
+"Son La": {
+"x": 15,
+"y": 5,
+"owner": 44
+}
+}
+}

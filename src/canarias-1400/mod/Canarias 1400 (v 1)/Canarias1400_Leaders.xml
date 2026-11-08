@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Canarias 1400: generated leader art wired in (Firaxis Civil War technique): static scenes, portrait atlas, civ symbols, Dawn of Man images. -->
+<GameData>
+  <IconTextureAtlases>
+    <Row><Atlas>CAN1400_LEADER_ATLAS</Atlas><IconSize>256</IconSize><Filename>CAN1400_Leaders256.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_LEADER_ATLAS</Atlas><IconSize>128</IconSize><Filename>CAN1400_Leaders128.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_LEADER_ATLAS</Atlas><IconSize>64</IconSize><Filename>CAN1400_Leaders64.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_CIV_COLOR_ATLAS</Atlas><IconSize>256</IconSize><Filename>CAN1400_CivColor256.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_CIV_COLOR_ATLAS</Atlas><IconSize>128</IconSize><Filename>CAN1400_CivColor128.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_CIV_COLOR_ATLAS</Atlas><IconSize>80</IconSize><Filename>CAN1400_CivColor80.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_CIV_COLOR_ATLAS</Atlas><IconSize>64</IconSize><Filename>CAN1400_CivColor64.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_CIV_COLOR_ATLAS</Atlas><IconSize>45</IconSize><Filename>CAN1400_CivColor45.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_CIV_COLOR_ATLAS</Atlas><IconSize>32</IconSize><Filename>CAN1400_CivColor32.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_CIV_ALPHA_ATLAS</Atlas><IconSize>128</IconSize><Filename>CAN1400_CivWhite128.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_CIV_ALPHA_ATLAS</Atlas><IconSize>64</IconSize><Filename>CAN1400_CivWhite64.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_CIV_ALPHA_ATLAS</Atlas><IconSize>48</IconSize><Filename>CAN1400_CivWhite48.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_CIV_ALPHA_ATLAS</Atlas><IconSize>32</IconSize><Filename>CAN1400_CivWhite32.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_CIV_ALPHA_ATLAS</Atlas><IconSize>24</IconSize><Filename>CAN1400_CivWhite24.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_CIV_ALPHA_ATLAS</Atlas><IconSize>16</IconSize><Filename>CAN1400_CivWhite16.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+  </IconTextureAtlases>
+  <Leaders>
+    <Update><Where Type="LEADER_POCATELLO" /><Set ArtDefineTag="CAN1400_TENERIFE_Scene.xml" PortraitIndex="0" IconAtlas="CAN1400_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_RAMESSES" /><Set ArtDefineTag="CAN1400_GRANCANARIA_Scene.xml" PortraitIndex="1" IconAtlas="CAN1400_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_SELASSIE" /><Set ArtDefineTag="CAN1400_LAPALMA_Scene.xml" PortraitIndex="2" IconAtlas="CAN1400_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_PACHACUTI" /><Set ArtDefineTag="CAN1400_LAGOMERA_Scene.xml" PortraitIndex="3" IconAtlas="CAN1400_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_BOUDICCA" /><Set ArtDefineTag="CAN1400_ELHIERRO_Scene.xml" PortraitIndex="4" IconAtlas="CAN1400_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_AHMAD_ALMANSUR" /><Set ArtDefineTag="CAN1400_FUERTEVENTURA_Scene.xml" PortraitIndex="5" IconAtlas="CAN1400_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_DIDO" /><Set ArtDefineTag="CAN1400_LANZAROTE_Scene.xml" PortraitIndex="6" IconAtlas="CAN1400_LEADER_ATLAS" /></Update>
+  </Leaders>
+  <Civilizations>
+    <Update><Where Type="CIVILIZATION_SHOSHONE" /><Set PortraitIndex="0" IconAtlas="CAN1400_CIV_COLOR_ATLAS" AlphaIconAtlas="CAN1400_CIV_ALPHA_ATLAS" DawnOfManImage="CAN1400_DOM_TENERIFE.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_EGYPT" /><Set PortraitIndex="1" IconAtlas="CAN1400_CIV_COLOR_ATLAS" AlphaIconAtlas="CAN1400_CIV_ALPHA_ATLAS" DawnOfManImage="CAN1400_DOM_GRANCANARIA.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_ETHIOPIA" /><Set PortraitIndex="2" IconAtlas="CAN1400_CIV_COLOR_ATLAS" AlphaIconAtlas="CAN1400_CIV_ALPHA_ATLAS" DawnOfManImage="CAN1400_DOM_LAPALMA.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_INCA" /><Set PortraitIndex="3" IconAtlas="CAN1400_CIV_COLOR_ATLAS" AlphaIconAtlas="CAN1400_CIV_ALPHA_ATLAS" DawnOfManImage="CAN1400_DOM_LAGOMERA.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_CELTS" /><Set PortraitIndex="4" IconAtlas="CAN1400_CIV_COLOR_ATLAS" AlphaIconAtlas="CAN1400_CIV_ALPHA_ATLAS" DawnOfManImage="CAN1400_DOM_ELHIERRO.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_MOROCCO" /><Set PortraitIndex="5" IconAtlas="CAN1400_CIV_COLOR_ATLAS" AlphaIconAtlas="CAN1400_CIV_ALPHA_ATLAS" DawnOfManImage="CAN1400_DOM_FUERTEVENTURA.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_CARTHAGE" /><Set PortraitIndex="6" IconAtlas="CAN1400_CIV_COLOR_ATLAS" AlphaIconAtlas="CAN1400_CIV_ALPHA_ATLAS" DawnOfManImage="CAN1400_DOM_LANZAROTE.dds" /></Update>
+  </Civilizations>
+  <IconTextureAtlases>
+    <Row><Atlas>CAN1400_UNIT_ATLAS</Atlas><IconSize>256</IconSize><Filename>CAN1400_Units256.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_UNIT_ATLAS</Atlas><IconSize>128</IconSize><Filename>CAN1400_Units128.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_UNIT_ATLAS</Atlas><IconSize>80</IconSize><Filename>CAN1400_Units80.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_UNIT_ATLAS</Atlas><IconSize>64</IconSize><Filename>CAN1400_Units64.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_UNIT_ATLAS</Atlas><IconSize>45</IconSize><Filename>CAN1400_Units45.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_UNIT_ATLAS</Atlas><IconSize>32</IconSize><Filename>CAN1400_Units32.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_UNIT_FLAG_ATLAS</Atlas><IconSize>32</IconSize><Filename>CAN1400_UnitFlags32.dds</Filename><IconsPerRow>7</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_BUILDING_ATLAS</Atlas><IconSize>256</IconSize><Filename>CAN1400_Buildings256.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_BUILDING_ATLAS</Atlas><IconSize>128</IconSize><Filename>CAN1400_Buildings128.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_BUILDING_ATLAS</Atlas><IconSize>64</IconSize><Filename>CAN1400_Buildings64.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_BUILDING_ATLAS</Atlas><IconSize>45</IconSize><Filename>CAN1400_Buildings45.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+  </IconTextureAtlases>
+  <Units>
+    <Update><Where Type="UNIT_CAN1400_SIGONE" /><Set PortraitIndex="0" IconAtlas="CAN1400_UNIT_ATLAS" UnitFlagAtlas="CAN1400_UNIT_FLAG_ATLAS" UnitFlagIconOffset="0" /></Update>
+    <Update><Where Type="UNIT_CAN1400_TIRADOR" /><Set PortraitIndex="1" IconAtlas="CAN1400_UNIT_ATLAS" UnitFlagAtlas="CAN1400_UNIT_FLAG_ATLAS" UnitFlagIconOffset="1" /></Update>
+    <Update><Where Type="UNIT_CAN1400_MAGADO" /><Set PortraitIndex="2" IconAtlas="CAN1400_UNIT_ATLAS" UnitFlagAtlas="CAN1400_UNIT_FLAG_ATLAS" UnitFlagIconOffset="2" /></Update>
+    <Update><Where Type="UNIT_CAN1400_SILBADOR" /><Set PortraitIndex="3" IconAtlas="CAN1400_UNIT_ATLAS" UnitFlagAtlas="CAN1400_UNIT_FLAG_ATLAS" UnitFlagIconOffset="3" /></Update>
+    <Update><Where Type="UNIT_CAN1400_MARISCADOR" /><Set PortraitIndex="4" IconAtlas="CAN1400_UNIT_ATLAS" UnitFlagAtlas="CAN1400_UNIT_FLAG_ATLAS" UnitFlagIconOffset="4" /></Update>
+    <Update><Where Type="UNIT_CAN1400_AHEPA" /><Set PortraitIndex="5" IconAtlas="CAN1400_UNIT_ATLAS" UnitFlagAtlas="CAN1400_UNIT_FLAG_ATLAS" UnitFlagIconOffset="5" /></Update>
+    <Update><Where Type="UNIT_CAN1400_GUARDIA" /><Set PortraitIndex="6" IconAtlas="CAN1400_UNIT_ATLAS" UnitFlagAtlas="CAN1400_UNIT_FLAG_ATLAS" UnitFlagIconOffset="6" /></Update>
+  </Units>
+  <Buildings>
+    <Update><Where Type="BUILDING_CAN1400_TAGOROR" /><Set PortraitIndex="0" IconAtlas="CAN1400_BUILDING_ATLAS" /></Update>
+    <Update><Where Type="BUILDING_CAN1400_CENOBIO" /><Set PortraitIndex="1" IconAtlas="CAN1400_BUILDING_ATLAS" /></Update>
+    <Update><Where Type="BUILDING_CAN1400_CUEVAS" /><Set PortraitIndex="2" IconAtlas="CAN1400_BUILDING_ATLAS" /></Update>
+    <Update><Where Type="BUILDING_CAN1400_ARANFAYBO" /><Set PortraitIndex="3" IconAtlas="CAN1400_BUILDING_ATLAS" /></Update>
+    <Update><Where Type="BUILDING_CAN1400_GAMBUESA" /><Set PortraitIndex="4" IconAtlas="CAN1400_BUILDING_ATLAS" /></Update>
+    <Update><Where Type="BUILDING_CAN1400_MARETA" /><Set PortraitIndex="5" IconAtlas="CAN1400_BUILDING_ATLAS" /></Update>
+  </Buildings>
+  <IconTextureAtlases>
+    <Row><Atlas>CAN1400_RELIGION_ATLAS</Atlas><IconSize>128</IconSize><Filename>CAN1400_Religions128.dds</Filename><IconsPerRow>13</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_RELIGION_ATLAS</Atlas><IconSize>80</IconSize><Filename>CAN1400_Religions80.dds</Filename><IconsPerRow>13</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_RELIGION_ATLAS</Atlas><IconSize>64</IconSize><Filename>CAN1400_Religions64.dds</Filename><IconsPerRow>13</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_RELIGION_ATLAS</Atlas><IconSize>48</IconSize><Filename>CAN1400_Religions48.dds</Filename><IconsPerRow>13</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_RELIGION_ATLAS</Atlas><IconSize>32</IconSize><Filename>CAN1400_Religions32.dds</Filename><IconsPerRow>13</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_RELIGION_ATLAS</Atlas><IconSize>24</IconSize><Filename>CAN1400_Religions24.dds</Filename><IconsPerRow>13</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>CAN1400_RELIGION_ATLAS</Atlas><IconSize>16</IconSize><Filename>CAN1400_Religions16.dds</Filename><IconsPerRow>13</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+  </IconTextureAtlases>
+  <Religions>
+    <Update><Where Type="RELIGION_BUDDHISM" /><Set PortraitIndex="0" IconAtlas="CAN1400_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_CHRISTIANITY" /><Set PortraitIndex="1" IconAtlas="CAN1400_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_CONFUCIANISM" /><Set PortraitIndex="2" IconAtlas="CAN1400_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_HINDUISM" /><Set PortraitIndex="3" IconAtlas="CAN1400_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_ISLAM" /><Set PortraitIndex="4" IconAtlas="CAN1400_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_JUDAISM" /><Set PortraitIndex="5" IconAtlas="CAN1400_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_SHINTO" /><Set PortraitIndex="6" IconAtlas="CAN1400_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_SIKHISM" /><Set PortraitIndex="7" IconAtlas="CAN1400_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_TAOISM" /><Set PortraitIndex="8" IconAtlas="CAN1400_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_TENGRIISM" /><Set PortraitIndex="9" IconAtlas="CAN1400_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_ZOROASTRIANISM" /><Set PortraitIndex="10" IconAtlas="CAN1400_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_ORTHODOXY" /><Set PortraitIndex="11" IconAtlas="CAN1400_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_PROTESTANTISM" /><Set PortraitIndex="12" IconAtlas="CAN1400_RELIGION_ATLAS" /></Update>
+  </Religions>
+</GameData>

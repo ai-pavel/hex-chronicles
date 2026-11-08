@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a7c1e5b2-1885-4d3f-9e8a-2b6c4d0f7a31" version="2">
+  <Properties>
+    <Name>Arcanum 1885</Name>
+    <Teaser>Empires of the Smoky Skies on the continent of Arcanum: Tarant, Caladon, Cumbria, the Wheel Clan and Vendigroth.</Teaser>
+    <Description>The steampunk rules, units and tech tree of Firaxis' Empires of the Smoky Skies scenario on a 92x112 hex map of Arcanum (Arcanum: Of Steamworks and Magick Obscura). Five nations start in 1885 with a Settler and a guard at their lore capitals; ten free cities (Qintarra, Ashbury, Black Root, Stillwater, Shrouded Hills, Roseborough, Tulla, the Isle of Despair, Bedokaan, T'sen-Ang) are city-states; twelve natural wonders stand at lore sites. Raging barbarians, Quick speed, one turn per year, no religion, no turn limit. Win by domination, culture or diplomacy. Start it from Mods, Single Player, Scenarios.</Description>
+    <Authors>cryptoboy2283</Authors>
+    <SpecialThanks>Firaxis Games (Empires of the Smoky Skies), Troika Games (Arcanum), Civ5MapImage</SpecialThanks>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadLeaderSystem>1</ReloadLeaderSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="6F15F391B7D8173551AF52EB1BC1F5AE" import="0">ScenarioText.sql</File>
+    <File md5="FEC0A4A4DC2E1F5CEF8C95CE9D6A1509" import="0">NewCivilizations.xml</File>
+    <File md5="A82C0479F96E08957FE09E3B6DBB59D7" import="0">NewMajorCivCities.xml</File>
+    <File md5="D4BB1ADBB447272360625480812B2215" import="0">RemoveModernEras.xml</File>
+    <File md5="E6906304D70D375C5021F5D88D668BC8" import="0">TechTreeUpdate.xml</File>
+    <File md5="98470181169F4A5463375D78C7E344CE" import="0">PolicyUpdate.xml</File>
+    <File md5="928CE2112AE1324E5118F70733BF9B6F" import="1">Alderdice_Scenario_Scene.xml</File>
+    <File md5="54A193604FFEC27C2265B46D59654E3D" import="1">Curnow_Scenario_Scene.xml</File>
+    <File md5="B813A8F09E63643A456B0ECBA6AA9941" import="1">Cutler_Scenario_Scene.xml</File>
+    <File md5="94690DD250CC8C0B781DAAE021CE35A2" import="1">Griggs_Scenario_Scene.xml</File>
+    <File md5="3785E1FABCFB6645AA8DBABD1A5BA3F9" import="1">Roffenburg_Scenario_Scene.xml</File>
+    <File md5="EA6C32048D9C1B4EEC0F54F8BCAD659A" import="0">Arcanum1885LoadScreen.lua</File>
+    <File md5="411B88D84703C5F157D4D0333518BD37" import="0">Arcanum1885LoadScreen.xml</File>
+    <File md5="782113310276FA4F1A9675DF33912BE2" import="0">Arcanum1885_Setup.lua</File>
+    <File md5="D98E9CD9C97D24981A04365407C8913F" import="0">Arcanum1885_Setup.xml</File>
+    <File md5="76FE9EA61DC9494CF3E1F668FDD90AD4" import="0">Arcanum1885_PreTech.xml</File>
+    <File md5="6F9231A3B4ED2519BFDE0489A5303C1E" import="0">Arcanum1885_PrePolicy.xml</File>
+    <File md5="BE4D4855265A28E7B1B3C173211F5216" import="0">Arcanum1885_PostPolicy.sql</File>
+    <File md5="F233551E5B3C1B632A7476EFDAD4E478" import="0">Arcanum1885_Rules.xml</File>
+    <File md5="19AF94C71147EA7F48FC51365887BB50" import="0">Arcanum1885_Text.xml</File>
+    <File md5="9E7FC7529488308252E729553C1CAFC6" import="1">SocialPolicyPopup.lua</File>
+    <File md5="E0237374732DEF0EA6E183491623A1A4" import="1">SocialPolicyPopup.xml</File>
+    <File md5="05D1C0099CB08406D035E2356B209F69" import="1">Arcanum1885.Civ5Map</File>
+    <File md5="72AAF6942654A4D94705B239A4AEDAAF" import="0">CREDITS.txt</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>ScenarioText.sql</UpdateDatabase>
+      <UpdateDatabase>NewCivilizations.xml</UpdateDatabase>
+      <UpdateDatabase>NewMajorCivCities.xml</UpdateDatabase>
+      <UpdateDatabase>RemoveModernEras.xml</UpdateDatabase>
+      <UpdateDatabase>Arcanum1885_PreTech.xml</UpdateDatabase>
+      <UpdateDatabase>TechTreeUpdate.xml</UpdateDatabase>
+      <UpdateDatabase>Arcanum1885_PrePolicy.xml</UpdateDatabase>
+      <UpdateDatabase>PolicyUpdate.xml</UpdateDatabase>
+      <UpdateDatabase>Arcanum1885_PostPolicy.sql</UpdateDatabase>
+      <UpdateDatabase>Arcanum1885_Rules.xml</UpdateDatabase>
+      <UpdateDatabase>Arcanum1885_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="Custom" file="Arcanum1885LoadScreen.xml">
+      <Name>Arcanum 1885</Name>
+      <Description>Steam against magick on the continent of Arcanum. Choose your nation and difficulty.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Arcanum1885_Setup.xml">
+      <Name>Arcanum 1885 setup</Name>
+      <Description>On turn 1: more resources (strategic deposits doubled and topped up, iron, coal and horses near every start, more luxuries) and the five policy branches opened for every nation.</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

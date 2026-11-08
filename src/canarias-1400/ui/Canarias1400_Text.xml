@@ -1,0 +1,1602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Canarias 1400: the seven native peoples on their donor civilizations, natural wonders, load screen (EN + RU). -->
+<GameData>
+  <Language_en_US>
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO" Text="Bencomo" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_PEDIA" Text="Bencomo (c. 1438-1494) was mencey of Taoro, the richest of the nine Guanche kingdoms of Tenerife, and the soul of the resistance to the Castilian conquest. In May 1494 his warriors ambushed Alonso Fernandez de Lugo&#x27;s army in the ravine of Acentejo and destroyed it, the worst defeat the conquerors suffered in the Canaries.[NEWLINE][NEWLINE]He fell in November of the same year at the battle of Aguere, when Lugo returned with a larger army. Tenerife, the last island to resist, submitted in 1496. The scenario places him a century early, as the embodiment of the Guanche menceys." />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_DESC" Text="The Menceyatos of Tenerife" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_SHORT_DESC" Text="Guanches" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_ADJECTIVE" Text="Guanche" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_SHOSHONE_TEXT" Text="Bencomo, mencey of Taoro, the greatest of the nine kingdoms of Achinet. Your people climbed out of their caves to pasture goats under the white peak of Echeyde, where the evil one is chained and the sacred mountain smokes. Nine menceys share the island; none of them is your equal.[NEWLINE][NEWLINE]The island is large, the valleys of the north are green, and the summit belongs to the gods. Unite the menceyatos under Taoro, fill the ravines with herds and tagoror councils, and when strangers one day come out of the sea, let them learn what the Guanches did to the invaders at Acentejo." />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE_SHORT" Text="Spirit of Achinet" />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE" Text="Founded cities start with additional territory. Units receive +15% [ICON_STRENGTH] Combat Strength when fighting inside Guanche territory." />
+    <Replace Tag="TXT_KEY_CAN1400_BLURB_TENERIFE" Text="Bencomo, mencey of Taoro, the greatest of the nine kingdoms of Achinet. Your people climbed out of their caves to pasture goats under the white peak of Echeyde, where the evil one is chained and the sacred mountain smokes. Nine menceys share the island; none of them is your equal.[NEWLINE][NEWLINE]The island is large, the valleys of the north are green, and the summit belongs to the gods. Unite the menceyatos under Taoro, fill the ravines with herds and tagoror councils, and when strangers one day come out of the sea, let them learn what the Guanches did to the invaders at Acentejo." />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_0" Text="Taoro" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_1" Text="Guimar" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_2" Text="Abona" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_3" Text="Anaga" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_4" Text="Tegueste" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_5" Text="Tacoronte" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_6" Text="Icod" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_7" Text="Daute" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_8" Text="Adeje" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_9" Text="Achinet" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_10" Text="Chasna" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_11" Text="Tegueste Alto" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_1" Text="You strike at Taoro? Every ravine on this island will fight you." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_2" Text="The menceys are united now. You did that." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_3" Text="Achaman sees this treachery. Prepare yourself." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_1" Text="You have chosen the ravines of Achinet for your grave. So be it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_2" Text="The Guanches do not start wars. We finish them." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_3" Text="Then come. Acentejo is waiting." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_1" Text="Taoro falls. Achinet does not forget." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_2" Text="You hold the valleys. You will never hold the mountain." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_3" Text="Our mummies will outlast your banners." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_ANGRY" Text="Tribute. Now." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_HAPPY" Text="Pay, and the warriors stay home." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_NEUTRAL" Text="The menceyatos require a gift. Give it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_1" Text="I am Bencomo, mencey of Taoro. You stand on Achinet, the island of Echeyde. State your purpose." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_2" Text="Welcome to Taoro. The mountain watches us both." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_3" Text="A stranger on the island. Speak, and speak truthfully." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_1" Text="Go with Achaman." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_2" Text="Until the next council." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_3" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_4" Text="Go with Achaman." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_5" Text="Until the next council." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_6" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_1" Text="The tagoror is in session. Speak." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_2" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_3" Text="Taoro hears you." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_4" Text="The tagoror is in session. Speak." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_5" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_6" Text="Taoro hears you." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_2" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_3" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_5" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_1" Text="Enough. Let the goats graze in peace." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_2" Text="A truce, then." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_ANGRY" Text="A proposal between neighbours." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_HAPPY" Text="Consider this exchange." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_NEUTRAL" Text="Here is what Taoro offers." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_HAPPY" Text="Taoro refuses." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_NEUTRAL" Text="No. That is not an exchange, that is a theft." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_HAPPY" Text="Yes. Taoro accepts." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_NEUTRAL" Text="Agreed. A fair exchange." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_ANGRY" Text="Taoro pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_HAPPY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_NEUTRAL" Text="Taoro pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_1" Text="Do not threaten Taoro." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_2" Text="Careful, stranger." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_1" Text="The island is ours again. Remember this." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_2" Text="Go home. Achinet has spoken." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES" Text="Tenesor Semidan" />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_PEDIA" Text="Tenesor Semidan (died c. 1496) was the last guanarteme of Galdar, the northern kingdom of Gran Canaria. Captured in 1482 and taken to Castile, he was baptised as Fernando Guanarteme and returned to persuade his people to end a resistance that had lasted five years; he later fought beside the Castilians on Tenerife.[NEWLINE][NEWLINE]Pre-conquest Gran Canaria was the most stratified society of the islands: a king, a high priest, a council of nobles, collective granaries such as the Cenobio de Valeron and the painted cave of Galdar. The scenario borrows his name for the island&#x27;s rulers a century earlier." />
+    <Replace Tag="TXT_KEY_CIV_EGYPT_DESC" Text="The Guanartemato of Tamaran" />
+    <Replace Tag="TXT_KEY_CIV_EGYPT_SHORT_DESC" Text="Canarii" />
+    <Replace Tag="TXT_KEY_CIV_EGYPT_ADJECTIVE" Text="Canarian" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_EGYPT_TEXT" Text="Tenesor Semidan, guanarteme of Agaldar, lord of the most populous and most ordered of the islands. Your people carve granaries into the cliffs, paint their caves in red and white, raise their dead on stone platforms and plant barley on terraces that climb to Roque Nublo, the sacred rock at the heart of Tamaran.[NEWLINE][NEWLINE]Telde in the east and Agaldar in the north have shared the island too long. Bring the faycan priests and the guayres under one guanarteme, build what no other island can build, and make the Canarii the people the archipelago is named after." />
+    <Replace Tag="TXT_KEY_TRAIT_WONDER_BUILDER_SHORT" Text="Granaries of Valeron" />
+    <Replace Tag="TXT_KEY_TRAIT_WONDER_BUILDER" Text="+20% [ICON_PRODUCTION] Production towards Wonder construction." />
+    <Replace Tag="TXT_KEY_CAN1400_BLURB_GRANCANARIA" Text="Tenesor Semidan, guanarteme of Agaldar, lord of the most populous and most ordered of the islands. Your people carve granaries into the cliffs, paint their caves in red and white, raise their dead on stone platforms and plant barley on terraces that climb to Roque Nublo, the sacred rock at the heart of Tamaran.[NEWLINE][NEWLINE]Telde in the east and Agaldar in the north have shared the island too long. Bring the faycan priests and the guayres under one guanarteme, build what no other island can build, and make the Canarii the people the archipelago is named after." />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_0" Text="Agaldar" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_1" Text="Telde" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_2" Text="Arehucas" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_3" Text="Tejeda" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_4" Text="Aguimes" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_5" Text="Tirajana" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_6" Text="Arguineguin" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_7" Text="Artenara" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_8" Text="Moya" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_9" Text="Tamaran" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_10" Text="Satautey" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_11" Text="Gando" />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_6" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_7" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_1" Text="You attack the Canarii? The whole island rises against you." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_2" Text="Agaldar remembers insults for a long time." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_3" Text="So. The faycan warned me of you." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_1" Text="The guayres have decided. It is war." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_2" Text="You leave Tamaran no choice." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_3" Text="Then the granaries will feed an army." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_1" Text="Tamaran falls. Spare the granaries; the people will need them." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_2" Text="You have the island. May it bring you as much joy as it brought me." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_3" Text="The caves will keep our paintings long after you are gone." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_ANGRY" Text="Tribute." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_HAPPY" Text="Pay, and keep the peace." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_NEUTRAL" Text="A gift for the guanarteme would be wise." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_2" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_5" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_1" Text="I am Tenesor Semidan, guanarteme of Agaldar, in the island of Tamaran. The Canarii welcome you." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_2" Text="You have reached Tamaran, the island of the Canarii. Speak." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_3" Text="A guest from across the water. Sit, and tell us of your island." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_1" Text="May your barley grow." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_2" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_3" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_4" Text="May your barley grow." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_5" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_6" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_7" Text="May your barley grow." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GREETING_1" Text="The guanarteme listens." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GREETING_2" Text="Speak, friend." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GREETING_3" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GREETING_4" Text="The guanarteme listens." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GREETING_5" Text="Speak, friend." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GREETING_6" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GREETING_7" Text="The guanarteme listens." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_7" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LOSEWAR_1" Text="Peace. The terraces need tending." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_ANGRY" Text="A proposal between neighbours." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_HAPPY" Text="Consider this." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_NEUTRAL" Text="An offer from Agaldar." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_ANGRY" Text="That will not do." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_HAPPY" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_NEUTRAL" Text="No. The Canarii are not fools." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_ANGRY" Text="Agaldar accepts." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_NEUTRAL" Text="A fair bargain. Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_HAPPY" Text="The Canarii pay nobody." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_1" Text="Do not test Tamaran." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_3" Text="Think again." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_4" Text="Do not test Tamaran." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_5" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_6" Text="Think again." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_WINWAR_1" Text="The island is at peace again." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE" Text="Tanausu" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_PEDIA" Text="Tanausu (died 1493) was the chief of Acero, the canton of the Caldera de Taburiente on La Palma, and the last Benahoarita leader to resist the Castilians. He held the caldera against Alonso Fernandez de Lugo until he was taken by treachery during a truce in May 1493.[NEWLINE][NEWLINE]Shipped to Castile, he refused all food and died at sea. The Benahoaritas were goat-herding cave dwellers organised in twelve cantons; their name for the island, Benahoare, means &#x27;my land&#x27;." />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_DESC" Text="The Cantons of Benahoare" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC" Text="Benahoaritas" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE" Text="Benahoarita" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ETHIOPIA_TEXT" Text="Tanausu, lord of Acero, the great caldera at the heart of Benahoare. Twelve cantons share the steepest island of the archipelago, and yours is the one nobody has ever taken: a fortress of cliffs and springs with a single entrance, where the Benahoaritas keep their herds and their freedom.[NEWLINE][NEWLINE]Your people are few and their island is a ladder of ravines. Make every ravine a wall, every spring a city, and let the bigger islands learn that numbers mean nothing on the slopes of the Caldera." />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT" Text="Lords of the Caldera" />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH" Text="+20% [ICON_STRENGTH] Combat Strength against civilizations with more cities than you." />
+    <Replace Tag="TXT_KEY_CAN1400_BLURB_LAPALMA" Text="Tanausu, lord of Acero, the great caldera at the heart of Benahoare. Twelve cantons share the steepest island of the archipelago, and yours is the one nobody has ever taken: a fortress of cliffs and springs with a single entrance, where the Benahoaritas keep their herds and their freedom.[NEWLINE][NEWLINE]Your people are few and their island is a ladder of ravines. Make every ravine a wall, every spring a city, and let the bigger islands learn that numbers mean nothing on the slopes of the Caldera." />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_0" Text="Aridane" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_1" Text="Acero" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_2" Text="Tedote" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_3" Text="Tihuya" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_4" Text="Tigalate" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_5" Text="Ahenguareme" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_6" Text="Tenagua" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_7" Text="Adeyahamen" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_8" Text="Tagaragre" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_9" Text="Tijarafe" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_10" Text="Guehebey" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_11" Text="Tamanca" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_3" Text="Fine." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_1" Text="You attack Benahoare? Count your men now; you will not be able to later." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_2" Text="The cantons are one now. Thank yourself for that." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_3" Text="Good. We have been waiting." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_1" Text="Come to the caldera, then. Nobody has left it alive." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_2" Text="War. The ravines will do the rest." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_3" Text="So be it. We have fought bigger." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_1" Text="You have taken the caldera. I will not eat your bread." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_2" Text="Benahoare is yours. The springs will outlive you." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_3" Text="You won by numbers. Remember that." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_ANGRY" Text="Tribute, or the ravines." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY" Text="Pay." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_NEUTRAL" Text="A gift would keep my warriors at home." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_3" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_6" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_1" Text="I am Tanausu, lord of Acero. You have found Benahoare. Few do." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_2" Text="Welcome to the island of ravines. Mind your step." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_3" Text="A stranger in the caldera. Speak quickly." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_1" Text="Go carefully. The paths are steep." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_2" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_3" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_4" Text="Go carefully. The paths are steep." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_5" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_6" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_2" Text="Acero listens." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_3" Text="Well?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_5" Text="Acero listens." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_6" Text="Well?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_2" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_3" Text="Listening." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_5" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_1" Text="Peace. The goats are hungry." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_2" Text="Enough." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_ANGRY" Text="An exchange between islands." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_HAPPY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_NEUTRAL" Text="Acero offers this." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_ANGRY" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_HAPPY" Text="That is no bargain." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_ANGRY" Text="Acero accepts." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_NEUTRAL" Text="Fair. Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_ANGRY" Text="Acero pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_HAPPY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_NEUTRAL" Text="Acero pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_ANGRY" Text="Take it and go." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_NEUTRAL" Text="Take it and go." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_1" Text="Threats? In my caldera?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_3" Text="Do not." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_1" Text="The island is free. Go." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_2" Text="Acero holds. It always holds." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI" Text="Hautacuperche" />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_PEDIA" Text="Hautacuperche (died 1488) was a Gomero of the canton of Mulagua who led the rebellion of 1488 against Hernan Peraza the Younger, the Castilian lord of La Gomera, killing him at the cave of Guahedum. The island had been nominally Castilian since the 1440s under a pact between the cantons and the Perazas.[NEWLINE][NEWLINE]The rising was crushed within weeks by Pedro de Vera; Hautacuperche died in the fighting and hundreds of Gomeros were executed or sold. The Gomeros&#x27; whistled language, the silbo, is still spoken on the island." />
+    <Replace Tag="TXT_KEY_CIV_INCA_DESC" Text="The Four Cantons of Gomera" />
+    <Replace Tag="TXT_KEY_CIV_INCA_SHORT_DESC" Text="Gomeros" />
+    <Replace Tag="TXT_KEY_CIV_INCA_ADJECTIVE" Text="Gomero" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_INCA_TEXT" Text="Hautacuperche, warrior of the canton of Mulagua on the round island of Gomera. Your people speak across the ravines with whistles, farm terraces cut into cliffs, and climb to Garajonay, the misty forest at the summit, to honour the ancestors.[NEWLINE][NEWLINE]Four cantons, Mulagua, Ipalan, Orone and Agana, share a small island with no flat ground at all. Make the ravines your roads, the terraces your wealth, and keep the whistled word of Gomera free of any lord from across the sea." />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_ANDEAN_ROAD_SHORT" Text="Paths of the Whistlers" />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_ANDEAN_ROAD" Text="Units ignore terrain costs when moving into any tile with Hills. No maintenance costs for improvements in Hills; half elsewhere." />
+    <Replace Tag="TXT_KEY_CAN1400_BLURB_LAGOMERA" Text="Hautacuperche, warrior of the canton of Mulagua on the round island of Gomera. Your people speak across the ravines with whistles, farm terraces cut into cliffs, and climb to Garajonay, the misty forest at the summit, to honour the ancestors.[NEWLINE][NEWLINE]Four cantons, Mulagua, Ipalan, Orone and Agana, share a small island with no flat ground at all. Make the ravines your roads, the terraces your wealth, and keep the whistled word of Gomera free of any lord from across the sea." />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_0" Text="Ipalan" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_1" Text="Mulagua" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_2" Text="Orone" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_3" Text="Agana" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_4" Text="Guahedum" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_5" Text="Hilajero" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_6" Text="Tamargada" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_7" Text="Aguajilva" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_8" Text="Arure" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_9" Text="Tazo" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_10" Text="Alojera" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_11" Text="Chipude" />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_AGREE_SHORT_3" Text="Fine." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_ATTACKED_1" Text="You attack Gomera? Every ravine already knows." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_ATTACKED_2" Text="The cantons are warned. You will regret this." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_ATTACKED_3" Text="Peraza thought the same. Ask him." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DECLAREWAR_1" Text="Then the whistles will carry a different message tonight." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DECLAREWAR_2" Text="War. You will not find us; we will find you." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DEFEATED_1" Text="Gomera falls. The whistles will go on without me." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DEFEATED_2" Text="You hold the island. You will never understand it." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DEFEATED_3" Text="The forest keeps our names." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DEMANDTRIBUTE_ANGRY" Text="Tribute." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DEMANDTRIBUTE_HAPPY" Text="Pay, and the whistles stay quiet." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DEMANDTRIBUTE_NEUTRAL" Text="A gift for the cantons." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_3" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_6" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_1" Text="I am Hautacuperche of Mulagua. You have reached Gomera, the island of the whistlers." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_2" Text="A visitor. The ravines told me you were coming." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_3" Text="Welcome. Speak, or whistle, we understand both." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_1" Text="May the mist hide your path." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_2" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_3" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_4" Text="May the mist hide your path." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_5" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_6" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_2" Text="The cantons listen." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_5" Text="The cantons listen." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_2" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_3" Text="Listening." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_5" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_LOSEWAR_1" Text="Peace. The terraces are waiting." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADEREQUEST_ANGRY" Text="A proposal." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADEREQUEST_HAPPY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADEREQUEST_NEUTRAL" Text="Gomera offers this." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NO_ANGRY" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NO_HAPPY" Text="That is not fair." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_YES_HAPPY" Text="Yes, that is fair." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_NO_ANGRY" Text="Gomera pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_NO_HAPPY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_NO_NEUTRAL" Text="Gomera pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_WARBLUFF_1" Text="Do not threaten the cantons." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_WINWAR_1" Text="The island is ours. Go." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA" Text="Armiche" />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_PEDIA" Text="Armiche was the king of El Hierro when Jean de Bethencourt&#x27;s Normans arrived in 1405. Lured to a meeting by a Bimbache interpreter under promise of safe conduct, he and his people were seized and most were sold as slaves; the island was then settled by Normans and Castilians.[NEWLINE][NEWLINE]The Bimbaches, perhaps a thousand people, lived from goats, shellfish and a little barley on an island without springs; the Garoe, a laurel tree on which the mist condensed, was their main water source and became the island&#x27;s emblem." />
+    <Replace Tag="TXT_KEY_CIV_CELTS_DESC" Text="The Kingdom of Esero" />
+    <Replace Tag="TXT_KEY_CIV_CELTS_SHORT_DESC" Text="Bimbaches" />
+    <Replace Tag="TXT_KEY_CIV_CELTS_ADJECTIVE" Text="Bimbache" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_CELTS_TEXT" Text="Armiche, king of the Bimbaches on Esero, the smallest and westernmost of the islands, the last land before the edge of the world. Your people have no rivers; they drink the water that the sacred tree Garoe gathers from the clouds, and they guard it as the island&#x27;s life.[NEWLINE][NEWLINE]Esero is small, but it is yours alone. Keep the Garoe green, keep the people together, and make the farthest island a place the gods remember." />
+    <Replace Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE_SHORT" Text="Water of the Garoe" />
+    <Replace Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE" Text="+1 [ICON_PEACE] Faith in every city with an adjacent unimproved Forest tile; +2 with three or more." />
+    <Replace Tag="TXT_KEY_CAN1400_BLURB_ELHIERRO" Text="Armiche, king of the Bimbaches on Esero, the smallest and westernmost of the islands, the last land before the edge of the world. Your people have no rivers; they drink the water that the sacred tree Garoe gathers from the clouds, and they guard it as the island&#x27;s life.[NEWLINE][NEWLINE]Esero is small, but it is yours alone. Keep the Garoe green, keep the people together, and make the farthest island a place the gods remember." />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_0" Text="Tigulahe" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_1" Text="Isora" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_2" Text="Erese" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_3" Text="Tinor" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_4" Text="Azofa" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_5" Text="Echedo" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_6" Text="Guarazoca" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_7" Text="Tigaday" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_8" Text="Taibique" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_9" Text="Sabinosa" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_10" Text="Jinama" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_11" Text="Tejeguate" />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_3" Text="Fine." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_ATTACKED_1" Text="You attack Esero? The gods of the tree will remember." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_ATTACKED_2" Text="We are few, but we are all here." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_ATTACKED_3" Text="Treachery. Esero has seen it before." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DECLAREWAR_1" Text="You would fight the Bimbaches? Then you will fight all of us." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DECLAREWAR_2" Text="War, then. The island is small; you will not get lost." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DEFEATED_1" Text="Esero falls. Guard the Garoe, or the island dies with us." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DEFEATED_2" Text="You hold the island. May the tree give you nothing." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DEFEATED_3" Text="The last island, the last to fall." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DEMANDTRIBUTE_ANGRY" Text="Tribute." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DEMANDTRIBUTE_HAPPY" Text="Pay." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DEMANDTRIBUTE_NEUTRAL" Text="A gift would be welcome." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_3" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_6" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_FIRSTGREETING_1" Text="I am Armiche, king of Esero. You have sailed to the end of the world and found people here." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_FIRSTGREETING_2" Text="Welcome to Esero. The water is scarce; the welcome is not." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_FIRSTGREETING_3" Text="A stranger on the last island. Speak." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_1" Text="Go well." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_2" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_3" Text="May the Garoe give you water." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_4" Text="Go well." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_5" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_6" Text="May the Garoe give you water." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_2" Text="Esero listens." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_5" Text="Esero listens." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_2" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_3" Text="Listening." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_5" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_LOSEWAR_1" Text="Peace. We have lost enough." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADEREQUEST_ANGRY" Text="A proposal." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADEREQUEST_HAPPY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADEREQUEST_NEUTRAL" Text="Esero offers this." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NO_ANGRY" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NO_HAPPY" Text="Esero cannot spare that." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_YES_ANGRY" Text="Fair enough." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_NO_HAPPY" Text="Esero pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_1" Text="Do not threaten Esero." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_3" Text="Think again." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_WINWAR_1" Text="Esero is free." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR" Text="Guize" />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_PEDIA" Text="Guize was king of Maxorata, the northern of the two Majo kingdoms of Fuerteventura, at the time of Jean de Bethencourt&#x27;s conquest. He and Ayoze, king of Jandia, submitted and were baptised in January 1405 after two years of raids and a famine; both kept a place in the Norman settlement.[NEWLINE][NEWLINE]The Majos of Fuerteventura and Lanzarote were related peoples who lived from goats, barley and shellfish on the driest islands of the archipelago; the wall across the isthmus of La Pared that divided the two kingdoms gave the island its later Castilian name." />
+    <Replace Tag="TXT_KEY_CIV_MOROCCO_DESC" Text="The Kingdoms of Maxorata and Jandia" />
+    <Replace Tag="TXT_KEY_CIV_MOROCCO_SHORT_DESC" Text="Majos of Erbania" />
+    <Replace Tag="TXT_KEY_CIV_MOROCCO_ADJECTIVE" Text="Majo" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_MOROCCO_TEXT" Text="Guize, king of Maxorata, the northern half of Erbania, the long dry island that the Majos divided with a wall from coast to coast. Your people are shepherds of goats on a land of sand and wind, where every well is a treasure and the sacred mountain Tindaya carries the footprints of the gods.[NEWLINE][NEWLINE]Ayoze rules Jandia beyond the wall. Unite the island, dig the wells, fill the plains with herds, and make the dry east of the archipelago the crossroads of its trade." />
+    <Replace Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA_SHORT" Text="Walls of Erbania" />
+    <Replace Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA" Text="+3 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture for each Trade Route with a different civilization. Trade Routes other civilizations send to you give +2 [ICON_GOLD] Gold to you and +1 to them." />
+    <Replace Tag="TXT_KEY_CAN1400_BLURB_FUERTEVENTURA" Text="Guize, king of Maxorata, the northern half of Erbania, the long dry island that the Majos divided with a wall from coast to coast. Your people are shepherds of goats on a land of sand and wind, where every well is a treasure and the sacred mountain Tindaya carries the footprints of the gods.[NEWLINE][NEWLINE]Ayoze rules Jandia beyond the wall. Unite the island, dig the wells, fill the plains with herds, and make the dry east of the archipelago the crossroads of its trade." />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_0" Text="Tefia" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_1" Text="Tetir" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_2" Text="Tuineje" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_3" Text="Tiscamanita" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_4" Text="Tesejerague" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_5" Text="Ajuy" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_6" Text="Toto" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_7" Text="Jandia" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_8" Text="Guisguey" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_9" Text="Esquinzo" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_10" Text="Tebeto" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_11" Text="Teguital" />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_3" Text="Fine." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_ATTACKED_1" Text="You attack the Majos? The island has swallowed better men." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_ATTACKED_2" Text="Maxorata and Jandia stand together today. You did that." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_ATTACKED_3" Text="Treachery in the dry season. We will remember." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_1" Text="Then the wall will have a new purpose." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_2" Text="War. The sand will cover your bones." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEFEATED_1" Text="Erbania falls. The wind will erase you too." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEFEATED_2" Text="You hold the island. Good luck finding water." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEFEATED_3" Text="The Majos are shepherds. We will be here when you leave." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEMANDTRIBUTE_ANGRY" Text="Tribute." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEMANDTRIBUTE_HAPPY" Text="Pay." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEMANDTRIBUTE_NEUTRAL" Text="A gift for the king would be wise." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_3" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_6" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_1" Text="I am Guize, king of Maxorata. Erbania is dry, but its welcome is wide." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_2" Text="You have crossed to Erbania. Water first, then talk." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_3" Text="A stranger. Sit in the shade and speak." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_1" Text="Go well, and carry water." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_2" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_3" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_4" Text="Go well, and carry water." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_5" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_6" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_2" Text="Maxorata listens." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_5" Text="Maxorata listens." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_2" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_3" Text="Listening." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_5" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LOSEWAR_1" Text="Peace. The herds need us." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LOSEWAR_2" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADEREQUEST_ANGRY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADEREQUEST_HAPPY" Text="A trade between islands." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADEREQUEST_NEUTRAL" Text="Maxorata offers this." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NO_ANGRY" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NO_HAPPY" Text="That is not a trade." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_YES_NEUTRAL" Text="Agreed. Trade is the breath of Erbania." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_NO_HAPPY" Text="The Majos pay nobody." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WARBLUFF_1" Text="Do not threaten Maxorata." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WARBLUFF_3" Text="Think again." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WINWAR_1" Text="Erbania is free." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WINWAR_2" Text="Go home." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO" Text="Guadarfia" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_PEDIA" Text="Guadarfia was king of Lanzarote when Jean de Bethencourt and Gadifer de La Salle landed in 1402. His people, perhaps three hundred after decades of slave raids, made a pact with the Normans; after a betrayal by Bethencourt&#x27;s own men he rose against them, was defeated and baptised as Luis in 1404.[NEWLINE][NEWLINE]Lanzarote had been known to Europeans since Lancelotto Malocello&#x27;s visit of about 1312, which gave the island its European name; its native name was Titerogaka. The royal seat was at Zonzamas, whose ruins survive near Teguise." />
+    <Replace Tag="TXT_KEY_CIV_CARTHAGE_DESC" Text="The Kingdom of Titerogaka" />
+    <Replace Tag="TXT_KEY_CIV_CARTHAGE_SHORT_DESC" Text="Majos of Titerogaka" />
+    <Replace Tag="TXT_KEY_CIV_CARTHAGE_ADJECTIVE" Text="Majo" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_CARTHAGE_TEXT" Text="Guadarfia, king of Titerogaka, the first island that every ship from the north reaches. Your people live between the lava fields of the volcanoes and the sea, in a land where it almost never rains and where strangers have already come to take slaves more than once.[NEWLINE][NEWLINE]The sea brought the raiders; it can bring trade as well. Build harbours in every bay, fortify Zonzamas, and make Titerogaka the gate of the archipelago rather than its victim." />
+    <Replace Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE_SHORT" Text="Harbours of the Majos" />
+    <Replace Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE" Text="All coastal cities receive a free Harbor. Units may cross Mountains after the first Great General is earned, taking 50 HP damage if they end a turn on a Mountain." />
+    <Replace Tag="TXT_KEY_CAN1400_BLURB_LANZAROTE" Text="Guadarfia, king of Titerogaka, the first island that every ship from the north reaches. Your people live between the lava fields of the volcanoes and the sea, in a land where it almost never rains and where strangers have already come to take slaves more than once.[NEWLINE][NEWLINE]The sea brought the raiders; it can bring trade as well. Build harbours in every bay, fortify Zonzamas, and make Titerogaka the gate of the archipelago rather than its victim." />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_0" Text="Zonzamas" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_1" Text="Acatife" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_2" Text="Tinajo" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_3" Text="Tias" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_4" Text="Yaiza" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_5" Text="Guatiza" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_6" Text="Haria" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_7" Text="Mala" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_8" Text="Tahiche" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_9" Text="Macher" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_10" Text="Femes" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_11" Text="Tiagua" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_3" Text="Fine." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_ATTACKED_1" Text="You attack Titerogaka? We are used to it. We are also used to winning." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_ATTACKED_2" Text="The harbours are closed to you now." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_ATTACKED_3" Text="Treachery. Bethencourt would be proud of you." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_1" Text="Then the lava fields will have you." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_2" Text="War. We have fought raiders before." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEFEATED_1" Text="Titerogaka falls. The sea will bring others after you." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEFEATED_2" Text="You hold the island. The volcanoes hold you." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEFEATED_3" Text="The Majos endure." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_ANGRY" Text="Tribute." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_HAPPY" Text="Pay." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_NEUTRAL" Text="A gift for the harbour would be wise." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_3" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_6" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_1" Text="I am Guadarfia, king of Titerogaka. Ships reach my island first; so do the troubles. Which are you?" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_2" Text="Welcome to Titerogaka. We have seen sails before." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_3" Text="A stranger from the sea. Speak plainly." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_1" Text="Fair winds." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_2" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_3" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_4" Text="Fair winds." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_5" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_6" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_2" Text="Zonzamas listens." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_5" Text="Zonzamas listens." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_2" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_3" Text="Listening." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_5" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LOSEWAR_1" Text="Peace. The harbours are open." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LOSEWAR_2" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_ANGRY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_HAPPY" Text="A trade." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_NEUTRAL" Text="Zonzamas offers this." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_ANGRY" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_HAPPY" Text="That is piracy, not trade." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_NEUTRAL" Text="Agreed. The harbour is open." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_HAPPY" Text="Titerogaka pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_1" Text="Do not threaten Titerogaka." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_3" Text="Think again." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WINWAR_1" Text="Titerogaka is free." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WINWAR_2" Text="Go home." />
+    <Replace Tag="TXT_KEY_FEATURE_FUJI" Text="Teide" />
+    <Replace Tag="TXT_KEY_FEATURE_MT_KAILASH" Text="Roque Nublo" />
+    <Replace Tag="TXT_KEY_FEATURE_MESA" Text="Caldera de Taburiente" />
+    <Replace Tag="TXT_KEY_FEATURE_SRI_PADA" Text="Garajonay" />
+    <Replace Tag="TXT_KEY_FEATURE_FOUNTAIN_YOUTH" Text="Garoe" />
+    <Replace Tag="TXT_KEY_FEATURE_ULURU" Text="Tindaya" />
+    <Replace Tag="TXT_KEY_FEATURE_VOLCANO" Text="La Corona" />
+    <Replace Tag="TXT_KEY_CAN1400_TITLE" Text="Canarias 1400" />
+    <Replace Tag="TXT_KEY_CAN1400_INTRO" Text="The Canary Islands in the year 1400. Seven islands, seven peoples, no boats. Build your island first; the sea comes later. Win by conquest." />
+    <Replace Tag="TXT_KEY_RELIGION_BUDDHISM" Text="Achaman" />
+    <Replace Tag="TXT_KEY_RELIGION_CATHOLICISM" Text="Magec" />
+    <Replace Tag="TXT_KEY_RELIGION_CONFUCIANISM" Text="Chaxiraxi" />
+    <Replace Tag="TXT_KEY_RELIGION_HINDUISM" Text="Achuguayo" />
+    <Replace Tag="TXT_KEY_RELIGION_ISLAM" Text="Achuhucanac" />
+    <Replace Tag="TXT_KEY_RELIGION_JUDAISM" Text="Acoran" />
+    <Replace Tag="TXT_KEY_RELIGION_SHINTO" Text="Alcorac" />
+    <Replace Tag="TXT_KEY_RELIGION_SIKHISM" Text="Abora" />
+    <Replace Tag="TXT_KEY_RELIGION_TAOISM" Text="Orahan" />
+    <Replace Tag="TXT_KEY_RELIGION_TENGRIISM" Text="Eraoranhan" />
+    <Replace Tag="TXT_KEY_RELIGION_ZOROASTRIANISM" Text="Moneiba" />
+    <Replace Tag="TXT_KEY_RELIGION_ORTHODOXY" Text="Chijoraji" />
+    <Replace Tag="TXT_KEY_RELIGION_PROTESTANTISM" Text="Guayota" />
+    <Replace Tag="TXT_KEY_RELIGION_CHRISTIANITY" Text="Magec" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_CEREMONY" Text="Beñesmen" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_CEREMONY_HELP" Text="[COLOR_POSITIVE_TEXT]Beñesmen[ENDCOLOR] improves the happiness of your empire allowing it to grow larger.[NEWLINE][NEWLINE]Adopting Beñesmen reduces [ICON_HAPPINESS_4] Unhappiness from [ICON_CITIZEN] Population in the [ICON_CAPITAL] Capital by 33%." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_CEREMONY_TEXT" Text="The Beñesmen was the harvest festival of the Guanches, when the menceyatos set their quarrels aside, the gofio of the new barley was shared, and the strongest competed in wrestling and stick fighting. The guañameñe prophets and the councils of the tagoror gave the year its order." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TAPU" Text="Guañameñe" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TAPU_HELP" Text="[COLOR_POSITIVE_TEXT]Guañameñe[ENDCOLOR][NEWLINE][ICON_CULTURE] Culture cost of future Policies reduced by 10%." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TAPU_TEXT" Text="Guañameñe" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POWHIRI" Text="Tagoror" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POWHIRI_HELP" Text="[COLOR_POSITIVE_TEXT]Tagoror[ENDCOLOR][NEWLINE]+1 [ICON_PRODUCTION] Production in every City." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POWHIRI_TEXT" Text="Tagoror" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_SURFING" Text="Lucha" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_SURFING_HELP" Text="[COLOR_POSITIVE_TEXT]Lucha[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness for each City in your empire." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_SURFING_TEXT" Text="Lucha" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_KAVA" Text="Gofio" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_KAVA_HELP" Text="[COLOR_POSITIVE_TEXT]Gofio[ENDCOLOR][NEWLINE]Immediately gain +10 [ICON_HAPPINESS_1] Happiness." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_KAVA_TEXT" Text="Gofio" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_LUAU" Text="Guatatiboa" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_LUAU_HELP" Text="[COLOR_POSITIVE_TEXT]Guatatiboa[ENDCOLOR][NEWLINE]+2 [ICON_HAPPINESS_1] Happiness from each different type of Luxury resource." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_LUAU_TEXT" Text="Guatatiboa" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_THE_ARTS" Text="Pintaderas" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_THE_ARTS_HELP" Text="[COLOR_POSITIVE_TEXT]Pintaderas[ENDCOLOR] improves the cultural output of your empire allowing you to adopt more policies.[NEWLINE][NEWLINE]Adopting Pintaderas increases [ICON_CULTURE] Culture from Monuments and Temples by 2 each." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_THE_ARTS_TEXT" Text="The islands had no metal and no writing, but they had art: the pintaderas, clay stamps of geometric pattern; the painted caves of Galdar; the spirals cut into the rock of La Palma; the tamarco cloaks of goat skin sewn with bone needles; the idol of Tara; the tajaraste dances of the feasts." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HULA" Text="Tajaraste" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HULA_HELP" Text="[COLOR_POSITIVE_TEXT]Tajaraste[ENDCOLOR][NEWLINE]Amount of [ICON_HAPPINESS_1] Happiness required to start a [ICON_GOLDEN_AGE] Golden Age reduced by 25%." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HULA_TEXT" Text="Tajaraste" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TIKI" Text="Tara" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TIKI_HELP" Text="[COLOR_POSITIVE_TEXT]Tara[ENDCOLOR][NEWLINE]50% of excess [ICON_HAPPINESS_1] Happiness added each turn to the amount of [ICON_CULTURE] Culture that may be spent on Social Policies." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TIKI_TEXT" Text="Tara" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_RONGO" Text="Harimaguadas" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_RONGO_HELP" Text="[COLOR_POSITIVE_TEXT]Harimaguadas[ENDCOLOR][NEWLINE]Increases [ICON_RESEARCH] Science output from Libraries and Observatories by 100%." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_RONGO_TEXT" Text="Harimaguadas" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TAPACLOTH" Text="Tamarco" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TAPACLOTH_HELP" Text="[COLOR_POSITIVE_TEXT]Tamarco[ENDCOLOR][NEWLINE]+2 [ICON_CULTURE] Culture in every City." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TAPACLOTH_TEXT" Text="Tamarco" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_STONECARVING" Text="Petroglyphs" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_STONECARVING_HELP" Text="[COLOR_POSITIVE_TEXT]Petroglyphs[ENDCOLOR][NEWLINE]+3 [ICON_CULTURE] Culture in the [ICON_CAPITAL] Capital." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_STONECARVING_TEXT" Text="Petroglyphs" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HONOR" Text="Guayres" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HONOR_HELP" Text="[COLOR_POSITIVE_TEXT]Guayres[ENDCOLOR] improves the effectiveness of one&#x27;s army in a variety of ways.[NEWLINE][NEWLINE]Adopting Guayres gives +15 XP to all land combat units constructed from this point forward in the game." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HONOR_TEXT" Text="The guayres and sigones were the warrior nobility of the islands, the menceyes their kings. Honor means warriors trained in the stone-throwing and stick-fighting of their youth, wounds dressed with the obsidian tabona, and the magado club that answered every landing on the beaches." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POI" Text="Mariscadores" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POI_HELP" Text="[COLOR_POSITIVE_TEXT]Mariscadores[ENDCOLOR][NEWLINE]+1 [ICON_MOVES] Movement for embarked units." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POI_TEXT" Text="Mariscadores" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_ARIKI" Text="Menceyes" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_ARIKI_HELP" Text="[COLOR_POSITIVE_TEXT]Menceyes[ENDCOLOR][NEWLINE]Rate at which Great Generals are born increased by 100%." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_ARIKI_TEXT" Text="Menceyes" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HEALING" Text="Tabona" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HEALING_HELP" Text="[COLOR_POSITIVE_TEXT]Tabona[ENDCOLOR][NEWLINE]Melee combat units gain the Medic promotion." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HEALING_TEXT" Text="Tabona" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HAKA" Text="Magado" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HAKA_HELP" Text="[COLOR_POSITIVE_TEXT]Magado[ENDCOLOR][NEWLINE]Gain [ICON_CULTURE] Culture for the empire equal to TRIPLE the [ICON_STRENGTH] Combat Strength of each enemy unit killed." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HAKA_TEXT" Text="Magado" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MANA" Text="Guatimac" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MANA_HELP" Text="[COLOR_POSITIVE_TEXT]Guatimac[ENDCOLOR][NEWLINE]Rate at which [ICON_GREAT_PEOPLE] Great People are born increased by 100%." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MANA_TEXT" Text="Guatimac" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_FAITH" Text="Achamán" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_FAITH_HELP" Text="[COLOR_POSITIVE_TEXT]Achamán[ENDCOLOR] increases the [ICON_PEACE] Faith of your people.[NEWLINE][NEWLINE]Adopting Achamán allows you to build Shrines and Temples in half the usual time." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_FAITH_TEXT" Text="Achamán was the sky god of Tenerife, Alcorac of Gran Canaria, Abora of La Palma; Magec the sun and Chaxiraxi the mother. The faycán and the harimaguadas kept the almogarén sanctuaries and the efequén temples, and in drought the whole people climbed to the baladero to make the goats bleat to the sky for rain." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_SHRINES" Text="Efequén" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_SHRINES_HELP" Text="[COLOR_POSITIVE_TEXT]Efequén[ENDCOLOR][NEWLINE]+1 [ICON_PEACE] Faith from Shrines and Temples." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_SHRINES_TEXT" Text="Efequén" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MANDATE" Text="Almogarén" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MANDATE_HELP" Text="[COLOR_POSITIVE_TEXT]Almogarén[ENDCOLOR][NEWLINE]20% discount on all purchases of religious units and buildings with [ICON_PEACE] Faith." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MANDATE_TEXT" Text="Almogarén" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_THEOCRACY" Text="Faycán" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_THEOCRACY_HELP" Text="[COLOR_POSITIVE_TEXT]Faycán[ENDCOLOR][NEWLINE]Temples increase a city&#x27;s [ICON_GOLD] Gold output by 25%." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_THEOCRACY_TEXT" Text="Faycán" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TOLERANCE" Text="Chaxiraxi" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TOLERANCE_HELP" Text="[COLOR_POSITIVE_TEXT]Chaxiraxi[ENDCOLOR][NEWLINE]Cities with a majority religion also get the Pantheon belief bonus of the second most popular religion." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TOLERANCE_TEXT" Text="Chaxiraxi" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_REFORMATION" Text="Baladero" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_REFORMATION_HELP" Text="[COLOR_POSITIVE_TEXT]Baladero[ENDCOLOR][NEWLINE]If you founded a religion, gain a bonus Reformation belief." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_REFORMATION_TEXT" Text="Baladero" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TRADE" Text="Añepa" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TRADE_HELP" Text="[COLOR_POSITIVE_TEXT]Añepa[ENDCOLOR] provides bonuses to empires focused on [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Adopting Añepa will boost [ICON_GOLD] Gold output in the [ICON_CAPITAL] Capital by 25%." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TRADE_TEXT" Text="The añepa, the wooden sceptre of the mencey, stood for the tribute of the island: the goats of the guanil herds, the gánigo pots, the barley of the terraces. Nobles, the achimencey, and commoners, the achicaxna, each had their share in the guañac, the commonwealth of the valley." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_ROUTES" Text="Guanil" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_ROUTES_HELP" Text="[COLOR_POSITIVE_TEXT]Guanil[ENDCOLOR][NEWLINE]+2 [ICON_GOLD] Gold from all your land trade routes. Maintenance paid on Roads reduced by 50%." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_ROUTES_TEXT" Text="Guanil" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POSTS" Text="Gánigos" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POSTS_HELP" Text="[COLOR_POSITIVE_TEXT]Gánigos[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] Gold from every Trading Post." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POSTS_TEXT" Text="Gánigos" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MERCHANTS" Text="Achimencey" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MERCHANTS_HELP" Text="[COLOR_POSITIVE_TEXT]Achimencey[ENDCOLOR][NEWLINE]Great Merchants are earned 25% faster. Receive double [ICON_GOLD] Gold from Great Merchant trade missions. +1 [ICON_MOVES] Movement for embarked units." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MERCHANTS_TEXT" Text="Achimencey" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MARKETS" Text="Guañac" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MARKETS_HELP" Text="[COLOR_POSITIVE_TEXT]Guañac[ENDCOLOR][NEWLINE]Purchasing items in Cities requires 25% less [ICON_GOLD] Gold. +1 [ICON_RESEARCH] Science from every Mint and Market." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MARKETS_TEXT" Text="Guañac" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_LUXURIES" Text="Achicaxna" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_LUXURIES_HELP" Text="[COLOR_POSITIVE_TEXT]Achicaxna[ENDCOLOR][NEWLINE]+2 [ICON_HAPPINESS_1] Happiness from each Luxury resource." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_LUXURIES_TEXT" Text="Achicaxna" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_CEREMONY" Text="Beñesmen" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_CEREMONY_CAP" Text="BEÑESMEN" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_CEREMONY_HELP" Text="[COLOR_POSITIVE_TEXT]Beñesmen[ENDCOLOR] improves the happiness of your empire allowing it to grow larger.[NEWLINE][NEWLINE]Adopting Beñesmen reduces [ICON_HAPPINESS_4] Unhappiness from [ICON_CITIZEN] Population in the [ICON_CAPITAL] Capital by 33%." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_CEREMONY_TITLE" Text="{1_PlayerName:textkey} the Revered of {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_THE_ARTS" Text="Pintaderas" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_THE_ARTS_CAP" Text="PINTADERAS" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_THE_ARTS_HELP" Text="[COLOR_POSITIVE_TEXT]Pintaderas[ENDCOLOR] improves the cultural output of your empire allowing you to adopt more policies.[NEWLINE][NEWLINE]Adopting Pintaderas increases [ICON_CULTURE] Culture from Monuments and Temples by 2 each." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_THE_ARTS_TITLE" Text="{1_PlayerName:textkey} the Artful of {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_HONOR" Text="Guayres" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_HONOR_CAP" Text="GUAYRES" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_HONOR_HELP" Text="[COLOR_POSITIVE_TEXT]Guayres[ENDCOLOR] improves the effectiveness of one&#x27;s army in a variety of ways.[NEWLINE][NEWLINE]Adopting Guayres gives +15 XP to all land combat units constructed from this point forward in the game." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_HONOR_TITLE" Text="{1_PlayerName:textkey} the Great of {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_FAITH" Text="Achamán" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_FAITH_CAP" Text="ACHAMÁN" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_FAITH_HELP" Text="[COLOR_POSITIVE_TEXT]Achamán[ENDCOLOR] increases the [ICON_PEACE] Faith of your people.[NEWLINE][NEWLINE]Adopting Achamán allows you to build Shrines and Temples in half the usual time." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_FAITH_TITLE" Text="{1_PlayerName:textkey} the Pious of {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_TRADE" Text="Añepa" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_TRADE_CAP" Text="AÑEPA" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_TRADE_HELP" Text="[COLOR_POSITIVE_TEXT]Añepa[ENDCOLOR] provides bonuses to empires focused on [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Adopting Añepa will boost [ICON_GOLD] Gold output in the [ICON_CAPITAL] Capital by 25%." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_TRADE_TITLE" Text="{1_PlayerName:textkey} the Wealthy of {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_SIGONE" Text="Sigone" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_SIGONE_HELP" Text="Guanche replacement for the Spearman. +1 [ICON_STRENGTH] Combat Strength and the Drill I promotion: +15% in rough terrain (hills, forest)." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_SIGONE_STRATEGY" Text="The Sigone is the Guanche Spearman: a little stronger, and at home in the ravines and hill slopes where the Guanches ambushed their enemies. Use it to hold rough ground and ravines." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_SIGONE_TEXT" Text="The sigones were the captains of a Guanche mencey, nobles who led the warriors of a menceyato in war. The Guanche weapon was the banot, a fire-hardened wooden spear, used with a wooden shield (tarja) and backed by stones thrown with great accuracy; at Acentejo in 1494 the sigones of Taoro used the ravine to destroy a Castilian army." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_TIRADOR" Text="Tirador" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_TIRADOR_HELP" Text="Canarii replacement for the Archer. +1 [ICON_STRENGTH] Combat Strength and +1 [ICON_RANGE_STRENGTH] Ranged Combat Strength for the same cost." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_TIRADOR_STRATEGY" Text="The Tirador is the Canarii Archer: stronger at range and in defence, same price. Put it behind your Warriors and on hills, where its stones reach two tiles. It upgrades to the Composite Bowman." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_TIRADOR_TEXT" Text="Every chronicler of the conquest remarked on the Canarii&#x27;s skill with thrown stones: they could hit a chosen target at a distance, parry stones in flight, and a volley from a hillside could stop an armoured column. Stone throwing was trained from childhood and was the first weapon of every island, but the Canarii of Gran Canaria were the acknowledged masters." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_MAGADO" Text="Magado" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_MAGADO_HELP" Text="Benahoarita replacement for the Warrior. +1 [ICON_STRENGTH] Combat Strength and the Cover I promotion: +25% defence against ranged attacks." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_MAGADO_STRATEGY" Text="The Magado is the Benahoarita Warrior: tougher, and hard to soften up with archers. It is the unit to garrison a ravine or a city with; it upgrades to the Swordsman." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_MAGADO_TEXT" Text="The magado was the Benahoarita war club, a heavy wooden mace, and the name passed to the warriors who carried it. The Benahoaritas of La Palma were goat-herding cave dwellers who fought in the ravines of the steepest island of the archipelago; the caldera of Acero under Tanausu was never taken by assault." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_SILBADOR" Text="Silbador" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_SILBADOR_HELP" Text="Gomero replacement for the Scout. +1 [ICON_STRENGTH] Combat Strength and the Sentry promotion: +1 sight range." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_SILBADOR_STRATEGY" Text="The Silbador is the Gomero Scout: it sees one tile further and survives a little longer. Use it to map the island early and to watch the coast for landings." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_SILBADOR_TEXT" Text="The Gomeros spoke across the ravines of their island with the silbo, a whistled form of their language that carries for several kilometres. News of a landing, a raid or a council travelled from canton to canton faster than any runner; the silbo survived the conquest and is still taught on La Gomera." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_MARISCADOR" Text="Mariscador" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_MARISCADOR_HELP" Text="Bimbache replacement for the Work Boat. Half the cost (25 [ICON_PRODUCTION]) and +1 [ICON_MOVES] Movement." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_MARISCADOR_STRATEGY" Text="The Mariscador is the Bimbache Work Boat: cheap and quick. Build it early to improve every fish and shellfish tile around the small island; the sea feeds El Hierro." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_MARISCADOR_TEXT" Text="The Bimbaches of El Hierro lived from goats, a little barley and the sea: their shell middens (concheros) line the coast of the island. On an island without springs, where water came from the mist on the Garoe tree, limpets, crabs and fish gathered from the rocks were a large part of every meal." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_AHEPA" Text="Ahepa" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_AHEPA_HELP" Text="Majo replacement for the Spearman. 25% cheaper (42 [ICON_PRODUCTION]) and the Shock I promotion: +15% in open terrain." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_AHEPA_STRATEGY" Text="The Ahepa is the Majo Spearman: cheap and strong on the open plains of Erbania. Field them in numbers." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_AHEPA_TEXT" Text="The ahepa was the lance of the Majos of Fuerteventura, a long wooden spear with a fire-hardened point. The Majos fought on the open plains of the driest island of the archipelago, shepherd kingdoms divided by the wall of La Pared; their warriors also carried stones and the tezzeses, a fighting stick." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_GUARDIA" Text="Guard of Zonzamas" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_GUARDIA_HELP" Text="Majo replacement for the Warrior. The Amphibious promotion: no penalty when attacking from the sea or across a river." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_GUARDIA_STRATEGY" Text="The Guard of Zonzamas is the Majo Warrior of Lanzarote: the same strength, but it lands fighting. The unit for the first crossings to the next island once Optics allows embarkation; it upgrades to the Swordsman." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_GUARDIA_TEXT" Text="Zonzamas was the seat of the kings of Lanzarote, a walled complex near Teguise whose ruins survive. Lanzarote was the first island Europeans reached, and from the fourteenth century its people fought off slave raiders landing on their beaches; by 1402 the Majos of Guadarfia were a few hundred, hardened by a century of defending the shore." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_TAGOROR" Text="Tagoror" />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_TAGOROR_HELP" Text="Guanche replacement for the Monument. +1 [ICON_HAPPINESS_1] Happiness and no maintenance cost." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_TAGOROR_STRATEGY" Text="The Tagoror gives the culture of a Monument, a point of happiness and costs nothing to keep. Build it first in every city." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_TAGOROR_TEXT" Text="The tagoror was the council place of the Guanches: a ring of stones, with a larger seat for the mencey, where the nobles met to judge, to decide on war and to receive envoys. Every menceyato had one, and the word survives in place names across Tenerife." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_CENOBIO" Text="Cenobio" />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_CENOBIO_HELP" Text="Canarii replacement for the Granary. +3 [ICON_FOOD] Food instead of +2, and +1 [ICON_FOOD] Food from Sheep as well as Wheat, Bananas and Deer." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_CENOBIO_STRATEGY" Text="The Cenobio feeds a city faster than a Granary and turns the goat pastures of the hills into food. Build it early in every city that is to grow." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_CENOBIO_TEXT" Text="The Cenobio de Valeron on the north coast of Gran Canaria is a cliff honeycombed with more than three hundred chambers cut into the rock under a natural arch: the collective granary of the Canarii, where the harvest of the valley was stored under the guard of the harimaguadas. Similar fortified granaries exist across the island." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_CUEVAS" Text="Cuevas" />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_CUEVAS_HELP" Text="Benahoarita replacement for the Walls. +8 [ICON_STRENGTH] City Defense Strength instead of +5, +75 Hit Points instead of +50, no maintenance." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_CUEVAS_STRATEGY" Text="The Cuevas make a city much harder to take than ordinary Walls, for the same cost. With the Magado garrisoned behind them a Benahoarita city on a ravine is a fortress." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_CUEVAS_TEXT" Text="The peoples of the islands lived in caves, natural or cut into the volcanic tuff, and on La Palma the cave villages of the ravines of Aridane and Tedote climb the cliff faces in terraces. A cave settlement on a ledge, reached by one path, needed no wall; the conquerors had to take them one at a time." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_ARANFAYBO" Text="Aranfaybo" />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_ARANFAYBO_HELP" Text="Bimbache replacement for the Shrine. +2 [ICON_PEACE] Faith instead of +1, and +1 [ICON_FOOD] Food." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_ARANFAYBO_STRATEGY" Text="The Aranfaybo doubles the faith of a Shrine and feeds the city a little: rain is life on El Hierro. Build it early to found a pantheon before the bigger islands." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_ARANFAYBO_TEXT" Text="Aranfaybo was the spirit the Bimbaches invoked for rain: when the mist failed and the Garoe gave no water, the priests climbed to the cave of Asteheyta and called on it, and a pig-like creature was said to appear and bring the clouds. The rituals of the islands were almost all about water." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_GAMBUESA" Text="Gambuesa" />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_GAMBUESA_HELP" Text="Majo replacement for the Circus. Does not require Horses or Ivory nearby, and gives +1 [ICON_PRODUCTION] Production from Sheep." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_GAMBUESA_STRATEGY" Text="The Gambuesa gives the two points of happiness of a Circus to any city, not only one with horses or ivory, and makes the goat pastures productive. Build it as the cities grow." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_GAMBUESA_TEXT" Text="The gambuesa is the communal stone corral of Fuerteventura and Lanzarote, where the free-ranging goats of a whole district were driven once a year to be counted, marked and milked, a custom that outlived the conquest. The Majos were shepherds above all; the goat was food, clothing, leather and wealth." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_MARETA" Text="Mareta" />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_MARETA_HELP" Text="Majo replacement for the Water Mill. Does not need a river, and costs 1 [ICON_GOLD] maintenance instead of 2." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_MARETA_STRATEGY" Text="There are no rivers in the islands, so nobody else can build a Water Mill: the Mareta gives Lanzarote +2 Food and +1 Production in every city, for half the upkeep." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_MARETA_TEXT" Text="The maretas of Lanzarote are rain cisterns: walled hollows and ponds that catch the run-off of the rare storms on an island with no springs. The Gran Mareta of Teguise watered the capital for centuries; the Majos of Zonzamas lived by the same art of catching every drop." />
+    <Replace Tag="TXT_KEY_IMPROVEMENT_TERRACE_FARM" Text="Bancales" />
+    <Replace Tag="TXT_KEY_BUILD_TERRACE_FARM" Text="Bancales" />
+    <Replace Tag="TXT_KEY_CIV5_IMPROVEMENTS_TERRACE_FARM_HELP" Text="Bancales can only be built on hills and need no fresh water. Next to a mountain they provide additional food." />
+    <Replace Tag="TXT_KEY_CIV5_IMPROVEMENTS_TERRACE_FARM_TEXT" Text="The bancales are the dry-stone terraces that climb the sides of the ravines of La Gomera, holding the thin volcanic soil on slopes too steep for any field. The Gomeros grew barley and beans on them, watered by channels from the springs of the laurel cloud forest of the summit, and the island is still ringed with their walls." />
+  </Language_en_US>
+  <Language_RU_RU>
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO" Text="Бенкомо" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_PEDIA" Text="Бенкомо (ок. 1438-1494), менсей Таоро, богатейшего из девяти гуанчских королевств Тенерифе, и душа сопротивления кастильскому завоеванию. В мае 1494 года его воины устроили засаду армии Алонсо Фернандеса де Луго в ущелье Асентехо и уничтожили её: худшее поражение завоевателей на Канарах.[NEWLINE][NEWLINE]Он пал в ноябре того же года в битве при Агере, когда Луго вернулся с большей армией. Тенерифе, последний остров сопротивления, покорился в 1496 году. Сценарий ставит его на век раньше как воплощение гуанчских менсеев." />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_DESC" Text="Менсейяты Тенерифе" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_SHORT_DESC" Text="Гуанчи" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_ADJECTIVE" Text="Гуанчский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_SHOSHONE_TEXT" Text="Бенкомо, менсей Таоро, величайшего из девяти королевств Ачинета. Твой народ вышел из пещер пасти коз под белой вершиной Эчейде, где прикован злой дух и курится священная гора. Девять менсеев делят остров; никто из них тебе не ровня.[NEWLINE][NEWLINE]Остров велик, долины севера зелены, а вершина принадлежит богам. Объедини менсейяты под Таоро, наполни ущелья стадами и советами тагорор, и когда однажды из моря придут чужаки, пусть узнают, что гуанчи сделали с захватчиками при Асентехо." />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE_SHORT" Text="Дух Ачинета" />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE" Text="Основанные города получают дополнительную территорию. Юниты получают +15% [ICON_STRENGTH] боевой силы в сражениях на территории гуанчей." />
+    <Replace Tag="TXT_KEY_CAN1400_BLURB_TENERIFE" Text="Бенкомо, менсей Таоро, величайшего из девяти королевств Ачинета. Твой народ вышел из пещер пасти коз под белой вершиной Эчейде, где прикован злой дух и курится священная гора. Девять менсеев делят остров; никто из них тебе не ровня.[NEWLINE][NEWLINE]Остров велик, долины севера зелены, а вершина принадлежит богам. Объедини менсейяты под Таоро, наполни ущелья стадами и советами тагорор, и когда однажды из моря придут чужаки, пусть узнают, что гуанчи сделали с захватчиками при Асентехо." />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_0" Text="Таоро" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_1" Text="Гуимар" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_2" Text="Абона" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_3" Text="Анага" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_4" Text="Тегесте" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_5" Text="Такоронте" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_6" Text="Икод" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_7" Text="Дауте" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_8" Text="Адехе" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_9" Text="Ачинет" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_10" Text="Часна" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_TENERIFE_11" Text="Тегесте-Альто" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_3" Text="Быть по сему." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_1" Text="Ты ударил по Таоро? Каждое ущелье этого острова будет сражаться с тобой." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_2" Text="Теперь менсеи едины. Это сделал ты." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_3" Text="Ачаман видит это предательство. Готовься." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_1" Text="Ты выбрал ущелья Ачинета себе могилой. Быть по сему." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_2" Text="Гуанчи не начинают войн. Они их заканчивают." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_3" Text="Тогда приходи. Асентехо ждёт." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_1" Text="Таоро пал. Ачинет не забывает." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_2" Text="Ты держишь долины. Гору ты не удержишь никогда." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_3" Text="Наши мумии переживут твои знамёна." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_ANGRY" Text="Дань. Сейчас." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_HAPPY" Text="Плати, и воины останутся дома." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_NEUTRAL" Text="Менсейяты требуют дар. Дай его." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_3" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_6" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_1" Text="Я Бенкомо, менсей Таоро. Ты стоишь на Ачинете, острове Эчейде. Назови свою цель." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_2" Text="Добро пожаловать в Таоро. Гора смотрит на нас обоих." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_3" Text="Чужак на острове. Говори, и говори правду." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_1" Text="Иди с Ачаманом." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_2" Text="До следующего совета." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_3" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_4" Text="Иди с Ачаманом." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_5" Text="До следующего совета." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_6" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_1" Text="Тагорор собран. Говори." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_2" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_3" Text="Таоро слушает." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_4" Text="Тагорор собран. Говори." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_5" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_6" Text="Таоро слушает." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_2" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_5" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_1" Text="Довольно. Пусть козы пасутся в мире." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_2" Text="Тогда перемирие." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_ANGRY" Text="Предложение между соседями." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_HAPPY" Text="Рассмотри этот обмен." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_NEUTRAL" Text="Вот что предлагает Таоро." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_HAPPY" Text="Таоро отказывает." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_NEUTRAL" Text="Нет. Это не обмен, это грабёж." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_ANGRY" Text="Сделано." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_HAPPY" Text="Да. Таоро принимает." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_NEUTRAL" Text="Согласен. Честный обмен." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_ANGRY" Text="Таоро никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_HAPPY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_NEUTRAL" Text="Таоро никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_ANGRY" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_NEUTRAL" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_1" Text="Не угрожай Таоро." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_2" Text="Осторожнее, чужак." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_3" Text="Ты пожалеешь." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_1" Text="Остров снова наш. Запомни это." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_2" Text="Иди домой. Ачинет сказал." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES" Text="Тенесор Семидан" />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_PEDIA" Text="Тенесор Семидан (ум. ок. 1496), последний гуанартеме Гальдара, северного королевства Гран-Канарии. Пленённый в 1482 году и увезённый в Кастилию, он был крещён как Фернандо Гуанартеме и вернулся, чтобы убедить свой народ прекратить сопротивление, длившееся пять лет; позже он воевал на стороне кастильцев на Тенерифе.[NEWLINE][NEWLINE]Гран-Канария до завоевания была самым расслоённым обществом островов: король, верховный жрец, совет знати, коллективные зернохранилища вроде Сенобио-де-Валерон и расписная пещера Гальдара. Сценарий берёт его имя для правителей острова веком раньше." />
+    <Replace Tag="TXT_KEY_CIV_EGYPT_DESC" Text="Гуанартемато Тамарана" />
+    <Replace Tag="TXT_KEY_CIV_EGYPT_SHORT_DESC" Text="Канарии" />
+    <Replace Tag="TXT_KEY_CIV_EGYPT_ADJECTIVE" Text="Канарийский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_EGYPT_TEXT" Text="Тенесор Семидан, гуанартеме Агальдара, владыка самого населённого и самого упорядоченного из островов. Твой народ вырубает зернохранилища в скалах, расписывает пещеры красным и белым, кладёт своих мёртвых на каменные платформы и сеет ячмень на террасах, поднимающихся к Роке-Нубло, священной скале в сердце Тамарана.[NEWLINE][NEWLINE]Тельде на востоке и Агальдар на севере слишком долго делили остров. Собери жрецов-файканов и гуайров под одним гуанартеме, построй то, чего не может построить ни один другой остров, и сделай канариев народом, по которому назван весь архипелаг." />
+    <Replace Tag="TXT_KEY_TRAIT_WONDER_BUILDER_SHORT" Text="Зернохранилища Валерона" />
+    <Replace Tag="TXT_KEY_TRAIT_WONDER_BUILDER" Text="+20% [ICON_PRODUCTION] производства при строительстве чудес света." />
+    <Replace Tag="TXT_KEY_CAN1400_BLURB_GRANCANARIA" Text="Тенесор Семидан, гуанартеме Агальдара, владыка самого населённого и самого упорядоченного из островов. Твой народ вырубает зернохранилища в скалах, расписывает пещеры красным и белым, кладёт своих мёртвых на каменные платформы и сеет ячмень на террасах, поднимающихся к Роке-Нубло, священной скале в сердце Тамарана.[NEWLINE][NEWLINE]Тельде на востоке и Агальдар на севере слишком долго делили остров. Собери жрецов-файканов и гуайров под одним гуанартеме, построй то, чего не может построить ни один другой остров, и сделай канариев народом, по которому назван весь архипелаг." />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_0" Text="Агальдар" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_1" Text="Тельде" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_2" Text="Ареукас" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_3" Text="Техеда" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_4" Text="Агуимес" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_5" Text="Тирахана" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_6" Text="Аргинегин" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_7" Text="Артенара" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_8" Text="Мойя" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_9" Text="Тамаран" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_10" Text="Сатаутей" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_GRANCANARIA_11" Text="Гандо" />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_6" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_7" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_1" Text="Ты напал на канариев? Весь остров поднимется против тебя." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_2" Text="Агальдар долго помнит обиды." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_3" Text="Вот как. Файкан предупреждал меня о тебе." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_1" Text="Гуайры решили. Война." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_2" Text="Ты не оставил Тамарану выбора." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_3" Text="Тогда зернохранилища будут кормить армию." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_1" Text="Тамаран пал. Пощади зернохранилища; они нужны людям." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_2" Text="Остров твой. Пусть принесёт тебе столько же радости, сколько мне." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_3" Text="Пещеры сохранят наши росписи, когда тебя давно не будет." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_ANGRY" Text="Дань." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_HAPPY" Text="Плати и храни мир." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_NEUTRAL" Text="Дар гуанартеме был бы мудрым решением." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_2" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_3" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_5" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_6" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_1" Text="Я Тенесор Семидан, гуанартеме Агальдара на острове Тамаран. Канарии приветствуют тебя." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_2" Text="Ты достиг Тамарана, острова канариев. Говори." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_3" Text="Гость из-за воды. Садись и расскажи о своём острове." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_1" Text="Пусть растёт твой ячмень." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_2" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_3" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_4" Text="Пусть растёт твой ячмень." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_5" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_6" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_7" Text="Пусть растёт твой ячмень." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GREETING_1" Text="Гуанартеме слушает." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GREETING_2" Text="Говори, друг." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GREETING_3" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GREETING_4" Text="Гуанартеме слушает." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GREETING_5" Text="Говори, друг." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GREETING_6" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_GREETING_7" Text="Гуанартеме слушает." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_1" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_3" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_4" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_6" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_7" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_LOSEWAR_1" Text="Мир. Террасы ждут ухода." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_ANGRY" Text="Предложение между соседями." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_HAPPY" Text="Рассмотри это." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_NEUTRAL" Text="Предложение из Агальдара." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_ANGRY" Text="Так не пойдёт." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_HAPPY" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_NEUTRAL" Text="Нет. Канарии не глупцы." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_ANGRY" Text="Агальдар принимает." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_NEUTRAL" Text="Честная сделка. Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_HAPPY" Text="Канарии никому не платят." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_ANGRY" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_NEUTRAL" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_1" Text="Не испытывай Тамаран." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_3" Text="Подумай ещё." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_4" Text="Не испытывай Тамаран." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_5" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_6" Text="Подумай ещё." />
+    <Replace Tag="TXT_KEY_LEADER_RAMESSES_WINWAR_1" Text="На острове снова мир." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE" Text="Танаусу" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_PEDIA" Text="Танаусу (ум. 1493), вождь Асеро, кантона Кальдеры-де-Табурьенте на Ла-Пальме, последний из бенаоаритов, сопротивлявшийся кастильцам. Он удерживал кальдеру против Алонсо Фернандеса де Луго, пока не был схвачен предательски во время перемирия в мае 1493 года.[NEWLINE][NEWLINE]Отправленный в Кастилию, он отказался от пищи и умер в море. Бенаоариты были пещерными пастухами коз, жившими двенадцатью кантонами; их название острова, Бенаоаре, означает «моя земля»." />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_DESC" Text="Кантоны Бенаоаре" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC" Text="Бенаоариты" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE" Text="Бенаоаритский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ETHIOPIA_TEXT" Text="Танаусу, владыка Асеро, великой кальдеры в сердце Бенаоаре. Двенадцать кантонов делят самый крутой остров архипелага, и твой кантон никто никогда не брал: крепость из скал и родников с единственным входом, где бенаоариты хранят свои стада и свою свободу.[NEWLINE][NEWLINE]Твой народ немногочислен, а остров это лестница из ущелий. Сделай каждое ущелье стеной, каждый родник городом, и пусть большие острова узнают, что числа ничего не значат на склонах Кальдеры." />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT" Text="Владыки Кальдеры" />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH" Text="+20% [ICON_STRENGTH] боевой силы против цивилизаций, у которых больше городов, чем у вас." />
+    <Replace Tag="TXT_KEY_CAN1400_BLURB_LAPALMA" Text="Танаусу, владыка Асеро, великой кальдеры в сердце Бенаоаре. Двенадцать кантонов делят самый крутой остров архипелага, и твой кантон никто никогда не брал: крепость из скал и родников с единственным входом, где бенаоариты хранят свои стада и свою свободу.[NEWLINE][NEWLINE]Твой народ немногочислен, а остров это лестница из ущелий. Сделай каждое ущелье стеной, каждый родник городом, и пусть большие острова узнают, что числа ничего не значат на склонах Кальдеры." />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_0" Text="Аридане" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_1" Text="Асеро" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_2" Text="Тедоте" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_3" Text="Тиуйя" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_4" Text="Тигалате" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_5" Text="Аэнгуареме" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_6" Text="Тенагуа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_7" Text="Адейяамен" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_8" Text="Тагарагре" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_9" Text="Тихарафе" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_10" Text="Геэбей" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAPALMA_11" Text="Таманка" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_3" Text="Ладно." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_1" Text="Ты напал на Бенаоаре? Сосчитай своих людей сейчас; потом не сможешь." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_2" Text="Теперь кантоны едины. Благодари за это себя." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_3" Text="Хорошо. Мы ждали." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_1" Text="Тогда приходи в кальдеру. Живым из неё никто не выходил." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_2" Text="Война. Ущелья сделают остальное." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_3" Text="Быть по сему. Мы били и больших." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_1" Text="Ты взял кальдеру. Твоего хлеба я есть не стану." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_2" Text="Бенаоаре твой. Родники переживут тебя." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_3" Text="Ты победил числом. Помни это." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_ANGRY" Text="Дань, или ущелья." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY" Text="Плати." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_NEUTRAL" Text="Дар удержал бы моих воинов дома." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_3" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_6" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_1" Text="Я Танаусу, владыка Асеро. Ты нашёл Бенаоаре. Немногим это удаётся." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_2" Text="Добро пожаловать на остров ущелий. Смотри под ноги." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_3" Text="Чужак в кальдере. Говори быстро." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_1" Text="Иди осторожно. Тропы круты." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_2" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_3" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_4" Text="Иди осторожно. Тропы круты." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_5" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_6" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_2" Text="Асеро слушает." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_3" Text="Ну?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_5" Text="Асеро слушает." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_6" Text="Ну?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_2" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_5" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_1" Text="Мир. Козы голодны." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_2" Text="Довольно." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_ANGRY" Text="Обмен между островами." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_HAPPY" Text="Рассмотри." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_NEUTRAL" Text="Асеро предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_ANGRY" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_HAPPY" Text="Это не сделка." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_ANGRY" Text="Асеро принимает." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_NEUTRAL" Text="Честно. Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_ANGRY" Text="Асеро никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_HAPPY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_NEUTRAL" Text="Асеро никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_ANGRY" Text="Бери и уходи." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_NEUTRAL" Text="Бери и уходи." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_1" Text="Угрозы? В моей кальдере?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_3" Text="Не стоит." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_1" Text="Остров свободен. Уходи." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_2" Text="Асеро держится. Он всегда держится." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI" Text="Аутакуперче" />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_PEDIA" Text="Аутакуперче (ум. 1488), гомерец из кантона Мулагуа, возглавил восстание 1488 года против Эрнана Перасы Младшего, кастильского сеньора Ла-Гомеры, и убил его у пещеры Гуаэдум. Остров номинально был кастильским с 1440-х годов по договору между кантонами и Перасами.[NEWLINE][NEWLINE]Восстание за несколько недель подавил Педро де Вера; Аутакуперче погиб в бою, сотни гомерцев были казнены или проданы. Свистящий язык гомерцев, сильбо, на острове звучит до сих пор." />
+    <Replace Tag="TXT_KEY_CIV_INCA_DESC" Text="Четыре кантона Гомеры" />
+    <Replace Tag="TXT_KEY_CIV_INCA_SHORT_DESC" Text="Гомерос" />
+    <Replace Tag="TXT_KEY_CIV_INCA_ADJECTIVE" Text="Гомерский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_INCA_TEXT" Text="Аутакуперче, воин кантона Мулагуа на круглом острове Гомера. Твой народ переговаривается через ущелья свистом, возделывает террасы, вырубленные в скалах, и поднимается к Гарахонаю, туманному лесу на вершине, чтобы почтить предков.[NEWLINE][NEWLINE]Четыре кантона, Мулагуа, Ипалан, Ороне и Агана, делят маленький остров, на котором нет ни клочка ровной земли. Сделай ущелья дорогами, террасы богатством, и сохрани свистящее слово Гомеры свободным от любого владыки из-за моря." />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_ANDEAN_ROAD_SHORT" Text="Тропы свистунов" />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_ANDEAN_ROAD" Text="Юниты не тратят дополнительные очки движения при входе на клетки с холмами. Улучшения на холмах не требуют содержания; остальные требуют вдвое меньше." />
+    <Replace Tag="TXT_KEY_CAN1400_BLURB_LAGOMERA" Text="Аутакуперче, воин кантона Мулагуа на круглом острове Гомера. Твой народ переговаривается через ущелья свистом, возделывает террасы, вырубленные в скалах, и поднимается к Гарахонаю, туманному лесу на вершине, чтобы почтить предков.[NEWLINE][NEWLINE]Четыре кантона, Мулагуа, Ипалан, Ороне и Агана, делят маленький остров, на котором нет ни клочка ровной земли. Сделай ущелья дорогами, террасы богатством, и сохрани свистящее слово Гомеры свободным от любого владыки из-за моря." />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_0" Text="Ипалан" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_1" Text="Мулагуа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_2" Text="Ороне" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_3" Text="Агана" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_4" Text="Гуаэдум" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_5" Text="Илахеро" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_6" Text="Тамаргада" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_7" Text="Агуахильва" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_8" Text="Аруре" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_9" Text="Тасо" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_10" Text="Алохера" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LAGOMERA_11" Text="Чипуде" />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_AGREE_SHORT_3" Text="Ладно." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_ATTACKED_1" Text="Ты напал на Гомеру? Каждое ущелье уже знает." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_ATTACKED_2" Text="Кантоны предупреждены. Ты пожалеешь." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_ATTACKED_3" Text="Пераса думал так же. Спроси у него." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DECLAREWAR_1" Text="Тогда сегодня ночью свист понесёт другую весть." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DECLAREWAR_2" Text="Война. Ты нас не найдёшь; мы найдём тебя." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DECLAREWAR_3" Text="Быть по сему." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DEFEATED_1" Text="Гомера пала. Свист продолжится без меня." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DEFEATED_2" Text="Ты держишь остров. Понять его ты не сможешь никогда." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DEFEATED_3" Text="Лес хранит наши имена." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DEMANDTRIBUTE_ANGRY" Text="Дань." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DEMANDTRIBUTE_HAPPY" Text="Плати, и свист останется тихим." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DEMANDTRIBUTE_NEUTRAL" Text="Дар для кантонов." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_3" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_6" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_1" Text="Я Аутакуперче из Мулагуа. Ты достиг Гомеры, острова свистунов." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_2" Text="Гость. Ущелья сказали мне, что ты идёшь." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_3" Text="Добро пожаловать. Говори или свисти, мы понимаем и то и другое." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_1" Text="Пусть туман скроет твой путь." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_2" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_3" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_4" Text="Пусть туман скроет твой путь." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_5" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_6" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_2" Text="Кантоны слушают." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_3" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_5" Text="Кантоны слушают." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_6" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_2" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_5" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_LOSEWAR_1" Text="Мир. Террасы ждут." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADEREQUEST_ANGRY" Text="Предложение." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADEREQUEST_HAPPY" Text="Рассмотри." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADEREQUEST_NEUTRAL" Text="Гомера предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NO_ANGRY" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NO_HAPPY" Text="Это нечестно." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_YES_ANGRY" Text="Сделано." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_YES_HAPPY" Text="Да, это честно." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_NO_ANGRY" Text="Гомера никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_NO_HAPPY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_NO_NEUTRAL" Text="Гомера никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_YES_ANGRY" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_YES_NEUTRAL" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_WARBLUFF_1" Text="Не угрожай кантонам." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_WARBLUFF_3" Text="Ты пожалеешь." />
+    <Replace Tag="TXT_KEY_LEADER_PACHACUTI_WINWAR_1" Text="Остров наш. Уходи." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA" Text="Армиче" />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_PEDIA" Text="Армиче был королём Эль-Йерро, когда в 1405 году прибыли нормандцы Жана де Бетанкура. Заманенный на встречу переводчиком-бимбаче под обещание безопасности, он и его народ были схвачены, большинство продано в рабство; остров заселили нормандцы и кастильцы.[NEWLINE][NEWLINE]Бимбаче, возможно, тысяча человек, жили козами, моллюсками и небольшим количеством ячменя на острове без родников; Гароэ, лавровое дерево, на котором оседал туман, было их главным источником воды и стало символом острова." />
+    <Replace Tag="TXT_KEY_CIV_CELTS_DESC" Text="Королевство Эсеро" />
+    <Replace Tag="TXT_KEY_CIV_CELTS_SHORT_DESC" Text="Бимбаче" />
+    <Replace Tag="TXT_KEY_CIV_CELTS_ADJECTIVE" Text="Бимбачский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_CELTS_TEXT" Text="Армиче, король бимбаче на Эсеро, самом маленьком и самом западном из островов, последней земле перед краем мира. У твоего народа нет рек; он пьёт воду, которую священное дерево Гароэ собирает из облаков, и хранит её как жизнь острова.[NEWLINE][NEWLINE]Эсеро мал, но он только твой. Сохрани Гароэ зелёным, сохрани народ единым, и сделай самый дальний остров местом, которое помнят боги." />
+    <Replace Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE_SHORT" Text="Вода Гароэ" />
+    <Replace Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE" Text="+1 [ICON_PEACE] веры в каждом городе рядом с неулучшенным лесом; +2 при трёх и более клетках леса." />
+    <Replace Tag="TXT_KEY_CAN1400_BLURB_ELHIERRO" Text="Армиче, король бимбаче на Эсеро, самом маленьком и самом западном из островов, последней земле перед краем мира. У твоего народа нет рек; он пьёт воду, которую священное дерево Гароэ собирает из облаков, и хранит её как жизнь острова.[NEWLINE][NEWLINE]Эсеро мал, но он только твой. Сохрани Гароэ зелёным, сохрани народ единым, и сделай самый дальний остров местом, которое помнят боги." />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_0" Text="Тигулаэ" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_1" Text="Исора" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_2" Text="Эресе" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_3" Text="Тиньор" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_4" Text="Асофа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_5" Text="Эчедо" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_6" Text="Гуарасока" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_7" Text="Тигадай" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_8" Text="Тайбике" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_9" Text="Сабиноса" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_10" Text="Хинама" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_ELHIERRO_11" Text="Техегуате" />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_3" Text="Ладно." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_ATTACKED_1" Text="Ты напал на Эсеро? Боги дерева запомнят." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_ATTACKED_2" Text="Нас немного, но мы все здесь." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_ATTACKED_3" Text="Предательство. Эсеро видел его и раньше." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DECLAREWAR_1" Text="Ты будешь воевать с бимбаче? Тогда ты будешь воевать со всеми нами." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DECLAREWAR_2" Text="Тогда война. Остров мал; ты не заблудишься." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DECLAREWAR_3" Text="Быть по сему." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DEFEATED_1" Text="Эсеро пал. Береги Гароэ, или остров умрёт вместе с нами." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DEFEATED_2" Text="Ты держишь остров. Пусть дерево не даст тебе ничего." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DEFEATED_3" Text="Последний остров, последний пал." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DEMANDTRIBUTE_ANGRY" Text="Дань." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DEMANDTRIBUTE_HAPPY" Text="Плати." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DEMANDTRIBUTE_NEUTRAL" Text="Дар был бы кстати." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_3" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_6" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_FIRSTGREETING_1" Text="Я Армиче, король Эсеро. Ты доплыл до края мира и нашёл здесь людей." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_FIRSTGREETING_2" Text="Добро пожаловать на Эсеро. Воды мало; гостеприимства много." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_FIRSTGREETING_3" Text="Чужак на последнем острове. Говори." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_1" Text="Доброго пути." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_2" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_3" Text="Пусть Гароэ даст тебе воды." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_4" Text="Доброго пути." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_5" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_6" Text="Пусть Гароэ даст тебе воды." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_2" Text="Эсеро слушает." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_3" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_5" Text="Эсеро слушает." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_6" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_2" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_5" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_LOSEWAR_1" Text="Мир. Мы потеряли достаточно." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADEREQUEST_ANGRY" Text="Предложение." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADEREQUEST_HAPPY" Text="Рассмотри." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADEREQUEST_NEUTRAL" Text="Эсеро предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NO_ANGRY" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NO_HAPPY" Text="Эсеро не может этого отдать." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_YES_ANGRY" Text="Достаточно честно." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_NO_HAPPY" Text="Эсеро никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_ANGRY" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_NEUTRAL" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_1" Text="Не угрожай Эсеро." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_3" Text="Подумай ещё." />
+    <Replace Tag="TXT_KEY_LEADER_BOUDICCA_WINWAR_1" Text="Эсеро свободен." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR" Text="Гисе" />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_PEDIA" Text="Гисе был королём Махораты, северного из двух королевств махос на Фуэртевентуре, во время завоевания Жана де Бетанкура. Он и Айосе, король Хандии, покорились и крестились в январе 1405 года после двух лет набегов и голода; оба сохранили место в нормандском поселении.[NEWLINE][NEWLINE]Махос Фуэртевентуры и Лансароте были родственными народами, жившими козами, ячменём и моллюсками на самых сухих островах архипелага; стена через перешеек Ла-Паред, разделявшая два королевства, дала острову его позднейшее кастильское имя." />
+    <Replace Tag="TXT_KEY_CIV_MOROCCO_DESC" Text="Королевства Махората и Хандия" />
+    <Replace Tag="TXT_KEY_CIV_MOROCCO_SHORT_DESC" Text="Махос Эрбании" />
+    <Replace Tag="TXT_KEY_CIV_MOROCCO_ADJECTIVE" Text="Махосский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_MOROCCO_TEXT" Text="Гисе, король Махораты, северной половины Эрбании, длинного сухого острова, который махос разделили стеной от берега до берега. Твой народ пасёт коз на земле песка и ветра, где каждый колодец это сокровище, а священная гора Тиндайя хранит отпечатки ног богов.[NEWLINE][NEWLINE]За стеной правит Айосе, король Хандии. Объедини остров, выкопай колодцы, наполни равнины стадами, и сделай сухой восток архипелага перекрёстком его торговли." />
+    <Replace Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA_SHORT" Text="Стена Эрбании" />
+    <Replace Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA" Text="+3 [ICON_GOLD] золота и +1 [ICON_CULTURE] культуры за каждый торговый путь с другой цивилизацией. Торговые пути других цивилизаций к вам дают +2 [ICON_GOLD] золота вам и +1 им." />
+    <Replace Tag="TXT_KEY_CAN1400_BLURB_FUERTEVENTURA" Text="Гисе, король Махораты, северной половины Эрбании, длинного сухого острова, который махос разделили стеной от берега до берега. Твой народ пасёт коз на земле песка и ветра, где каждый колодец это сокровище, а священная гора Тиндайя хранит отпечатки ног богов.[NEWLINE][NEWLINE]За стеной правит Айосе, король Хандии. Объедини остров, выкопай колодцы, наполни равнины стадами, и сделай сухой восток архипелага перекрёстком его торговли." />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_0" Text="Тефия" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_1" Text="Тетир" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_2" Text="Туинехе" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_3" Text="Тискаманита" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_4" Text="Тесехераге" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_5" Text="Ахуй" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_6" Text="Тото" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_7" Text="Хандия" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_8" Text="Гисгей" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_9" Text="Эскинсо" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_10" Text="Тебето" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_FUERTEVENTURA_11" Text="Тегиталь" />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_3" Text="Ладно." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_ATTACKED_1" Text="Ты напал на махос? Остров поглощал людей и получше." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_ATTACKED_2" Text="Сегодня Махората и Хандия стоят вместе. Это сделал ты." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_ATTACKED_3" Text="Предательство в сухой сезон. Мы запомним." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_1" Text="Тогда у стены появится новое назначение." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_2" Text="Война. Песок укроет твои кости." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_3" Text="Быть по сему." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEFEATED_1" Text="Эрбания пала. Ветер сотрёт и тебя." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEFEATED_2" Text="Ты держишь остров. Удачи в поисках воды." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEFEATED_3" Text="Махос пастухи. Мы будем здесь, когда ты уйдёшь." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEMANDTRIBUTE_ANGRY" Text="Дань." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEMANDTRIBUTE_HAPPY" Text="Плати." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEMANDTRIBUTE_NEUTRAL" Text="Дар королю был бы мудрым решением." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_3" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_6" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_1" Text="Я Гисе, король Махораты. Эрбания суха, но её гостеприимство широко." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_2" Text="Ты переправился на Эрбанию. Сначала вода, потом разговор." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_3" Text="Чужак. Сядь в тени и говори." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_1" Text="Доброго пути, и бери с собой воду." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_2" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_3" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_4" Text="Доброго пути, и бери с собой воду." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_5" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_6" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_2" Text="Махората слушает." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_3" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_5" Text="Махората слушает." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_6" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_2" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_5" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LOSEWAR_1" Text="Мир. Мы нужны стадам." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LOSEWAR_2" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADEREQUEST_ANGRY" Text="Рассмотри." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADEREQUEST_HAPPY" Text="Торг между островами." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADEREQUEST_NEUTRAL" Text="Махората предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NO_ANGRY" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NO_HAPPY" Text="Это не торговля." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_YES_ANGRY" Text="Сделано." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_YES_NEUTRAL" Text="Согласен. Торговля это дыхание Эрбании." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_NO_HAPPY" Text="Махос никому не платят." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_YES_ANGRY" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_YES_NEUTRAL" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WARBLUFF_1" Text="Не угрожай Махорате." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WARBLUFF_3" Text="Подумай ещё." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WINWAR_1" Text="Эрбания свободна." />
+    <Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WINWAR_2" Text="Иди домой." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO" Text="Гуадарфия" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_PEDIA" Text="Гуадарфия был королём Лансароте, когда в 1402 году высадились Жан де Бетанкур и Гадифер де Ла Саль. Его народ, после десятилетий работорговых набегов насчитывавший, возможно, триста человек, заключил договор с нормандцами; после предательства людей самого Бетанкура он восстал, был разбит и крещён как Луис в 1404 году.[NEWLINE][NEWLINE]Лансароте был известен европейцам с визита Ланчелотто Малочелло около 1312 года, давшего острову его европейское имя; местное название было Титерогака. Королевская резиденция находилась в Сонсамасе, руины которого сохранились близ Тегисе." />
+    <Replace Tag="TXT_KEY_CIV_CARTHAGE_DESC" Text="Королевство Титерогака" />
+    <Replace Tag="TXT_KEY_CIV_CARTHAGE_SHORT_DESC" Text="Махос Титерогаки" />
+    <Replace Tag="TXT_KEY_CIV_CARTHAGE_ADJECTIVE" Text="Махосский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_CARTHAGE_TEXT" Text="Гуадарфия, король Титерогаки, первого острова, которого достигает каждый корабль с севера. Твой народ живёт между лавовыми полями вулканов и морем, на земле, где почти никогда не идёт дождь и куда чужаки уже не раз приходили за рабами.[NEWLINE][NEWLINE]Море принесло налётчиков; оно может принести и торговлю. Построй гавани в каждой бухте, укрепи Сонсамас, и сделай Титерогаку воротами архипелага, а не его жертвой." />
+    <Replace Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE_SHORT" Text="Гавани махос" />
+    <Replace Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE" Text="Все прибрежные города получают бесплатную гавань. После первого великого полководца юниты могут пересекать горы, теряя 50 ОЗ, если заканчивают ход на горе." />
+    <Replace Tag="TXT_KEY_CAN1400_BLURB_LANZAROTE" Text="Гуадарфия, король Титерогаки, первого острова, которого достигает каждый корабль с севера. Твой народ живёт между лавовыми полями вулканов и морем, на земле, где почти никогда не идёт дождь и куда чужаки уже не раз приходили за рабами.[NEWLINE][NEWLINE]Море принесло налётчиков; оно может принести и торговлю. Построй гавани в каждой бухте, укрепи Сонсамас, и сделай Титерогаку воротами архипелага, а не его жертвой." />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_0" Text="Сонсамас" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_1" Text="Акатифе" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_2" Text="Тинахо" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_3" Text="Тиас" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_4" Text="Яйса" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_5" Text="Гуатиса" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_6" Text="Ария" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_7" Text="Мала" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_8" Text="Таиче" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_9" Text="Мачер" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_10" Text="Фемес" />
+    <Replace Tag="TXT_KEY_CITY_NAME_CAN1400_LANZAROTE_11" Text="Тиагуа" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_3" Text="Ладно." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_ATTACKED_1" Text="Ты напал на Титерогаку? Мы к этому привыкли. К победам тоже." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_ATTACKED_2" Text="Гавани теперь закрыты для тебя." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_ATTACKED_3" Text="Предательство. Бетанкур гордился бы тобой." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_1" Text="Тогда лавовые поля получат тебя." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_2" Text="Война. Мы и раньше били налётчиков." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_3" Text="Быть по сему." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEFEATED_1" Text="Титерогака пала. Море принесёт других после тебя." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEFEATED_2" Text="Ты держишь остров. Вулканы держат тебя." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEFEATED_3" Text="Махос выстоят." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_ANGRY" Text="Дань." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_HAPPY" Text="Плати." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_NEUTRAL" Text="Дар за гавань был бы мудрым решением." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_3" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_6" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_1" Text="Я Гуадарфия, король Титерогаки. Корабли достигают моего острова первым; беды тоже. Ты который из них?" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_2" Text="Добро пожаловать на Титерогаку. Паруса мы уже видели." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_3" Text="Чужак с моря. Говори прямо." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_1" Text="Попутного ветра." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_2" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_3" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_4" Text="Попутного ветра." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_5" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_6" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_2" Text="Сонсамас слушает." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_3" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_5" Text="Сонсамас слушает." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_6" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_2" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_5" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LOSEWAR_1" Text="Мир. Гавани открыты." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LOSEWAR_2" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_ANGRY" Text="Рассмотри." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_HAPPY" Text="Торг." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_NEUTRAL" Text="Сонсамас предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_ANGRY" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_HAPPY" Text="Это пиратство, а не торговля." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_ANGRY" Text="Сделано." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_NEUTRAL" Text="Согласен. Гавань открыта." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_HAPPY" Text="Титерогака никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_ANGRY" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_NEUTRAL" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_1" Text="Не угрожай Титерогаке." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_3" Text="Подумай ещё." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WINWAR_1" Text="Титерогака свободна." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WINWAR_2" Text="Иди домой." />
+    <Replace Tag="TXT_KEY_FEATURE_FUJI" Text="Тейде" />
+    <Replace Tag="TXT_KEY_FEATURE_MT_KAILASH" Text="Роке-Нубло" />
+    <Replace Tag="TXT_KEY_FEATURE_MESA" Text="Кальдера-де-Табурьенте" />
+    <Replace Tag="TXT_KEY_FEATURE_SRI_PADA" Text="Гарахонай" />
+    <Replace Tag="TXT_KEY_FEATURE_FOUNTAIN_YOUTH" Text="Гароэ" />
+    <Replace Tag="TXT_KEY_FEATURE_ULURU" Text="Тиндайя" />
+    <Replace Tag="TXT_KEY_FEATURE_VOLCANO" Text="Ла-Корона" />
+    <Replace Tag="TXT_KEY_CAN1400_TITLE" Text="Канары 1400" />
+    <Replace Tag="TXT_KEY_CAN1400_INTRO" Text="Канарские острова в 1400 году. Семь островов, семь народов, ни одной лодки. Сначала обустрой свой остров; море придёт позже. Победа только завоеванием." />
+    <Replace Tag="TXT_KEY_RELIGION_BUDDHISM" Text="Ачаман" />
+    <Replace Tag="TXT_KEY_RELIGION_CATHOLICISM" Text="Магек" />
+    <Replace Tag="TXT_KEY_RELIGION_CONFUCIANISM" Text="Чаширакси" />
+    <Replace Tag="TXT_KEY_RELIGION_HINDUISM" Text="Ачугуайо" />
+    <Replace Tag="TXT_KEY_RELIGION_ISLAM" Text="Ачухуканак" />
+    <Replace Tag="TXT_KEY_RELIGION_JUDAISM" Text="Акоран" />
+    <Replace Tag="TXT_KEY_RELIGION_SHINTO" Text="Алькорак" />
+    <Replace Tag="TXT_KEY_RELIGION_SIKHISM" Text="Абора" />
+    <Replace Tag="TXT_KEY_RELIGION_TAOISM" Text="Орахан" />
+    <Replace Tag="TXT_KEY_RELIGION_TENGRIISM" Text="Эраоранхан" />
+    <Replace Tag="TXT_KEY_RELIGION_ZOROASTRIANISM" Text="Монейба" />
+    <Replace Tag="TXT_KEY_RELIGION_ORTHODOXY" Text="Чихорахи" />
+    <Replace Tag="TXT_KEY_RELIGION_PROTESTANTISM" Text="Гуайота" />
+    <Replace Tag="TXT_KEY_RELIGION_CHRISTIANITY" Text="Магек" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_CEREMONY" Text="Беньесмен" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_CEREMONY_HELP" Text="[COLOR_POSITIVE_TEXT]Беньесмен[ENDCOLOR] повышает счастье вашей державы и позволяет ей расти.[NEWLINE][NEWLINE]Принятие ветки «Беньесмен» снижает [ICON_HAPPINESS_4] недовольство от [ICON_CITIZEN] населения в [ICON_CAPITAL] столице на 33%." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_CEREMONY_TEXT" Text="Беньесмен был праздником урожая гуанчей, когда менсейяты откладывали распри, делили гофио нового ячменя, а сильнейшие состязались в борьбе и бое на палках. Пророки гуаньямене и советы тагорор давали году порядок." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TAPU" Text="Гуаньямене" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TAPU_HELP" Text="[COLOR_POSITIVE_TEXT]Гуаньямене[ENDCOLOR][NEWLINE]Стоимость будущих институтов в [ICON_CULTURE] культуре снижена на 10%." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TAPU_TEXT" Text="Гуаньямене" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POWHIRI" Text="Тагорор" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POWHIRI_HELP" Text="[COLOR_POSITIVE_TEXT]Тагорор[ENDCOLOR][NEWLINE]+1 [ICON_PRODUCTION] производства в каждом городе." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POWHIRI_TEXT" Text="Тагорор" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_SURFING" Text="Луча" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_SURFING_HELP" Text="[COLOR_POSITIVE_TEXT]Луча[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] счастья за каждый город державы." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_SURFING_TEXT" Text="Луча" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_KAVA" Text="Гофио" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_KAVA_HELP" Text="[COLOR_POSITIVE_TEXT]Гофио[ENDCOLOR][NEWLINE]Немедленно +10 [ICON_HAPPINESS_1] счастья." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_KAVA_TEXT" Text="Гофио" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_LUAU" Text="Гуататибоа" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_LUAU_HELP" Text="[COLOR_POSITIVE_TEXT]Гуататибоа[ENDCOLOR][NEWLINE]+2 [ICON_HAPPINESS_1] счастья за каждый вид редкого ресурса." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_LUAU_TEXT" Text="Гуататибоа" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_THE_ARTS" Text="Пинтадеры" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_THE_ARTS_HELP" Text="[COLOR_POSITIVE_TEXT]Пинтадеры[ENDCOLOR] повышает культуру державы и позволяет принимать больше институтов.[NEWLINE][NEWLINE]Принятие ветки «Пинтадеры» даёт +2 [ICON_CULTURE] культуры от каждого монумента и храма." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_THE_ARTS_TEXT" Text="На островах не было металла и письма, но было искусство: пинтадеры, глиняные печати с геометрическим узором; расписные пещеры Гальдара; спирали, выбитые в скалах Ла-Пальмы; плащи тамарко из козьих шкур, сшитые костяными иглами; идол Тара; танцы тахарасте на праздниках." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HULA" Text="Тахарасте" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HULA_HELP" Text="[COLOR_POSITIVE_TEXT]Тахарасте[ENDCOLOR][NEWLINE]Для начала [ICON_GOLDEN_AGE] золотого века нужно на 25% меньше [ICON_HAPPINESS_1] счастья." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HULA_TEXT" Text="Тахарасте" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TIKI" Text="Тара" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TIKI_HELP" Text="[COLOR_POSITIVE_TEXT]Тара[ENDCOLOR][NEWLINE]50% избыточного [ICON_HAPPINESS_1] счастья каждый ход добавляется к [ICON_CULTURE] культуре для институтов." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TIKI_TEXT" Text="Тара" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_RONGO" Text="Аримагуады" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_RONGO_HELP" Text="[COLOR_POSITIVE_TEXT]Аримагуады[ENDCOLOR][NEWLINE]+100% [ICON_RESEARCH] науки от библиотек и обсерваторий." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_RONGO_TEXT" Text="Аримагуады" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TAPACLOTH" Text="Тамарко" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TAPACLOTH_HELP" Text="[COLOR_POSITIVE_TEXT]Тамарко[ENDCOLOR][NEWLINE]+2 [ICON_CULTURE] культуры в каждом городе." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TAPACLOTH_TEXT" Text="Тамарко" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_STONECARVING" Text="Петроглифы" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_STONECARVING_HELP" Text="[COLOR_POSITIVE_TEXT]Петроглифы[ENDCOLOR][NEWLINE]+3 [ICON_CULTURE] культуры в [ICON_CAPITAL] столице." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_STONECARVING_TEXT" Text="Петроглифы" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HONOR" Text="Гуайры" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HONOR_HELP" Text="[COLOR_POSITIVE_TEXT]Гуайры[ENDCOLOR] делает войско сильнее на разные лады.[NEWLINE][NEWLINE]Принятие ветки «Гуайры» даёт +15 опыта всем сухопутным боевым юнитам, созданным с этого момента." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HONOR_TEXT" Text="Гуайры и сигоне были воинской знатью островов, менсеи их королями. Честь это воины, с юности обученные метанию камней и бою на палках, раны, перевязанные обсидиановой табоной, и палица магадо, встречавшая каждую высадку на берегах." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POI" Text="Марискадоры" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POI_HELP" Text="[COLOR_POSITIVE_TEXT]Марискадоры[ENDCOLOR][NEWLINE]+1 [ICON_MOVES] к передвижению погружённых юнитов." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POI_TEXT" Text="Марискадоры" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_ARIKI" Text="Менсеи" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_ARIKI_HELP" Text="[COLOR_POSITIVE_TEXT]Менсеи[ENDCOLOR][NEWLINE]Великие полководцы появляются на 100% быстрее." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_ARIKI_TEXT" Text="Менсеи" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HEALING" Text="Табона" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HEALING_HELP" Text="[COLOR_POSITIVE_TEXT]Табона[ENDCOLOR][NEWLINE]Юниты ближнего боя получают повышение «Медик»." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HEALING_TEXT" Text="Табона" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HAKA" Text="Магадо" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HAKA_HELP" Text="[COLOR_POSITIVE_TEXT]Магадо[ENDCOLOR][NEWLINE]За каждого убитого врага держава получает [ICON_CULTURE] культуру, равную ТРОЙНОЙ [ICON_STRENGTH] боевой силе юнита." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_HAKA_TEXT" Text="Магадо" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MANA" Text="Гуатимак" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MANA_HELP" Text="[COLOR_POSITIVE_TEXT]Гуатимак[ENDCOLOR][NEWLINE][ICON_GREAT_PEOPLE] Великие люди появляются на 100% быстрее." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MANA_TEXT" Text="Гуатимак" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_FAITH" Text="Ачаман" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_FAITH_HELP" Text="[COLOR_POSITIVE_TEXT]Ачаман[ENDCOLOR] умножает [ICON_PEACE] веру вашего народа.[NEWLINE][NEWLINE]Принятие ветки «Ачаман» позволяет строить святилища и храмы вдвое быстрее." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_FAITH_TEXT" Text="Ачаман был богом неба на Тенерифе, Алькорак на Гран-Канарии, Абора на Ла-Пальме; Магек был солнцем, а Чахирахи матерью. Файкан и аримагуады хранили святилища альмогарен и храмы эфекен, а в засуху весь народ поднимался к баладеро, чтобы блеяние коз вымолило у неба дождь." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_SHRINES" Text="Эфекен" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_SHRINES_HELP" Text="[COLOR_POSITIVE_TEXT]Эфекен[ENDCOLOR][NEWLINE]+1 [ICON_PEACE] веры от святилищ и храмов." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_SHRINES_TEXT" Text="Эфекен" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MANDATE" Text="Альмогарен" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MANDATE_HELP" Text="[COLOR_POSITIVE_TEXT]Альмогарен[ENDCOLOR][NEWLINE]Покупка религиозных юнитов и зданий за [ICON_PEACE] веру на 20% дешевле." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MANDATE_TEXT" Text="Альмогарен" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_THEOCRACY" Text="Файкан" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_THEOCRACY_HELP" Text="[COLOR_POSITIVE_TEXT]Файкан[ENDCOLOR][NEWLINE]Храмы увеличивают доход города в [ICON_GOLD] золоте на 25%." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_THEOCRACY_TEXT" Text="Файкан" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TOLERANCE" Text="Чахирахи" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TOLERANCE_HELP" Text="[COLOR_POSITIVE_TEXT]Чахирахи[ENDCOLOR][NEWLINE]Города с господствующей религией получают и бонус пантеона второй по численности религии." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TOLERANCE_TEXT" Text="Чахирахи" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_REFORMATION" Text="Баладеро" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_REFORMATION_HELP" Text="[COLOR_POSITIVE_TEXT]Баладеро[ENDCOLOR][NEWLINE]Если вы основали религию, получаете дополнительное верование Реформации." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_REFORMATION_TEXT" Text="Баладеро" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TRADE" Text="Аньепа" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TRADE_HELP" Text="[COLOR_POSITIVE_TEXT]Аньепа[ENDCOLOR] помогает державам, сосредоточенным на [ICON_GOLD] золоте.[NEWLINE][NEWLINE]Принятие ветки «Аньепа» увеличивает доход [ICON_CAPITAL] столицы в [ICON_GOLD] золоте на 25%." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_TRADE_TEXT" Text="Аньепа, деревянный скипетр менсея, означала дань острова: козы стад гуаниль, горшки ганигос, ячмень террас. Знать, ачименсей, и простолюдины, ачикасна, имели свою долю в гуаньяк, общине долины." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_ROUTES" Text="Гуаниль" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_ROUTES_HELP" Text="[COLOR_POSITIVE_TEXT]Гуаниль[ENDCOLOR][NEWLINE]+2 [ICON_GOLD] золота от каждого сухопутного торгового пути. Содержание дорог дешевле на 50%." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_ROUTES_TEXT" Text="Гуаниль" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POSTS" Text="Ганигос" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POSTS_HELP" Text="[COLOR_POSITIVE_TEXT]Ганигос[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] золота с каждой фактории." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_POSTS_TEXT" Text="Ганигос" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MERCHANTS" Text="Ачименсей" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MERCHANTS_HELP" Text="[COLOR_POSITIVE_TEXT]Ачименсей[ENDCOLOR][NEWLINE]Великие торговцы появляются на 25% быстрее. Торговые миссии приносят вдвое больше [ICON_GOLD] золота. +1 [ICON_MOVES] к передвижению погружённых юнитов." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MERCHANTS_TEXT" Text="Ачименсей" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MARKETS" Text="Гуаньяк" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MARKETS_HELP" Text="[COLOR_POSITIVE_TEXT]Гуаньяк[ENDCOLOR][NEWLINE]Покупки в городах на 25% дешевле в [ICON_GOLD] золоте. +1 [ICON_RESEARCH] науки от каждого монетного двора и рынка." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_MARKETS_TEXT" Text="Гуаньяк" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_LUXURIES" Text="Ачикасна" />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_LUXURIES_HELP" Text="[COLOR_POSITIVE_TEXT]Ачикасна[ENDCOLOR][NEWLINE]+2 [ICON_HAPPINESS_1] счастья за каждый редкий ресурс." />
+    <Replace Tag="TXT_KEY_POLICY_CAN1400_LUXURIES_TEXT" Text="Ачикасна" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_CEREMONY" Text="Беньесмен" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_CEREMONY_CAP" Text="БЕНЬЕСМЕН" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_CEREMONY_HELP" Text="[COLOR_POSITIVE_TEXT]Беньесмен[ENDCOLOR] повышает счастье вашей державы и позволяет ей расти.[NEWLINE][NEWLINE]Принятие ветки «Беньесмен» снижает [ICON_HAPPINESS_4] недовольство от [ICON_CITIZEN] населения в [ICON_CAPITAL] столице на 33%." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_CEREMONY_TITLE" Text="{1_PlayerName:textkey} Почитаемый, {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_THE_ARTS" Text="Пинтадеры" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_THE_ARTS_CAP" Text="ПИНТАДЕРЫ" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_THE_ARTS_HELP" Text="[COLOR_POSITIVE_TEXT]Пинтадеры[ENDCOLOR] повышает культуру державы и позволяет принимать больше институтов.[NEWLINE][NEWLINE]Принятие ветки «Пинтадеры» даёт +2 [ICON_CULTURE] культуры от каждого монумента и храма." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_THE_ARTS_TITLE" Text="{1_PlayerName:textkey} Искусный, {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_HONOR" Text="Гуайры" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_HONOR_CAP" Text="ГУАЙРЫ" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_HONOR_HELP" Text="[COLOR_POSITIVE_TEXT]Гуайры[ENDCOLOR] делает войско сильнее на разные лады.[NEWLINE][NEWLINE]Принятие ветки «Гуайры» даёт +15 опыта всем сухопутным боевым юнитам, созданным с этого момента." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_HONOR_TITLE" Text="{1_PlayerName:textkey} Великий, {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_FAITH" Text="Ачаман" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_FAITH_CAP" Text="АЧАМАН" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_FAITH_HELP" Text="[COLOR_POSITIVE_TEXT]Ачаман[ENDCOLOR] умножает [ICON_PEACE] веру вашего народа.[NEWLINE][NEWLINE]Принятие ветки «Ачаман» позволяет строить святилища и храмы вдвое быстрее." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_FAITH_TITLE" Text="{1_PlayerName:textkey} Благочестивый, {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_TRADE" Text="Аньепа" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_TRADE_CAP" Text="АНЬЕПА" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_TRADE_HELP" Text="[COLOR_POSITIVE_TEXT]Аньепа[ENDCOLOR] помогает державам, сосредоточенным на [ICON_GOLD] золоте.[NEWLINE][NEWLINE]Принятие ветки «Аньепа» увеличивает доход [ICON_CAPITAL] столицы в [ICON_GOLD] золоте на 25%." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_CAN1400_TRADE_TITLE" Text="{1_PlayerName:textkey} Богатый, {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_SIGONE" Text="Сигоне" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_SIGONE_HELP" Text="Замена копейщика у гуанчей. +1 [ICON_STRENGTH] боевой силы и повышение «Муштра I»: +15% на пересечённой местности (холмы, лес)." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_SIGONE_STRATEGY" Text="Сигоне это копейщик гуанчей: чуть сильнее и как дома в ущельях и на склонах, где гуанчи устраивали засады. Держите им пересечённую местность и ущелья." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_SIGONE_TEXT" Text="Сигоне были капитанами гуанчского менсея, знатью, водившей воинов менсейята на войну. Оружием гуанчей был банот, деревянное копьё с обожжённым остриём, деревянный щит тарха и камни, которые метали с большой точностью; при Асентехо в 1494 году сигоне Таоро с помощью ущелья уничтожили кастильскую армию." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_TIRADOR" Text="Тирадор" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_TIRADOR_HELP" Text="Замена лучника у канариев. +1 [ICON_STRENGTH] боевой силы и +1 [ICON_RANGE_STRENGTH] силы дальнего боя за ту же цену." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_TIRADOR_STRATEGY" Text="Тирадор это лучник канариев: сильнее на дистанции и в обороне, та же цена. Ставьте его за воинами и на холмах, откуда его камни достают на две клетки. Улучшается до составного лучника." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_TIRADOR_TEXT" Text="Все хронисты завоевания отмечали мастерство канариев в метании камней: они попадали в выбранную цель на расстоянии, отбивали летящие камни, а залп со склона останавливал колонну в доспехах. Метанию учили с детства, это было первое оружие каждого острова, но канарии Гран-Канарии считались признанными мастерами." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_MAGADO" Text="Магадо" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_MAGADO_HELP" Text="Замена воина у бенаоаритов. +1 [ICON_STRENGTH] боевой силы и повышение «Укрытие I»: +25% защиты от дальних атак." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_MAGADO_STRATEGY" Text="Магадо это воин бенаоаритов: крепче и его трудно расстрелять лучниками. Юнит для гарнизона ущелья или города; улучшается до мечника." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_MAGADO_TEXT" Text="Магадо, тяжёлая деревянная палица, была боевой дубиной бенаоаритов, и имя перешло на воинов, носивших её. Бенаоариты Ла-Пальмы были пещерными пастухами коз, сражавшимися в ущельях самого крутого острова архипелага; кальдеру Асеро при Танаусу так и не взяли штурмом." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_SILBADOR" Text="Сильбадор" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_SILBADOR_HELP" Text="Замена разведчика у гомерцев. +1 [ICON_STRENGTH] боевой силы и повышение «Дозор»: +1 к дальности обзора." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_SILBADOR_STRATEGY" Text="Сильбадор это разведчик гомерцев: видит на клетку дальше и живёт чуть дольше. Используйте его, чтобы рано разведать остров и следить за побережьем." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_SILBADOR_TEXT" Text="Гомерцы переговаривались через ущелья своего острова с помощью сильбо, свистящей формы языка, слышной за несколько километров. Весть о высадке, набеге или совете шла от кантона к кантону быстрее любого гонца; сильбо пережило завоевание и до сих пор преподаётся на Гомере." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_MARISCADOR" Text="Марискадор" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_MARISCADOR_HELP" Text="Замена рабочей лодки у бимбаче. Вдвое дешевле (25 [ICON_PRODUCTION]) и +1 [ICON_MOVES] к передвижению." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_MARISCADOR_STRATEGY" Text="Марискадор это рабочая лодка бимбаче: дешёвая и быстрая. Стройте её рано, чтобы освоить каждую клетку с рыбой и моллюсками вокруг маленького острова; море кормит Эль-Йерро." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_MARISCADOR_TEXT" Text="Бимбаче Эль-Йерро жили козами, небольшим количеством ячменя и морем: раковинные кучи (кончерос) тянутся вдоль побережья острова. На острове без родников, где воду давал туман на дереве Гароэ, моллюски, крабы и рыба, собранные на скалах, были большой частью каждой трапезы." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_AHEPA" Text="Аэпа" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_AHEPA_HELP" Text="Замена копейщика у махос. На 25% дешевле (42 [ICON_PRODUCTION]) и повышение «Натиск I»: +15% на открытой местности." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_AHEPA_STRATEGY" Text="Аэпа это копейщик махос: дешёвый и сильный на открытых равнинах Эрбании. Выставляйте их числом." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_AHEPA_TEXT" Text="Аэпа была копьём махос Фуэртевентуры, длинной деревянной пикой с обожжённым остриём. Махос сражались на открытых равнинах самого сухого острова архипелага, пастушьи королевства, разделённые стеной Ла-Паред; их воины носили также камни и тесесес, боевую палку." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_GUARDIA" Text="Страж Сонсамаса" />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_GUARDIA_HELP" Text="Замена воина у махос. Повышение «Десант»: без штрафа при атаке с моря и через реку." />
+    <Replace Tag="TXT_KEY_UNIT_CAN1400_GUARDIA_STRATEGY" Text="Страж Сонсамаса это воин махос Лансароте: той же силы, но высаживается с боем. Юнит для первых переправ на соседний остров, когда Оптика позволит садиться на суда; улучшается до мечника." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_GUARDIA_TEXT" Text="Сонсамас был резиденцией королей Лансароте, обнесённым стеной комплексом близ Тегисе, руины которого сохранились. Лансароте был первым островом, до которого добрались европейцы, и с XIV века его жители отбивали работорговцев, высаживавшихся на их берегах; к 1402 году махос Гуадарфии были несколькими сотнями людей, закалённых веком обороны побережья." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_TAGOROR" Text="Тагорор" />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_TAGOROR_HELP" Text="Замена монумента у гуанчей. +1 [ICON_HAPPINESS_1] счастья и без расходов на содержание." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_TAGOROR_STRATEGY" Text="Тагорор даёт культуру монумента, очко счастья и ничего не стоит в содержании. Стройте его первым в каждом городе." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_TAGOROR_TEXT" Text="Тагорор был местом совета гуанчей: кольцо камней с большим сиденьем для менсея, где знать собиралась судить, решать о войне и принимать послов. Он был в каждом менсейяте, и слово сохранилось в топонимах по всему Тенерифе." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_CENOBIO" Text="Сенобио" />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_CENOBIO_HELP" Text="Замена амбара у канариев. +3 [ICON_FOOD] еды вместо +2 и +1 [ICON_FOOD] еды с овец в дополнение к пшенице, бананам и оленям." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_CENOBIO_STRATEGY" Text="Сенобио кормит город быстрее амбара и превращает козьи пастбища холмов в еду. Стройте его рано в каждом городе, который должен расти." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_CENOBIO_TEXT" Text="Сенобио-де-Валерон на северном берегу Гран-Канарии это скала с более чем тремя сотнями камер, вырубленных в породе под естественной аркой: коллективное зернохранилище канариев, где урожай долины хранился под охраной аримагуад. Похожие укреплённые зернохранилища есть по всему острову." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_CUEVAS" Text="Куэвас" />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_CUEVAS_HELP" Text="Замена стен у бенаоаритов. +8 [ICON_STRENGTH] защиты города вместо +5, +75 очков здоровья вместо +50, без содержания." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_CUEVAS_STRATEGY" Text="Куэвас делают город гораздо труднее для захвата, чем обычные стены, за ту же цену. С магадо в гарнизоне бенаоаритский город на ущелье это крепость." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_CUEVAS_TEXT" Text="Народы островов жили в пещерах, естественных или вырубленных в вулканическом туфе, а на Ла-Пальме пещерные посёлки ущелий Аридане и Тедоте поднимаются террасами по склонам скал. Пещерное поселение на уступе с единственной тропой не нуждалось в стене; завоевателям приходилось брать их по одному." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_ARANFAYBO" Text="Аранфайбо" />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_ARANFAYBO_HELP" Text="Замена святилища у бимбаче. +2 [ICON_PEACE] веры вместо +1 и +1 [ICON_FOOD] еды." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_ARANFAYBO_STRATEGY" Text="Аранфайбо удваивает веру святилища и немного кормит город: дождь это жизнь на Эль-Йерро. Стройте его рано, чтобы основать пантеон раньше больших островов." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_ARANFAYBO_TEXT" Text="Аранфайбо был духом, которого бимбаче призывали ради дождя: когда туман подводил и Гароэ не давал воды, жрецы поднимались к пещере Астеэйта и взывали к нему, и, как говорили, появлялось похожее на свинью существо и приводило облака. Почти все обряды островов были о воде." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_GAMBUESA" Text="Гамбуэса" />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_GAMBUESA_HELP" Text="Замена цирка у махос. Не требует лошадей или слоновой кости поблизости и даёт +1 [ICON_PRODUCTION] производства с овец." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_GAMBUESA_STRATEGY" Text="Гамбуэса даёт два очка счастья цирка любому городу, а не только тому, где есть лошади или слоновая кость, и делает козьи пастбища производительными. Стройте её по мере роста городов." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_GAMBUESA_TEXT" Text="Гамбуэса это общинный каменный загон Фуэртевентуры и Лансароте, куда раз в год сгоняли вольно пасущихся коз целого округа, чтобы пересчитать, пометить и подоить; обычай пережил завоевание. Махос были прежде всего пастухами; коза была едой, одеждой, кожей и богатством." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_MARETA" Text="Марета" />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_MARETA_HELP" Text="Замена водяной мельницы у махос. Не требует реки и стоит 1 [ICON_GOLD] содержания вместо 2." />
+    <Replace Tag="TXT_KEY_BUILDING_CAN1400_MARETA_STRATEGY" Text="На островах нет рек, так что водяную мельницу не построит никто другой: марета даёт Лансароте +2 еды и +1 производства в каждом городе за половину содержания." />
+    <Replace Tag="TXT_KEY_CIV5_CAN1400_MARETA_TEXT" Text="Мареты Лансароте это дождевые цистерны: обнесённые стенами котловины и пруды, собирающие сток редких ливней на острове без родников. Гран-Марета в Тегисе веками поила столицу; махос Сонсамаса жили тем же искусством ловить каждую каплю." />
+    <Replace Tag="TXT_KEY_IMPROVEMENT_TERRACE_FARM" Text="Банкалес" />
+    <Replace Tag="TXT_KEY_BUILD_TERRACE_FARM" Text="Банкалес" />
+    <Replace Tag="TXT_KEY_CIV5_IMPROVEMENTS_TERRACE_FARM_HELP" Text="Банкалес можно строить только на холмах, и им не нужна пресная вода. Рядом с горой они дают дополнительную еду." />
+    <Replace Tag="TXT_KEY_CIV5_IMPROVEMENTS_TERRACE_FARM_TEXT" Text="Банкалес это террасы сухой каменной кладки, поднимающиеся по склонам ущелий Ла-Гомеры и удерживающие тонкую вулканическую почву там, где поле не удержалось бы. Гомерцы растили на них ячмень и бобы, поливая по каналам от родников лаврового облачного леса на вершине, и остров до сих пор опоясан их стенами." />
+  </Language_RU_RU>
+</GameData>

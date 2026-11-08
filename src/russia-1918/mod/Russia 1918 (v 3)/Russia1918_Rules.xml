@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Russia 1918: no world wonders, no Manhattan Project, no Apollo Program; weekly calendar parked; border states as city-states; faction colours. -->
+<GameData>
+  <Buildings>
+    <Update><Where Type="BUILDING_ALHAMBRA" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_ANGKOR_WAT" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_BIG_BEN" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_BOROBUDUR" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_BRANDENBURG_GATE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_BROADWAY" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_CHICHEN_ITZA" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_CN_TOWER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_COLOSSUS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_CRISTO_REDENTOR" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_EIFFEL_TOWER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_FORBIDDEN_PALACE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GLOBE_THEATER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GREAT_FIREWALL" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GREAT_LIBRARY" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GREAT_LIGHTHOUSE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GREAT_WALL" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_HAGIA_SOPHIA" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_HANGING_GARDEN" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_HIMEJI_CASTLE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_HUBBLE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_INTERNATIONAL_SPACE_STATION" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_KREMLIN" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_LEANING_TOWER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_LOUVRE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_MACHU_PICHU" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_MAUSOLEUM_HALICARNASSUS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_MOSQUE_OF_DJENNE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_NEUSCHWANSTEIN" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_NOTRE_DAME" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_ORACLE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PARTHENON" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PENTAGON" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PETRA" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PORCELAIN_TOWER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PRORA_RESORT" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PYRAMID" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_RED_FORT" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_SISTINE_CHAPEL" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_STATUE_OF_LIBERTY" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_STATUE_ZEUS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_STONEHENGE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_SYDNEY_OPERA_HOUSE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_TAJ_MAHAL" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_TEMPLE_ARTEMIS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_TERRACOTTA_ARMY" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_UFFIZI" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_UNITED_NATIONS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+  </Buildings>
+  <Projects>
+    <Update><Where Type="PROJECT_MANHATTAN_PROJECT" /><Set TechPrereq="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="PROJECT_APOLLO_PROGRAM" /><Set TechPrereq="TECH_FUTURE_TECH" /></Update>
+  </Projects>
+  <GameSpeed_Turns>
+    <Delete GameSpeedType="GAMESPEED_STANDARD" />
+    <Row><GameSpeedType>GAMESPEED_STANDARD</GameSpeedType><MonthIncrement>1</MonthIncrement><TurnsPerIncrement>100000</TurnsPerIncrement></Row>
+    <Delete GameSpeedType="GAMESPEED_QUICK" />
+    <Row><GameSpeedType>GAMESPEED_QUICK</GameSpeedType><MonthIncrement>1</MonthIncrement><TurnsPerIncrement>100000</TurnsPerIncrement></Row>
+  </GameSpeed_Turns>
+  <Defines>
+    <Update><Where Name="START_YEAR" /><Set Value="1918" /></Update>
+  </Defines>
+  <Colors>
+    <Row><Type>COLOR_PLAYER_RUS1918_RED_ICON</Type><Red>1.000</Red><Green>0.843</Green><Blue>0.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_RUS1918_RED_BG</Type><Red>0.690</Red><Green>0.000</Green><Blue>0.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_RUS1918_SOUTH_ICON</Type><Red>0.122</Red><Green>0.306</Green><Blue>0.604</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_RUS1918_SOUTH_BG</Type><Red>0.949</Red><Green>0.949</Green><Blue>0.949</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_RUS1918_SIB_ICON</Type><Red>1.000</Red><Green>1.000</Green><Blue>1.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_RUS1918_SIB_BG</Type><Red>0.180</Red><Green>0.490</Green><Blue>0.196</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_RUS1918_NORTH_ICON</Type><Red>1.000</Red><Green>1.000</Green><Blue>1.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_RUS1918_NORTH_BG</Type><Red>0.043</Red><Green>0.239</Green><Blue>0.569</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_RUS1918_UKR_ICON</Type><Red>1.000</Red><Green>0.835</Green><Blue>0.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_RUS1918_UKR_BG</Type><Red>0.000</Red><Green>0.357</Green><Blue>0.733</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_RUS1918_POL_ICON</Type><Red>1.000</Red><Green>1.000</Green><Blue>1.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_RUS1918_POL_BG</Type><Red>0.863</Red><Green>0.078</Green><Blue>0.235</Blue><Alpha>1</Alpha></Row>
+  </Colors>
+  <PlayerColors>
+    <Row><Type>PLAYERCOLOR_RUS1918_RED</Type><PrimaryColor>COLOR_PLAYER_RUS1918_RED_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_RUS1918_RED_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_RUS1918_SOUTH</Type><PrimaryColor>COLOR_PLAYER_RUS1918_SOUTH_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_RUS1918_SOUTH_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_RUS1918_SIB</Type><PrimaryColor>COLOR_PLAYER_RUS1918_SIB_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_RUS1918_SIB_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_RUS1918_NORTH</Type><PrimaryColor>COLOR_PLAYER_RUS1918_NORTH_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_RUS1918_NORTH_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_RUS1918_UKR</Type><PrimaryColor>COLOR_PLAYER_RUS1918_UKR_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_RUS1918_UKR_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_RUS1918_POL</Type><PrimaryColor>COLOR_PLAYER_RUS1918_POL_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_RUS1918_POL_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+  </PlayerColors>
+  <Civilizations>
+    <Update><Where Type="CIVILIZATION_RUSSIA" /><Set DefaultPlayerColor="PLAYERCOLOR_RUS1918_RED" /></Update>
+    <Update><Where Type="CIVILIZATION_GERMANY" /><Set DefaultPlayerColor="PLAYERCOLOR_RUS1918_SOUTH" /></Update>
+    <Update><Where Type="CIVILIZATION_SHOSHONE" /><Set DefaultPlayerColor="PLAYERCOLOR_RUS1918_SIB" /></Update>
+    <Update><Where Type="CIVILIZATION_ENGLAND" /><Set DefaultPlayerColor="PLAYERCOLOR_RUS1918_NORTH" /></Update>
+    <Update><Where Type="CIVILIZATION_ETHIOPIA" /><Set DefaultPlayerColor="PLAYERCOLOR_RUS1918_UKR" /></Update>
+    <Update><Where Type="CIVILIZATION_POLAND" /><Set DefaultPlayerColor="PLAYERCOLOR_RUS1918_POL" /></Update>
+  </Civilizations>
+  <MinorCivilizations>
+    <Row><Type>MINOR_CIV_RUS1918_FINLAND</Type><Description>TXT_KEY_CITYSTATE_RUS1918_FINLAND</Description><Civilopedia>TXT_KEY_CITYSTATE_RUS1918_FINLAND</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_RUS1918_FINLAND</ShortDescription><Adjective>TXT_KEY_CITYSTATE_RUS1918_FINLAND</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_BLUE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_RUS1918_ESTONIA</Type><Description>TXT_KEY_CITYSTATE_RUS1918_ESTONIA</Description><Civilopedia>TXT_KEY_CITYSTATE_RUS1918_ESTONIA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_RUS1918_ESTONIA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_RUS1918_ESTONIA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_GREEN</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_RUS1918_LATVIA</Type><Description>TXT_KEY_CITYSTATE_RUS1918_LATVIA</Description><Civilopedia>TXT_KEY_CITYSTATE_RUS1918_LATVIA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_RUS1918_LATVIA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_RUS1918_LATVIA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_GOLDENROD</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_RUS1918_LITHUANIA</Type><Description>TXT_KEY_CITYSTATE_RUS1918_LITHUANIA</Description><Civilopedia>TXT_KEY_CITYSTATE_RUS1918_LITHUANIA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_RUS1918_LITHUANIA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_RUS1918_LITHUANIA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_PURPLE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_RUS1918_GERMANY</Type><Description>TXT_KEY_CITYSTATE_RUS1918_GERMANY</Description><Civilopedia>TXT_KEY_CITYSTATE_RUS1918_GERMANY</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_RUS1918_GERMANY</ShortDescription><Adjective>TXT_KEY_CITYSTATE_RUS1918_GERMANY</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_GRAY</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_RUS1918_ROMANIA</Type><Description>TXT_KEY_CITYSTATE_RUS1918_ROMANIA</Description><Civilopedia>TXT_KEY_CITYSTATE_RUS1918_ROMANIA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_RUS1918_ROMANIA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_RUS1918_ROMANIA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_DARK_LEMON</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_RUS1918_GEORGIA</Type><Description>TXT_KEY_CITYSTATE_RUS1918_GEORGIA</Description><Civilopedia>TXT_KEY_CITYSTATE_RUS1918_GEORGIA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_RUS1918_GEORGIA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_RUS1918_GEORGIA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_PEACH</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_RUS1918_AZERBAIJAN</Type><Description>TXT_KEY_CITYSTATE_RUS1918_AZERBAIJAN</Description><Civilopedia>TXT_KEY_CITYSTATE_RUS1918_AZERBAIJAN</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_RUS1918_AZERBAIJAN</ShortDescription><Adjective>TXT_KEY_CITYSTATE_RUS1918_AZERBAIJAN</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_CYAN</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_RUS1918_ARMENIA</Type><Description>TXT_KEY_CITYSTATE_RUS1918_ARMENIA</Description><Civilopedia>TXT_KEY_CITYSTATE_RUS1918_ARMENIA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_RUS1918_ARMENIA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_RUS1918_ARMENIA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_PURPLE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_RUS1918_OTTOMAN</Type><Description>TXT_KEY_CITYSTATE_RUS1918_OTTOMAN</Description><Civilopedia>TXT_KEY_CITYSTATE_RUS1918_OTTOMAN</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_RUS1918_OTTOMAN</ShortDescription><Adjective>TXT_KEY_CITYSTATE_RUS1918_OTTOMAN</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_WHITE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_RUS1918_PERSIA</Type><Description>TXT_KEY_CITYSTATE_RUS1918_PERSIA</Description><Civilopedia>TXT_KEY_CITYSTATE_RUS1918_PERSIA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_RUS1918_PERSIA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_RUS1918_PERSIA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_GREEN</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_RUS1918_BUKHARA</Type><Description>TXT_KEY_CITYSTATE_RUS1918_BUKHARA</Description><Civilopedia>TXT_KEY_CITYSTATE_RUS1918_BUKHARA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_RUS1918_BUKHARA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_RUS1918_BUKHARA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_GOLDENROD</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_RUS1918_KHIVA</Type><Description>TXT_KEY_CITYSTATE_RUS1918_KHIVA</Description><Civilopedia>TXT_KEY_CITYSTATE_RUS1918_KHIVA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_RUS1918_KHIVA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_RUS1918_KHIVA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_PEACH</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait></Row>
+  </MinorCivilizations>
+  <MinorCivilization_CityNames>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_FINLAND</MinorCivType><CityName>TXT_KEY_CITY_RUS1918_FINLAND</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ESTONIA</MinorCivType><CityName>TXT_KEY_CITY_RUS1918_ESTONIA</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_LATVIA</MinorCivType><CityName>TXT_KEY_CITY_RUS1918_LATVIA</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_LITHUANIA</MinorCivType><CityName>TXT_KEY_CITY_RUS1918_LITHUANIA</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_GERMANY</MinorCivType><CityName>TXT_KEY_CITY_RUS1918_GERMANY</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ROMANIA</MinorCivType><CityName>TXT_KEY_CITY_RUS1918_ROMANIA</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_GEORGIA</MinorCivType><CityName>TXT_KEY_CITY_RUS1918_GEORGIA</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_AZERBAIJAN</MinorCivType><CityName>TXT_KEY_CITY_RUS1918_AZERBAIJAN</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ARMENIA</MinorCivType><CityName>TXT_KEY_CITY_RUS1918_ARMENIA</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_OTTOMAN</MinorCivType><CityName>TXT_KEY_CITY_RUS1918_OTTOMAN</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_PERSIA</MinorCivType><CityName>TXT_KEY_CITY_RUS1918_PERSIA</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_BUKHARA</MinorCivType><CityName>TXT_KEY_CITY_RUS1918_BUKHARA</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_KHIVA</MinorCivType><CityName>TXT_KEY_CITY_RUS1918_KHIVA</CityName></Row>
+  </MinorCivilization_CityNames>
+  <MinorCivilization_Flavors>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_FINLAND</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_FINLAND</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_FINLAND</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_FINLAND</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_FINLAND</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ESTONIA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ESTONIA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ESTONIA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ESTONIA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ESTONIA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_LATVIA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_LATVIA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_LATVIA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_LATVIA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_LATVIA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_LITHUANIA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_LITHUANIA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_LITHUANIA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_LITHUANIA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_LITHUANIA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_GERMANY</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_GERMANY</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_GERMANY</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_GERMANY</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_GERMANY</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ROMANIA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ROMANIA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ROMANIA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ROMANIA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ROMANIA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_GEORGIA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_GEORGIA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_GEORGIA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_GEORGIA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_GEORGIA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_AZERBAIJAN</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_AZERBAIJAN</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_AZERBAIJAN</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_AZERBAIJAN</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_AZERBAIJAN</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ARMENIA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ARMENIA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ARMENIA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ARMENIA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_ARMENIA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_OTTOMAN</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_OTTOMAN</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_OTTOMAN</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_OTTOMAN</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_OTTOMAN</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_PERSIA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_PERSIA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_PERSIA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_PERSIA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_PERSIA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_BUKHARA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_BUKHARA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_BUKHARA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_BUKHARA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_BUKHARA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_KHIVA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_KHIVA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_KHIVA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_KHIVA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_RUS1918_KHIVA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+  </MinorCivilization_Flavors>
+</GameData>

@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hawaii 1778: the five chiefdoms on their donor civilizations, city-states, natural wonders, uniques, load screen (EN + RU). -->
+<GameData>
+  <Language_en_US>
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA" Text="Kamehameha" />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_PEDIA" Text="Kamehameha I (c. 1758-1819) was a chief of Kohala and Kona on the Big Island who, after the death of his uncle Kalaniopuu in 1782, fought his cousin Keoua for the island, defeated him in 1791, took Maui and Molokai in 1790 and 1794 and Oahu at the battle of Nuuanu in 1795. Kauai submitted by treaty in 1810, and the Kingdom of Hawaii was his.[NEWLINE][NEWLINE]He had met Cook&#x27;s ships in 1779 and used Western arms and advisers without surrendering the kapu system; his law of the splintered paddle protected non-combatants. The scenario starts in 1778 with the Big Island still divided." />
+    <Replace Tag="TXT_KEY_CIV_POLYNESIA_DESC" Text="The Chiefdom of Kona and Kohala" />
+    <Replace Tag="TXT_KEY_CIV_POLYNESIA_SHORT_DESC" Text="Kona" />
+    <Replace Tag="TXT_KEY_CIV_POLYNESIA_ADJECTIVE" Text="Kona" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_POLYNESIA_TEXT" Text="Kamehameha, nephew of the king of Hawaii, raised at Kawaihae in the shadow of the volcanoes. The prophecy at your birth said you would kill the chiefs and rule the islands; your uncle Kalaniopuu has died and the Big Island is divided between you and your cousin Keoua. Beyond the channel lie Maui, Oahu and Kauai, each with a king of its own.[NEWLINE][NEWLINE]Your people are the finest seafarers on earth and the war canoes of Kona are many. Build the heiau of Puukohola, win the Big Island, then cross the channels one by one. The islands have never had one ruler. Be the first." />
+    <Replace Tag="TXT_KEY_TRAIT_WAYFINDING_SHORT" Text="Voyagers of the Long Canoe" />
+    <Replace Tag="TXT_KEY_TRAIT_WAYFINDING" Text="Can embark and cross Ocean from the start; +1 sight for embarked units. Units receive +10% [ICON_STRENGTH] Combat Strength near Kii statues." />
+    <Replace Tag="TXT_KEY_HI1778_BLURB_KONA" Text="Kamehameha, nephew of the king of Hawaii, raised at Kawaihae in the shadow of the volcanoes. The prophecy at your birth said you would kill the chiefs and rule the islands; your uncle Kalaniopuu has died and the Big Island is divided between you and your cousin Keoua. Beyond the channel lie Maui, Oahu and Kauai, each with a king of its own.[NEWLINE][NEWLINE]Your people are the finest seafarers on earth and the war canoes of Kona are many. Build the heiau of Puukohola, win the Big Island, then cross the channels one by one. The islands have never had one ruler. Be the first." />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_0" Text="Kawaihae" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_1" Text="Kailua" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_2" Text="Kealakekua" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_3" Text="Honaunau" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_4" Text="Keauhou" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_5" Text="Holualoa" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_6" Text="Kapaau" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_7" Text="Waimea" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_8" Text="Waipio" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_9" Text="Lapakahi" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_10" Text="Honokohau" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_11" Text="Kukuihaele" />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_3" Text="Good." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_ATTACKED_1" Text="You attack Kona? The prophecy did not mention you." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_ATTACKED_2" Text="Good. Now every canoe on the coast has a purpose." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_ATTACKED_3" Text="Treachery. The gods of Puukohola have seen it." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DECLAREWAR_1" Text="Then the canoes sail. You have chosen this." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DECLAREWAR_2" Text="War. The islands will have one ruler, and it will not be you." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEFEATED_1" Text="Kona falls. The islands will remember who nearly united them." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEFEATED_2" Text="You hold the coast. The volcanoes hold you." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEFEATED_3" Text="The paddle is splintered. Finish it." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEMANDTRIBUTE_ANGRY" Text="Tribute." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEMANDTRIBUTE_HAPPY" Text="Pay." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEMANDTRIBUTE_NEUTRAL" Text="A gift would keep the canoes ashore." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_3" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_6" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_1" Text="I am Kamehameha of Kona. The channel is wide, but my canoes are many. Who are you?" />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_2" Text="Welcome to Kawaihae. Sit, and tell me of your island." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_3" Text="A stranger from the sea. Speak." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_1" Text="Fair winds." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_2" Text="Until the next council." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_3" Text="Go." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_4" Text="Fair winds." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_5" Text="Until the next council." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_6" Text="Go." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_2" Text="Kona listens." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_3" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_5" Text="Kona listens." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_6" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_2" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_3" Text="Listening." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_5" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_LOSEWAR_1" Text="Peace. The fishponds need tending." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_LOSEWAR_2" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADEREQUEST_ANGRY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADEREQUEST_HAPPY" Text="A trade between chiefs." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADEREQUEST_NEUTRAL" Text="Kona offers this." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NO_ANGRY" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NO_HAPPY" Text="That is not an exchange." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_YES_HAPPY" Text="Yes. Fair." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_NO_ANGRY" Text="Kona pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_NO_HAPPY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_NO_NEUTRAL" Text="Kona pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_1" Text="Do not threaten Kona." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_3" Text="Think again." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_WINWAR_1" Text="The channel is mine. Go home." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_WINWAR_2" Text="Kona stands." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_NOBUNAGA" Text="Keoua" />
+    <Replace Tag="TXT_KEY_LEADER_ODA_NOBUNAGA_PEDIA" Text="Keoua Kuahuula (died 1791) was a son of Kalaniopuu, king of the Big Island, and the rival of his cousin Kamehameha for the island after 1782. He held Kau, Puna and Hilo through nine years of war; in 1790 a third of his army was killed by an eruption of Kilauea as it crossed the volcano.[NEWLINE][NEWLINE]In 1791 he was invited to the dedication of the heiau of Puukohola and killed on landing, with his companions, as the sacrifice that consecrated the temple. His death ended the war for the Big Island." />
+    <Replace Tag="TXT_KEY_CIV_JAPAN_DESC" Text="The Chiefdom of Hilo, Puna and Kau" />
+    <Replace Tag="TXT_KEY_CIV_JAPAN_SHORT_DESC" Text="Hilo" />
+    <Replace Tag="TXT_KEY_CIV_JAPAN_ADJECTIVE" Text="Hilo" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_JAPAN_TEXT" Text="Keoua Kuahuula, son of the late king Kalaniopuu, lord of Hilo, Puna and Kau on the windward side of the Big Island. Your father&#x27;s kingdom has been cut in two: the war god and the west went to your cousin Kamehameha, the land and the east to you. The rain falls on your valleys, the lava flows through your districts, and your warriors are the best in the islands.[NEWLINE][NEWLINE]Kona will come for you. Hold Hilo, make the lava fields of Kau a trap, and remember that the gods of Kilauea are yours. The Big Island has room for one king, and your father was the last one." />
+    <Replace Tag="TXT_KEY_TRAIT_FIGHT_WELL_DAMAGED_SHORT" Text="Warriors of the Lua" />
+    <Replace Tag="TXT_KEY_TRAIT_FIGHT_WELL_DAMAGED" Text="Units fight at full strength when damaged. +1 [ICON_CULTURE] Culture from Fishing Boats and +2 from Atolls." />
+    <Replace Tag="TXT_KEY_HI1778_BLURB_HILO" Text="Keoua Kuahuula, son of the late king Kalaniopuu, lord of Hilo, Puna and Kau on the windward side of the Big Island. Your father&#x27;s kingdom has been cut in two: the war god and the west went to your cousin Kamehameha, the land and the east to you. The rain falls on your valleys, the lava flows through your districts, and your warriors are the best in the islands.[NEWLINE][NEWLINE]Kona will come for you. Hold Hilo, make the lava fields of Kau a trap, and remember that the gods of Kilauea are yours. The Big Island has room for one king, and your father was the last one." />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_0" Text="Hilo" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_1" Text="Waiohinu" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_2" Text="Kalapana" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_3" Text="Laupahoehoe" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_4" Text="Keaau" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_5" Text="Pahoa" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_6" Text="Naalehu" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_7" Text="Punaluu" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_8" Text="Honomu" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_9" Text="Kapoho" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_10" Text="Pepeekeo" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_11" Text="Kaimu" />
+    <Replace Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_3" Text="Good." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_6" Text="Good." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_7" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_ATTACKED_1" Text="You attack Hilo? My father&#x27;s land does not fall to strangers." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_ATTACKED_2" Text="The warriors of Puna are coming. Count them." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_ATTACKED_3" Text="Treachery. Pele has seen it." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DECLAREWAR_1" Text="Then the lua masters will have work." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DECLAREWAR_2" Text="War. Kilauea will take her share." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DEFEATED_1" Text="Hilo falls. Tell Kona it took him long enough." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DEFEATED_2" Text="You hold the east. The lava will hold you." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DEFEATED_3" Text="My father&#x27;s kingdom ends here." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DEFEATED_4" Text="Hilo falls. Tell Kona it took him long enough." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DEMANDTRIBUTE_ANGRY" Text="Tribute." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DEMANDTRIBUTE_HAPPY" Text="Pay." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DEMANDTRIBUTE_NEUTRAL" Text="A gift would be wise." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_3" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_FIRSTGREETING_1" Text="I am Keoua, son of Kalaniopuu, lord of Hilo. If you come from Kona, say so now." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_FIRSTGREETING_2" Text="Welcome to the windward side. The rain is ours and so is the land." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_FIRSTGREETING_3" Text="A stranger. Speak." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GOODBYE_1" Text="Go with the rain." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GOODBYE_2" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GOODBYE_3" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GOODBYE_4" Text="Go with the rain." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GOODBYE_5" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GOODBYE_6" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GOODBYE_7" Text="Go with the rain." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GREETING_2" Text="Hilo listens." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GREETING_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GREETING_5" Text="Hilo listens." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GREETING_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GREETING_7" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_2" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_3" Text="Listening." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_5" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_6" Text="Listening." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_7" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_8" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LOSEWAR_1" Text="Peace. The taro needs planting." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADEREQUEST_ANGRY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADEREQUEST_HAPPY" Text="A trade." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADEREQUEST_NEUTRAL" Text="Hilo offers this." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADE_NO_ANGRY" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADE_NO_HAPPY" Text="That is not fair." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRIBUTE_NO_ANGRY" Text="Hilo pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRIBUTE_NO_HAPPY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRIBUTE_NO_NEUTRAL" Text="Hilo pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_WARBLUFF_1" Text="Do not threaten Hilo." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_WARBLUFF_3" Text="Think again." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_WARBLUFF_4" Text="Do not threaten Hilo." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_WARBLUFF_5" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_WINWAR_1" Text="The windward side is free." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA" Text="Kahekili" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_PEDIA" Text="Kahekili II (c. 1737-1794) was king of Maui from 1766, the dominant ruler of the islands when Cook arrived. He conquered Oahu in 1783 after Kahahana, whom he had installed there, turned against him, ruled Maui, Molokai, Lanai and Oahu together and twice fought Kamehameha to a standstill.[NEWLINE][NEWLINE]He was said to be tattooed black on one side from head to foot, like the thunder god Kanehekili, and some traditions name him Kamehameha&#x27;s real father. His kingdom broke up after his death at Waikiki in 1794." />
+    <Replace Tag="TXT_KEY_CIV_ZULU_DESC" Text="The Kingdom of Maui" />
+    <Replace Tag="TXT_KEY_CIV_ZULU_SHORT_DESC" Text="Maui" />
+    <Replace Tag="TXT_KEY_CIV_ZULU_ADJECTIVE" Text="Maui" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ZULU_TEXT" Text="Kahekili, king of Maui, Lanai and Kahoolawe, tattooed black on one side of your body in the image of the thunder god. Molokai is yours in all but name, and the king of Oahu is a child you placed on the throne. Only the Big Island, across the channel of Alenuihaha, has ever stood against you.[NEWLINE][NEWLINE]Your warriors are the most feared in the islands and your lineage runs to every court. Take Oahu outright, hold the channel, and settle the question of who rules the archipelago before the young chief of Kona does." />
+    <Replace Tag="TXT_KEY_TRAIT_BUFFALO_HORNS_SHORT" Text="The Tattooed King" />
+    <Replace Tag="TXT_KEY_TRAIT_BUFFALO_HORNS" Text="Melee units cost 50% less maintenance. All units require 25% less experience for their promotions." />
+    <Replace Tag="TXT_KEY_HI1778_BLURB_MAUI" Text="Kahekili, king of Maui, Lanai and Kahoolawe, tattooed black on one side of your body in the image of the thunder god. Molokai is yours in all but name, and the king of Oahu is a child you placed on the throne. Only the Big Island, across the channel of Alenuihaha, has ever stood against you.[NEWLINE][NEWLINE]Your warriors are the most feared in the islands and your lineage runs to every court. Take Oahu outright, hold the channel, and settle the question of who rules the archipelago before the young chief of Kona does." />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_0" Text="Wailuku" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_1" Text="Lahaina" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_2" Text="Hana" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_3" Text="Kahului" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_4" Text="Kihei" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_5" Text="Makawao" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_6" Text="Kula" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_7" Text="Kaupo" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_8" Text="Kipahulu" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_9" Text="Kahakuloa" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_10" Text="Olowalu" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_11" Text="Honokowai" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_3" Text="Good." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_1" Text="You attack Maui? Kanehekili will answer you." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_2" Text="The warriors of Wailuku are coming. All of them." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_3" Text="Treachery. I expected it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_1" Text="Then you will learn what Oahu learned." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_2" Text="War. My warriors have been idle too long." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_1" Text="Maui falls. Enjoy the islands; they do not stay won." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_2" Text="You hold Wailuku. You will not hold my people." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_3" Text="The thunder god is quiet today." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_ANGRY" Text="A gift for the king of Maui." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_HAPPY" Text="Tribute." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_NEUTRAL" Text="Pay, and keep your island." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_3" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_6" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_1" Text="I am Kahekili, king of Maui. Half the islands answer to me already. Which half are you?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_2" Text="Welcome to Wailuku. Look at the tattoo, and remember it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_3" Text="A stranger. Speak quickly." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_1" Text="Go." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_2" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_3" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_4" Text="Go." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_5" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_6" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_2" Text="Maui listens." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_3" Text="Well?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_5" Text="Maui listens." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_6" Text="Well?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_2" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_3" Text="Listening." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_5" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_1" Text="Peace. For now." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_2" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_ANGRY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_HAPPY" Text="A trade." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_NEUTRAL" Text="Maui offers this." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_ANGRY" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_HAPPY" Text="Maui is not a market." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_ANGRY" Text="Maui pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_HAPPY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_NEUTRAL" Text="Maui pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_1" Text="Threaten Maui? Amusing." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_3" Text="Think again." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WINWAR_1" Text="Maui is secure. Go." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WINWAR_2" Text="The channel is mine." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO" Text="Kahahana" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_PEDIA" Text="Kahahana (died c. 1785) was king of Oahu from 1773, chosen by the chiefs of the island but raised on Maui by Kahekili, who demanded the lands of Kualoa and the sacred whale-ivory of the shore as his price. Kahahana refused, was persuaded by a rival to execute his own high priest Kaopulupulu, and in 1783 Kahekili invaded Oahu and took it.[NEWLINE][NEWLINE]Kahahana hid in the mountains for two years before he was betrayed and killed. Oahu, the gathering place, was the prize of every war of the period." />
+    <Replace Tag="TXT_KEY_CIV_CARTHAGE_DESC" Text="The Kingdom of Oahu" />
+    <Replace Tag="TXT_KEY_CIV_CARTHAGE_SHORT_DESC" Text="Oahu" />
+    <Replace Tag="TXT_KEY_CIV_CARTHAGE_ADJECTIVE" Text="Oahu" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_CARTHAGE_TEXT" Text="Kahahana, king of Oahu, raised at the court of Maui and placed on the throne by Kahekili, who now wants his price. Your island is the richest of them all: the fishponds of Puuloa, the taro of Nuuanu, the bays of Waikiki and Waianae, and the gathering place of every canoe in the archipelago.[NEWLINE][NEWLINE]Kahekili will not wait long. Build harbours in every bay, fill the fishponds, keep the priests of Kaneohe on your side, and make Oahu too strong to be anyone&#x27;s gift." />
+    <Replace Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE_SHORT" Text="Bays of the Gathering Place" />
+    <Replace Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE" Text="All coastal cities receive a free Harbor. Units may cross Mountains after the first Great General is earned, taking 50 HP damage if they end a turn on a Mountain." />
+    <Replace Tag="TXT_KEY_HI1778_BLURB_OAHU" Text="Kahahana, king of Oahu, raised at the court of Maui and placed on the throne by Kahekili, who now wants his price. Your island is the richest of them all: the fishponds of Puuloa, the taro of Nuuanu, the bays of Waikiki and Waianae, and the gathering place of every canoe in the archipelago.[NEWLINE][NEWLINE]Kahekili will not wait long. Build harbours in every bay, fill the fishponds, keep the priests of Kaneohe on your side, and make Oahu too strong to be anyone&#x27;s gift." />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_0" Text="Waikiki" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_1" Text="Kou" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_2" Text="Kailua" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_3" Text="Kaneohe" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_4" Text="Waianae" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_5" Text="Ewa" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_6" Text="Waialua" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_7" Text="Nuuanu" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_8" Text="Manoa" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_9" Text="Kahuku" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_10" Text="Hauula" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_11" Text="Kualoa" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_3" Text="Good." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_ATTACKED_1" Text="You attack Oahu? Kahekili tried that too." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_ATTACKED_2" Text="The pali will hold you. It always has." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_ATTACKED_3" Text="Treachery. The priests warned me." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_1" Text="Then the bays close to you." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_2" Text="War. Oahu is nobody&#x27;s gift." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEFEATED_1" Text="Oahu falls. Everyone wants the gathering place; nobody keeps it." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEFEATED_2" Text="You hold the bays. The mountains are mine still." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEFEATED_3" Text="Tell Kahekili he was right about you." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_ANGRY" Text="Tribute." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_HAPPY" Text="Pay." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_NEUTRAL" Text="A gift for the harbour would be wise." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_3" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_6" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_1" Text="I am Kahahana, king of Oahu. Every canoe in the islands stops here. Yours too, it seems." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_2" Text="Welcome to Waikiki. The fishponds are full; eat." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_3" Text="A stranger. Speak." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_1" Text="Fair winds." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_2" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_3" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_4" Text="Fair winds." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_5" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_6" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_2" Text="Oahu listens." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_5" Text="Oahu listens." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_2" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_3" Text="Listening." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_5" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LOSEWAR_1" Text="Peace. The fishponds need me." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LOSEWAR_2" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_ANGRY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_HAPPY" Text="A trade." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_NEUTRAL" Text="Oahu offers this." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_ANGRY" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_HAPPY" Text="That is not a trade." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_NEUTRAL" Text="Agreed. The harbour is open." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_ANGRY" Text="Oahu pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_HAPPY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_NEUTRAL" Text="Oahu pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_1" Text="Do not threaten Oahu." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_3" Text="Think again." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WINWAR_1" Text="Oahu is free." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WINWAR_2" Text="Go home." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE" Text="Kamakahelei" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_PEDIA" Text="Kamakahelei (c. 1730-1794) was the ruling chiefess of Kauai and Niihau when Cook&#x27;s ships anchored at Waimea in January 1778, the first Hawaiian ruler Europeans met; her husband Kaeokulani, a Maui chief, shared the rule and led the warriors. Their son Kaumualii was the last king of Kauai.[NEWLINE][NEWLINE]Kauai was the one island Kamehameha never conquered: his invasion fleet of 1796 was wrecked in the channel and the second, in 1804, was destroyed by an epidemic before it sailed. Kaumualii ceded the island by treaty in 1810." />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_DESC" Text="The Kingdom of Kauai and Niihau" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC" Text="Kauai" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE" Text="Kauai" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ETHIOPIA_TEXT" Text="Kamakahelei, ruling chiefess of Kauai and Niihau, the oldest islands, the farthest from the rest. A hundred miles of open sea guard your valleys, and no king from the east has ever crossed them in force. Your husband Kaeo commands the warriors; the land, the taro valleys of Wailua and Hanalei and the great canyon of Waimea, is yours.[NEWLINE][NEWLINE]The chiefs of the east will come, sooner or later, across the worst channel in the islands. Fill the valleys, fortify the beaches, and let the sea fight for you. Kauai has never been taken. Keep it so." />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT" Text="The Unconquered Island" />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH" Text="+20% [ICON_STRENGTH] Combat Strength against civilizations with more cities than you." />
+    <Replace Tag="TXT_KEY_HI1778_BLURB_KAUAI" Text="Kamakahelei, ruling chiefess of Kauai and Niihau, the oldest islands, the farthest from the rest. A hundred miles of open sea guard your valleys, and no king from the east has ever crossed them in force. Your husband Kaeo commands the warriors; the land, the taro valleys of Wailua and Hanalei and the great canyon of Waimea, is yours.[NEWLINE][NEWLINE]The chiefs of the east will come, sooner or later, across the worst channel in the islands. Fill the valleys, fortify the beaches, and let the sea fight for you. Kauai has never been taken. Keep it so." />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_0" Text="Wailua" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_1" Text="Waimea" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_2" Text="Hanalei" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_3" Text="Koloa" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_4" Text="Hanapepe" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_5" Text="Kapaa" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_6" Text="Kekaha" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_7" Text="Anahola" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_8" Text="Haena" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_9" Text="Kalalau" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_10" Text="Lihue" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_11" Text="Kilauea" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_3" Text="Good." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_1" Text="You attack Kauai? The channel has drowned better fleets." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_2" Text="Kaeo is gathering the warriors. You will meet them on the beach." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_3" Text="Treachery. The old island remembers." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_1" Text="Then come across the channel. Others have tried." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_2" Text="War. The sea is on our side." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_3" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_1" Text="Kauai falls. No one has ever said that before." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_2" Text="You hold the valleys. The sea will take them back." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_3" Text="The oldest island ends with me." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_ANGRY" Text="Tribute." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY" Text="Pay." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_NEUTRAL" Text="A gift would be wise." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_3" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_6" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_1" Text="I am Kamakahelei of Kauai. You crossed the channel, so you are either brave or lost. Which?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_2" Text="Welcome to Wailua. Few from the east reach it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_3" Text="A stranger on the oldest island. Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_1" Text="May the channel be kind to you." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_2" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_3" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_4" Text="May the channel be kind to you." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_5" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_6" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_2" Text="Kauai listens." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_3" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_5" Text="Kauai listens." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_6" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_1" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_2" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_3" Text="Listening." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_4" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_5" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_1" Text="Peace. The taro is waiting." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_2" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_ANGRY" Text="Consider it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_HAPPY" Text="A trade." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_NEUTRAL" Text="Kauai offers this." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_ANGRY" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_HAPPY" Text="That is not fair." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_ANGRY" Text="Kauai pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_HAPPY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_NEUTRAL" Text="Kauai pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_1" Text="Do not threaten Kauai." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_3" Text="Think again." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_1" Text="Kauai stands, as it always has." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_2" Text="Go home across the channel." />
+    <Replace Tag="TXT_KEY_FEATURE_KILIMANJARO" Text="Mauna Kea" />
+    <Replace Tag="TXT_KEY_FEATURE_VOLCANO" Text="Kilauea" />
+    <Replace Tag="TXT_KEY_FEATURE_CRATER" Text="Haleakala" />
+    <Replace Tag="TXT_KEY_FEATURE_GIBRALTAR" Text="Leahi" />
+    <Replace Tag="TXT_KEY_FEATURE_MESA" Text="Waimea Canyon" />
+    <Replace Tag="TXT_KEY_FEATURE_MT_KAILASH" Text="Kalaupapa" />
+    <Replace Tag="TXT_KEY_FEATURE_ULURU" Text="Keahiakawelo" />
+    <Replace Tag="TXT_KEY_HI1778_TITLE" Text="Hawaii 1778" />
+    <Replace Tag="TXT_KEY_HI1778_INTRO" Text="The Hawaiian Islands in 1778, the year the first ships appear. Five chiefdoms, three lesser islands, no iron and no horses. Build your island, learn the sea, cross the channels, unite the archipelago. Win by conquest." />
+    <Replace Tag="TXT_KEY_RELIGION_BUDDHISM" Text="Kane" />
+    <Replace Tag="TXT_KEY_RELIGION_CATHOLICISM" Text="Ku" />
+    <Replace Tag="TXT_KEY_RELIGION_CONFUCIANISM" Text="Lono" />
+    <Replace Tag="TXT_KEY_RELIGION_HINDUISM" Text="Kanaloa" />
+    <Replace Tag="TXT_KEY_RELIGION_ISLAM" Text="Pele" />
+    <Replace Tag="TXT_KEY_RELIGION_JUDAISM" Text="Hina" />
+    <Replace Tag="TXT_KEY_RELIGION_SHINTO" Text="Laka" />
+    <Replace Tag="TXT_KEY_RELIGION_SIKHISM" Text="Haumea" />
+    <Replace Tag="TXT_KEY_RELIGION_TAOISM" Text="Papa" />
+    <Replace Tag="TXT_KEY_RELIGION_TENGRIISM" Text="Kamapuaa" />
+    <Replace Tag="TXT_KEY_RELIGION_ZOROASTRIANISM" Text="Kukailimoku" />
+    <Replace Tag="TXT_KEY_RELIGION_ORTHODOXY" Text="Kuula" />
+    <Replace Tag="TXT_KEY_RELIGION_PROTESTANTISM" Text="Kamohoalii" />
+    <Replace Tag="TXT_KEY_RELIGION_CHRISTIANITY" Text="Ku" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_CEREMONY" Text="Ceremony" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_CEREMONY_HELP" Text="[COLOR_POSITIVE_TEXT]Ceremony[ENDCOLOR] improves the happiness of your empire allowing it to grow larger.[NEWLINE][NEWLINE]Adopting Ceremony reduces [ICON_HAPPINESS_4] Unhappiness from [ICON_CITIZEN] Population in the [ICON_CAPITAL] Capital by 33%." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_CEREMONY_TEXT" Text="Ceremonies are the rituals a society uses to mark important events and reinforce its bonds: the kapu that set things apart as sacred, the gift-giving of the hookupu, the awa drunk at every council, the games and surfing of the makahiki season, the luau feast. Whatever their degree of sacredness, they held the islands together." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TAPU" Text="Kapu" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TAPU_HELP" Text="[COLOR_POSITIVE_TEXT]Kapu[ENDCOLOR][NEWLINE][ICON_CULTURE] Culture cost of future Policies reduced by 10%." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TAPU_TEXT" Text="Kapu" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POWHIRI" Text="Hookupu" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POWHIRI_HELP" Text="[COLOR_POSITIVE_TEXT]Hookupu[ENDCOLOR][NEWLINE][ICON_GOLD] Gold gifts to City-States produce 25% more [ICON_INFLUENCE] Influence." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POWHIRI_TEXT" Text="Hookupu" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_SURFING" Text="Heenalu" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_SURFING_HELP" Text="[COLOR_POSITIVE_TEXT]Heenalu[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness for each City in your empire." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_SURFING_TEXT" Text="Heenalu" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_KAVA" Text="Awa" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_KAVA_HELP" Text="[COLOR_POSITIVE_TEXT]Awa[ENDCOLOR][NEWLINE]Immediately gain +10 [ICON_HAPPINESS_1] Happiness." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_KAVA_TEXT" Text="Awa" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_LUAU" Text="Luau" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_LUAU_HELP" Text="[COLOR_POSITIVE_TEXT]Luau[ENDCOLOR][NEWLINE]+2 [ICON_HAPPINESS_1] Happiness from each different type of Luxury resource." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_LUAU_TEXT" Text="Luau" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_THE_ARTS" Text="The Arts" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_THE_ARTS_HELP" Text="[COLOR_POSITIVE_TEXT]The Arts[ENDCOLOR] improves the cultural output of your empire allowing you to adopt more policies.[NEWLINE][NEWLINE]Adopting The Arts increases [ICON_CULTURE] Culture from Monuments and Temples by 2 each." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_THE_ARTS_TEXT" Text="Art is a physical work of the imagination that lifts an everyday object above its use. Bark cloth clothes a body; beaten and printed as kapa it becomes art. The hula, the chants of the oli that carried genealogy and knowledge, the carved kii and the stone images of the heiau all sanctified their objects with mana." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HULA" Text="Hula" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HULA_HELP" Text="[COLOR_POSITIVE_TEXT]Hula[ENDCOLOR][NEWLINE]Amount of [ICON_HAPPINESS_1] Happiness required to start a [ICON_GOLDEN_AGE] Golden Age reduced by 25%." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HULA_TEXT" Text="Hula" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TIKI" Text="Kii" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TIKI_HELP" Text="[COLOR_POSITIVE_TEXT]Kii[ENDCOLOR][NEWLINE]50% of excess [ICON_HAPPINESS_1] Happiness added each turn to the amount of [ICON_CULTURE] Culture that may be spent on Social Policies." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TIKI_TEXT" Text="Kii" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_RONGO" Text="Oli" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_RONGO_HELP" Text="[COLOR_POSITIVE_TEXT]Oli[ENDCOLOR][NEWLINE]Increases [ICON_RESEARCH] Science output from Libraries and Observatories by 100%." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_RONGO_TEXT" Text="Oli" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TAPACLOTH" Text="Kapa" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TAPACLOTH_HELP" Text="[COLOR_POSITIVE_TEXT]Kapa[ENDCOLOR][NEWLINE]+2 [ICON_CULTURE] Culture in every City." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TAPACLOTH_TEXT" Text="Kapa" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_STONECARVING" Text="Pohaku" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_STONECARVING_HELP" Text="[COLOR_POSITIVE_TEXT]Pohaku[ENDCOLOR][NEWLINE]+1 [ICON_CULTURE] Culture from each improvement that already yields Culture." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_STONECARVING_TEXT" Text="Pohaku" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HONOR" Text="Honor" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HONOR_HELP" Text="[COLOR_POSITIVE_TEXT]Honor[ENDCOLOR] improves the effectiveness of one&#x27;s army in a variety of ways.[NEWLINE][NEWLINE]Adopting Honor gives +15 XP to all land combat units constructed from this point forward in the game." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HONOR_TEXT" Text="In the islands a chief&#x27;s standing rested on mana and on the warriors who followed him. Honor means an army trained from youth in the lua, led by the alii, healed by the kahuna, and fed by the poi that the war canoes carried across the channels." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POI" Text="Poi" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POI_HELP" Text="[COLOR_POSITIVE_TEXT]Poi[ENDCOLOR][NEWLINE]+1 [ICON_MOVES] Movement for embarked units." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POI_TEXT" Text="Poi" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_ARIKI" Text="Alii" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_ARIKI_HELP" Text="[COLOR_POSITIVE_TEXT]Alii[ENDCOLOR][NEWLINE]Rate at which Great Generals are born increased by 100%." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_ARIKI_TEXT" Text="Alii" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HEALING" Text="Kahuna Healing" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HEALING_HELP" Text="[COLOR_POSITIVE_TEXT]Kahuna Healing[ENDCOLOR][NEWLINE]Melee combat units gain the Medic promotion." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HEALING_TEXT" Text="Kahuna Healing" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HAKA" Text="Haa" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HAKA_HELP" Text="[COLOR_POSITIVE_TEXT]Haa[ENDCOLOR][NEWLINE]Gain [ICON_CULTURE] Culture for the empire equal to TRIPLE the [ICON_STRENGTH] Combat Strength of each enemy unit killed." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HAKA_TEXT" Text="Haa" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MANA" Text="Mana" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MANA_HELP" Text="[COLOR_POSITIVE_TEXT]Mana[ENDCOLOR][NEWLINE]Rate at which [ICON_GREAT_PEOPLE] Great People are born increased by 100%." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MANA_TEXT" Text="Mana" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_FAITH" Text="Akua" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_FAITH_HELP" Text="[COLOR_POSITIVE_TEXT]Akua[ENDCOLOR] increases the [ICON_PEACE] Faith of your people.[NEWLINE][NEWLINE]Adopting Akua allows you to build Shrines and Temples in half the usual time." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_FAITH_TEXT" Text="The akua were the gods of the islands: Kane the creator, Ku of war, Lono of harvest, Kanaloa of the sea, and the family aumakua that watched over each household. Their heiau rose on every coast, their kahuna read the omens, and the makahiki months of Lono closed the year with tribute and games." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_SHRINES" Text="Heiau" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_SHRINES_HELP" Text="[COLOR_POSITIVE_TEXT]Heiau[ENDCOLOR][NEWLINE]+1 [ICON_PEACE] Faith from Shrines and Temples." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_SHRINES_TEXT" Text="Heiau" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MANDATE" Text="Makahiki" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MANDATE_HELP" Text="[COLOR_POSITIVE_TEXT]Makahiki[ENDCOLOR][NEWLINE]20% discount on all purchases of religious units and buildings with [ICON_PEACE] Faith." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MANDATE_TEXT" Text="Makahiki" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_THEOCRACY" Text="Luakini" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_THEOCRACY_HELP" Text="[COLOR_POSITIVE_TEXT]Luakini[ENDCOLOR][NEWLINE]Temples increase a city&#x27;s [ICON_GOLD] Gold output by 25%." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_THEOCRACY_TEXT" Text="Luakini" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TOLERANCE" Text="Aumakua" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TOLERANCE_HELP" Text="[COLOR_POSITIVE_TEXT]Aumakua[ENDCOLOR][NEWLINE]Cities with a majority religion also get the Pantheon belief bonus of the second most popular religion." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TOLERANCE_TEXT" Text="Aumakua" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_REFORMATION" Text="Kahuna Nui" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_REFORMATION_HELP" Text="[COLOR_POSITIVE_TEXT]Kahuna Nui[ENDCOLOR][NEWLINE]If you founded a religion, gain a bonus Reformation belief." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_REFORMATION_TEXT" Text="Kahuna Nui" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TRADE" Text="Auhau" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TRADE_HELP" Text="[COLOR_POSITIVE_TEXT]Auhau[ENDCOLOR] provides bonuses to empires focused on [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Adopting Auhau will boost [ICON_GOLD] Gold output in the [ICON_CAPITAL] Capital by 25%." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TRADE_TEXT" Text="The islands had no money, but they had wealth: the auhau tribute of pigs, kapa and feathers brought to the chief at the makahiki, the konohiki who ran each ahupuaa, the trails of the alaloa that joined the districts, and the barter of the uplands with the shore." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_ROUTES" Text="Alaloa" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_ROUTES_HELP" Text="[COLOR_POSITIVE_TEXT]Alaloa[ENDCOLOR][NEWLINE]+2 [ICON_GOLD] Gold from all your land trade routes. Maintenance paid on Roads reduced by 50%." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_ROUTES_TEXT" Text="Alaloa" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POSTS" Text="Kuapo" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POSTS_HELP" Text="[COLOR_POSITIVE_TEXT]Kuapo[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] Gold from every Trading Post." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POSTS_TEXT" Text="Kuapo" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MERCHANTS" Text="Konohiki" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MERCHANTS_HELP" Text="[COLOR_POSITIVE_TEXT]Konohiki[ENDCOLOR][NEWLINE]Great Merchants are earned 25% faster. Receive double [ICON_GOLD] Gold from Great Merchant trade missions. +1 [ICON_MOVES] Movement for embarked units." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MERCHANTS_TEXT" Text="Konohiki" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MARKETS" Text="Waiwai" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MARKETS_HELP" Text="[COLOR_POSITIVE_TEXT]Waiwai[ENDCOLOR][NEWLINE]Purchasing items in Cities requires 25% less [ICON_GOLD] Gold. +1 [ICON_RESEARCH] Science from every Mint and Market." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MARKETS_TEXT" Text="Waiwai" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_LUXURIES" Text="Ahupuaa" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_LUXURIES_HELP" Text="[COLOR_POSITIVE_TEXT]Ahupuaa[ENDCOLOR][NEWLINE]+2 [ICON_HAPPINESS_1] Happiness from each Luxury resource." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_LUXURIES_TEXT" Text="Ahupuaa" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_CEREMONY" Text="Ceremony" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_CEREMONY_CAP" Text="CEREMONY" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_CEREMONY_HELP" Text="[COLOR_POSITIVE_TEXT]Ceremony[ENDCOLOR] improves the happiness of your empire allowing it to grow larger.[NEWLINE][NEWLINE]Adopting Ceremony reduces [ICON_HAPPINESS_4] Unhappiness from [ICON_CITIZEN] Population in the [ICON_CAPITAL] Capital by 33%." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_CEREMONY_TITLE" Text="{1_PlayerName:textkey} the Revered of {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_THE_ARTS" Text="The Arts" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_THE_ARTS_CAP" Text="THE ARTS" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_THE_ARTS_HELP" Text="[COLOR_POSITIVE_TEXT]The Arts[ENDCOLOR] improves the cultural output of your empire allowing you to adopt more policies.[NEWLINE][NEWLINE]Adopting The Arts increases [ICON_CULTURE] Culture from Monuments and Temples by 2 each." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_THE_ARTS_TITLE" Text="{1_PlayerName:textkey} the Artful of {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_HONOR" Text="Honor" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_HONOR_CAP" Text="HONOR" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_HONOR_HELP" Text="[COLOR_POSITIVE_TEXT]Honor[ENDCOLOR] improves the effectiveness of one&#x27;s army in a variety of ways.[NEWLINE][NEWLINE]Adopting Honor gives +15 XP to all land combat units constructed from this point forward in the game." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_HONOR_TITLE" Text="{1_PlayerName:textkey} the Great of {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_FAITH" Text="Akua" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_FAITH_CAP" Text="AKUA" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_FAITH_HELP" Text="[COLOR_POSITIVE_TEXT]Akua[ENDCOLOR] increases the [ICON_PEACE] Faith of your people.[NEWLINE][NEWLINE]Adopting Akua allows you to build Shrines and Temples in half the usual time." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_FAITH_TITLE" Text="{1_PlayerName:textkey} the Pious of {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_TRADE" Text="Auhau" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_TRADE_CAP" Text="AUHAU" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_TRADE_HELP" Text="[COLOR_POSITIVE_TEXT]Auhau[ENDCOLOR] provides bonuses to empires focused on [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Adopting Auhau will boost [ICON_GOLD] Gold output in the [ICON_CAPITAL] Capital by 25%." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_TRADE_TITLE" Text="{1_PlayerName:textkey} the Wealthy of {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_CITYSTATE_HI_MOLOKAI" Text="Molokai" />
+    <Replace Tag="TXT_KEY_CITY_HI_MOLOKAI" Text="Kaunakakai" />
+    <Replace Tag="TXT_KEY_CITYSTATE_HI_LANAI" Text="Lanai" />
+    <Replace Tag="TXT_KEY_CITY_HI_LANAI" Text="Kaunolu" />
+    <Replace Tag="TXT_KEY_CITYSTATE_HI_NIIHAU" Text="Niihau" />
+    <Replace Tag="TXT_KEY_CITY_HI_NIIHAU" Text="Puuwai" />
+    <Replace Tag="TXT_KEY_UNIT_POLYNESIAN_MAORI_WARRIOR" Text="Koa" />
+    <Replace Tag="TXT_KEY_CIV5_POLYNESIAN_MAORI_WARRIOR_HELP" Text="Ancient Era unit that strikes fear into nearby enemies, making them less effective in combat. Only Kona may build it. Replaces the Warrior." />
+    <Replace Tag="TXT_KEY_CIV5_POLYNESIAN_MAORI_WARRIOR_STRATEGY" Text="The Koa works like a Great General in reverse: instead of strengthening friendly units it weakens the enemy units next to it. Build plenty early, the promotion stays with them as they are upgraded." />
+    <Replace Tag="TXT_KEY_CIV5_POLYNESIAN_MAORI_WARRIOR_TEXT" Text="The koa were the professional warriors of the Hawaiian chiefs, trained from boyhood in lua and in the spear, the club and the sling, and named after the hard koa wood of their weapons and canoes. The koa of Kona and Kohala, led by Kamehameha&#x27;s uncles and by the twins Kamanawa and Kameeiamoku, won him the Big Island and then the whole archipelago." />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_OLOHE" Text="Olohe" />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_OLOHE_HELP" Text="Hilo replacement for the Swordsman. Needs no [ICON_RES_IRON] Iron (there is none in the islands); 13 [ICON_STRENGTH] Combat Strength instead of 14." />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_OLOHE_STRATEGY" Text="The Olohe is the only Swordsman-class unit that can be built in the islands: a strong Classical melee unit with no iron behind it, and the strongest foot soldier the islands will ever see." />
+    <Replace Tag="TXT_KEY_CIV5_HI1778_OLOHE_TEXT" Text="The olohe were the masters of lua, the Hawaiian art of bone-breaking hand-to-hand combat, and the champions who fought the single combats before a battle. Hilo, Puna and Kau were the strongholds of Keoua Kuahuula, Kamehameha&#x27;s cousin and rival for the Big Island from 1782 until his death at Puukohola in 1791." />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_POLOLU" Text="Pololu" />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_POLOLU_HELP" Text="Maui replacement for the Spearman. +1 [ICON_STRENGTH] Combat Strength and the Shock I promotion: +15% in open terrain." />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_POLOLU_STRATEGY" Text="The Pololu is the Maui Spearman: stronger, and at its best on the open ground of the Maui lowlands and beaches where Kahekili met his enemies. With the cheap upkeep of the chiefdom, field them in numbers." />
+    <Replace Tag="TXT_KEY_CIV5_HI1778_POLOLU_TEXT" Text="The pololu was the long spear of the Hawaiian warrior, up to five metres of hard kauila wood, carried by the ranks that met a landing on the beach; the shorter ihe was thrown. Kahekili&#x27;s armies of Maui were the most feared in the islands and twice held the Big Island&#x27;s invasions on their beaches." />
+    <Replace Tag="TXT_KEY_UNIT_CARTHAGINIAN_QUINQUEREME" Text="Peleleu" />
+    <Replace Tag="TXT_KEY_UNIT_HELP_CARTHAGINIAN_QUINQUEREME" Text="Strong Ancient Era naval unit for melee attacks on ships and cities. Only Oahu may build it. Replaces the Trireme." />
+    <Replace Tag="TXT_KEY_UNIT_CARTHAGINIAN_QUINQUEREME_STRATEGY" Text="The Peleleu is a stronger Trireme, in Combat Strength above all. Like the Trireme it is a melee unit that attacks ships and cities, and it cannot leave the coast." />
+    <Replace Tag="TXT_KEY_CIV5_CARTHAGINIAN_QUINQUEREME_TEXT" Text="Peleleu was the name of the great double-hulled war canoes, up to twenty metres long with a fighting platform lashed between the hulls, that carried the armies of the chiefs between the islands. The sheltered bays of Oahu, Waikiki and Kaneohe, held the largest fleets of the archipelago; Kamehameha later built eight hundred peleleu for the conquest of Kauai." />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_MAA" Text="Maa Slinger" />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_MAA_HELP" Text="Kauai replacement for the Archer. 25% cheaper (30 [ICON_PRODUCTION]) and may withdraw from melee attacks." />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_MAA_STRATEGY" Text="The Maa slinger is a cheap skirmisher: it shoots two tiles, falls back when charged and costs little to lose. Screen your spearmen with them and bleed any landing on the beaches of Kauai." />
+    <Replace Tag="TXT_KEY_CIV5_HI1778_MAA_TEXT" Text="The maa was the Hawaiian sling, a cord of olona fibre with a pocket for a smooth beach stone; slingers opened every battle, and a volley of stones from a ridge was the first thing an invader met. Kauai, the oldest island, is the only one Kamehameha never took: his fleets of 1796 and 1804 were turned back by a storm and by disease." />
+    <Replace Tag="TXT_KEY_IMPROVEMENT_MOAI" Text="Kii" />
+    <Replace Tag="TXT_KEY_BUILD_MOAI" Text="Kii" />
+    <Replace Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOAI_HELP" Text="Kii can only be built on the coast. If built next to another Kii it provides additional [ICON_CULTURE] Culture." />
+    <Replace Tag="TXT_KEY_BUILD_MOAI_HELP" Text="Adds a Kii (+1 [ICON_CULTURE] Culture) to the tile. Create a line of Kii along the coast for additional culture." />
+    <Replace Tag="TXT_KEY_BUILD_MOAI_REC" Text="It will permit the tile to generate [ICON_CULTURE] Culture." />
+    <Replace Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOAI_TEXT" Text="The kii were the carved images of the gods: wooden figures with the grimacing mouths and crested heads of Ku and Lono that stood on the platforms of the heiau and in rows along the shore, and the smaller stone kii of the fishing shrines. The rebuilt heiau and the puuhonua of Honaunau on the Kona coast still carry them." />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_PUUHONUA" Text="Puuhonua" />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_PUUHONUA_HELP" Text="Hilo replacement for the Shrine. +1 [ICON_HAPPINESS_1] Happiness as well as the faith." />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_PUUHONUA_STRATEGY" Text="The Puuhonua gives the faith of a Shrine and a point of happiness: a place of refuge calms the city. Build it early in every city." />
+    <Replace Tag="TXT_KEY_CIV5_HI1778_PUUHONUA_TEXT" Text="A puuhonua was a place of refuge: a walled sanctuary where a defeated warrior, a breaker of kapu or a fugitive could reach safety and, after rites of absolution, go free. The best preserved is Honaunau on the Kona coast; Hilo and Puna had their own, and the system softened the harshness of the kapu laws." />
+    <Replace Tag="TXT_KEY_BUILDING_IKANDA" Text="Halau" />
+    <Replace Tag="TXT_KEY_BUILDING_IKANDA_DESC" Text="Halau" />
+    <Replace Tag="TXT_KEY_BUILDING_IKANDA_HELP" Text="Maui replacement for the Barracks. Grants unique promotions to pre-gunpowder melee units: faster movement and greater combat strength." />
+    <Replace Tag="TXT_KEY_BUILDING_IKANDA_STRATEGY" Text="In addition to the experience of the Barracks it replaces, the Halau gives every melee unit trained in the city the promotions of the lua schools: an extra move and more strength. Only Maui may build it." />
+    <Replace Tag="TXT_KEY_CIV5_BUILDINGS_IKANDA_TEXT" Text="A halau was the long house of a school: a halau hula for the dancers, a halau waa for the canoe builders, a halau lua where the masters taught the bone-breaking art of lua and the use of the spear, the club and the sling. Kahekili of Maui kept the most feared warriors of the islands, the pahupu, tattooed black over one half of the body." />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_LOKOIA" Text="Loko Ia" />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_LOKOIA_HELP" Text="Oahu replacement for the Lighthouse. No maintenance, and +1 [ICON_FOOD] Food from Fish in addition to the +1 Food on ocean tiles." />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_LOKOIA_STRATEGY" Text="The Loko Ia makes the sea feed Oahu: every coastal city should have one, and with the free harbour of the chiefdom the fish tiles become the best tiles on the map." />
+    <Replace Tag="TXT_KEY_CIV5_HI1778_LOKOIA_TEXT" Text="The loko ia were the Hawaiian fishponds: stone walls built across a bay or reef flat with sluice gates (makaha) that let fry in and kept the grown fish, an aquaculture system unique in Polynesia. Oahu had the largest number; the walls of the ponds of Pearl Harbor, Kaneohe Bay and Waikiki fed the chiefs of the island." />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_LOIKALO" Text="Loi Kalo" />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_LOIKALO_HELP" Text="Kauai replacement for the Granary. +3 [ICON_FOOD] Food instead of +2, and +1 [ICON_FOOD] Food from Sugar as well as Wheat, Bananas and Deer." />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_LOIKALO_STRATEGY" Text="The Loi Kalo feeds a city faster than a Granary; with the taro valleys (Bananas) and cane of Kauai it is the best growth building in the islands. Build it first." />
+    <Replace Tag="TXT_KEY_CIV5_HI1778_LOIKALO_TEXT" Text="Loi kalo are the irrigated taro terraces of the Hawaiian valleys, fed by ditches (auwai) from the streams; the Hanalei and Wailua valleys of Kauai were among the richest. Taro, pounded into poi, was the staple of the islands, and the legendary menehune were said to have built the great ditch of Kikiaola at Waimea in one night." />
+  </Language_en_US>
+  <Language_RU_RU>
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA" Text="Камеамеа" />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_PEDIA" Text="Камеамеа I (ок. 1758-1819), вождь Кохалы и Коны на Большом острове, после смерти дяди Каланиопуу в 1782 году воевал с двоюродным братом Кеоуа за остров, разбил его в 1791-м, взял Мауи и Молокаи в 1790 и 1794 годах и Оаху в битве при Нууану в 1795-м. Кауаи покорился по договору в 1810 году, и Королевство Гавайи стало его.[NEWLINE][NEWLINE]Он встречал корабли Кука в 1779 году и использовал западное оружие и советников, не отказываясь от системы капу; его закон о расщеплённом весле защищал мирных жителей. Сценарий начинается в 1778 году, когда Большой остров ещё разделён." />
+    <Replace Tag="TXT_KEY_CIV_POLYNESIA_DESC" Text="Вождество Кона и Кохала" />
+    <Replace Tag="TXT_KEY_CIV_POLYNESIA_SHORT_DESC" Text="Кона" />
+    <Replace Tag="TXT_KEY_CIV_POLYNESIA_ADJECTIVE" Text="Конский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_POLYNESIA_TEXT" Text="Камеамеа, племянник короля Гавайи, выросший в Каваихае в тени вулканов. Пророчество при твоём рождении сказало, что ты убьёшь вождей и будешь править островами; твой дядя Каланиопуу умер, и Большой остров поделён между тобой и твоим двоюродным братом Кеоуа. За проливом лежат Мауи, Оаху и Кауаи, и у каждого свой король.[NEWLINE][NEWLINE]Твой народ это лучшие мореходы на земле, а боевых каноэ Коны много. Построй хеиау Пуукохола, выиграй Большой остров, затем пересекай проливы один за другим. У островов никогда не было одного правителя. Стань первым." />
+    <Replace Tag="TXT_KEY_TRAIT_WAYFINDING_SHORT" Text="Мореходы длинного каноэ" />
+    <Replace Tag="TXT_KEY_TRAIT_WAYFINDING" Text="Могут садиться на суда и пересекать океан с самого начала; +1 к обзору погружённых юнитов. Юниты получают +10% [ICON_STRENGTH] боевой силы рядом со статуями кии." />
+    <Replace Tag="TXT_KEY_HI1778_BLURB_KONA" Text="Камеамеа, племянник короля Гавайи, выросший в Каваихае в тени вулканов. Пророчество при твоём рождении сказало, что ты убьёшь вождей и будешь править островами; твой дядя Каланиопуу умер, и Большой остров поделён между тобой и твоим двоюродным братом Кеоуа. За проливом лежат Мауи, Оаху и Кауаи, и у каждого свой король.[NEWLINE][NEWLINE]Твой народ это лучшие мореходы на земле, а боевых каноэ Коны много. Построй хеиау Пуукохола, выиграй Большой остров, затем пересекай проливы один за другим. У островов никогда не было одного правителя. Стань первым." />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_0" Text="Каваихае" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_1" Text="Каилуа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_2" Text="Кеалакекуа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_3" Text="Хонаунау" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_4" Text="Кеауху" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_5" Text="Холуалоа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_6" Text="Капаау" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_7" Text="Ваимеа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_8" Text="Ваипио" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_9" Text="Лапакахи" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_10" Text="Хонокохау" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KONA_11" Text="Кукуихаэле" />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_ATTACKED_1" Text="Ты напал на Кону? В пророчестве тебя не было." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_ATTACKED_2" Text="Хорошо. Теперь у каждого каноэ на берегу есть цель." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_ATTACKED_3" Text="Предательство. Боги Пуукохолы это видели." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DECLAREWAR_1" Text="Тогда каноэ выходят в море. Ты сам это выбрал." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DECLAREWAR_2" Text="Война. У островов будет один правитель, и это будешь не ты." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DECLAREWAR_3" Text="Быть по сему." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEFEATED_1" Text="Кона пала. Острова запомнят, кто почти объединил их." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEFEATED_2" Text="Ты держишь берег. Тебя держат вулканы." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEFEATED_3" Text="Весло расщеплено. Заканчивай." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEMANDTRIBUTE_ANGRY" Text="Дань." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEMANDTRIBUTE_HAPPY" Text="Плати." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEMANDTRIBUTE_NEUTRAL" Text="Дар удержал бы каноэ на берегу." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_3" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_6" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_1" Text="Я Камеамеа из Коны. Пролив широк, но каноэ у меня много. Кто ты?" />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_2" Text="Добро пожаловать в Каваихае. Садись и расскажи о своём острове." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_3" Text="Чужак с моря. Говори." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_1" Text="Попутного ветра." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_2" Text="До следующего совета." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_3" Text="Иди." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_4" Text="Попутного ветра." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_5" Text="До следующего совета." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_6" Text="Иди." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_2" Text="Кона слушает." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_3" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_5" Text="Кона слушает." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_6" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_2" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_5" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_LOSEWAR_1" Text="Мир. Рыбные пруды ждут ухода." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_LOSEWAR_2" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADEREQUEST_ANGRY" Text="Рассмотри." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADEREQUEST_HAPPY" Text="Обмен между вождями." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADEREQUEST_NEUTRAL" Text="Кона предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NO_ANGRY" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NO_HAPPY" Text="Это не обмен." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_YES_ANGRY" Text="Сделано." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_YES_HAPPY" Text="Да. Честно." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_NO_ANGRY" Text="Кона никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_NO_HAPPY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_NO_NEUTRAL" Text="Кона никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_YES_ANGRY" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_YES_NEUTRAL" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_1" Text="Не угрожай Коне." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_3" Text="Подумай ещё." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_WINWAR_1" Text="Пролив мой. Иди домой." />
+    <Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA_WINWAR_2" Text="Кона стоит." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_NOBUNAGA" Text="Кеоуа" />
+    <Replace Tag="TXT_KEY_LEADER_ODA_NOBUNAGA_PEDIA" Text="Кеоуа Куахуула (ум. 1791), сын Каланиопуу, короля Большого острова, и соперник своего двоюродного брата Камеамеа в борьбе за остров после 1782 года. Он удерживал Кау, Пуну и Хило девять лет войны; в 1790 году треть его армии погибла при извержении Килауэа во время перехода через вулкан.[NEWLINE][NEWLINE]В 1791 году его пригласили на освящение хеиау Пуукохола и убили при высадке вместе со спутниками, как жертву, освятившую храм. Его смерть закончила войну за Большой остров." />
+    <Replace Tag="TXT_KEY_CIV_JAPAN_DESC" Text="Вождество Хило, Пуна и Кау" />
+    <Replace Tag="TXT_KEY_CIV_JAPAN_SHORT_DESC" Text="Хило" />
+    <Replace Tag="TXT_KEY_CIV_JAPAN_ADJECTIVE" Text="Хилоский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_JAPAN_TEXT" Text="Кеоуа Куахуула, сын покойного короля Каланиопуу, владыка Хило, Пуны и Кау на наветренной стороне Большого острова. Королевство твоего отца разрезано надвое: бог войны и запад достались твоему двоюродному брату Камеамеа, земля и восток тебе. Дождь льёт на твои долины, лава течёт через твои округа, а твои воины лучшие на островах.[NEWLINE][NEWLINE]Кона придёт за тобой. Удержи Хило, преврати лавовые поля Кау в ловушку и помни, что боги Килауэа на твоей стороне. На Большом острове есть место для одного короля, и последним был твой отец." />
+    <Replace Tag="TXT_KEY_TRAIT_FIGHT_WELL_DAMAGED_SHORT" Text="Воины луа" />
+    <Replace Tag="TXT_KEY_TRAIT_FIGHT_WELL_DAMAGED" Text="Юниты сражаются в полную силу, будучи ранеными. +1 [ICON_CULTURE] культуры с рыбацких лодок и +2 с атоллов." />
+    <Replace Tag="TXT_KEY_HI1778_BLURB_HILO" Text="Кеоуа Куахуула, сын покойного короля Каланиопуу, владыка Хило, Пуны и Кау на наветренной стороне Большого острова. Королевство твоего отца разрезано надвое: бог войны и запад достались твоему двоюродному брату Камеамеа, земля и восток тебе. Дождь льёт на твои долины, лава течёт через твои округа, а твои воины лучшие на островах.[NEWLINE][NEWLINE]Кона придёт за тобой. Удержи Хило, преврати лавовые поля Кау в ловушку и помни, что боги Килауэа на твоей стороне. На Большом острове есть место для одного короля, и последним был твой отец." />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_0" Text="Хило" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_1" Text="Ваиохину" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_2" Text="Калапана" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_3" Text="Лаупахоэхоэ" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_4" Text="Кеаау" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_5" Text="Пахоа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_6" Text="Наалеху" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_7" Text="Пуналуу" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_8" Text="Хоному" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_9" Text="Капохо" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_10" Text="Пепеэкео" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_HILO_11" Text="Каиму" />
+    <Replace Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_6" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_7" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_ATTACKED_1" Text="Ты напал на Хило? Земля моего отца чужакам не достаётся." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_ATTACKED_2" Text="Воины Пуны идут. Сосчитай их." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_ATTACKED_3" Text="Предательство. Пеле это видела." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DECLAREWAR_1" Text="Тогда у мастеров луа будет работа." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DECLAREWAR_2" Text="Война. Килауэа возьмёт свою долю." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DECLAREWAR_3" Text="Быть по сему." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DEFEATED_1" Text="Хило пало. Передай Коне, что это заняло у него достаточно времени." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DEFEATED_2" Text="Ты держишь восток. Тебя удержит лава." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DEFEATED_3" Text="Королевство моего отца кончается здесь." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DEFEATED_4" Text="Хило пало. Передай Коне, что это заняло у него достаточно времени." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DEMANDTRIBUTE_ANGRY" Text="Дань." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DEMANDTRIBUTE_HAPPY" Text="Плати." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DEMANDTRIBUTE_NEUTRAL" Text="Дар был бы мудрым решением." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_3" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_FIRSTGREETING_1" Text="Я Кеоуа, сын Каланиопуу, владыка Хило. Если ты из Коны, скажи это сразу." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_FIRSTGREETING_2" Text="Добро пожаловать на наветренную сторону. Дождь наш, и земля тоже." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_FIRSTGREETING_3" Text="Чужак. Говори." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GOODBYE_1" Text="Иди с дождём." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GOODBYE_2" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GOODBYE_3" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GOODBYE_4" Text="Иди с дождём." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GOODBYE_5" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GOODBYE_6" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GOODBYE_7" Text="Иди с дождём." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GREETING_2" Text="Хило слушает." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GREETING_3" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GREETING_5" Text="Хило слушает." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GREETING_6" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_GREETING_7" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_2" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_5" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_6" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_7" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_8" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_LOSEWAR_1" Text="Мир. Таро пора сажать." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADEREQUEST_ANGRY" Text="Рассмотри." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADEREQUEST_HAPPY" Text="Обмен." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADEREQUEST_NEUTRAL" Text="Хило предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADE_NO_ANGRY" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADE_NO_HAPPY" Text="Это нечестно." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADE_YES_ANGRY" Text="Сделано." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRIBUTE_NO_ANGRY" Text="Хило никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRIBUTE_NO_HAPPY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRIBUTE_NO_NEUTRAL" Text="Хило никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRIBUTE_YES_ANGRY" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_TRIBUTE_YES_NEUTRAL" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_WARBLUFF_1" Text="Не угрожай Хило." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_WARBLUFF_3" Text="Подумай ещё." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_WARBLUFF_4" Text="Не угрожай Хило." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_WARBLUFF_5" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_ODA_WINWAR_1" Text="Наветренная сторона свободна." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA" Text="Кахекили" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_PEDIA" Text="Кахекили II (ок. 1737-1794), король Мауи с 1766 года, главный правитель островов к прибытию Кука. Он завоевал Оаху в 1783 году, после того как посаженный им Кахахана обратился против него, правил Мауи, Молокаи, Ланаи и Оаху вместе и дважды сводил войну с Камеамеа вничью.[NEWLINE][NEWLINE]Говорили, что он был татуирован чёрным с одной стороны с головы до ног, как бог грома Канехекили, и некоторые предания называют его настоящим отцом Камеамеа. Его королевство распалось после его смерти в Ваикики в 1794 году." />
+    <Replace Tag="TXT_KEY_CIV_ZULU_DESC" Text="Королевство Мауи" />
+    <Replace Tag="TXT_KEY_CIV_ZULU_SHORT_DESC" Text="Мауи" />
+    <Replace Tag="TXT_KEY_CIV_ZULU_ADJECTIVE" Text="Мауиский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ZULU_TEXT" Text="Кахекили, король Мауи, Ланаи и Кахоолаве, татуированный чёрным с одной стороны тела по образу бога грома. Молокаи твой во всём, кроме имени, а король Оаху это ребёнок, которого ты посадил на трон. Только Большой остров за проливом Аленуихаха когда-либо стоял против тебя.[NEWLINE][NEWLINE]Твои воины самые грозные на островах, и твой род ведёт к каждому двору. Возьми Оаху открыто, удержи пролив и реши вопрос о том, кто правит архипелагом, прежде чем это сделает молодой вождь Коны." />
+    <Replace Tag="TXT_KEY_TRAIT_BUFFALO_HORNS_SHORT" Text="Татуированный король" />
+    <Replace Tag="TXT_KEY_TRAIT_BUFFALO_HORNS" Text="Юниты ближнего боя требуют на 50% меньше содержания. Всем юнитам нужно на 25% меньше опыта для повышений." />
+    <Replace Tag="TXT_KEY_HI1778_BLURB_MAUI" Text="Кахекили, король Мауи, Ланаи и Кахоолаве, татуированный чёрным с одной стороны тела по образу бога грома. Молокаи твой во всём, кроме имени, а король Оаху это ребёнок, которого ты посадил на трон. Только Большой остров за проливом Аленуихаха когда-либо стоял против тебя.[NEWLINE][NEWLINE]Твои воины самые грозные на островах, и твой род ведёт к каждому двору. Возьми Оаху открыто, удержи пролив и реши вопрос о том, кто правит архипелагом, прежде чем это сделает молодой вождь Коны." />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_0" Text="Ваилуку" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_1" Text="Лахаина" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_2" Text="Хана" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_3" Text="Кахулуи" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_4" Text="Кихеи" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_5" Text="Макавао" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_6" Text="Кула" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_7" Text="Каупо" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_8" Text="Кипахулу" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_9" Text="Кахакулоа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_10" Text="Оловалу" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_MAUI_11" Text="Хоноковаи" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_1" Text="Ты напал на Мауи? Канехекили ответит тебе." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_2" Text="Воины Ваилуку идут. Все." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_3" Text="Предательство. Я его ждал." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_1" Text="Тогда ты узнаешь то, что узнал Оаху." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_2" Text="Война. Мои воины слишком долго бездельничали." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_3" Text="Быть по сему." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_1" Text="Мауи пал. Наслаждайся островами; завоёванными они не остаются." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_2" Text="Ты держишь Ваилуку. Мой народ ты не удержишь." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_3" Text="Бог грома сегодня молчит." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_ANGRY" Text="Дар королю Мауи." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_HAPPY" Text="Дань." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_NEUTRAL" Text="Плати и сохрани свой остров." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_3" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_6" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_1" Text="Я Кахекили, король Мауи. Половина островов уже отвечает мне. Ты из какой половины?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_2" Text="Добро пожаловать в Ваилуку. Посмотри на татуировку и запомни её." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_3" Text="Чужак. Говори быстро." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_1" Text="Иди." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_2" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_3" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_4" Text="Иди." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_5" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_6" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_2" Text="Мауи слушает." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_3" Text="Ну?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_5" Text="Мауи слушает." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_6" Text="Ну?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_2" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_5" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_1" Text="Мир. Пока что." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_2" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_ANGRY" Text="Рассмотри." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_HAPPY" Text="Обмен." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_NEUTRAL" Text="Мауи предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_ANGRY" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_HAPPY" Text="Мауи не рынок." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_ANGRY" Text="Сделано." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_ANGRY" Text="Мауи никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_HAPPY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_NEUTRAL" Text="Мауи никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_ANGRY" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_NEUTRAL" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_1" Text="Угрожать Мауи? Забавно." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_3" Text="Подумай ещё." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WINWAR_1" Text="Мауи в безопасности. Уходи." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WINWAR_2" Text="Пролив мой." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO" Text="Кахахана" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_PEDIA" Text="Кахахана (ум. ок. 1785), король Оаху с 1773 года, избранный вождями острова, но выросший на Мауи у Кахекили, который потребовал в уплату земли Куалоа и священную китовую кость с берега. Кахахана отказал, по наущению соперника казнил собственного верховного жреца Каопулупулу, и в 1783 году Кахекили вторгся на Оаху и взял его.[NEWLINE][NEWLINE]Кахахана два года скрывался в горах, пока его не предали и не убили. Оаху, место встреч, был призом в каждой войне эпохи." />
+    <Replace Tag="TXT_KEY_CIV_CARTHAGE_DESC" Text="Королевство Оаху" />
+    <Replace Tag="TXT_KEY_CIV_CARTHAGE_SHORT_DESC" Text="Оаху" />
+    <Replace Tag="TXT_KEY_CIV_CARTHAGE_ADJECTIVE" Text="Оахуский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_CARTHAGE_TEXT" Text="Кахахана, король Оаху, выросший при дворе Мауи и посаженный на трон Кахекили, который теперь хочет свою цену. Твой остров богаче всех: рыбные пруды Пуулоа, таро Нууану, бухты Ваикики и Ваианаэ и место встречи всех каноэ архипелага.[NEWLINE][NEWLINE]Кахекили долго ждать не будет. Построй гавани в каждой бухте, наполни рыбные пруды, удержи жрецов Канеохе на своей стороне и сделай Оаху слишком сильным, чтобы быть чьим-то подарком." />
+    <Replace Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE_SHORT" Text="Бухты места встреч" />
+    <Replace Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE" Text="Все прибрежные города получают бесплатную гавань. После первого великого полководца юниты могут пересекать горы, теряя 50 ОЗ, если заканчивают ход на горе." />
+    <Replace Tag="TXT_KEY_HI1778_BLURB_OAHU" Text="Кахахана, король Оаху, выросший при дворе Мауи и посаженный на трон Кахекили, который теперь хочет свою цену. Твой остров богаче всех: рыбные пруды Пуулоа, таро Нууану, бухты Ваикики и Ваианаэ и место встречи всех каноэ архипелага.[NEWLINE][NEWLINE]Кахекили долго ждать не будет. Построй гавани в каждой бухте, наполни рыбные пруды, удержи жрецов Канеохе на своей стороне и сделай Оаху слишком сильным, чтобы быть чьим-то подарком." />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_0" Text="Ваикики" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_1" Text="Коу" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_2" Text="Каилуа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_3" Text="Канеохе" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_4" Text="Ваианаэ" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_5" Text="Эва" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_6" Text="Ваиалуа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_7" Text="Нууану" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_8" Text="Маноа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_9" Text="Кахуку" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_10" Text="Хауула" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_OAHU_11" Text="Куалоа" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_ATTACKED_1" Text="Ты напал на Оаху? Кахекили тоже пробовал." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_ATTACKED_2" Text="Пали тебя удержит. Как всегда." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_ATTACKED_3" Text="Предательство. Жрецы предупреждали." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_1" Text="Тогда бухты для тебя закрыты." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_2" Text="Война. Оаху ничей подарок." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_3" Text="Быть по сему." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEFEATED_1" Text="Оаху пал. Все хотят место встреч; никто его не удерживает." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEFEATED_2" Text="Ты держишь бухты. Горы всё ещё мои." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEFEATED_3" Text="Скажи Кахекили, что он был прав насчёт тебя." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_ANGRY" Text="Дань." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_HAPPY" Text="Плати." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_NEUTRAL" Text="Дар за гавань был бы мудрым решением." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_3" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_6" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_1" Text="Я Кахахана, король Оаху. Каждое каноэ на островах останавливается здесь. Твоё, похоже, тоже." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_2" Text="Добро пожаловать в Ваикики. Рыбные пруды полны; ешь." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_3" Text="Чужак. Говори." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_1" Text="Попутного ветра." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_2" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_3" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_4" Text="Попутного ветра." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_5" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GOODBYE_6" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_2" Text="Оаху слушает." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_3" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_5" Text="Оаху слушает." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_GREETING_6" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_2" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_5" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LOSEWAR_1" Text="Мир. Рыбным прудам нужен я." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_LOSEWAR_2" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_ANGRY" Text="Рассмотри." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_HAPPY" Text="Обмен." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_NEUTRAL" Text="Оаху предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_ANGRY" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_HAPPY" Text="Это не торговля." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_ANGRY" Text="Сделано." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_NEUTRAL" Text="Согласен. Гавань открыта." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_ANGRY" Text="Оаху никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_HAPPY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_NEUTRAL" Text="Оаху никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_ANGRY" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_NEUTRAL" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_1" Text="Не угрожай Оаху." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_3" Text="Подумай ещё." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WINWAR_1" Text="Оаху свободен." />
+    <Replace Tag="TXT_KEY_LEADER_DIDO_WINWAR_2" Text="Иди домой." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE" Text="Камакахелеи" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_PEDIA" Text="Камакахелеи (ок. 1730-1794), правящая вождиня Кауаи и Ниихау, когда корабли Кука встали на якорь у Ваимеа в январе 1778 года, первая гавайская правительница, которую встретили европейцы; её муж Каэокулани, вождь с Мауи, делил с ней власть и водил воинов. Их сын Каумуалии был последним королём Кауаи.[NEWLINE][NEWLINE]Кауаи был единственным островом, который Камеамеа так и не завоевал: его флот вторжения 1796 года разбился в проливе, а второй, в 1804-м, уничтожила эпидемия ещё до выхода в море. Каумуалии уступил остров по договору в 1810 году." />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_DESC" Text="Королевство Кауаи и Ниихау" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC" Text="Кауаи" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE" Text="Кауаиский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ETHIOPIA_TEXT" Text="Камакахелеи, правящая вождиня Кауаи и Ниихау, старейших островов, самых дальних от остальных. Сто миль открытого моря охраняют твои долины, и ни один король с востока ещё не пересёк их с войском. Твой муж Каэо командует воинами; земля, долины таро Ваилуа и Ханалеи и великий каньон Ваимеа, твоя.[NEWLINE][NEWLINE]Вожди востока придут, рано или поздно, через худший пролив на островах. Наполни долины, укрепи берега и пусть море сражается за тебя. Кауаи никогда не брали. Сохрани это так." />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT" Text="Непокорённый остров" />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH" Text="+20% [ICON_STRENGTH] боевой силы против цивилизаций, у которых больше городов, чем у вас." />
+    <Replace Tag="TXT_KEY_HI1778_BLURB_KAUAI" Text="Камакахелеи, правящая вождиня Кауаи и Ниихау, старейших островов, самых дальних от остальных. Сто миль открытого моря охраняют твои долины, и ни один король с востока ещё не пересёк их с войском. Твой муж Каэо командует воинами; земля, долины таро Ваилуа и Ханалеи и великий каньон Ваимеа, твоя.[NEWLINE][NEWLINE]Вожди востока придут, рано или поздно, через худший пролив на островах. Наполни долины, укрепи берега и пусть море сражается за тебя. Кауаи никогда не брали. Сохрани это так." />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_0" Text="Ваилуа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_1" Text="Ваимеа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_2" Text="Ханалеи" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_3" Text="Колоа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_4" Text="Ханапепе" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_5" Text="Капаа" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_6" Text="Кекаха" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_7" Text="Анахола" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_8" Text="Хаэна" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_9" Text="Калалау" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_10" Text="Лихуэ" />
+    <Replace Tag="TXT_KEY_CITY_NAME_HI1778_KAUAI_11" Text="Килауэа" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_1" Text="Согласна." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_4" Text="Согласна." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_1" Text="Ты напал на Кауаи? Пролив топил флоты и получше." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_2" Text="Каэо собирает воинов. Ты встретишь их на берегу." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_3" Text="Предательство. Старый остров помнит." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_1" Text="Тогда приходи через пролив. Другие пробовали." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_2" Text="Война. Море на нашей стороне." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_3" Text="Быть по сему." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_1" Text="Кауаи пал. Этого ещё никто не говорил." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_2" Text="Ты держишь долины. Море заберёт их обратно." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_3" Text="Старейший остров кончается на мне." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_ANGRY" Text="Дань." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY" Text="Плати." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_NEUTRAL" Text="Дар был бы мудрым решением." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_3" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_6" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_1" Text="Я Камакахелеи с Кауаи. Ты пересёк пролив, значит ты либо храбрец, либо заблудился. Кто из них?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_2" Text="Добро пожаловать в Ваилуа. Немногие с востока доходят сюда." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_3" Text="Чужак на старейшем острове. Говори." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_1" Text="Пусть пролив будет добр к тебе." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_2" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_3" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_4" Text="Пусть пролив будет добр к тебе." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_5" Text="Прощай." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_6" Text="До следующего раза." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_2" Text="Кауаи слушает." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_3" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_5" Text="Кауаи слушает." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_6" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_1" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_2" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_4" Text="Говори." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_5" Text="Продолжай." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_1" Text="Мир. Таро ждёт." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_2" Text="Согласна." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_ANGRY" Text="Рассмотри." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_HAPPY" Text="Обмен." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_NEUTRAL" Text="Кауаи предлагает это." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_ANGRY" Text="Отказ." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_HAPPY" Text="Это нечестно." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_ANGRY" Text="Сделано." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_NEUTRAL" Text="Согласна." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_ANGRY" Text="Кауаи никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_HAPPY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_NEUTRAL" Text="Кауаи никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_ANGRY" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_NEUTRAL" Text="Бери." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_1" Text="Не угрожай Кауаи." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_3" Text="Подумай ещё." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_1" Text="Кауаи стоит, как стоял всегда." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_2" Text="Иди домой через пролив." />
+    <Replace Tag="TXT_KEY_FEATURE_KILIMANJARO" Text="Мауна-Кеа" />
+    <Replace Tag="TXT_KEY_FEATURE_VOLCANO" Text="Килауэа" />
+    <Replace Tag="TXT_KEY_FEATURE_CRATER" Text="Халеакала" />
+    <Replace Tag="TXT_KEY_FEATURE_GIBRALTAR" Text="Леахи" />
+    <Replace Tag="TXT_KEY_FEATURE_MESA" Text="Каньон Ваимеа" />
+    <Replace Tag="TXT_KEY_FEATURE_MT_KAILASH" Text="Калаупапа" />
+    <Replace Tag="TXT_KEY_FEATURE_ULURU" Text="Кеахиакавело" />
+    <Replace Tag="TXT_KEY_HI1778_TITLE" Text="Гавайи 1778" />
+    <Replace Tag="TXT_KEY_HI1778_INTRO" Text="Гавайские острова в 1778 году, в год появления первых кораблей. Пять вождеств, три малых острова, ни железа, ни лошадей. Обустрой свой остров, освой море, пересеки проливы, объедини архипелаг. Победа только завоеванием." />
+    <Replace Tag="TXT_KEY_RELIGION_BUDDHISM" Text="Кане" />
+    <Replace Tag="TXT_KEY_RELIGION_CATHOLICISM" Text="Ку" />
+    <Replace Tag="TXT_KEY_RELIGION_CONFUCIANISM" Text="Лоно" />
+    <Replace Tag="TXT_KEY_RELIGION_HINDUISM" Text="Каналоа" />
+    <Replace Tag="TXT_KEY_RELIGION_ISLAM" Text="Пеле" />
+    <Replace Tag="TXT_KEY_RELIGION_JUDAISM" Text="Хина" />
+    <Replace Tag="TXT_KEY_RELIGION_SHINTO" Text="Лака" />
+    <Replace Tag="TXT_KEY_RELIGION_SIKHISM" Text="Хаумеа" />
+    <Replace Tag="TXT_KEY_RELIGION_TAOISM" Text="Папа" />
+    <Replace Tag="TXT_KEY_RELIGION_TENGRIISM" Text="Камапуаа" />
+    <Replace Tag="TXT_KEY_RELIGION_ZOROASTRIANISM" Text="Кукаилимоку" />
+    <Replace Tag="TXT_KEY_RELIGION_ORTHODOXY" Text="Куула" />
+    <Replace Tag="TXT_KEY_RELIGION_PROTESTANTISM" Text="Камохоалии" />
+    <Replace Tag="TXT_KEY_RELIGION_CHRISTIANITY" Text="Ку" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_CEREMONY" Text="Церемония" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_CEREMONY_HELP" Text="[COLOR_POSITIVE_TEXT]Церемония[ENDCOLOR] повышает счастье вашей державы и позволяет ей расти.[NEWLINE][NEWLINE]Принятие ветки «Церемония» снижает [ICON_HAPPINESS_4] недовольство от [ICON_CITIZEN] населения в [ICON_CAPITAL] столице на 33%." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_CEREMONY_TEXT" Text="Церемонии это обряды, которыми общество отмечает важные события и скрепляет свои узы: капу, объявлявшие вещи священными, дарение хоокупу, ава на каждом совете, игры и сёрфинг сезона макахики, пир луау. Какой бы ни была их святость, они держали острова вместе." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TAPU" Text="Капу" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TAPU_HELP" Text="[COLOR_POSITIVE_TEXT]Капу[ENDCOLOR][NEWLINE]Стоимость будущих институтов в [ICON_CULTURE] культуре снижена на 10%." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TAPU_TEXT" Text="Капу" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POWHIRI" Text="Хоокупу" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POWHIRI_HELP" Text="[COLOR_POSITIVE_TEXT]Хоокупу[ENDCOLOR][NEWLINE]Дары [ICON_GOLD] золота городам-государствам дают на 25% больше [ICON_INFLUENCE] влияния." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POWHIRI_TEXT" Text="Хоокупу" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_SURFING" Text="Хеэналу" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_SURFING_HELP" Text="[COLOR_POSITIVE_TEXT]Хеэналу[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] счастья за каждый город державы." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_SURFING_TEXT" Text="Хеэналу" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_KAVA" Text="Ава" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_KAVA_HELP" Text="[COLOR_POSITIVE_TEXT]Ава[ENDCOLOR][NEWLINE]Немедленно +10 [ICON_HAPPINESS_1] счастья." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_KAVA_TEXT" Text="Ава" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_LUAU" Text="Луау" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_LUAU_HELP" Text="[COLOR_POSITIVE_TEXT]Луау[ENDCOLOR][NEWLINE]+2 [ICON_HAPPINESS_1] счастья за каждый вид редкого ресурса." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_LUAU_TEXT" Text="Луау" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_THE_ARTS" Text="Искусства" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_THE_ARTS_HELP" Text="[COLOR_POSITIVE_TEXT]Искусства[ENDCOLOR] повышает культуру державы и позволяет принимать больше институтов.[NEWLINE][NEWLINE]Принятие ветки «Искусства» даёт +2 [ICON_CULTURE] культуры от каждого монумента и храма." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_THE_ARTS_TEXT" Text="Искусство это воплощённая работа воображения, которая поднимает обычную вещь над её пользой. Ткань из луба одевает тело; отбитая и расписанная как капа, она становится искусством. Хула, песнопения оли, хранившие родословные и знания, резные кии и каменные изображения хеиау наполняли свои предметы маной." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HULA" Text="Хула" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HULA_HELP" Text="[COLOR_POSITIVE_TEXT]Хула[ENDCOLOR][NEWLINE]Для начала [ICON_GOLDEN_AGE] золотого века нужно на 25% меньше [ICON_HAPPINESS_1] счастья." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HULA_TEXT" Text="Хула" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TIKI" Text="Кии" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TIKI_HELP" Text="[COLOR_POSITIVE_TEXT]Кии[ENDCOLOR][NEWLINE]50% избыточного [ICON_HAPPINESS_1] счастья каждый ход добавляется к [ICON_CULTURE] культуре для институтов." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TIKI_TEXT" Text="Кии" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_RONGO" Text="Оли" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_RONGO_HELP" Text="[COLOR_POSITIVE_TEXT]Оли[ENDCOLOR][NEWLINE]+100% [ICON_RESEARCH] науки от библиотек и обсерваторий." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_RONGO_TEXT" Text="Оли" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TAPACLOTH" Text="Капа" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TAPACLOTH_HELP" Text="[COLOR_POSITIVE_TEXT]Капа[ENDCOLOR][NEWLINE]+2 [ICON_CULTURE] культуры в каждом городе." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TAPACLOTH_TEXT" Text="Капа" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_STONECARVING" Text="Похаку" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_STONECARVING_HELP" Text="[COLOR_POSITIVE_TEXT]Похаку[ENDCOLOR][NEWLINE]+1 [ICON_CULTURE] культуры с каждого улучшения, которое уже даёт культуру." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_STONECARVING_TEXT" Text="Похаку" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HONOR" Text="Честь" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HONOR_HELP" Text="[COLOR_POSITIVE_TEXT]Честь[ENDCOLOR] делает войско сильнее на разные лады.[NEWLINE][NEWLINE]Принятие ветки «Честь» даёт +15 опыта всем сухопутным боевым юнитам, созданным с этого момента." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HONOR_TEXT" Text="На островах положение вождя держалось на мане и на воинах, которые шли за ним. Честь это войско, с юности обученное луа, ведомое алии, исцеляемое кахуна и кормимое пои, которое боевые каноэ везли через проливы." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POI" Text="Пои" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POI_HELP" Text="[COLOR_POSITIVE_TEXT]Пои[ENDCOLOR][NEWLINE]+1 [ICON_MOVES] к передвижению погружённых юнитов." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POI_TEXT" Text="Пои" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_ARIKI" Text="Алии" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_ARIKI_HELP" Text="[COLOR_POSITIVE_TEXT]Алии[ENDCOLOR][NEWLINE]Великие полководцы появляются на 100% быстрее." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_ARIKI_TEXT" Text="Алии" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HEALING" Text="Исцеление кахуна" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HEALING_HELP" Text="[COLOR_POSITIVE_TEXT]Исцеление кахуна[ENDCOLOR][NEWLINE]Юниты ближнего боя получают повышение «Медик»." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HEALING_TEXT" Text="Исцеление кахуна" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HAKA" Text="Хаа" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HAKA_HELP" Text="[COLOR_POSITIVE_TEXT]Хаа[ENDCOLOR][NEWLINE]За каждого убитого врага держава получает [ICON_CULTURE] культуру, равную ТРОЙНОЙ [ICON_STRENGTH] боевой силе юнита." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_HAKA_TEXT" Text="Хаа" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MANA" Text="Мана" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MANA_HELP" Text="[COLOR_POSITIVE_TEXT]Мана[ENDCOLOR][NEWLINE][ICON_GREAT_PEOPLE] Великие люди появляются на 100% быстрее." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MANA_TEXT" Text="Мана" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_FAITH" Text="Акуа" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_FAITH_HELP" Text="[COLOR_POSITIVE_TEXT]Акуа[ENDCOLOR] умножает [ICON_PEACE] веру вашего народа.[NEWLINE][NEWLINE]Принятие ветки «Акуа» позволяет строить святилища и храмы вдвое быстрее." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_FAITH_TEXT" Text="Акуа были богами островов: Кане-творец, Ку войны, Лоно урожая, Каналоа моря и семейные аумакуа, хранившие каждый дом. Их хеиау стояли на каждом берегу, их кахуна читали знамения, а месяцы макахики, посвящённые Лоно, закрывали год данью и играми." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_SHRINES" Text="Хеиау" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_SHRINES_HELP" Text="[COLOR_POSITIVE_TEXT]Хеиау[ENDCOLOR][NEWLINE]+1 [ICON_PEACE] веры от святилищ и храмов." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_SHRINES_TEXT" Text="Хеиау" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MANDATE" Text="Макахики" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MANDATE_HELP" Text="[COLOR_POSITIVE_TEXT]Макахики[ENDCOLOR][NEWLINE]Покупка религиозных юнитов и зданий за [ICON_PEACE] веру на 20% дешевле." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MANDATE_TEXT" Text="Макахики" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_THEOCRACY" Text="Луакини" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_THEOCRACY_HELP" Text="[COLOR_POSITIVE_TEXT]Луакини[ENDCOLOR][NEWLINE]Храмы увеличивают доход города в [ICON_GOLD] золоте на 25%." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_THEOCRACY_TEXT" Text="Луакини" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TOLERANCE" Text="Аумакуа" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TOLERANCE_HELP" Text="[COLOR_POSITIVE_TEXT]Аумакуа[ENDCOLOR][NEWLINE]Города с господствующей религией получают и бонус пантеона второй по численности религии." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TOLERANCE_TEXT" Text="Аумакуа" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_REFORMATION" Text="Кахуна-нуи" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_REFORMATION_HELP" Text="[COLOR_POSITIVE_TEXT]Кахуна-нуи[ENDCOLOR][NEWLINE]Если вы основали религию, получаете дополнительное верование Реформации." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_REFORMATION_TEXT" Text="Кахуна-нуи" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TRADE" Text="Аухау" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TRADE_HELP" Text="[COLOR_POSITIVE_TEXT]Аухау[ENDCOLOR] помогает державам, сосредоточенным на [ICON_GOLD] золоте.[NEWLINE][NEWLINE]Принятие ветки «Аухау» увеличивает доход [ICON_CAPITAL] столицы в [ICON_GOLD] золоте на 25%." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_TRADE_TEXT" Text="На островах не было денег, но было богатство: дань аухау свиньями, капой и перьями, приносимая вождю на макахики, конохики, правившие каждым ахупуаа, тропы алалоа, соединявшие округа, и мена нагорий с побережьем." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_ROUTES" Text="Алалоа" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_ROUTES_HELP" Text="[COLOR_POSITIVE_TEXT]Алалоа[ENDCOLOR][NEWLINE]+2 [ICON_GOLD] золота от каждого сухопутного торгового пути. Содержание дорог дешевле на 50%." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_ROUTES_TEXT" Text="Алалоа" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POSTS" Text="Куапо" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POSTS_HELP" Text="[COLOR_POSITIVE_TEXT]Куапо[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] золота с каждой фактории." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_POSTS_TEXT" Text="Куапо" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MERCHANTS" Text="Конохики" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MERCHANTS_HELP" Text="[COLOR_POSITIVE_TEXT]Конохики[ENDCOLOR][NEWLINE]Великие торговцы появляются на 25% быстрее. Торговые миссии приносят вдвое больше [ICON_GOLD] золота. +1 [ICON_MOVES] к передвижению погружённых юнитов." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MERCHANTS_TEXT" Text="Конохики" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MARKETS" Text="Ваивай" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MARKETS_HELP" Text="[COLOR_POSITIVE_TEXT]Ваивай[ENDCOLOR][NEWLINE]Покупки в городах на 25% дешевле в [ICON_GOLD] золоте. +1 [ICON_RESEARCH] науки от каждого монетного двора и рынка." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_MARKETS_TEXT" Text="Ваивай" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_LUXURIES" Text="Ахупуаа" />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_LUXURIES_HELP" Text="[COLOR_POSITIVE_TEXT]Ахупуаа[ENDCOLOR][NEWLINE]+2 [ICON_HAPPINESS_1] счастья за каждый редкий ресурс." />
+    <Replace Tag="TXT_KEY_POLICY_HI1778_LUXURIES_TEXT" Text="Ахупуаа" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_CEREMONY" Text="Церемония" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_CEREMONY_CAP" Text="ЦЕРЕМОНИЯ" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_CEREMONY_HELP" Text="[COLOR_POSITIVE_TEXT]Церемония[ENDCOLOR] повышает счастье вашей державы и позволяет ей расти.[NEWLINE][NEWLINE]Принятие ветки «Церемония» снижает [ICON_HAPPINESS_4] недовольство от [ICON_CITIZEN] населения в [ICON_CAPITAL] столице на 33%." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_CEREMONY_TITLE" Text="{1_PlayerName:textkey} Почитаемый, {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_THE_ARTS" Text="Искусства" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_THE_ARTS_CAP" Text="ИСКУССТВА" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_THE_ARTS_HELP" Text="[COLOR_POSITIVE_TEXT]Искусства[ENDCOLOR] повышает культуру державы и позволяет принимать больше институтов.[NEWLINE][NEWLINE]Принятие ветки «Искусства» даёт +2 [ICON_CULTURE] культуры от каждого монумента и храма." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_THE_ARTS_TITLE" Text="{1_PlayerName:textkey} Искусный, {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_HONOR" Text="Честь" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_HONOR_CAP" Text="ЧЕСТЬ" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_HONOR_HELP" Text="[COLOR_POSITIVE_TEXT]Честь[ENDCOLOR] делает войско сильнее на разные лады.[NEWLINE][NEWLINE]Принятие ветки «Честь» даёт +15 опыта всем сухопутным боевым юнитам, созданным с этого момента." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_HONOR_TITLE" Text="{1_PlayerName:textkey} Великий, {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_FAITH" Text="Акуа" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_FAITH_CAP" Text="АКУА" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_FAITH_HELP" Text="[COLOR_POSITIVE_TEXT]Акуа[ENDCOLOR] умножает [ICON_PEACE] веру вашего народа.[NEWLINE][NEWLINE]Принятие ветки «Акуа» позволяет строить святилища и храмы вдвое быстрее." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_FAITH_TITLE" Text="{1_PlayerName:textkey} Благочестивый, {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_TRADE" Text="Аухау" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_TRADE_CAP" Text="АУХАУ" />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_TRADE_HELP" Text="[COLOR_POSITIVE_TEXT]Аухау[ENDCOLOR] помогает державам, сосредоточенным на [ICON_GOLD] золоте.[NEWLINE][NEWLINE]Принятие ветки «Аухау» увеличивает доход [ICON_CAPITAL] столицы в [ICON_GOLD] золоте на 25%." />
+    <Replace Tag="TXT_KEY_POLICY_BRANCH_HI1778_TRADE_TITLE" Text="{1_PlayerName:textkey} Богатый, {2_CivName:textkey}" />
+    <Replace Tag="TXT_KEY_CITYSTATE_HI_MOLOKAI" Text="Молокаи" />
+    <Replace Tag="TXT_KEY_CITY_HI_MOLOKAI" Text="Каунакакаи" />
+    <Replace Tag="TXT_KEY_CITYSTATE_HI_LANAI" Text="Ланаи" />
+    <Replace Tag="TXT_KEY_CITY_HI_LANAI" Text="Каунолу" />
+    <Replace Tag="TXT_KEY_CITYSTATE_HI_NIIHAU" Text="Ниихау" />
+    <Replace Tag="TXT_KEY_CITY_HI_NIIHAU" Text="Пууваи" />
+    <Replace Tag="TXT_KEY_UNIT_POLYNESIAN_MAORI_WARRIOR" Text="Коа" />
+    <Replace Tag="TXT_KEY_CIV5_POLYNESIAN_MAORI_WARRIOR_HELP" Text="Юнит древней эры, который наводит страх на врагов рядом и ослабляет их в бою. Только Кона может его строить. Заменяет воина." />
+    <Replace Tag="TXT_KEY_CIV5_POLYNESIAN_MAORI_WARRIOR_STRATEGY" Text="Коа действует как великий полководец наоборот: не усиливает своих, а ослабляет вражеские юниты рядом с собой. Стройте их побольше в начале, повышение остаётся при улучшении." />
+    <Replace Tag="TXT_KEY_CIV5_POLYNESIAN_MAORI_WARRIOR_TEXT" Text="Коа были профессиональными воинами гавайских вождей, с детства обученными луа, копью, палице и праще, и названными по твёрдому дереву коа, из которого делали их оружие и каноэ. Коа Коны и Кохалы, которых вели дядья Камеамеа и близнецы Каманава и Камееиамоку, добыли ему Большой остров, а затем и весь архипелаг." />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_OLOHE" Text="Олохе" />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_OLOHE_HELP" Text="Замена мечника у Хило. Не требует [ICON_RES_IRON] железа (на островах его нет); 13 [ICON_STRENGTH] боевой силы вместо 14." />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_OLOHE_STRATEGY" Text="Олохе это единственный юнит класса мечника, который можно построить на островах: сильный античный боец ближнего боя без железа за спиной и самый сильный пехотинец, какой острова когда-либо увидят." />
+    <Replace Tag="TXT_KEY_CIV5_HI1778_OLOHE_TEXT" Text="Олохе были мастерами луа, гавайского искусства рукопашного боя с переломом костей, и чемпионами, бившимися в поединках перед битвой. Хило, Пуна и Кау были оплотом Кеоуа Куахуулы, двоюродного брата и соперника Камеамеа в борьбе за Большой остров с 1782 года до его гибели у Пуукохолы в 1791-м." />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_POLOLU" Text="Пололу" />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_POLOLU_HELP" Text="Замена копейщика у Мауи. +1 [ICON_STRENGTH] боевой силы и повышение «Натиск I»: +15% на открытой местности." />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_POLOLU_STRATEGY" Text="Пололу это копейщик Мауи: сильнее и лучше всего на открытой земле низин и пляжей Мауи, где Кахекили встречал врагов. С дешёвым содержанием вождества выставляйте их числом." />
+    <Replace Tag="TXT_KEY_CIV5_HI1778_POLOLU_TEXT" Text="Пололу это длинное копьё гавайского воина, до пяти метров твёрдого дерева кауила, оружие рядов, встречавших высадку на берегу; короткое ихе метали. Армии Кахекили с Мауи были самыми грозными на островах и дважды останавливали вторжения с Большого острова на своих пляжах." />
+    <Replace Tag="TXT_KEY_UNIT_CARTHAGINIAN_QUINQUEREME" Text="Пелелеу" />
+    <Replace Tag="TXT_KEY_UNIT_HELP_CARTHAGINIAN_QUINQUEREME" Text="Сильный морской юнит древней эры для атак ближнего боя на корабли и города. Только Оаху может его строить. Заменяет трирему." />
+    <Replace Tag="TXT_KEY_UNIT_CARTHAGINIAN_QUINQUEREME_STRATEGY" Text="Пелелеу это усиленная трирема, прежде всего по боевой силе. Как и трирема, это юнит ближнего боя, атакующий корабли и города, и он не может выходить за пределы побережья." />
+    <Replace Tag="TXT_KEY_CIV5_CARTHAGINIAN_QUINQUEREME_TEXT" Text="Пелелеу называли большие двухкорпусные боевые каноэ, до двадцати метров длиной, с боевой площадкой между корпусами, которые возили войска вождей между островами. Укрытые бухты Оаху, Ваикики и Канеохе, вмещали самые большие флоты архипелага; позже Камеамеа построил восемьсот пелелеу для похода на Кауаи." />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_MAA" Text="Пращник маа" />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_MAA_HELP" Text="Замена лучника у Кауаи. На 25% дешевле (30 [ICON_PRODUCTION]) и может отступать от атак ближнего боя." />
+    <Replace Tag="TXT_KEY_UNIT_HI1778_MAA_STRATEGY" Text="Пращник маа это дешёвый застрельщик: стреляет на две клетки, отходит, когда на него бросаются, и его не жалко потерять. Прикрывайте ими копейщиков и изматывайте любую высадку на берегах Кауаи." />
+    <Replace Tag="TXT_KEY_CIV5_HI1778_MAA_TEXT" Text="Маа это гавайская праща, шнур из волокна олона с карманом для гладкого пляжного камня; пращники открывали каждую битву, и залп камней с хребта был первым, что встречал захватчик. Кауаи, старейший остров, единственный, который Камеамеа так и не взял: его флоты 1796 и 1804 годов повернули назад шторм и болезнь." />
+    <Replace Tag="TXT_KEY_IMPROVEMENT_MOAI" Text="Кии" />
+    <Replace Tag="TXT_KEY_BUILD_MOAI" Text="Кии" />
+    <Replace Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOAI_HELP" Text="Кии можно строить только на побережье. Рядом с другим кии он даёт дополнительную [ICON_CULTURE] культуру." />
+    <Replace Tag="TXT_KEY_BUILD_MOAI_HELP" Text="Ставит на клетку кии (+1 [ICON_CULTURE] культуры). Ряд кии вдоль берега даёт дополнительную культуру." />
+    <Replace Tag="TXT_KEY_BUILD_MOAI_REC" Text="Клетка начнёт приносить [ICON_CULTURE] культуру." />
+    <Replace Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOAI_TEXT" Text="Кии были резными изображениями богов: деревянные фигуры с оскаленными ртами и гребнями Ку и Лоно стояли на площадках хеиау и рядами вдоль берега, а малые каменные кии хранили рыбацкие святилища. Восстановленные хеиау и пуухонуа Хонаунау на побережье Коны несут их и сейчас." />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_PUUHONUA" Text="Пуухонуа" />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_PUUHONUA_HELP" Text="Замена святилища у Хило. +1 [ICON_HAPPINESS_1] счастья в дополнение к вере." />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_PUUHONUA_STRATEGY" Text="Пуухонуа даёт веру святилища и очко счастья: место убежища успокаивает город. Стройте его рано в каждом городе." />
+    <Replace Tag="TXT_KEY_CIV5_HI1778_PUUHONUA_TEXT" Text="Пуухонуа было местом убежища: обнесённым стеной святилищем, где побеждённый воин, нарушитель капу или беглец мог найти безопасность и после обрядов очищения уйти свободным. Лучше всего сохранилось Хонаунау на берегу Коны; у Хило и Пуны были свои, и эта система смягчала суровость законов капу." />
+    <Replace Tag="TXT_KEY_BUILDING_IKANDA" Text="Халау" />
+    <Replace Tag="TXT_KEY_BUILDING_IKANDA_DESC" Text="Халау" />
+    <Replace Tag="TXT_KEY_BUILDING_IKANDA_HELP" Text="Замена казарм у Мауи. Даёт уникальные повышения юнитам ближнего боя до эпохи пороха: больше скорости и боевой силы." />
+    <Replace Tag="TXT_KEY_BUILDING_IKANDA_STRATEGY" Text="В дополнение к опыту казарм, которые он заменяет, халау даёт каждому юниту ближнего боя, обученному в городе, повышения школ луа: лишний ход и больше силы. Только Мауи может его строить." />
+    <Replace Tag="TXT_KEY_CIV5_BUILDINGS_IKANDA_TEXT" Text="Халау был длинным домом школы: халау хула для танцоров, халау ваа для строителей каноэ, халау луа, где мастера учили ломающему кости искусству луа и владению копьём, палицей и пращой. Кахекили с Мауи держал самых грозных воинов островов, пахупу, татуированных чёрным по одной половине тела." />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_LOKOIA" Text="Локо иа" />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_LOKOIA_HELP" Text="Замена маяка у Оаху. Без содержания и +1 [ICON_FOOD] еды с рыбы в дополнение к +1 еды на клетках океана." />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_LOKOIA_STRATEGY" Text="Локо иа заставляет море кормить Оаху: он нужен каждому прибрежному городу, а с бесплатной гаванью вождества рыбные клетки становятся лучшими на карте." />
+    <Replace Tag="TXT_KEY_CIV5_HI1778_LOKOIA_TEXT" Text="Локо иа это гавайские рыбные пруды: каменные стены поперёк бухты или рифовой отмели с шлюзами (макаха), пропускавшими мальков и удерживавшими взрослую рыбу, система аквакультуры, единственная в Полинезии. На Оаху их было больше всего; стены прудов Пёрл-Харбора, залива Канеохе и Ваикики кормили вождей острова." />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_LOIKALO" Text="Лои кало" />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_LOIKALO_HELP" Text="Замена амбара у Кауаи. +3 [ICON_FOOD] еды вместо +2 и +1 [ICON_FOOD] еды с сахара в дополнение к пшенице, бананам и оленям." />
+    <Replace Tag="TXT_KEY_BUILDING_HI1778_LOIKALO_STRATEGY" Text="Лои кало кормит город быстрее амбара; с долинами таро (бананы) и тростником Кауаи это лучшая постройка для роста на островах. Стройте её первой." />
+    <Replace Tag="TXT_KEY_CIV5_HI1778_LOIKALO_TEXT" Text="Лои кало это орошаемые террасы таро гавайских долин, питаемые канавами (аувай) от ручьёв; долины Ханалеи и Ваилуа на Кауаи были среди богатейших. Таро, растёртое в пои, было основной пищей островов, а легендарные менехуне, как говорили, построили великую канаву Кикиаола у Ваимеа за одну ночь." />
+  </Language_RU_RU>
+</GameData>

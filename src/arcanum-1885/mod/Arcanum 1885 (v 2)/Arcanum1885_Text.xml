@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Arcanum 1885: nations, leaders, city names, free cities and natural wonders (EN + RU). Applied after the steampunk scenario text. -->
+<GameData>
+  <Language_en_US>
+    <Replace Tag="TXT_KEY_CIV_ENGLAND_DESC" Text="The Unified Kingdom of Tarant" />
+    <Replace Tag="TXT_KEY_CIV_ENGLAND_SHORT_DESC" Text="Tarant" />
+    <Replace Tag="TXT_KEY_CIV_ENGLAND_ADJECTIVE" Text="Tarantian" />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH" Text="The Industrial Council" />
+    <Replace Tag="TXT_KEY_ARC_ENGLAND_DAWN" Text="Tarant, the smoke of ten thousand chimneys hangs over the greatest city the world has ever seen. The Industrial Council rules by patent and by purse, the steam engine has changed everything in a single lifetime, and the old powers of the continent look on with envy and fear.[NEWLINE][NEWLINE]Build the factories, lay the rails, fill the sky with airships and make Arcanum a market for Tarantian goods. The age of magick is ending; make sure the age that replaces it bears your name." />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_0" Text="Tarant" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_1" Text="Vooriden" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_2" Text="Blackwater" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_3" Text="Harrow" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_4" Text="Ironbridge" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_5" Text="Kensington Fields" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_6" Text="Cogsworth" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_7" Text="Easthaven" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_8" Text="Gilbert Falls" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_9" Text="Steamford" />
+    <Replace Tag="TXT_KEY_CIV_FRANCE_DESC" Text="The Kingdom of Caladon" />
+    <Replace Tag="TXT_KEY_CIV_FRANCE_SHORT_DESC" Text="Caladon" />
+    <Replace Tag="TXT_KEY_CIV_FRANCE_ADJECTIVE" Text="Caladonian" />
+    <Replace Tag="TXT_KEY_LEADER_NAPOLEON" Text="The Crown of Caladon" />
+    <Replace Tag="TXT_KEY_ARC_FRANCE_DAWN" Text="Caladon, oldest of the human kingdoms, the city of white towers at the edge of the southern sea. Your nobles still remember when every court in Arcanum bowed to Caladon, and they intend to see those days return, by steam or by sorcery.[NEWLINE][NEWLINE]Arland is yours to settle, the sea lanes are yours to command, and the upstart merchants of Tarant have yet to learn that gold cannot buy a thousand years of history." />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_0" Text="Caladon" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_1" Text="Arland" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_2" Text="Razor&#x27;s Pointe" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_3" Text="Bolo&#x27;s Landing" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_4" Text="Southwatch" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_5" Text="Whitecliff" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_6" Text="Marrowgate" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_7" Text="Pellingham" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_8" Text="Cove of Saints" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_9" Text="Ostend" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_DESC" Text="The Kingdom of Cumbria" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_SHORT_DESC" Text="Cumbria" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_ADJECTIVE" Text="Cumbrian" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE" Text="King Praetor" />
+    <Replace Tag="TXT_KEY_ARC_RUSSIA_DAWN" Text="Cumbria, land of knights and old oaths, where King Praetor still holds court in the grey halls of Dernholm and the sword is worth more than the ledger. The engines of Tarant are an insult to everything your fathers stood for, and yet the smoke keeps creeping north.[NEWLINE][NEWLINE]Hold the passes of the Stonewall, keep the barons loyal and the orcs in their hills, and decide whether Cumbria will meet the new age with a lance or with a locomotive." />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_0" Text="Dernholm" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_1" Text="Gorgoth Watch" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_2" Text="Thornbury" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_3" Text="Greywall" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_4" Text="Hardin&#x27;s Pass" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_5" Text="Ravensmoor" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_6" Text="Oakhold" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_7" Text="Kingsmere" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_8" Text="Ashford" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_9" Text="Highgarde" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_DESC" Text="The Wheel Clan of the Dwarves" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_SHORT_DESC" Text="Wheel Clan" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_ADJECTIVE" Text="Dwarven" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK" Text="Loghaire Thunder Stone" />
+    <Replace Tag="TXT_KEY_ARC_GERMANY_DAWN" Text="Loghaire Thunder Stone, king of the Wheel Clan, your people carved the first engines while humans were still counting on their fingers, and your mountain holds the deepest mines on the continent. Now the humans have learned your secrets and are selling them back to you.[NEWLINE][NEWLINE]Bring the clans together, dig deeper than anyone has dared, and show the surface world what dwarven engineering can do when it is finally allowed to leave the mountain." />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_0" Text="Wheel Clan Hold" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_1" Text="Iron Clan" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_2" Text="Black Mountain Clan" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_3" Text="Stonecutter Clan" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_4" Text="Deepforge" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_5" Text="Thunder Gate" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_6" Text="Anvilrest" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_7" Text="Coalhearth" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_8" Text="Gearhollow" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_9" Text="Steelhome" />
+    <Replace Tag="TXT_KEY_CIV_SWEDEN_DESC" Text="The Technocracy of Vendigroth" />
+    <Replace Tag="TXT_KEY_CIV_SWEDEN_SHORT_DESC" Text="Vendigroth" />
+    <Replace Tag="TXT_KEY_CIV_SWEDEN_ADJECTIVE" Text="Vendigrothian" />
+    <Replace Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS" Text="The Technocrat Council" />
+    <Replace Tag="TXT_KEY_ARC_SWEDEN_DAWN" Text="Vendigroth, the city that was supposed to have died two thousand years ago. In this history the devices still hum beneath the wastes, the Technocrat Council still convenes, and the rest of Arcanum is only now inventing what your ancestors threw away.[NEWLINE][NEWLINE]Your province is a desert and your people are few, but your knowledge is centuries ahead. Trade it, guard it, or use it, and remember what happened the last time Vendigroth frightened the world." />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_0" Text="Vendigroth City" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_1" Text="Vendigrothian Harbour" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_2" Text="Veloric" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_3" Text="Kerlin" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_4" Text="Arronax Reach" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_5" Text="Dustfall" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_6" Text="Glasshaven" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_7" Text="Lumen" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_8" Text="Null Point" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_9" Text="Saltmarch" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_QINTARRA" Text="Qintarra" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_ASHBURY" Text="Ashbury" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_BLACKROOT" Text="Black Root" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_STILLWATER" Text="Stillwater" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_SHROUDED" Text="Shrouded Hills" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_ROSEBOROUGH" Text="Roseborough" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_TULLA" Text="Tulla" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_DESPAIR" Text="Isle of Despair" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_BEDOKAAN" Text="Bedokaan" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_TSENANG" Text="T&#x27;sen-Ang" />
+    <Replace Tag="TXT_KEY_FEATURE_VOLCANO" Text="Bellerogrim&#x27;s Lair" />
+    <Replace Tag="TXT_KEY_FEATURE_MT_SINAI" Text="Ancient Temple of Derian-Ka" />
+    <Replace Tag="TXT_KEY_FEATURE_SRI_PADA" Text="Elven Burial Site" />
+    <Replace Tag="TXT_KEY_FEATURE_MESA" Text="Ruins of Kree" />
+    <Replace Tag="TXT_KEY_FEATURE_GIBRALTAR" Text="Rock of Despair" />
+    <Replace Tag="TXT_KEY_FEATURE_ULURU" Text="Ring of Brodgar" />
+    <Replace Tag="TXT_KEY_FEATURE_FOUNTAIN_YOUTH" Text="Falcon&#x27;s Ache" />
+    <Replace Tag="TXT_KEY_FEATURE_LAKE_VICTORIA" Text="Bangellian Deeps" />
+    <Replace Tag="TXT_KEY_FEATURE_CRATER" Text="Lethe Wyvern&#x27;s Lair" />
+    <Replace Tag="TXT_KEY_FEATURE_KILIMANJARO" Text="Stonewall Peak" />
+    <Replace Tag="TXT_KEY_FEATURE_EL_DORADO" Text="Mines of the Wheel Clan" />
+    <Replace Tag="TXT_KEY_FEATURE_GEYSER" Text="Torg&#x27;s Altar" />
+    <Replace Tag="TXT_KEY_ARC_SCENARIO_TITLE" Text="Arcanum 1885" />
+  </Language_en_US>
+  <Language_RU_RU>
+    <Replace Tag="TXT_KEY_CIV_ENGLAND_DESC" Text="Объединённое Королевство Тарант" />
+    <Replace Tag="TXT_KEY_CIV_ENGLAND_SHORT_DESC" Text="Тарант" />
+    <Replace Tag="TXT_KEY_CIV_ENGLAND_ADJECTIVE" Text="Тарантский" />
+    <Replace Tag="TXT_KEY_LEADER_ELIZABETH" Text="Промышленный совет" />
+    <Replace Tag="TXT_KEY_ARC_ENGLAND_DAWN" Text="Тарант, дым десяти тысяч труб висит над величайшим городом, какой видел мир. Промышленный совет правит патентом и кошельком, паровая машина за одну жизнь изменила всё, а старые державы континента смотрят с завистью и страхом.[NEWLINE][NEWLINE]Стройте фабрики, кладите рельсы, наполняйте небо дирижаблями и превратите Арканум в рынок тарантских товаров. Век магии кончается; сделайте так, чтобы век, который его сменит, носил ваше имя." />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_0" Text="Tarant" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_1" Text="Vooriden" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_2" Text="Blackwater" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_3" Text="Harrow" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_4" Text="Ironbridge" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_5" Text="Kensington Fields" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_6" Text="Cogsworth" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_7" Text="Easthaven" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_8" Text="Gilbert Falls" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_ENGLAND_9" Text="Steamford" />
+    <Replace Tag="TXT_KEY_CIV_FRANCE_DESC" Text="Королевство Каладон" />
+    <Replace Tag="TXT_KEY_CIV_FRANCE_SHORT_DESC" Text="Каладон" />
+    <Replace Tag="TXT_KEY_CIV_FRANCE_ADJECTIVE" Text="Каладонский" />
+    <Replace Tag="TXT_KEY_LEADER_NAPOLEON" Text="Корона Каладона" />
+    <Replace Tag="TXT_KEY_ARC_FRANCE_DAWN" Text="Каладон, старейшее из людских королевств, город белых башен на краю южного моря. Ваша знать ещё помнит времена, когда каждый двор Арканума кланялся Каладону, и намерена вернуть эти дни, паром или колдовством.[NEWLINE][NEWLINE]Арланд ваш, чтобы его заселить, морские пути ваши, чтобы ими повелевать, а выскочки-купцы Таранта ещё не поняли, что золото не купит тысячу лет истории." />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_0" Text="Caladon" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_1" Text="Arland" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_2" Text="Razor&#x27;s Pointe" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_3" Text="Bolo&#x27;s Landing" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_4" Text="Southwatch" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_5" Text="Whitecliff" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_6" Text="Marrowgate" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_7" Text="Pellingham" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_8" Text="Cove of Saints" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_FRANCE_9" Text="Ostend" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_DESC" Text="Королевство Камбрия" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_SHORT_DESC" Text="Камбрия" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_ADJECTIVE" Text="Камбрийский" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE" Text="Король Претор" />
+    <Replace Tag="TXT_KEY_ARC_RUSSIA_DAWN" Text="Камбрия, земля рыцарей и старых клятв, где король Претор всё ещё держит двор в серых залах Дернхольма, а меч стоит дороже бухгалтерской книги. Машины Таранта это оскорбление всему, за что стояли ваши отцы, но дым всё ползёт на север.[NEWLINE][NEWLINE]Держите перевалы Каменной стены, баронов в верности, а орков в их холмах, и решите, встретит ли Камбрия новый век с копьём или с локомотивом." />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_0" Text="Dernholm" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_1" Text="Gorgoth Watch" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_2" Text="Thornbury" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_3" Text="Greywall" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_4" Text="Hardin&#x27;s Pass" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_5" Text="Ravensmoor" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_6" Text="Oakhold" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_7" Text="Kingsmere" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_8" Text="Ashford" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_RUSSIA_9" Text="Highgarde" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_DESC" Text="Колесный клан гномов" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_SHORT_DESC" Text="Колесный клан" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_ADJECTIVE" Text="Гномий" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK" Text="Логхейр Тандерстоун" />
+    <Replace Tag="TXT_KEY_ARC_GERMANY_DAWN" Text="Логхейр Тандерстоун, король Колесного клана, ваш народ вырезал первые механизмы, когда люди ещё считали на пальцах, а ваша гора хранит глубочайшие шахты континента. Теперь люди выучили ваши секреты и продают их вам обратно.[NEWLINE][NEWLINE]Соберите кланы, копайте глубже, чем кто-либо осмеливался, и покажите наземному миру, на что способна гномья инженерия, когда ей наконец позволят покинуть гору." />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_0" Text="Wheel Clan Hold" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_1" Text="Iron Clan" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_2" Text="Black Mountain Clan" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_3" Text="Stonecutter Clan" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_4" Text="Deepforge" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_5" Text="Thunder Gate" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_6" Text="Anvilrest" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_7" Text="Coalhearth" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_8" Text="Gearhollow" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_GERMANY_9" Text="Steelhome" />
+    <Replace Tag="TXT_KEY_CIV_SWEDEN_DESC" Text="Технократия Вендигрот" />
+    <Replace Tag="TXT_KEY_CIV_SWEDEN_SHORT_DESC" Text="Вендигрот" />
+    <Replace Tag="TXT_KEY_CIV_SWEDEN_ADJECTIVE" Text="Вендигротский" />
+    <Replace Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS" Text="Совет технократов" />
+    <Replace Tag="TXT_KEY_ARC_SWEDEN_DAWN" Text="Вендигрот, город, который должен был погибнуть две тысячи лет назад. В этой истории машины всё ещё гудят под пустошами, Совет технократов всё ещё заседает, а остальной Арканум только теперь изобретает то, что ваши предки выбросили.[NEWLINE][NEWLINE]Ваша провинция пустыня, а народ немногочислен, но ваши знания опережают всех на века. Торгуйте ими, храните их или пустите в ход, и помните, что случилось в прошлый раз, когда Вендигрот напугал мир." />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_0" Text="Vendigroth City" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_1" Text="Vendigrothian Harbour" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_2" Text="Veloric" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_3" Text="Kerlin" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_4" Text="Arronax Reach" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_5" Text="Dustfall" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_6" Text="Glasshaven" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_7" Text="Lumen" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_8" Text="Null Point" />
+    <Replace Tag="TXT_KEY_CITY_NAME_ARC_SWEDEN_9" Text="Saltmarch" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_QINTARRA" Text="Кинтарра" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_ASHBURY" Text="Эшбери" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_BLACKROOT" Text="Чёрный Корень" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_STILLWATER" Text="Стиллуотер" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_SHROUDED" Text="Тёмные Холмы" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_ROSEBOROUGH" Text="Роузборо" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_TULLA" Text="Тулла" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_DESPAIR" Text="Остров Отчаяния" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_BEDOKAAN" Text="Бедокаан" />
+    <Replace Tag="TXT_KEY_CITYSTATE_ARC_TSENANG" Text="Тсен-Анг" />
+    <Replace Tag="TXT_KEY_FEATURE_VOLCANO" Text="Логово Беллерогрима" />
+    <Replace Tag="TXT_KEY_FEATURE_MT_SINAI" Text="Древний храм Дериан-Ка" />
+    <Replace Tag="TXT_KEY_FEATURE_SRI_PADA" Text="Эльфийское погребение" />
+    <Replace Tag="TXT_KEY_FEATURE_MESA" Text="Руины Кри" />
+    <Replace Tag="TXT_KEY_FEATURE_GIBRALTAR" Text="Скала Отчаяния" />
+    <Replace Tag="TXT_KEY_FEATURE_ULURU" Text="Кольцо Бродгара" />
+    <Replace Tag="TXT_KEY_FEATURE_FOUNTAIN_YOUTH" Text="Пещера Фалькона" />
+    <Replace Tag="TXT_KEY_FEATURE_LAKE_VICTORIA" Text="Бангеллианские глубины" />
+    <Replace Tag="TXT_KEY_FEATURE_CRATER" Text="Логово виверны Лете" />
+    <Replace Tag="TXT_KEY_FEATURE_KILIMANJARO" Text="Пик Каменной стены" />
+    <Replace Tag="TXT_KEY_FEATURE_EL_DORADO" Text="Копи Колесного клана" />
+    <Replace Tag="TXT_KEY_FEATURE_GEYSER" Text="Алтарь Торга" />
+    <Replace Tag="TXT_KEY_ARC_SCENARIO_TITLE" Text="Арканум 1885" />
+  </Language_RU_RU>
+</GameData>

@@ -1,0 +1,1510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- China 1928: leader, civilization, city-state and event text (EN + RU). -->
+<GameData>
+  <Language_en_US>
+    <Replace Tag="TXT_KEY_LEADER_WU_ZETIAN" Text="Chiang Kai-shek" />
+    <Replace Tag="TXT_KEY_LEADER_WU_ZETIAN_PEDIA" Text="Chiang Kai-shek (Jiang Jieshi, 1887-1975), trained as an officer in Japan, became commandant of the Whampoa Military Academy in 1924 and led the Northern Expedition of 1926-1928, breaking with the Communists in Shanghai in April 1927. Chairman of the National Government from October 1928, he fought the Central Plains War against Feng Yuxiang and Yan Xishan in 1930 and five campaigns against the Jiangxi Soviet from 1930 to 1934.[NEWLINE][NEWLINE]Detained by Zhang Xueliang at Xi&#x27;an in December 1936, he agreed to a united front against Japan and led China through the war of 1937-1945. Defeated in the civil war, he withdrew to Taiwan in 1949 and ruled there until his death in April 1975." />
+    <Replace Tag="TXT_KEY_CIV_CHINA_DESC" Text="National Government of the Republic of China" />
+    <Replace Tag="TXT_KEY_CIV_CHINA_SHORT_DESC" Text="National Government" />
+    <Replace Tag="TXT_KEY_CIV_CHINA_ADJECTIVE" Text="Nationalist" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_CHINA_TEXT" Text="Chairman Chiang, the Northern Expedition is over. Beijing has fallen and been renamed Beiping, the Beiyang government is gone, and today, 10 October 1928, you take office as Chairman of the National Government in Nanjing. You hold the Yangtze delta, Shanghai with its customs, its banks and its arsenal, and the best-trained divisions in the country.[NEWLINE][NEWLINE]But China is united only on paper. Feng Yuxiang, Yan Xishan and the Guangxi clique, your allies of yesterday, keep their own armies and their own provinces; the Young Marshal in Mukden still flies the old flag; the Communists hold out in the hills of Jiangxi; and the Japanese watch from Dairen and Jinan. Reduce the armies, build a state, and choose your wars carefully." />
+    <Replace Tag="TXT_KEY_TRAIT_ART_OF_WAR_SHORT" Text="Sons of Whampoa" />
+    <Replace Tag="TXT_KEY_TRAIT_ART_OF_WAR" Text="Great Generals are earned 50% faster, and their combat bonus is 15% stronger. The officers of the Whampoa academy command the Central Army." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_6" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_7" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_1" Text="You attack the lawful government of China? You will regret it." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_2" Text="Another warlord who thinks himself a king." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_3" Text="Very well. The Central Army will answer." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_1" Text="Then you have chosen rebellion. The government will put it down." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_2" Text="So be it. China will have one army, not twenty." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_3" Text="You leave me no choice." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_1" Text="Nanjing falls, but China does not." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_2" Text="Take the cities. The nation will outlast you." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_3" Text="I underestimated you. It will not happen twice." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_ANGRY" Text="You will provide this." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_HAPPY" Text="Pay, and remain loyal." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_NEUTRAL" Text="The government requires a contribution to the national defence." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_2" Text="Out of the question." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_5" Text="Out of the question." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_1" Text="Chiang Kai-shek, Chairman of the National Government. China has one government now, and it sits in Nanjing." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_2" Text="Welcome to Nanjing. The revolution has been won; now the nation must be built." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_3" Text="The National Government receives you. Speak plainly." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_1" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_2" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_3" Text="We shall speak again." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_4" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_5" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_6" Text="We shall speak again." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_7" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_2" Text="What brings you to Nanjing?" />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_3" Text="The Chairman is listening." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_5" Text="What brings you to Nanjing?" />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_6" Text="The Chairman is listening." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_7" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_2" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_3" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_5" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_6" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_7" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LOSEWAR_1" Text="A truce. China needs it." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_ANGRY" Text="An offer." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_HAPPY" Text="Consider this carefully." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_NEUTRAL" Text="A proposal from Nanjing." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_ANGRY" Text="Unacceptable." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_HAPPY" Text="The government cannot accept that." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_ANGRY" Text="The government pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_HAPPY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_NEUTRAL" Text="The government pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_ANGRY" Text="Take it. It is cheaper than a war." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_NEUTRAL" Text="Take it. It is cheaper than a war." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_1" Text="Do not threaten the government." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_4" Text="Do not threaten the government." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_5" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_6" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_WINWAR_1" Text="The rebellion is over. Now the reconstruction." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA" Text="Feng Yuxiang" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_PEDIA" Text="Feng Yuxiang (1882-1948) rose through the Beiyang army and was baptised a Methodist; the &#x27;Christian General&#x27; forbade his troops opium, gambling and drink and drilled them hard. In October 1924 he seized Beijing in a coup, expelled the last emperor from the Forbidden City and named his army the Guominjun; in 1926 he joined the Kuomintang and its Northern Expedition.[NEWLINE][NEWLINE]Defeated by Chiang Kai-shek in the Central Plains War of 1930, he led the Chahar People&#x27;s Anti-Japanese Allied Army in 1933 and later held high but powerless posts in Nanjing. He died in a fire aboard a Soviet ship on the Black Sea in September 1948." />
+    <Replace Tag="TXT_KEY_CIV_ZULU_DESC" Text="Guominjun (Northwest Army)" />
+    <Replace Tag="TXT_KEY_CIV_ZULU_SHORT_DESC" Text="Guominjun" />
+    <Replace Tag="TXT_KEY_CIV_ZULU_ADJECTIVE" Text="Guominjun" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ZULU_TEXT" Text="Marshal Feng, your Second Group Army marched from Shaanxi into Henan and up the Beijing-Hankou railway in the Northern Expedition, and it is one of the largest and best-drilled armies in China. You hold Henan, Shaanxi and Gansu, the Longhai railway and western Shandong; the government in Nanjing has made you its Minister of War.[NEWLINE][NEWLINE]But your provinces are the poorest in China, and the great famine is spreading across the northwest. Nanjing pays its own divisions first and talks of disbanding yours. Keep your army fed and your generals loyal, find allies against Chiang before he finds allies among your officers, and hold the Yellow River." />
+    <Replace Tag="TXT_KEY_TRAIT_BUFFALO_HORNS_SHORT" Text="The Christian General&#x27;s Army" />
+    <Replace Tag="TXT_KEY_TRAIT_BUFFALO_HORNS" Text="Melee units cost 50% less maintenance. All units require 25% less experience to earn their next promotion. Feng Yuxiang&#x27;s soldiers are drilled, frugal and hard-marching." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_3" Text="Good." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_1" Text="You attack the Guominjun? We have fought worse than you." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_2" Text="Another enemy. The northwest is used to hard times." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_3" Text="Very well. The big swords will answer." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_1" Text="Then you will meet my army. It has never been afraid of a long march." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_2" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_3" Text="War, then. God will judge." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_1" Text="The army is broken. The men will find another." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_2" Text="Take Kaifeng. The people will not love you for it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_3" Text="I have been betrayed before." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_ANGRY" Text="A contribution." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_HAPPY" Text="Pay, and we will stay friends." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_NEUTRAL" Text="The army is hungry. You will help feed it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_1" Text="Feng Yuxiang. My soldiers do not drink, do not gamble and do not loot. Can you say as much?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_2" Text="Welcome to Kaifeng. You will find no banquet here; we eat what the soldiers eat." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_3" Text="The Guominjun receives you." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_1" Text="Go in peace." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_2" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_3" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_4" Text="Go in peace." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_5" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_6" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_2" Text="Speak, brother." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_3" Text="What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_5" Text="Speak, brother." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_6" Text="What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_1" Text="A truce. My men need bread more than glory." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_2" Text="Peace, then." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_ANGRY" Text="An offer." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_HAPPY" Text="Consider this." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_NEUTRAL" Text="A proposal from the Guominjun." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_HAPPY" Text="We cannot spare it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_HAPPY" Text="The Guominjun pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_1" Text="Do not threaten us." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_2" Text="Careful, brother." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WINWAR_1" Text="Victory. Now the soldiers can plant trees." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WINWAR_2" Text="The war is over." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE" Text="Yan Xishan" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_PEDIA" Text="Yan Xishan (1883-1960), trained at the Japanese military academy and a member of Sun Yat-sen&#x27;s Tongmenghui, led the Shanxi rising of 1911 and governed the province for almost four decades. His reforms earned Shanxi the name of Model Province, and his army took Beijing for the Kuomintang in June 1928.[NEWLINE][NEWLINE]In 1930 he led the coalition against Chiang Kai-shek in the Central Plains War and, defeated, spent a year in exile in Dalian. Back in power in 1932, he industrialised Shanxi, fought the Japanese from 1937 and held Taiyuan until April 1949. He was Premier of the Republic of China in 1949-1950 and died in Taiwan in 1960." />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_DESC" Text="Shanxi and Hebei (Third Group Army)" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_SHORT_DESC" Text="Shanxi" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_ADJECTIVE" Text="Shanxi" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_RUSSIA_TEXT" Text="Governor Yan, you have ruled Shanxi since the revolution of 1911, and you have made it the Model Province: roads, schools, village government, an arsenal at Taiyuan, and above all peace behind the passes while the rest of China burned. In June your Third Group Army entered Beijing; now you hold Beiping and Tianjin, the Hebei plain, Chahar and Suiyuan as well.[NEWLINE][NEWLINE]Nanjing wants your armies reduced and your revenues shared. Feng Yuxiang is a neighbour and a rival; the Young Marshal is watching Beiping from beyond the Great Wall. Hold what you have, choose your moment, and never leave Taiyuan unguarded." />
+    <Replace Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES_SHORT" Text="The Model Province" />
+    <Replace Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES" Text="Strategic resources provide +1 [ICON_PRODUCTION] Production, and Horse and Iron provide double quantity. Shanxi sits on coal and iron and builds its own arms." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_6" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_7" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_1" Text="You attack Shanxi? Many have tried." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_2" Text="One more enemy at the passes." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_3" Text="Very well. Taiyuan will answer." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_4" Text="A mistake. We will remember it." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_1" Text="Then Shanxi will defend itself, as it always has." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_2" Text="So be it. The passes are ready." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_3" Text="War, then." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_1" Text="Shanxi falls. I will be back." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_2" Text="Take Taiyuan. You will find it hard to govern." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_3" Text="So it ends, for now." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_ANGRY" Text="You will provide this." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_HAPPY" Text="Pay, and keep the peace." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_NEUTRAL" Text="Shanxi requires a contribution." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_1" Text="Yan Xishan, Governor of Shanxi. Shanxi asks nothing of anyone, and gives nothing away." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_2" Text="Welcome to Taiyuan. You came through the passes; you have seen why we are left in peace." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_3" Text="The Governor receives you." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_1" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_2" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_3" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_4" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_5" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_6" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_7" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_8" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_2" Text="Be brief, please." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_3" Text="What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_5" Text="Be brief, please." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_6" Text="What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_7" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_7" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_1" Text="A truce. Shanxi prefers peace." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_2" Text="Peace, for now." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_3" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_ANGRY" Text="An offer." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_HAPPY" Text="Consider this." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_NEUTRAL" Text="A proposal from Taiyuan." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_HAPPY" Text="Shanxi cannot afford that." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_NEUTRAL" Text="Agreed. A fair bargain." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_HAPPY" Text="Shanxi pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_1" Text="Do not threaten Shanxi." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_4" Text="Do not threaten Shanxi." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_5" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WINWAR_1" Text="The province is safe. Now we build." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK" Text="Zhang Xueliang" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_PEDIA" Text="Zhang Xueliang (1901-2001), the &#x27;Young Marshal&#x27;, son of the Fengtian warlord Zhang Zuolin, took over Manchuria after his father&#x27;s murder by Kwantung Army officers in June 1928. On 29 December 1928 he raised the Nationalist flag over the Northeast, and in 1930 his intervention decided the Central Plains War for Chiang Kai-shek.[NEWLINE][NEWLINE]After the Mukden incident of September 1931 he withdrew his army south of the Great Wall without a fight, and lost Manchuria and then Rehe. In December 1936 at Xi&#x27;an he and Yang Hucheng detained Chiang to force a united front against Japan. He spent the following fifty years under arrest, in China and on Taiwan, and died in Honolulu in 2001, aged 100." />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_DESC" Text="Fengtian Clique (the Three Eastern Provinces)" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_SHORT_DESC" Text="Fengtian" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_ADJECTIVE" Text="Fengtian" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_GERMANY_TEXT" Text="Young Marshal, on 4 June the Japanese blew up your father&#x27;s train at Huanggutun outside Mukden. At twenty-seven you inherit the three provinces of Manchuria and Rehe: the richest land in China, the Mukden Arsenal, an air force, a navy and a quarter of a million men.[NEWLINE][NEWLINE]The Kwantung Army sits in Dairen and along the South Manchuria Railway, the Soviets run the Chinese Eastern Railway through Harbin, and your father&#x27;s old generals doubt you. Decide whether to raise the flag of Nanjing over the Northeast, master your own house, and stay strong enough that Tokyo thinks twice." />
+    <Replace Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS_SHORT" Text="The Old Marshal&#x27;s Legacy" />
+    <Replace Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS" Text="When a land unit defeats a barbarian unit inside an encampment, there is a 67% chance it earns 25 [ICON_GOLD] Gold and the barbarians join your side. Land unit maintenance reduced by 25%. Zhang Zuolin began as a bandit chief; his army never stopped recruiting them." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_3" Text="Fine." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_6" Text="Fine." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_7" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_1" Text="You attack the Northeast? You choose your enemies badly." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_2" Text="Another enemy. We have the Japanese already." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_3" Text="Very well. Mukden will answer." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_1" Text="Then you will meet the Northeast Army." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_2" Text="So be it. We have aircraft and you do not." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_3" Text="War, then." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_1" Text="The Northeast is lost. I will carry that for the rest of my life." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_2" Text="Take Mukden. Then see who comes for it next." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_3" Text="I trusted the wrong men." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_4" Text="The Northeast is lost. I will carry that for the rest of my life." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_ANGRY" Text="You will provide this." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_HAPPY" Text="Pay, and stay out of this." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_NEUTRAL" Text="The Northeast Army requires a contribution." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_1" Text="Zhang Xueliang. My father built the Northeast; I mean to keep it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_2" Text="Welcome to Mukden. You are lucky; the Japanese never come here without an army." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_3" Text="The Northeast receives you." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_1" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_2" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_3" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_4" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_5" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_6" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_7" Text="Good day." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_2" Text="What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_5" Text="What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_7" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_8" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_1" Text="A truce. We need it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_2" Text="Peace, for now." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_3" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_ANGRY" Text="An offer." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_HAPPY" Text="Consider this." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_NEUTRAL" Text="A proposal from Mukden." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_HAPPY" Text="The Northeast cannot accept that." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_HAPPY" Text="The Northeast pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_1" Text="Do not threaten us." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_4" Text="Do not threaten us." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_5" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_6" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_1" Text="Victory. The Northeast stands." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_2" Text="It is over." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_3" Text="Victory. The Northeast stands." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE" Text="Li Zongren" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_PEDIA" Text="Li Zongren (1891-1969), with Bai Chongxi and Huang Shaohong the leader of the New Guangxi clique, unified Guangxi by 1925 and commanded the Seventh Army and then the Fourth Group Army in the Northern Expedition. Defeated by Chiang Kai-shek in 1929, he returned to Guangxi and with Bai and Huang Xuchu made it a model province in the 1930s.[NEWLINE][NEWLINE]In the war against Japan he won the battle of Taierzhuang in 1938. Elected Vice President in 1948, he was acting President of the Republic of China in 1949, went into exile in the United States, and returned to the People&#x27;s Republic in 1965, where he died in 1969." />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_DESC" Text="New Guangxi Clique (Fourth Group Army)" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC" Text="Guangxi" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE" Text="Guangxi" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ETHIOPIA_TEXT" Text="General Li, the Guangxi clique of Li Zongren, Bai Chongxi and Huang Shaohong took a poor, mountainous province and made its army one of the best in China. Your Seventh Army fought from Hunan to the Yangtze; your Fourth Group Army now holds Wuhan and Hubei through the Wuhan Political Council, and Bai Chongxi&#x27;s troops stand in eastern Hebei after the march on Beijing.[NEWLINE][NEWLINE]Your provinces lie far apart, and the road between them runs through Hunan. Nanjing distrusts you, and you distrust Nanjing. Hold Wuhan if you can, keep the road home open, and remember that Guangxi&#x27;s strength is its soldiers and its hills." />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT" Text="Fewer and Better" />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH" Text="+20% [ICON_STRENGTH] Combat Strength against civilizations that have more cities than you. Guangxi&#x27;s small, hard armies have beaten bigger ones before." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_3" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_1" Text="You attack Guangxi? Bigger armies have tried." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_2" Text="Another enemy. We are used to it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_3" Text="Very well. The Seventh Army will answer." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_1" Text="Then you will meet the men of Guangxi." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_2" Text="So be it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_3" Text="You will find our hills hard going." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_1" Text="Guangxi falls. It will rise again." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_2" Text="Take the cities. You cannot take the hills." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_3" Text="We go into exile. We will come back." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_ANGRY" Text="You will provide this." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY" Text="Pay, and keep the peace." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_NEUTRAL" Text="Guangxi requires a contribution." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_1" Text="Li Zongren. Guangxi is small, but it has never lost a war it chose to fight." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_2" Text="Welcome. You have come a long way to see us." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_3" Text="The Guangxi command receives you." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_1" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_2" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_3" Text="Go safely." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_4" Text="Farewell." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_5" Text="Until next time." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_6" Text="Go safely." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_1" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_2" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_3" Text="What brings you here?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_4" Text="Yes?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_5" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_6" Text="What brings you here?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_1" Text="A truce. Our people need it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_2" Text="Peace, for now." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_ANGRY" Text="An offer." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_HAPPY" Text="Consider this." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_NEUTRAL" Text="A proposal from Guangxi." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_HAPPY" Text="Guangxi cannot afford that." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_HAPPY" Text="Guangxi pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_1" Text="Do not threaten Guangxi." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_1" Text="Victory. Now home to Guangxi." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_2" Text="It is over." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO" Text="Mao Zedong" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_PEDIA" Text="Mao Zedong (1893-1976), the son of a Hunan farmer, was a founding member of the Chinese Communist Party in 1921 and an organiser of the peasant movement in Hunan. After the failure of the Autumn Harvest Uprising in September 1927 he led the survivors into the Jinggang mountains, where Zhu De joined him in 1928; their Fourth Red Army moved to southern Jiangxi in 1929, and in November 1931 Mao became chairman of the Chinese Soviet Republic at Ruijin.[NEWLINE][NEWLINE]Pushed aside by the party leadership in 1932, he regained command during the Long March at the Zunyi conference of January 1935 and led the Red Army to northern Shaanxi. He proclaimed the People&#x27;s Republic of China in 1949 and ruled it until his death in 1976." />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_DESC" Text="Chinese Communist Party and the Red Army" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_SHORT_DESC" Text="Chinese Communists" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_ADJECTIVE" Text="Communist" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_SHOSHONE_TEXT" Text="Comrade Mao, a year after the Kuomintang turned on its Communist allies in Shanghai and Wuhan, the uprisings of 1927 have failed one after another. You and Zhu De hold out in the Jinggang mountains on the Hunan-Jiangxi border with a few thousand men, short of rifles, salt and cloth; other bands survive around the Hong Lake, in the Dabie mountains and in northeastern Jiangxi.[NEWLINE][NEWLINE]Survive first. Build base areas in the hills where the warlords&#x27; armies meet, win the villages over with land reform, and fight only when you can win. If the bases fall, the army must live on: as long as the Red Army has units in the field, the Communists are not beaten." />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE_SHORT" Text="Base Areas" />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE" Text="Land units receive +15% [ICON_STRENGTH] Combat Strength in friendly territory, and move through forest in friendly territory as along a road. The Red Army fights best in its own hills." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_1" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_2" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_3" Text="Good." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_4" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_5" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_1" Text="You attack the Red Army? You will find nobody where you strike." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_2" Text="Another enemy. We have many." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_3" Text="Very well. The masses will answer." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_1" Text="Then the Red Army will fight you as it fights all the others." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_2" Text="So be it. A single spark can start a prairie fire." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_3" Text="War, then." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_1" Text="The bases are lost. The army marches on." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_2" Text="Take the towns. The countryside is ours." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_3" Text="We retreat. Retreat is not defeat." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_ANGRY" Text="Pay." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_HAPPY" Text="A contribution to the revolution." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_NEUTRAL" Text="The Red Army needs supplies. You will provide them." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_1" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_2" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_3" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_4" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_5" Text="Never." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_6" Text="Refused." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_7" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_1" Text="Mao Zedong. We have little, but the peasants are with us." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_2" Text="Welcome to the mountains. Mind the path; the enemy uses the roads." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_3" Text="The Front Committee receives you." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_1" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_2" Text="Go well." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_3" Text="Back to work." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_4" Text="Until the next time." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_5" Text="Go well." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_6" Text="Back to work." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_1" Text="Comrade?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_2" Text="What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_4" Text="Comrade?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_5" Text="What is it?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_6" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_1" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_2" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_3" Text="Speak." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_4" Text="Go on." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_5" Text="I am listening." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_1" Text="A truce. The army needs rest." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_2" Text="Peace, for now." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_ANGRY" Text="An offer." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_HAPPY" Text="Consider this." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_NEUTRAL" Text="A proposal from the base area." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_ANGRY" Text="Impossible." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_HAPPY" Text="Not with us." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_ANGRY" Text="Done." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_HAPPY" Text="Yes." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_NEUTRAL" Text="Agreed." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_ANGRY" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_HAPPY" Text="The revolution pays nobody." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_NEUTRAL" Text="No." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_ANGRY" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_HAPPY" Text="Very well." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_NEUTRAL" Text="Take it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_1" Text="Threats? We are used to them." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_2" Text="Careful." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_3" Text="You would regret it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_1" Text="Victory. The land goes to those who till it." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_2" Text="It is over, for now." />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_JAPAN" Text="Japan" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_JAPAN" Text="Dairen" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_SOVIET" Text="Soviet Union" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_SOVIET" Text="Vladivostok" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_MONGOLIA" Text="Mongolian People&#x27;s Republic" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_MONGOLIA" Text="Ulan Bator" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_SICHUAN" Text="Sichuan (Liu Wenhui)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_SICHUAN" Text="Chengdu" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_CHONGQING" Text="Chongqing (Liu Xiang)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_CHONGQING" Text="Chongqing" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_YUNNAN" Text="Yunnan (Long Yun)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_YUNNAN" Text="Kunming" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_GUIZHOU" Text="Guizhou (Zhou Xicheng)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_GUIZHOU" Text="Guiyang" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_GUANGDONG" Text="Guangdong" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_GUANGDONG" Text="Canton" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_QINGHAI" Text="Qinghai (Ma clique)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_QINGHAI" Text="Xining" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_HONGKONG" Text="Hong Kong (British)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_HONGKONG" Text="Hong Kong" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_MACAU" Text="Macau (Portuguese)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_MACAU" Text="Macau" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_WEIHAIWEI" Text="Weihaiwei (British)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_WEIHAIWEI" Text="Weihaiwei" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_INDOCHINA" Text="French Indochina" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_INDOCHINA" Text="Hanoi" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_CHAIRMAN_TITLE" Text="Chairman of the National Government" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_CHAIRMAN_TEXT" Text="On the anniversary of the Wuchang rising the Organic Law of the National Government takes effect in Nanjing: five branches of government, the Yuan, under the tutelage of the Kuomintang, and Chiang Kai-shek as Chairman of the National Government. The National Government receives 300 gold." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_DISBANDMENT_TITLE" Text="The Disbandment Conference" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_DISBANDMENT_TEXT" Text="The National Reorganisation and Disbandment Conference opens in Nanjing. The government proposes to cut the two million men under arms to eight hundred thousand and to bring every army under its own budget; the group armies agree in principle and keep their divisions in practice. The National Government receives 400 gold; the Guominjun, Shanxi and Guangxi each pay 150." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_GUANGXI_WAR_TITLE" Text="The Chiang-Guangxi War" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_GUANGXI_WAR_TEXT" Text="After the Wuhan Political Council drove the Hunan governor out of Changsha without Nanjing&#x27;s consent, the National Government orders a punitive expedition against Li Zongren, Bai Chongxi and Li Jishen. In Hebei, Bai Chongxi&#x27;s troops at Tangshan turn against him and he escapes by sea. The National Government declares war on Guangxi and raises three Central Army divisions and a battery; Guangxi loses its units around Tangshan." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_WUHAN_TITLE" Text="The fall of Wuhan" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_WUHAN_TEXT" Text="Guangxi divisions in Hubei go over to Nanjing, and the rest of the Fourth Group Army falls back up the Yangtze; Nanjing&#x27;s troops enter Wuhan without a battle. The National Government receives two divisions; Guangxi loses 300 gold and two units around Hankou." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_CENTRAL_PLAINS_TITLE" Text="The Central Plains War" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_CENTRAL_PLAINS_TEXT" Text="Chiang Kai-shek orders the general offensive against the coalition of Yan Xishan, Feng Yuxiang and the Guangxi clique. Along the Longhai and the Tianjin-Pukou railways more than a million men take the field in the largest war China has seen since the Taiping rebellion. The National Government raises four Central Army divisions, two batteries and an air squadron at Xuzhou." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_PLAINS_END_TITLE" Text="The end of the Central Plains War" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_PLAINS_END_TEXT" Text="With the Northeast Army in Beiping and their armies beaten along the Longhai, Yan Xishan and Feng Yuxiang announce their retirement. Yan leaves for Dalian; Feng&#x27;s Guominjun breaks up, its divisions taken over by Nanjing, Shanxi and Zhang Xueliang. The National Government makes peace with the Guominjun and Shanxi and receives 500 gold; the Guominjun loses five units, Shanxi 400 gold." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_1_TITLE" Text="The first encirclement campaign" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_1_TEXT" Text="Lu Diping, governor of Jiangxi, orders the first offensive against the Red Army&#x27;s base in southern Jiangxi; in December the converging columns march into the hills between Ji&#x27;an and Ningdu. Three Bandit Suppression divisions muster at Ji&#x27;an." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_2_TITLE" Text="The second encirclement campaign" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_2_TEXT" Text="He Yingqin brings two hundred thousand men against the soviet base in southern Jiangxi, advancing slowly from Ji&#x27;an, Nanfeng and the Fujian border. Four Bandit Suppression divisions and a battery muster at Ji&#x27;an." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_3_TITLE" Text="The third encirclement campaign" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_3_TEXT" Text="Chiang Kai-shek takes command at Nanchang himself and sends the Central Army into southern Jiangxi in a deep thrust meant to find and destroy the Red Army. Four Central Army divisions muster there, two Bandit Suppression divisions at Ji&#x27;an." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_FLOODS_TITLE" Text="The great flood" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_FLOODS_TEXT" Text="After months of rain the Yangtze, the Huai and the Han burst their dykes. Wuhan stands under water for months, and tens of millions lose their homes and fields across central China. The National Government loses 600 gold, Guangxi 200." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_REUNION_TITLE" Text="Reunion" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_REUNION_TEXT" Text="After the Mukden incident the rival governments in Nanjing and Canton come to terms: Chiang Kai-shek has stepped down, Lin Sen takes office as Chairman of the National Government, and the Canton government dissolves itself. The National Government makes peace with Guangxi and receives 300 gold." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_4_TITLE" Text="The fourth encirclement campaign" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_4_TEXT" Text="Chen Cheng leads the best divisions of the Central Army against the Jiangxi Soviet from the north. Four Central Army divisions muster at Nanchang." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_5_TITLE" Text="The fifth encirclement campaign" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_5_TEXT" Text="Chiang Kai-shek opens the fifth campaign against the Jiangxi Soviet with new tactics: a slow advance behind lines of stone blockhouses and roads, an economic blockade of the soviet area, and divisions trained by the German advisory mission. Five German-trained divisions, two batteries, two air squadrons and two blockhouse builders muster at Nanchang, and the National Government receives 500 gold." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_NEW_LIFE_TITLE" Text="The New Life Movement" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_NEW_LIFE_TEXT" Text="In Nanchang Chiang Kai-shek launches the New Life Movement, a campaign of discipline, cleanliness and Confucian virtue meant to remake the habits of the nation. The National Government receives 200 gold." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_FABI_TITLE" Text="The currency reform" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_FABI_TEXT" Text="China leaves the silver standard. The notes of the government banks become the only legal tender, the fabi, and the silver of the country is called in. The National Government receives 1000 gold." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_CANTON_TITLE" Text="Canton returns to Nanjing" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_CANTON_TEXT" Text="The Liangguang incident ends in Guangdong: Chen Jitang&#x27;s air force and generals go over to Nanjing, and Chen leaves Canton for Hong Kong. Guangdong comes under the National Government. The National Government takes over the cities of Guangdong." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_XIAN_RELEASE_TITLE" Text="Chiang released" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_XIAN_RELEASE_TEXT" Text="After two weeks of negotiations in Xi&#x27;an with Zhang Xueliang, Yang Hucheng and a Communist delegation led by Zhou Enlai, Chiang Kai-shek is released and flies back to Nanjing, with Zhang Xueliang beside him; Zhang is court-martialled and kept under arrest. The civil war with the Communists stops. The National Government makes peace with the Communists; Fengtian loses 500 gold." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_WEIHAIWEI_TITLE" Text="The rendition of Weihaiwei" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_WEIHAIWEI_TEXT" Text="Britain returns the leased territory of Weihaiwei, held since 1898, to China. The National Government takes over Weihaiwei." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_FUZHOU_TITLE" Text="Fuzhou retaken" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_FUZHOU_TEXT" Text="The Central Army takes Fuzhou and the Fujian People&#x27;s Government collapses; its leaders escape to Hong Kong and the 19th Route Army is broken up. The National Government receives 200 gold; the rebel units around Fuzhou disband." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_LEVY_TITLE" Text="Recruits for the Central Army" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_LEVY_TEXT" Text="A new division of the Central Army is ready in Nanjing." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_FAMINE_TITLE" Text="Famine in the northwest" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_FAMINE_TEXT" Text="Three years without rain have brought famine to Shaanxi and Gansu and spread it to Henan, Shanxi and Suiyuan; millions are starving and the roads fill with refugees and bandits. The Guominjun loses 300 gold; bandits appear in Gansu and Shaanxi." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_HAN_FUJU_TITLE" Text="Han Fuju changes sides" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_HAN_FUJU_TEXT" Text="As Feng Yuxiang prepares to break with Nanjing, two of his best generals, Han Fuju and Shi Yousan, declare for Chiang Kai-shek and take their troops with them. The Guominjun loses two units around Luoyang; the National Government receives three divisions." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_WAR_1929_TITLE" Text="The Guominjun against Nanjing" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_WAR_1929_TEXT" Text="Song Zheyuan and the other generals of the Guominjun publish a telegram denouncing Chiang Kai-shek and march east into western Henan, while Feng Yuxiang himself is held by Yan Xishan in Shanxi. The Guominjun declares war on the National Government and raises three divisions and a cavalry brigade." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_CENTRAL_PLAINS_TITLE" Text="The Guominjun in the Central Plains" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_CENTRAL_PLAINS_TEXT" Text="Feng Yuxiang&#x27;s armies, the strongest of the coalition, march east along the Longhai railway towards Xuzhou and south down the Beijing-Hankou line. The Guominjun raises four divisions, a battery and a cavalry brigade." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_CHAHAR_TITLE" Text="The Anti-Japanese Allied Army" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_CHAHAR_TEXT" Text="At Zhangjiakou Feng Yuxiang founds the Chahar People&#x27;s Anti-Japanese Allied Army from his old soldiers, local troops and volunteers; in July it retakes Duolun from the Japanese and Manchukuo forces. The Guominjun raises three divisions and a cavalry brigade at Zhangjiakou." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_CHAHAR_END_TITLE" Text="The Allied Army disbanded" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_CHAHAR_END_TEXT" Text="Under pressure from Nanjing and the Japanese, and with its money gone, Feng Yuxiang gives up command of the Anti-Japanese Allied Army and retires to Mount Tai; the army is broken up. The Allied Army&#x27;s units disband." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_LEVY_TITLE" Text="Recruits for the Guominjun" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_LEVY_TEXT" Text="New Guominjun troops are ready." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_COALITION_TITLE" Text="The coalition against Chiang" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_COALITION_TEXT" Text="At Taiyuan Yan Xishan is sworn in as commander-in-chief of the armies opposed to Chiang Kai-shek, with Feng Yuxiang and Li Zongren as his deputies. Shanxi and Guangxi declare war on the National Government; Shanxi raises three divisions and a mountain battery." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_BEIPING_GOVT_TITLE" Text="The Enlarged Conference" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_BEIPING_GOVT_TEXT" Text="In Beiping the Enlarged Conference of the Kuomintang&#x27;s opposition factions, with Wang Jingwei, proclaims a rival National Government with Yan Xishan as its chairman. Shanxi receives 400 gold." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_RETURN_TITLE" Text="Yan Xishan returns" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_RETURN_TEXT" Text="After a year in Dalian, Yan Xishan is back in Taiyuan; Nanjing, facing Japan, names him Taiyuan Pacification Commissioner. Shanxi receives 500 gold." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_INDUSTRY_TITLE" Text="The Northwest Industrial Company" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_INDUSTRY_TEXT" Text="Under his Ten-Year Plan Yan Xishan gathers the arsenal and the provincial works into the Northwest Industrial Company, and work begins on the narrow-gauge railway from Datong to the Yellow River. Shanxi receives 600 gold." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_BAILINGMIAO_TITLE" Text="Bailingmiao" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_BAILINGMIAO_TEXT" Text="Fu Zuoyi&#x27;s troops beat back the attack on eastern Suiyuan and then storm Bailingmiao, the base of the Mongol and puppet forces, in a night attack in the snow. The victory is celebrated across China. Shanxi receives 300 gold, two divisions and a cavalry brigade at Guisui." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_LEVY_TITLE" Text="Recruits for the Shanxi army" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_LEVY_TEXT" Text="New Shanxi troops are ready in Taiyuan." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_INTO_THE_PASS_TITLE" Text="The Northeast Army enters the pass" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_INTO_THE_PASS_TEXT" Text="Zhang Xueliang sends a circular telegram calling for an end to the war and declaring for Nanjing; the Northeast Army marches through Shanhaiguan. Yan Xishan&#x27;s troops leave Beiping and Tianjin without a fight, and Hebei passes to the Young Marshal. Fengtian receives 800 gold and three divisions and takes over Tianjin and Beiping from Shanxi." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_FLAG_TITLE" Text="The Northeast Flag Replacement" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_FLAG_TEXT" Text="In Mukden and across Manchuria the five-coloured flag comes down and the flag of the Republic goes up: Zhang Xueliang recognises the National Government, which leaves him in charge of the Northeast. Fengtian receives 300 gold and declares friendship with the National Government." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_YANG_CHANG_TITLE" Text="The Yang-Chang incident" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_YANG_CHANG_TEXT" Text="At a dinner in his residence Zhang Xueliang has his father&#x27;s chief of staff Yang Yuting and the governor of Heilongjiang Chang Yinhuai shot, ending the old generals&#x27; challenge to his authority. Fengtian receives 300 gold." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_CER_TITLE" Text="The Chinese Eastern Railway" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_CER_TEXT" Text="Chinese authorities seize the telegraph and the offices of the Chinese Eastern Railway, run jointly with the Soviet Union, and arrest or expel its Soviet managers. Moscow breaks off relations and gathers the Special Far Eastern Army on the frontier." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SOVIET_LAHASUSU_TITLE" Text="Lahasusu" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SOVIET_LAHASUSU_TEXT" Text="Ships of the Soviet Amur Flotilla and troops of the Special Far Eastern Army under Vasily Blyukher strike at the mouth of the Songhua, sink the Chinese river flotilla and take Lahasusu. The Soviet Union declares war on Fengtian; units of the Special Far Eastern Army land on the Songhua." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SOVIET_MANZHOULI_TITLE" Text="Manzhouli and Zhalainuoer" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SOVIET_MANZHOULI_TEXT" Text="The Special Far Eastern Army crosses the border in the west, encircles the Chinese troops at Manzhouli and Zhalainuoer and advances on Hailar, with tanks and aircraft against an army that has neither. Soviet infantry, tanks and cavalry cross the border at Manzhouli." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SOVIET_KHABAROVSK_TITLE" Text="The Khabarovsk Protocol" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SOVIET_KHABAROVSK_TEXT" Text="Fengtian&#x27;s negotiators sign the Khabarovsk Protocol: the joint Soviet-Chinese management of the Chinese Eastern Railway is restored as before July, and the Soviet troops withdraw. The Soviet Union makes peace with Fengtian; its expeditionary units leave." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_NENJIANG_TITLE" Text="The Nenjiang Bridge" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_NENJIANG_TEXT" Text="In Heilongjiang Ma Zhanshan refuses the order not to resist and fights the Kwantung Army at the Nenjiang railway bridge; his stand makes him a national hero. Fengtian raises two divisions and a cavalry brigade at Qiqihar." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_RESIGNATION_TITLE" Text="Zhang Xueliang resigns" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_RESIGNATION_TEXT" Text="After the loss of Rehe and the fall of Chengde without a battle, Zhang Xueliang takes the blame, resigns his posts and leaves for Europe. Fengtian loses 300 gold." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_RETURN_TITLE" Text="The Young Marshal returns" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_RETURN_TEXT" Text="Back from Europe and cured of his opium habit, Zhang Xueliang becomes deputy commander of the Henan-Hubei-Anhui Bandit Suppression Headquarters at Wuchang, and his Northeast Army is sent against the Communists. Fengtian receives 500 gold and three divisions." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_NORTHWEST_TITLE" Text="The Northwest Bandit Suppression Headquarters" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_NORTHWEST_TEXT" Text="Chiang Kai-shek moves Zhang Xueliang and the Northeast Army to Xi&#x27;an to destroy the Red Army that has just reached northern Shaanxi. The exiled soldiers of the Northeast, far from home, have little wish to fight other Chinese. Fengtian raises three divisions and a Great General at Xi&#x27;an." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_XIAN_TITLE" Text="The Xi&#x27;an incident" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_XIAN_TEXT" Text="In the early hours Zhang Xueliang&#x27;s guards and Yang Hucheng&#x27;s troops seize Chiang Kai-shek at Huaqing hot springs outside Xi&#x27;an. The two generals demand an end to the civil war and a united front against Japan. Fengtian makes peace with the Communists." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_LEVY_TITLE" Text="Recruits for the Northeast Army" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_LEVY_TEXT" Text="New troops of the Northeast Army are ready." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_VOLUNTEERS_TITLE" Text="Northeast Volunteer Army" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_VOLUNTEERS_TEXT" Text="Former soldiers, police, peasants and members of secret societies take up arms against the Japanese in Manchuria." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_MUKDEN_TITLE" Text="The Mukden incident" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_MUKDEN_TEXT" Text="Late at night a small charge explodes on the South Manchuria Railway near Liutiaohu, north of Mukden. Officers of the Kwantung Army, who placed it, blame Chinese soldiers and attack the Beidaying barracks; by morning Mukden and its arsenal and airfield are in Japanese hands. Zhang Xueliang orders his troops not to resist. Japan declares war on Fengtian, and Kwantung Army units appear along the railway at Mukden, Changchun and Andong; Fengtian loses 500 gold." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_KOREA_ARMY_TITLE" Text="The Korea Army crosses the Yalu" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_KOREA_ARMY_TEXT" Text="Without orders from Tokyo, the Japanese Korea Army crosses the Yalu at Sinuiju to reinforce the Kwantung Army. Japan raises three divisions and an air unit at Pyongyang." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_JINZHOU_TITLE" Text="Jinzhou" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_JINZHOU_TEXT" Text="After weeks of bombing, the Kwantung Army advances on Jinzhou, the seat of Zhang Xueliang&#x27;s remaining government in Manchuria; the Northeast Army withdraws south of the Great Wall. Kwantung Army units advance on Jinzhou." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_SHANGHAI_TITLE" Text="The Shanghai incident" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_SHANGHAI_TEXT" Text="After clashes in the International Settlement, Japanese marines attack the Chinese district of Zhabei. The 19th Route Army fights back, and Japan sends a fleet and an expeditionary army; Chiang&#x27;s Fifth Army joins the defence. Japan declares war on the National Government and lands an army and a fleet at Wusong; the National Government raises the 19th Route Army and the Fifth Army at Shanghai." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_HARBIN_TITLE" Text="Harbin" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_HARBIN_TEXT" Text="The Kwantung Army enters Harbin; Chinese troops in northern Manchuria fall back east along the railway. Kwantung Army units appear near Harbin." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_MANCHUKUO_TITLE" Text="Manchukuo" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_MANCHUKUO_TEXT" Text="The Kwantung Army proclaims the state of Manchukuo, with the former emperor Puyi as Chief Executive and Changchun, renamed Xinjing, as its capital. The League of Nations sends the Lytton Commission. If Japan holds Changchun, it is renamed Xinjing; Japan raises three units of the Manchukuo army." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_SHANGHAI_TRUCE_TITLE" Text="The Shanghai ceasefire" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_SHANGHAI_TRUCE_TEXT" Text="With British, American and French mediation, China and Japan sign the Shanghai Ceasefire Agreement: Shanghai is demilitarised and the Japanese expeditionary army leaves. Japan makes peace with the National Government; the Shanghai expeditionary units leave." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_SHANHAIGUAN_TITLE" Text="Shanhaiguan" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_SHANHAIGUAN_TEXT" Text="On New Year&#x27;s night, Japanese troops attack Shanhaiguan, where the Great Wall meets the sea, and take it in three days. Kwantung Army units appear before Shanhaiguan." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_REHE_TITLE" Text="The invasion of Rehe" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_REHE_TEXT" Text="Japanese and Manchukuo forces invade Rehe. Tang Yulin&#x27;s army falls apart, and on 4 March a small motorised column enters Chengde unopposed; the fighting moves to the passes of the Great Wall, where Central Army and northern divisions hold for weeks. Japan declares war on Shanxi and the National Government and sends four divisions, a motorised unit and cavalry into Rehe." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_TANGGU_TITLE" Text="The Tanggu Truce" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_TANGGU_TEXT" Text="At Tanggu Chinese and Japanese officers sign a truce: a demilitarised zone south of the Great Wall, between Beiping and Tianjin and the passes, is left to Chinese police. Manchuria and Rehe are lost in all but name. Japan makes peace with Fengtian, the National Government, Shanxi and the Guominjun." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_HE_UMEZU_TITLE" Text="The He-Umezu Agreement" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_HE_UMEZU_TEXT" Text="Under Japanese pressure He Yingqin accepts General Umezu&#x27;s demands: the Kuomintang&#x27;s offices and Central Army troops leave Hebei, and Zhang Xueliang&#x27;s 51st Army is moved out of the province. The National Government loses 300 gold; Fengtian loses two units around Beiping." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_EAST_HEBEI_TITLE" Text="The East Hebei Autonomous Council" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_EAST_HEBEI_TEXT" Text="At Tongzhou, east of Beiping, Yin Rugeng proclaims the East Hebei Anti-Communist Autonomous Council over twenty-two counties of the demilitarised zone, under Japanese protection. Students in Beiping march against the &#x27;autonomy movement&#x27; in December." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_MARCO_POLO_TITLE" Text="The Marco Polo Bridge" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_MARCO_POLO_TEXT" Text="Shots in the night at the Marco Polo Bridge near Wanping, during a Japanese exercise, become a battle and then a war. Within weeks Japan sends its armies into north China and Shanghai, and China, at last united against the invader, fights back. Japan declares war on every Chinese side; its China Garrison Army appears at Fengtai and the Kwantung Army reinforces Dairen." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_REINFORCE_TITLE" Text="The Kwantung Army reinforced" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_REINFORCE_TEXT" Text="Fresh Japanese troops arrive in Manchuria." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_HUNAN_TITLE" Text="The Hunan incident" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_HUNAN_TEXT" Text="The Wuhan Political Council, run by the Guangxi clique, dismisses the governor of Hunan, Lu Diping, and sends troops to drive him out of Changsha without asking Nanjing. Guangxi raises two divisions at Yueyang." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_CHANGSHA_TITLE" Text="Guangxi marches north" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_CHANGSHA_TEXT" Text="To join the war on Chiang, the Guangxi army and Zhang Fakui&#x27;s troops march north through Hunan and take Changsha; they are beaten back at Hengyang by Guangdong&#x27;s troops. Guangxi raises three divisions at Guilin." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_CANTON_GOVT_TITLE" Text="The Canton government" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_CANTON_GOVT_TEXT" Text="Opponents of Chiang Kai-shek, from Wang Jingwei and Sun Fo to Chen Jitang and the Guangxi leaders, set up a rival National Government in Canton. Guangxi receives 500 gold." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_THREE_SELFS_TITLE" Text="The Three Selfs" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_THREE_SELFS_TEXT" Text="Li Zongren, Bai Chongxi and Huang Xuchu rebuild Guangxi on self-defence, self-government and self-sufficiency: militia training for every able-bodied man, village schools, roads and provincial industry. Guangxi receives 300 gold and two militia units." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_LIANGGUANG_TITLE" Text="The Liangguang incident" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_LIANGGUANG_TEXT" Text="Guangdong and Guangxi announce that they will march north to resist Japan and mobilise their armies against Nanjing&#x27;s policy. Within weeks Guangdong&#x27;s generals and air force go over to Nanjing; Guangxi holds out until it reaches a settlement in September. Guangxi raises three divisions." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_LEVY_TITLE" Text="Recruits for the Guangxi army" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_LEVY_TEXT" Text="New Guangxi troops are ready." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_PENG_TITLE" Text="Peng Dehuai at Jinggangshan" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_PENG_TEXT" Text="Peng Dehuai&#x27;s Fifth Red Army, raised in the Pingjiang rising in July, reaches the Jinggang mountains and joins Mao Zedong and Zhu De. Two units of the Fifth Red Army arrive at Jinggangshan." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_GANNAN_TITLE" Text="To southern Jiangxi" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_GANNAN_TEXT" Text="Short of food and surrounded, the Fourth Red Army leaves the Jinggang mountains to Peng Dehuai and marches into southern Jiangxi and western Fujian, where the warlords&#x27; armies are thin. Two Red Army units appear near Ruijin." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_CHANGTING_TITLE" Text="Changting" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_CHANGTING_TEXT" Text="The Fourth Red Army beats the local garrison and takes Changting in western Fujian, where it finds cloth, money and a uniform factory. The Communists receive 300 gold and a unit at Ruijin." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_GUTIAN_TITLE" Text="The Gutian conference" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_GUTIAN_TEXT" Text="At Gutian in western Fujian the Fourth Red Army&#x27;s party conference adopts Mao&#x27;s resolution on the party&#x27;s command of the army and the army&#x27;s political work among the people. The Communists receive a Great General." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_CHANGSHA_TITLE" Text="Changsha" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_CHANGSHA_TEXT" Text="On the party&#x27;s orders to take the cities, Peng Dehuai&#x27;s Third Red Army Group storms Changsha, the capital of Hunan, and holds it for some ten days before foreign gunboats and returning troops force it out. Two Red Army units appear near Changsha." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LONGGANG_TITLE" Text="Longgang" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LONGGANG_TEXT" Text="Lured deep into the hills, Zhang Huizan&#x27;s 18th Division is destroyed at Longgang and its commander captured; the first encirclement campaign falls apart. Two Red Army units and a captured battery appear near Ruijin." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_SOVIET_REPUBLIC_TITLE" Text="The Chinese Soviet Republic" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_SOVIET_REPUBLIC_TEXT" Text="On the anniversary of the October Revolution the First National Soviet Congress proclaims the Chinese Soviet Republic at Ruijin, with Mao Zedong as chairman of its Central Executive Committee. The Communists receive 500 gold and two Red Army units near Ruijin." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_NINGDU_TITLE" Text="The Ningdu uprising" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_NINGDU_TEXT" Text="The 26th Route Army, Feng Yuxiang&#x27;s former soldiers sent to fight the Communists in Jiangxi, mutinies at Ningdu and goes over to the Red Army with its weapons. Three units and a machine-gun company of the Fifth Red Army Group appear near Ruijin." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LONG_MARCH_TITLE" Text="The Long March" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LONG_MARCH_TEXT" Text="The fifth campaign&#x27;s blockhouses close in. The Central Red Army and the party&#x27;s leaders break out of the Jiangxi Soviet to the west, some eighty-six thousand people crossing the Yudu river with everything they can carry. Four units of the Central Red Army gather at Yudu." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_XIANG_RIVER_TITLE" Text="The Xiang River" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_XIANG_RIVER_TEXT" Text="Crossing the Xiang river in northern Guangxi through the last line of blockhouses, the Central Red Army loses more than half its strength. The Communists lose two units of the Central Red Army." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_ZUNYI_TITLE" Text="The Zunyi conference" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_ZUNYI_TEXT" Text="In Zunyi, taken in January, an enlarged meeting of the Politburo condemns the military line of the Comintern&#x27;s adviser and its supporters and brings Mao Zedong back into the leadership of the army. The Communists receive a Great General near Zunyi." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LUDING_TITLE" Text="The Luding Bridge" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LUDING_TEXT" Text="After a forced march along the Dadu river, a vanguard of the Red Army crosses the chain bridge at Luding under fire and opens the way north. A Red Army vanguard appears at Luding." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_SHAANBEI_TITLE" Text="Northern Shaanxi" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_SHAANBEI_TEXT" Text="A year after leaving Jiangxi, the column led by Mao Zedong reaches Wuqi in northern Shaanxi, where the soviet base of Liu Zhidan and Gao Gang receives it. Two units of the Shaanbei Red Army appear at Wuqi." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_WAYAOBAO_TITLE" Text="Wayaobao" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_WAYAOBAO_TEXT" Text="The Central Committee settles at Wayaobao, which becomes the seat of the Communist leadership in the northwest. If the land is free, the Communists found the city of Wayaobao and receive a unit of Red Guards there." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_EASTERN_EXPEDITION_TITLE" Text="The Eastern Expedition" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_EASTERN_EXPEDITION_TEXT" Text="The Red Army crosses the Yellow River into Shanxi to recruit, collect supplies and open a road towards the Japanese in Hebei; Nanjing sends divisions to help Yan Xishan. Three Red Army units cross the Yellow River into Shanxi; the National Government sends two divisions into Shanxi." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_HUINING_TITLE" Text="The armies reunited" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_HUINING_TEXT" Text="In Gansu the Fourth Front Army of Zhang Guotao and Xu Xiangqian and then the Second Front Army of He Long join the First Front Army: the Long March is over. Two units each of the Second and Fourth Front Armies appear at Huining." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LEVY_TITLE" Text="Red Guards" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LEVY_TEXT" Text="Villagers of the base area join the Red Guards." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_FUJIAN_TITLE" Text="The Fujian People&#x27;s Government" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_FUJIAN_TEXT" Text="In Fuzhou the 19th Route Army, the defenders of Shanghai, and the politicians around Li Jishen and Chen Mingshu proclaim a People&#x27;s Revolutionary Government of the Republic of China against Chiang Kai-shek. Nanjing turns divisions from the Jiangxi front against them. Units of the People&#x27;s Revolutionary Army appear at Fuzhou; the National Government raises three divisions." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_SUIYUAN_TITLE" Text="The Suiyuan campaign" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_SUIYUAN_TEXT" Text="Prince De&#x27;s Inner Mongolian army and the Grand Han Righteous Army, armed and advised by the Kwantung Army, attack eastern Suiyuan. Mongol and puppet units appear north of Guisui." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_HENAN_TITLE" Text="Bandits in Henan" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_HENAN_TEXT" Text="A bandit army raids the towns of western Henan." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_SHANDONG_TITLE" Text="The Red Spears" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_SHANDONG_TEXT" Text="The Red Spear society, peasants who believe their charms make them proof against bullets, rises against tax collectors and soldiers." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_HONGHUZI_TITLE" Text="Honghuzi" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_HONGHUZI_TEXT" Text="Mounted bandits, the honghuzi, raid the railway towns of northern Manchuria." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_SOUTH_TITLE" Text="Hill bandits" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_SOUTH_TEXT" Text="Bandits come down from the hills of the south." />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_NAN" Text="National Government" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_GMJ" Text="Guominjun" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_SHX" Text="Shanxi" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_FT" Text="Fengtian" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_GX" Text="Guangxi" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_CCP" Text="Chinese Communists" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_BARB" Text="Bandits and rebels" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_JAPAN" Text="Japan" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_SOVIET" Text="Soviet Union" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_WEIHAIWEI" Text="Weihaiwei" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_GUANGDONG" Text="Guangdong" />
+    <Replace Tag="TXT_KEY_CHN1928_WEEK" Text="Week {1_Num}" />
+    <Replace Tag="TXT_KEY_CHN1928_WEEK_TT" Text="Week {1_Num} of the scenario, counted from 10 October 1928" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_1" Text="January" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_2" Text="February" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_3" Text="March" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_4" Text="April" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_5" Text="May" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_6" Text="June" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_7" Text="July" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_8" Text="August" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_9" Text="September" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_10" Text="October" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_11" Text="November" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_12" Text="December" />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_CENTRAL_ARMY" Text="Central Army Division" />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_CENTRAL_ARMY_HELP" Text="National Government replacement for the Great War Infantry. 55 [ICON_STRENGTH] Combat Strength instead of 50 and the Shock I promotion; about 12% more expensive (360 [ICON_PRODUCTION])." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_CENTRAL_ARMY_STRATEGY" Text="The Central Army Division is the best infantry in China: stronger and dearer than the provincial troops. Keep it for the decisive battles and let the cheaper divisions hold the line." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_CENTRAL_ARMY_TEXT" Text="The Central Army was the core of the National Revolutionary Army that answered to Chiang Kai-shek himself, officered by graduates of the Whampoa academy. From the end of 1928 a German advisory mission, led in turn by Max Bauer, Hermann Kriebel, Georg Wetzell, Hans von Seeckt and Alexander von Falkenhausen, trained and re-equipped a growing part of it; by 1937 a handful of divisions had German weapons, helmets and training, and they bore the brunt of the battle of Shanghai that year." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_BIG_SWORD" Text="Big Sword Brigade" />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_BIG_SWORD_HELP" Text="Guominjun replacement for the Great War Infantry. About 15% cheaper (270 [ICON_PRODUCTION]), the Shock I promotion and March (heals every turn, even after moving), but 48 [ICON_STRENGTH] Combat Strength instead of 50." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_BIG_SWORD_STRATEGY" Text="The Big Sword Brigade is hardy, cheap infantry that closes with the enemy and keeps marching. Raise it in numbers and use it to attack in the open; it is weaker behind walls than the regular divisions." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_BIG_SWORD_TEXT" Text="Short of rifles and ammunition, the armies of Feng Yuxiang issued their soldiers the dadao, a heavy two-handed broadsword, for close fighting and night raids. Feng&#x27;s Northwest Army was known for its drill, its marches and its discipline: no opium, no gambling, no looting. In March 1933, at Xifengkou and Luowenyu on the Great Wall, the big-sword units of Song Zheyuan&#x27;s 29th Army, formed from the old Guominjun, made their night attacks on the Japanese and became famous throughout China." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_MOUNTAIN_GUN" Text="Taiyuan Mountain Gun" />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_MOUNTAIN_GUN_HELP" Text="Shanxi replacement for the Artillery. 20% cheaper (200 [ICON_PRODUCTION]) and 24 [ICON_STRENGTH] Combat Strength instead of 21." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_MOUNTAIN_GUN_STRATEGY" Text="The Taiyuan Mountain Gun is artillery that Shanxi can afford to build in numbers. Mass it behind the infantry on the passes into the province." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_MOUNTAIN_GUN_TEXT" Text="The arsenal at Taiyuan, founded as the Shanxi Machine Bureau in 1898, was enlarged by Yan Xishan in the 1920s into one of the largest in China. It made rifles, machine guns, mortars, ammunition and light mountain guns that could be taken apart and carried on mules over the passes of the Taihang and the Luliang, and it equipped the Shanxi army for the Northern Expedition and the Central Plains War." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_BREGUET" Text="Breguet 19" />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_BREGUET_HELP" Text="Fengtian replacement for the Great War Bomber. 55 [ICON_RANGE_STRENGTH] Ranged Strength instead of 50 and about 8% cheaper (300 [ICON_PRODUCTION])." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_BREGUET_STRATEGY" Text="The Breguet 19 gives Fengtian the strongest bombers in China. Use it to break enemy infantry before an attack and to strike the railway towns behind the front." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_BREGUET_TEXT" Text="Zhang Zuolin built the largest air arm in China in the 1920s, with French aircraft such as the Breguet 14 and the Breguet 19 and French and Russian instructors, based on the Dongta airfield outside Mukden. Zhang Xueliang kept enlarging it. On the night of the Mukden incident, 18 September 1931, the Kwantung Army seized Dongta and with it most of the Northeast&#x27;s aircraft, still on the ground." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_GX_DIVISION" Text="Guangxi Division" />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_GX_DIVISION_HELP" Text="Guangxi replacement for the Great War Infantry. 52 [ICON_STRENGTH] Combat Strength instead of 50 and the Drill I and Drill II promotions (+30% in rough terrain)." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_GX_DIVISION_STRATEGY" Text="The Guangxi Division is at home in the hills of the south. Fight in forest and on hills, where it is far stronger than its enemies; on the plains it is only a little better than ordinary infantry." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_GX_DIVISION_TEXT" Text="The Seventh Army of the National Revolutionary Army, raised in Guangxi by Li Zongren and Bai Chongxi, fought its way from Hunan to the Yangtze in 1926 and 1927 and, with Chiang&#x27;s First Army, threw back Sun Chuanfang&#x27;s counter-attack across the river at Longtan in August 1927. Guangxi&#x27;s soldiers, hardy hill-country men under young and capable officers, had a reputation as some of the best troops in China." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_RED_ARMY" Text="Red Army Column" />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_RED_ARMY_HELP" Text="Communist replacement for the Great War Infantry. About a third cheaper (220 [ICON_PRODUCTION]), the Drill I (+15% in rough terrain) and March (heals every turn, even after moving) promotions, but 44 [ICON_STRENGTH] Combat Strength instead of 50." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_RED_ARMY_STRATEGY" Text="The Red Army Column is a guerrilla force: cheap, at home in the hills and able to heal on the move. Avoid fortified cities and strong divisions in the open; strike isolated units and slip away." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_RED_ARMY_TEXT" Text="The Fourth Red Army was formed in the Jinggang mountains in the spring of 1928, when the troops of Zhu De and Chen Yi from the Nanchang rising joined Mao Zedong&#x27;s peasants and miners. Short of everything, it fought by the rules Mao summed up for it: when the enemy advances, retreat; when he halts, harass; when he tires, attack; when he retreats, pursue. By 1930 the Red Armies of the scattered soviet bases numbered tens of thousands." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_CENTRAL_ACADEMY" Text="Central Military Academy" />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_CENTRAL_ACADEMY_HELP" Text="National Government replacement for the Military Academy. A third cheaper (200 [ICON_PRODUCTION]) and no maintenance." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_CENTRAL_ACADEMY_STRATEGY" Text="The Central Military Academy gives new units the experience of a Military Academy for much less. Build it in the cities that raise the Central Army." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_CENTRAL_ACADEMY_TEXT" Text="The Whampoa Military Academy was founded in 1924 on Changzhou Island below Canton, with Soviet money and advisers and Chiang Kai-shek as its commandant. Its cadets became the officers of the Northern Expedition and, for twenty years, the core of the Nationalist officer corps. In 1928 the academy moved to Nanjing as the Central Military Academy, with Chiang still at its head." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_FARM_COLONY" Text="Military Farm Colony" />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_FARM_COLONY_HELP" Text="Guominjun replacement for the Granary. +1 [ICON_PRODUCTION] Production as well, and no maintenance." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_FARM_COLONY_STRATEGY" Text="The Military Farm Colony feeds the army and puts it to work at the same time. Build it in every town of the poor northwest." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_FARM_COLONY_TEXT" Text="Feng Yuxiang&#x27;s soldiers were expected to work as well as fight: they built roads, planted trees and ran their own workshops and farms. As Northwest Border Defence Commissioner at Kalgan in the mid-1920s Feng settled soldiers and refugees on land reclaimed along the Yellow River in Suiyuan, and the Guominjun lived as far as it could off what it produced itself." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_NW_INDUSTRY" Text="Northwest Industrial Company" />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_NW_INDUSTRY_HELP" Text="Shanxi replacement for the Workshop. +3 [ICON_PRODUCTION] Production instead of +2, and 1 [ICON_GOLD] maintenance instead of 2." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_NW_INDUSTRY_STRATEGY" Text="The Northwest Industrial Company turns Shanxi coal into weapons and goods. Build it in Taiyuan and the mining towns first." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_NW_INDUSTRY_TEXT" Text="In 1932 Yan Xishan launched a Ten-Year Plan for Shanxi, and in 1933 he gathered the arsenal and the provincial enterprises into the Northwest Industrial Company: steel, cement, chemicals, machinery, textiles, coal and the narrow-gauge Tongpu railway from Datong to the Yellow River. Shanxi, the &#x27;model province&#x27;, became one of the most industrialised in the interior of China." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_MUKDEN_ARSENAL" Text="Mukden Arsenal" />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_MUKDEN_ARSENAL_HELP" Text="Fengtian replacement for the Factory. +5 [ICON_PRODUCTION] Production instead of +4, and 2 [ICON_GOLD] maintenance instead of 3." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_MUKDEN_ARSENAL_STRATEGY" Text="The Mukden Arsenal makes Fengtian the best-armed side in China. Build it in Mukden and Harbin before anything else." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_MUKDEN_ARSENAL_TEXT" Text="The Arsenal of the Three Eastern Provinces at Mukden, expanded by Zhang Zuolin from the early 1920s with foreign machinery and engineers, became the largest arms works in China, turning out rifles, machine guns, artillery, mortars and millions of rounds of ammunition. The Kwantung Army took it intact in September 1931." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_MILITIA_OFFICE" Text="Militia Training Office" />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_MILITIA_OFFICE_HELP" Text="Guangxi replacement for the Barracks. +20 XP for land units instead of +15, and no maintenance." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_MILITIA_OFFICE_STRATEGY" Text="The Militia Training Office trains better land units than ordinary Barracks and costs nothing to keep. Build it in every Guangxi town." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_MILITIA_OFFICE_TEXT" Text="After 1931 Li Zongren, Bai Chongxi and Huang Xuchu rebuilt Guangxi on the policy of the &#x27;Three Selfs&#x27;, self-defence, self-government and self-sufficiency. Every able-bodied man was enrolled and trained in the provincial militia, whose officers were also the village heads and schoolteachers; in 1937 the system let Guangxi raise new divisions within weeks." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_LAND_COMMITTEE" Text="Land Revolution Committee" />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_LAND_COMMITTEE_HELP" Text="Communist replacement for the Monument. +1 [ICON_FOOD] Food and +1 [ICON_PRODUCTION] Production as well, and no maintenance." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_LAND_COMMITTEE_STRATEGY" Text="The Land Revolution Committee wins the villages over and feeds the Red Army. Build it first in every town the Communists hold." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_LAND_COMMITTEE_TEXT" Text="Wherever the Red Army set up a soviet government, a land committee confiscated the land of landlords and redistributed it among the poor peasants: the Jinggangshan Land Law of December 1928 and the Xingguo Land Law of April 1929 set the rules. Land redistribution won the Red Army its recruits and its grain, and it made the soviet bases worth defending for those who lived in them." />
+  </Language_en_US>
+  <Language_RU_RU>
+    <Replace Tag="TXT_KEY_LEADER_WU_ZETIAN" Text="Чан Кайши" />
+    <Replace Tag="TXT_KEY_LEADER_WU_ZETIAN_PEDIA" Text="Чан Кайши (Цзян Цзеши, 1887-1975) получил военное образование в Японии, в 1924 году стал начальником военной академии Вампу и возглавил Северный поход 1926-1928 годов, порвав с коммунистами в Шанхае в апреле 1927 года. С октября 1928 года председатель Национального правительства, он воевал с Фэн Юйсяном и Янь Сишанем в Центральной равнинной войне 1930 года и провёл пять походов против Цзянсийского советского района в 1930-1934 годах.[NEWLINE][NEWLINE]Задержанный Чжан Сюэляном в Сиани в декабре 1936 года, он согласился на единый фронт против Японии и руководил Китаем в войне 1937-1945 годов. Проиграв гражданскую войну, в 1949 году ушёл на Тайвань и правил там до своей смерти в апреле 1975 года." />
+    <Replace Tag="TXT_KEY_CIV_CHINA_DESC" Text="Национальное правительство Китайской Республики" />
+    <Replace Tag="TXT_KEY_CIV_CHINA_SHORT_DESC" Text="Национальное правительство" />
+    <Replace Tag="TXT_KEY_CIV_CHINA_ADJECTIVE" Text="Нанкинский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_CHINA_TEXT" Text="Председатель Чан, Северный поход окончен. Пекин взят и переименован в Бэйпин, бэйянского правительства больше нет, и сегодня, 10 октября 1928 года, вы вступаете в должность председателя Национального правительства в Нанкине. У вас дельта Янцзы, Шанхай с его таможней, банками и арсеналом и лучше всех обученные дивизии страны.[NEWLINE][NEWLINE]Но Китай объединён лишь на бумаге. Фэн Юйсян, Янь Сишань и гуансийская клика, вчерашние союзники, сохраняют свои армии и свои провинции; молодой маршал в Мукдене ещё не поднял ваш флаг; коммунисты держатся в горах Цзянси, а японцы следят из Дайрена и Цзинани. Сократите чужие армии, постройте государство и выбирайте войны осторожно." />
+    <Replace Tag="TXT_KEY_TRAIT_ART_OF_WAR_SHORT" Text="Выпускники Вампу" />
+    <Replace Tag="TXT_KEY_TRAIT_ART_OF_WAR" Text="Великие полководцы появляются на 50% быстрее, а их бонус к бою на 15% сильнее. Офицеры академии Вампу командуют Центральной армией." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_6" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_7" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_1" Text="Вы нападаете на законное правительство Китая? Вы пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_2" Text="Ещё один милитарист, возомнивший себя императором." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_3" Text="Хорошо. Центральная армия ответит." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_1" Text="Значит, вы выбрали мятеж. Правительство его подавит." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_2" Text="Пусть так. У Китая будет одна армия, а не двадцать." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_3" Text="Вы не оставили мне выбора." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_1" Text="Нанкин пал, но Китай стоит." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_2" Text="Берите города. Нация вас переживёт." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_3" Text="Я вас недооценил. Второй раз этого не случится." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_ANGRY" Text="Вы предоставите это." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_HAPPY" Text="Платите и оставайтесь верны." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_NEUTRAL" Text="Правительство требует взноса на национальную оборону." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_2" Text="Об этом не может быть и речи." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_3" Text="Отказано." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_5" Text="Об этом не может быть и речи." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_6" Text="Отказано." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_1" Text="Чан Кайши, председатель Национального правительства. Теперь у Китая одно правительство, и оно в Нанкине." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_2" Text="Добро пожаловать в Нанкин. Революция победила; теперь нужно строить нацию." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_3" Text="Национальное правительство принимает вас. Говорите прямо." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_1" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_2" Text="До следующей встречи." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_3" Text="Мы ещё поговорим." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_4" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_5" Text="До следующей встречи." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_6" Text="Мы ещё поговорим." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_7" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_2" Text="Что привело вас в Нанкин?" />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_3" Text="Председатель слушает." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_5" Text="Что привело вас в Нанкин?" />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_6" Text="Председатель слушает." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_7" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_2" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_3" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_5" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_6" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_7" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_LOSEWAR_1" Text="Перемирие. Китаю оно нужно." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_ANGRY" Text="Предложение." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_HAPPY" Text="Обдумайте это внимательно." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_NEUTRAL" Text="Предложение Нанкина." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_ANGRY" Text="Неприемлемо." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_HAPPY" Text="Правительство не может на это пойти." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_ANGRY" Text="Решено." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_ANGRY" Text="Правительство никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_HAPPY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_NEUTRAL" Text="Правительство никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_ANGRY" Text="Берите. Это дешевле войны." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_NEUTRAL" Text="Берите. Это дешевле войны." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_1" Text="Не угрожайте правительству." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_3" Text="Вы пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_4" Text="Не угрожайте правительству." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_5" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_6" Text="Вы пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_WUZETIAN_WINWAR_1" Text="Мятеж окончен. Теперь восстановление." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA" Text="Фэн Юйсян" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_PEDIA" Text="Фэн Юйсян (1882-1948) выдвинулся в бэйянской армии и принял крещение у методистов; «христианский генерал» запрещал своим солдатам опиум, азартные игры и вино и жёстко муштровал их. В октябре 1924 года он захватил Пекин переворотом, выдворил последнего императора из Запретного города и назвал свою армию Гоминьцзюнь; в 1926 году вступил в Гоминьдан и в Северный поход.[NEWLINE][NEWLINE]Разбитый Чан Кайши в Центральной равнинной войне 1930 года, в 1933 году он возглавил Чахарскую народную антияпонскую союзную армию, затем занимал высокие, но бессильные посты в Нанкине. Погиб при пожаре на советском пароходе в Чёрном море в сентябре 1948 года." />
+    <Replace Tag="TXT_KEY_CIV_ZULU_DESC" Text="Гоминьцзюнь (Северо-западная армия)" />
+    <Replace Tag="TXT_KEY_CIV_ZULU_SHORT_DESC" Text="Гоминьцзюнь" />
+    <Replace Tag="TXT_KEY_CIV_ZULU_ADJECTIVE" Text="Гоминьцзюньский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ZULU_TEXT" Text="Маршал Фэн, ваша Вторая армейская группа в Северном походе прошла из Шэньси в Хэнань и вверх по Пекин-Ханькоуской дороге; это одна из самых больших и лучше всех вымуштрованных армий Китая. У вас Хэнань, Шэньси и Ганьсу, дорога Лунхай и запад Шаньдуна; нанкинское правительство сделало вас военным министром.[NEWLINE][NEWLINE]Но ваши провинции беднейшие в Китае, и по северо-западу расползается великий голод. Нанкин платит сначала своим дивизиям и говорит о сокращении ваших. Накормите армию, удержите верность генералов, найдите союзников против Чана раньше, чем он найдёт их среди ваших офицеров, и держите Хуанхэ." />
+    <Replace Tag="TXT_KEY_TRAIT_BUFFALO_HORNS_SHORT" Text="Армия христианского генерала" />
+    <Replace Tag="TXT_KEY_TRAIT_BUFFALO_HORNS" Text="Содержание отрядов ближнего боя на 50% дешевле. Всем отрядам нужно на 25% меньше опыта для повышения. Солдаты Фэн Юйсяна вымуштрованы, неприхотливы и выносливы на марше." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_1" Text="Вы нападаете на Гоминьцзюнь? Мы бивали и не таких." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_2" Text="Ещё один враг. Северо-запад привык к тяжёлым временам." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_3" Text="Хорошо. Ответят большие мечи." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_1" Text="Тогда вас встретит моя армия. Она никогда не боялась долгого марша." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_2" Text="Пусть так." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_3" Text="Значит, война. Бог рассудит." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_1" Text="Армия разбита. Солдаты найдут другую." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_2" Text="Берите Кайфын. Народ вас за это не полюбит." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_3" Text="Меня и раньше предавали." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_ANGRY" Text="Взнос." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_HAPPY" Text="Платите, и останемся друзьями." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_NEUTRAL" Text="Армия голодна. Вы поможете её накормить." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_3" Text="Отказано." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_6" Text="Отказано." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_1" Text="Фэн Юйсян. Мои солдаты не пьют, не играют и не грабят. Можете ли вы сказать то же?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_2" Text="Добро пожаловать в Кайфын. Пира не будет; мы едим то, что едят солдаты." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_3" Text="Гоминьцзюнь принимает вас." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_1" Text="Идите с миром." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_2" Text="До следующей встречи." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_3" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_4" Text="Идите с миром." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_5" Text="До следующей встречи." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_6" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_2" Text="Говори, брат." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_3" Text="Что такое?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_5" Text="Говори, брат." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_GREETING_6" Text="Что такое?" />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_3" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_1" Text="Перемирие. Моим людям нужнее хлеб, чем слава." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_2" Text="Значит, мир." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_ANGRY" Text="Предложение." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_HAPPY" Text="Обдумайте это." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_NEUTRAL" Text="Предложение Гоминьцзюня." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_HAPPY" Text="Мы не можем этого отдать." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_ANGRY" Text="Решено." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_HAPPY" Text="Гоминьцзюнь никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_ANGRY" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_NEUTRAL" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_1" Text="Не угрожайте нам." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_2" Text="Осторожнее, брат." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_3" Text="Вы пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WINWAR_1" Text="Победа. Теперь солдаты могут сажать деревья." />
+    <Replace Tag="TXT_KEY_LEADER_SHAKA_WINWAR_2" Text="Война окончена." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE" Text="Янь Сишань" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_PEDIA" Text="Янь Сишань (1883-1960), выпускник японского военного училища и член сунь-ятсеновского Тунмэнхоя, возглавил восстание 1911 года в Шаньси и почти четыре десятилетия управлял провинцией. Его реформы принесли Шаньси славу Образцовой провинции, а его армия в июне 1928 года взяла Пекин для Гоминьдана.[NEWLINE][NEWLINE]В 1930 году он возглавил коалицию против Чан Кайши в Центральной равнинной войне и после поражения год провёл в эмиграции в Даляне. Вернувшись к власти в 1932 году, он индустриализировал Шаньси, с 1937 года воевал с японцами и удерживал Тайюань до апреля 1949 года. В 1949-1950 годах был премьером Китайской Республики, умер на Тайване в 1960 году." />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_DESC" Text="Шаньси и Хэбэй (Третья армейская группа)" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_SHORT_DESC" Text="Шаньси" />
+    <Replace Tag="TXT_KEY_CIV_RUSSIA_ADJECTIVE" Text="Шаньсийский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_RUSSIA_TEXT" Text="Губернатор Янь, вы правите Шаньси с революции 1911 года и сделали её Образцовой провинцией: дороги, школы, сельское самоуправление, арсенал в Тайюане и, главное, мир за горными проходами, пока остальной Китай горел. В июне ваша Третья армейская группа вошла в Пекин; теперь у вас Бэйпин и Тяньцзинь, равнина Хэбэя, Чахар и Суйюань.[NEWLINE][NEWLINE]Нанкин хочет сократить ваши армии и поделить ваши доходы. Фэн Юйсян сосед и соперник; молодой маршал смотрит на Бэйпин из-за Великой стены. Удержите то, что имеете, выберите момент и никогда не оставляйте Тайюань без охраны." />
+    <Replace Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES_SHORT" Text="Образцовая провинция" />
+    <Replace Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES" Text="Стратегические ресурсы дают +1 [ICON_PRODUCTION] производства, а лошади и железо дают удвоенное количество. Шаньси стоит на угле и железе и сама делает себе оружие." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_6" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_7" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_1" Text="Вы нападаете на Шаньси? Многие пытались." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_2" Text="Ещё один враг у перевалов." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_3" Text="Хорошо. Тайюань ответит." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_4" Text="Ошибка. Мы её запомним." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_1" Text="Тогда Шаньси будет защищаться, как всегда." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_2" Text="Пусть так. Перевалы готовы." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_3" Text="Значит, война." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_1" Text="Шаньси пала. Я вернусь." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_2" Text="Берите Тайюань. Управлять им будет трудно." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_3" Text="Вот и конец, пока что." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_ANGRY" Text="Вы предоставите это." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_HAPPY" Text="Платите, и будет мир." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_NEUTRAL" Text="Шаньси требует взноса." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_3" Text="Отказано." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_6" Text="Отказано." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_1" Text="Янь Сишань, губернатор Шаньси. Шаньси ни у кого ничего не просит и ничего не отдаёт." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_2" Text="Добро пожаловать в Тайюань. Вы прошли через перевалы; теперь вы видите, почему нас не трогают." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_3" Text="Губернатор принимает вас." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_1" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_2" Text="До следующей встречи." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_3" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_4" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_5" Text="До следующей встречи." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_6" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_7" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_8" Text="До следующей встречи." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_2" Text="Будьте кратки, прошу." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_3" Text="Что такое?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_5" Text="Будьте кратки, прошу." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_6" Text="Что такое?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_GREETING_7" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_3" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_6" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_7" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_1" Text="Перемирие. Шаньси предпочитает мир." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_2" Text="Мир, пока что." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_3" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_ANGRY" Text="Предложение." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_HAPPY" Text="Обдумайте это." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_NEUTRAL" Text="Предложение Тайюаня." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_HAPPY" Text="Шаньси не может себе этого позволить." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_ANGRY" Text="Решено." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_NEUTRAL" Text="Согласен. Честная сделка." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_HAPPY" Text="Шаньси никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_ANGRY" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_NEUTRAL" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_1" Text="Не угрожайте Шаньси." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_3" Text="Вы пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_4" Text="Не угрожайте Шаньси." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_5" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_CATHERINE_WINWAR_1" Text="Провинция в безопасности. Теперь строим." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK" Text="Чжан Сюэлян" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_PEDIA" Text="Чжан Сюэлян (1901-2001), «молодой маршал», сын фэнтяньского милитариста Чжан Цзолиня, принял власть в Маньчжурии после убийства отца офицерами Квантунской армии в июне 1928 года. 29 декабря 1928 года он поднял над Северо-Востоком гоминьдановский флаг, а в 1930 году его вмешательство решило Центральную равнинную войну в пользу Чан Кайши.[NEWLINE][NEWLINE]После Мукденского инцидента сентября 1931 года он без боя отвёл армию за Великую стену и потерял Маньчжурию, а затем Жэхэ. В декабре 1936 года в Сиани он вместе с Ян Хучэном задержал Чана, чтобы добиться единого фронта против Японии. Следующие пятьдесят лет он провёл под арестом, в Китае и на Тайване, и умер в Гонолулу в 2001 году в возрасте ста лет." />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_DESC" Text="Фэнтяньская клика (Три восточные провинции)" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_SHORT_DESC" Text="Фэнтянь" />
+    <Replace Tag="TXT_KEY_CIV_GERMANY_ADJECTIVE" Text="Фэнтяньский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_GERMANY_TEXT" Text="Молодой маршал, 4 июня японцы взорвали поезд вашего отца у Хуангутуня под Мукденом. В двадцать семь лет вы наследуете три провинции Маньчжурии и Жэхэ: богатейший край Китая, Мукденский арсенал, авиацию, флот и четверть миллиона солдат.[NEWLINE][NEWLINE]Квантунская армия стоит в Дайрене и вдоль Южно-Маньчжурской дороги, советские железнодорожники хозяйничают на КВЖД в Харбине, а старые генералы отца в вас сомневаются. Решите, поднимать ли над Северо-Востоком флаг Нанкина, станьте хозяином в своём доме и будьте достаточно сильны, чтобы Токио дважды подумал." />
+    <Replace Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS_SHORT" Text="Наследство старого маршала" />
+    <Replace Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS" Text="Когда сухопутный отряд побеждает варваров в их лагере, с вероятностью 67% он получает 25 [ICON_GOLD] золота, а варвары переходят на вашу сторону. Содержание сухопутных отрядов на 25% дешевле. Чжан Цзолинь начинал атаманом хунхузов, и его армия никогда не переставала их вербовать." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_6" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_7" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_1" Text="Вы нападаете на Северо-Восток? Вы плохо выбираете врагов." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_2" Text="Ещё один враг. Японцев нам уже хватает." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_3" Text="Хорошо. Мукден ответит." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_1" Text="Тогда вас встретит Северо-Восточная армия." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_2" Text="Пусть так. У нас есть самолёты, а у вас нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_3" Text="Значит, война." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_1" Text="Северо-Восток потерян. Я буду нести это всю жизнь." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_2" Text="Берите Мукден. А потом посмотрим, кто придёт за ним." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_3" Text="Я доверился не тем людям." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_4" Text="Северо-Восток потерян. Я буду нести это всю жизнь." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_ANGRY" Text="Вы предоставите это." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_HAPPY" Text="Платите и не вмешивайтесь." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_NEUTRAL" Text="Северо-Восточной армии нужен взнос." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_3" Text="Отказано." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_6" Text="Отказано." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_1" Text="Чжан Сюэлян. Мой отец построил Северо-Восток; я намерен его сохранить." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_2" Text="Добро пожаловать в Мукден. Вам повезло: японцы приходят сюда только с армией." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_3" Text="Северо-Восток принимает вас." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_1" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_2" Text="До следующей встречи." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_3" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_4" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_5" Text="До следующей встречи." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_6" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_7" Text="Всего доброго." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_2" Text="Что такое?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_3" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_5" Text="Что такое?" />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_GREETING_6" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_3" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_6" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_7" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_8" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_1" Text="Перемирие. Оно нам нужно." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_2" Text="Мир, пока что." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_3" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_ANGRY" Text="Предложение." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_HAPPY" Text="Обдумайте это." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_NEUTRAL" Text="Предложение Мукдена." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_HAPPY" Text="Северо-Восток на это не пойдёт." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_ANGRY" Text="Решено." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_HAPPY" Text="Северо-Восток никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_ANGRY" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_NEUTRAL" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_1" Text="Не угрожайте нам." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_3" Text="Вы пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_4" Text="Не угрожайте нам." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_5" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_6" Text="Вы пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_1" Text="Победа. Северо-Восток стоит." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_2" Text="Всё кончено." />
+    <Replace Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_3" Text="Победа. Северо-Восток стоит." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE" Text="Ли Цзунжэнь" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_PEDIA" Text="Ли Цзунжэнь (1891-1969), вместе с Бай Чунси и Хуан Шаохуном лидер новой гуансийской клики, к 1925 году объединил Гуанси и командовал в Северном походе Седьмой армией, а затем Четвёртой армейской группой. Разбитый Чан Кайши в 1929 году, он вернулся в Гуанси и вместе с Бай Чунси и Хуан Сюйчу сделал её в 1930-е годы образцовой провинцией.[NEWLINE][NEWLINE]В войне с Японией он выиграл в 1938 году сражение при Тайэрчжуане. Избранный в 1948 году вице-президентом, в 1949 году он исполнял обязанности президента Китайской Республики, эмигрировал в США и в 1965 году вернулся в КНР, где умер в 1969 году." />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_DESC" Text="Новая гуансийская клика (Четвёртая армейская группа)" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC" Text="Гуанси" />
+    <Replace Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE" Text="Гуансийский" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_ETHIOPIA_TEXT" Text="Генерал Ли, гуансийская клика Ли Цзунжэня, Бай Чунси и Хуан Шаохуна взяла бедную горную провинцию и сделала её армию одной из лучших в Китае. Ваша Седьмая армия прошла от Хунани до Янцзы; ваша Четвёртая армейская группа теперь держит Ухань и Хубэй через Уханьский политический совет, а войска Бай Чунси после похода на Пекин стоят на востоке Хэбэя.[NEWLINE][NEWLINE]Ваши провинции далеко друг от друга, и дорога между ними идёт через Хунань. Нанкин не доверяет вам, а вы Нанкину. Удержите Ухань, если сможете, держите открытой дорогу домой и помните, что сила Гуанси в её солдатах и её горах." />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT" Text="Меньше, да лучше" />
+    <Replace Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH" Text="+20% [ICON_STRENGTH] боевой силы против цивилизаций, у которых больше городов, чем у вас. Маленькие крепкие армии Гуанси и прежде били большие." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_1" Text="Вы нападаете на Гуанси? Пытались армии и побольше." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_2" Text="Ещё один враг. Мы привыкли." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_ATTACKED_3" Text="Хорошо. Седьмая армия ответит." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_1" Text="Тогда вас встретят люди Гуанси." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_2" Text="Пусть так." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DECLAREWAR_3" Text="Наши горы покажутся вам трудными." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_1" Text="Гуанси пала. Она поднимется снова." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_2" Text="Берите города. Горы вам не взять." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEFEATED_3" Text="Мы уходим в изгнание. Мы вернёмся." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_ANGRY" Text="Вы предоставите это." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_HAPPY" Text="Платите, и будет мир." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DEMANDTRIBUTE_NEUTRAL" Text="Гуанси требует взноса." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_3" Text="Отказано." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_6" Text="Отказано." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_1" Text="Ли Цзунжэнь. Гуанси мала, но не проиграла ни одной войны, которую выбрала сама." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_2" Text="Добро пожаловать. Вы проделали долгий путь, чтобы нас увидеть." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_FIRSTGREETING_3" Text="Гуансийское командование принимает вас." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_1" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_2" Text="До следующей встречи." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_3" Text="Счастливого пути." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_4" Text="Прощайте." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_5" Text="До следующей встречи." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GOODBYE_6" Text="Счастливого пути." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_1" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_2" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_3" Text="Что привело вас сюда?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_4" Text="Да?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_5" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_GREETING_6" Text="Что привело вас сюда?" />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_3" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_1" Text="Перемирие. Нашему народу оно нужно." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_LOSEWAR_2" Text="Мир, пока что." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_ANGRY" Text="Предложение." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_HAPPY" Text="Обдумайте это." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADEREQUEST_NEUTRAL" Text="Предложение из Гуанси." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_HAPPY" Text="Гуанси не может себе этого позволить." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_ANGRY" Text="Решено." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_HAPPY" Text="Гуанси никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_ANGRY" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_TRIBUTE_YES_NEUTRAL" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_1" Text="Не угрожайте Гуанси." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WARBLUFF_3" Text="Вы пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_1" Text="Победа. Теперь домой, в Гуанси." />
+    <Replace Tag="TXT_KEY_LEADER_SELASSIE_WINWAR_2" Text="Всё кончено." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO" Text="Мао Цзэдун" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_PEDIA" Text="Мао Цзэдун (1893-1976), сын хунаньского крестьянина, был в 1921 году одним из основателей Коммунистической партии Китая и организатором крестьянского движения в Хунани. После провала восстания «Осеннего урожая» в сентябре 1927 года он увёл уцелевших в горы Цзинганшань, где в 1928 году к нему присоединился Чжу Дэ; их Четвёртая Красная армия в 1929 году ушла на юг Цзянси, а в ноябре 1931 года Мао стал председателем Китайской Советской Республики в Жуйцзине.[NEWLINE][NEWLINE]Отстранённый партийным руководством в 1932 году, он вернул себе командование во время Великого похода на совещании в Цзуньи в январе 1935 года и привёл Красную армию на север Шэньси. В 1949 году провозгласил Китайскую Народную Республику и правил ею до своей смерти в 1976 году." />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_DESC" Text="Коммунистическая партия Китая и Красная армия" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_SHORT_DESC" Text="Китайские коммунисты" />
+    <Replace Tag="TXT_KEY_CIV_SHOSHONE_ADJECTIVE" Text="Коммунистический" />
+    <Replace Tag="TXT_KEY_CIV5_DAWN_SHOSHONE_TEXT" Text="Товарищ Мао, через год после того, как Гоминьдан обратился против союзников-коммунистов в Шанхае и Ухане, восстания 1927 года провалились одно за другим. Вы и Чжу Дэ держитесь в горах Цзинганшань на границе Хунани и Цзянси с несколькими тысячами бойцов, без винтовок, соли и ткани; другие отряды уцелели у озера Хунху, в горах Дабешань и на северо-востоке Цзянси.[NEWLINE][NEWLINE]Сначала выжить. Стройте опорные базы в горах на стыке владений милитаристов, привлекайте деревни земельной реформой и деритесь, только когда можете победить. Если базы падут, армия должна жить дальше: пока у Красной армии есть отряды в поле, коммунисты не разбиты." />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE_SHORT" Text="Опорные базы" />
+    <Replace Tag="TXT_KEY_TRAIT_GREAT_EXPANSE" Text="Сухопутные отряды получают +15% [ICON_STRENGTH] боевой силы на дружественной территории и проходят по лесу на дружественной территории, как по дороге. Красная армия лучше всего воюет в своих горах." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_1" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_2" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_3" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_4" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_5" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_1" Text="Вы нападаете на Красную армию? Там, куда вы ударите, никого не будет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_2" Text="Ещё один враг. У нас их много." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_3" Text="Хорошо. Массы ответят." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_1" Text="Тогда Красная армия будет бить вас, как бьёт всех остальных." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_2" Text="Пусть так. Из одной искры разгорается пожар." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_3" Text="Значит, война." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_1" Text="Базы потеряны. Армия идёт дальше." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_2" Text="Берите города. Деревня наша." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_3" Text="Мы отступаем. Отступление ещё не поражение." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_ANGRY" Text="Платите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_HAPPY" Text="Взнос на революцию." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_NEUTRAL" Text="Красной армии нужно снабжение. Вы его предоставите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_1" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_2" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_3" Text="Отказано." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_4" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_5" Text="Никогда." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_6" Text="Отказано." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_7" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_1" Text="Мао Цзэдун. У нас мало что есть, но крестьяне с нами." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_2" Text="Добро пожаловать в горы. Осторожнее на тропе; враг ходит по дорогам." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_3" Text="Фронтовой комитет принимает вас." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_1" Text="До следующей встречи." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_2" Text="Счастливо." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_3" Text="Назад к работе." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_4" Text="До следующей встречи." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_5" Text="Счастливо." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_6" Text="Назад к работе." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_1" Text="Товарищ?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_2" Text="Что такое?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_3" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_4" Text="Товарищ?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_5" Text="Что такое?" />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_GREETING_6" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_1" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_2" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_3" Text="Говорите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_4" Text="Продолжайте." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_5" Text="Слушаю." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_1" Text="Перемирие. Армии нужен отдых." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_2" Text="Мир, пока что." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_ANGRY" Text="Предложение." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_HAPPY" Text="Обдумайте это." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_NEUTRAL" Text="Предложение из опорной базы." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_ANGRY" Text="Невозможно." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_HAPPY" Text="Не с нами." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_ANGRY" Text="Решено." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_HAPPY" Text="Да." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_NEUTRAL" Text="Согласен." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_ANGRY" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_HAPPY" Text="Революция никому не платит." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_NEUTRAL" Text="Нет." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_ANGRY" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_HAPPY" Text="Хорошо." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_NEUTRAL" Text="Берите." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_1" Text="Угрозы? Мы к ним привыкли." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_2" Text="Осторожнее." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_3" Text="Вы пожалеете." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_1" Text="Победа. Земля тем, кто её обрабатывает." />
+    <Replace Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_2" Text="Всё кончено, пока что." />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_JAPAN" Text="Япония" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_JAPAN" Text="Дайрен" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_SOVIET" Text="Советский Союз" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_SOVIET" Text="Владивосток" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_MONGOLIA" Text="Монгольская Народная Республика" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_MONGOLIA" Text="Улан-Батор" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_SICHUAN" Text="Сычуань (Лю Вэньхуэй)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_SICHUAN" Text="Чэнду" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_CHONGQING" Text="Чунцин (Лю Сян)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_CHONGQING" Text="Чунцин" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_YUNNAN" Text="Юньнань (Лун Юнь)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_YUNNAN" Text="Куньмин" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_GUIZHOU" Text="Гуйчжоу (Чжоу Сичэн)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_GUIZHOU" Text="Гуйян" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_GUANGDONG" Text="Гуандун" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_GUANGDONG" Text="Кантон" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_QINGHAI" Text="Цинхай (клика Ма)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_QINGHAI" Text="Синин" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_HONGKONG" Text="Гонконг (британский)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_HONGKONG" Text="Гонконг" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_MACAU" Text="Макао (португальский)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_MACAU" Text="Макао" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_WEIHAIWEI" Text="Вэйхайвэй (британский)" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_WEIHAIWEI" Text="Вэйхайвэй" />
+    <Replace Tag="TXT_KEY_CITYSTATE_CHN1928_INDOCHINA" Text="Французский Индокитай" />
+    <Replace Tag="TXT_KEY_CITY_CHN1928_INDOCHINA" Text="Ханой" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_CHAIRMAN_TITLE" Text="Председатель Национального правительства" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_CHAIRMAN_TEXT" Text="В годовщину Учанского восстания в Нанкине вступает в силу Органический закон Национального правительства: пять ветвей власти, юаней, под опекой Гоминьдана, и Чан Кайши во главе как председатель Национального правительства. Национальное правительство получает 300 золота." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_DISBANDMENT_TITLE" Text="Конференция по сокращению армий" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_DISBANDMENT_TEXT" Text="В Нанкине открывается Конференция по реорганизации и сокращению армий. Правительство предлагает сократить два миллиона человек под ружьём до восьмисот тысяч и перевести все армии на свой бюджет; армейские группы соглашаются в принципе и сохраняют свои дивизии на деле. Национальное правительство получает 400 золота; Гоминьцзюнь, Шаньси и Гуанси платят по 150." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_GUANGXI_WAR_TITLE" Text="Война Чана с Гуанси" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_GUANGXI_WAR_TEXT" Text="После того как Уханьский политический совет без согласия Нанкина изгнал из Чанши губернатора Хунани, Национальное правительство объявляет карательный поход против Ли Цзунжэня, Бай Чунси и Ли Цзишэня. В Хэбэе войска Бай Чунси в Таншане выходят из повиновения, и он бежит морем. Национальное правительство объявляет войну Гуанси и получает три дивизии Центральной армии и батарею; Гуанси теряет свои отряды под Таншанем." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_WUHAN_TITLE" Text="Падение Уханя" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_WUHAN_TEXT" Text="Гуансийские дивизии в Хубэе переходят на сторону Нанкина, остальная Четвёртая армейская группа отходит вверх по Янцзы; нанкинские войска входят в Ухань без боя. Национальное правительство получает две дивизии; Гуанси теряет 300 золота и два отряда под Ханькоу." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_CENTRAL_PLAINS_TITLE" Text="Центральная равнинная война" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_CENTRAL_PLAINS_TEXT" Text="Чан Кайши отдаёт приказ о генеральном наступлении против коалиции Янь Сишаня, Фэн Юйсяна и гуансийской клики. Вдоль дорог Лунхай и Тяньцзинь-Пукоу в поле выходит больше миллиона человек: крупнейшая война в Китае со времён тайпинов. Национальное правительство получает в Сюйчжоу четыре дивизии Центральной армии, две батареи и авиаэскадрилью." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_PLAINS_END_TITLE" Text="Конец Центральной равнинной войны" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_PLAINS_END_TEXT" Text="Когда Северо-Восточная армия уже в Бэйпине, а их армии разбиты на Лунхае, Янь Сишань и Фэн Юйсян объявляют об уходе от дел. Янь уезжает в Далянь; Гоминьцзюнь распадается, его дивизии разбирают Нанкин, Шаньси и Чжан Сюэлян. Национальное правительство заключает мир с Гоминьцзюнем и Шаньси и получает 500 золота; Гоминьцзюнь теряет пять отрядов, Шаньси 400 золота." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_1_TITLE" Text="Первый поход окружения" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_1_TEXT" Text="Губернатор Цзянси Лу Дипин отдаёт приказ о первом наступлении на базу Красной армии на юге Цзянси; в декабре сходящиеся колонны входят в горы между Цзиань и Нинду. В Цзиань собираются три дивизии по подавлению бандитов." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_2_TITLE" Text="Второй поход окружения" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_2_TEXT" Text="Хэ Инцинь ведёт двести тысяч человек на советский район юга Цзянси, медленно наступая от Цзиань, Наньфэна и с границы Фуцзяни. В Цзиань собираются четыре дивизии по подавлению бандитов и батарея." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_3_TITLE" Text="Третий поход окружения" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_3_TEXT" Text="Чан Кайши сам принимает командование в Наньчане и бросает Центральную армию в глубокий прорыв на юг Цзянси, чтобы найти и уничтожить Красную армию. Там же собираются четыре дивизии Центральной армии, в Цзиань две дивизии по подавлению бандитов." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_FLOODS_TITLE" Text="Великое наводнение" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_FLOODS_TEXT" Text="После месяцев дождей Янцзы, Хуайхэ и Ханьшуй прорывают дамбы. Ухань на месяцы уходит под воду, десятки миллионов людей по всему центральному Китаю теряют дома и поля. Национальное правительство теряет 600 золота, Гуанси 200." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_REUNION_TITLE" Text="Воссоединение" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_REUNION_TEXT" Text="После Мукденского инцидента соперничающие правительства Нанкина и Кантона договариваются: Чан Кайши ушёл в отставку, председателем Национального правительства становится Линь Сэнь, кантонское правительство распускается. Национальное правительство заключает мир с Гуанси и получает 300 золота." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_4_TITLE" Text="Четвёртый поход окружения" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_4_TEXT" Text="Чэнь Чэн ведёт лучшие дивизии Центральной армии на Цзянсийский советский район с севера. В Наньчане собираются четыре дивизии Центральной армии." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_5_TITLE" Text="Пятый поход окружения" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_ENCIRCLE_5_TEXT" Text="Чан Кайши открывает пятый поход против Цзянсийского советского района с новой тактикой: медленное наступление за линиями каменных блокгаузов и дорог, экономическая блокада советского района и дивизии, обученные германской военной миссией. В Наньчане собираются пять обученных немцами дивизий, две батареи, две авиаэскадрильи и два отряда строителей блокгаузов; Национальное правительство получает 500 золота." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_NEW_LIFE_TITLE" Text="Движение за новую жизнь" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_NEW_LIFE_TEXT" Text="В Наньчане Чан Кайши объявляет Движение за новую жизнь, кампанию дисциплины, чистоты и конфуцианских добродетелей, призванную переделать привычки нации. Национальное правительство получает 200 золота." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_FABI_TITLE" Text="Денежная реформа" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_FABI_TEXT" Text="Китай отказывается от серебряного стандарта. Банкноты государственных банков, фаби, становятся единственным законным платёжным средством, а серебро страны изымается. Национальное правительство получает 1000 золота." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_CANTON_TITLE" Text="Кантон возвращается к Нанкину" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_CANTON_TEXT" Text="Инцидент Лянгуан заканчивается в Гуандуне: авиация и генералы Чэнь Цзитана переходят на сторону Нанкина, и Чэнь уезжает из Кантона в Гонконг. Гуандун переходит под власть Национального правительства. Национальное правительство получает города Гуандуна." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_XIAN_RELEASE_TITLE" Text="Освобождение Чана" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_XIAN_RELEASE_TEXT" Text="После двух недель переговоров в Сиани с Чжан Сюэляном, Ян Хучэном и делегацией коммунистов во главе с Чжоу Эньлаем Чан Кайши освобождён и улетает в Нанкин, а с ним Чжан Сюэлян; Чжана судят военным судом и держат под арестом. Гражданская война с коммунистами прекращается. Национальное правительство заключает мир с коммунистами; Фэнтянь теряет 500 золота." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_WEIHAIWEI_TITLE" Text="Возвращение Вэйхайвэя" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_WEIHAIWEI_TEXT" Text="Великобритания возвращает Китаю арендованную с 1898 года территорию Вэйхайвэй. Национальное правительство получает Вэйхайвэй." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_FUZHOU_TITLE" Text="Фучжоу взят" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_FUZHOU_TEXT" Text="Центральная армия берёт Фучжоу, и Фуцзяньское народное правительство рушится; его вожди бегут в Гонконг, 19-я армия расформирована. Национальное правительство получает 200 золота; мятежные отряды под Фучжоу расходятся." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_LEVY_TITLE" Text="Пополнение Центральной армии" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_NAN_LEVY_TEXT" Text="В Нанкине готова новая дивизия Центральной армии." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_FAMINE_TITLE" Text="Голод на северо-западе" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_FAMINE_TEXT" Text="Три года без дождей принесли голод в Шэньси и Ганьсу и распространили его на Хэнань, Шаньси и Суйюань; голодают миллионы, дороги заполнены беженцами и разбойниками. Гоминьцзюнь теряет 300 золота; в Ганьсу и Шэньси появляются разбойники." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_HAN_FUJU_TITLE" Text="Хань Фуцзюй меняет сторону" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_HAN_FUJU_TEXT" Text="Пока Фэн Юйсян готовится порвать с Нанкином, два его лучших генерала, Хань Фуцзюй и Ши Юсань, объявляют о поддержке Чан Кайши и уводят свои войска. Гоминьцзюнь теряет два отряда под Лояном; Национальное правительство получает три дивизии." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_WAR_1929_TITLE" Text="Гоминьцзюнь против Нанкина" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_WAR_1929_TEXT" Text="Сун Чжэюань и другие генералы Гоминьцзюня публикуют телеграмму против Чан Кайши и выступают на восток, в западную Хэнань, пока сам Фэн Юйсян находится у Янь Сишаня в Шаньси. Гоминьцзюнь объявляет войну Национальному правительству и получает три дивизии и кавалерийскую бригаду." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_CENTRAL_PLAINS_TITLE" Text="Гоминьцзюнь на Центральной равнине" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_CENTRAL_PLAINS_TEXT" Text="Армии Фэн Юйсяна, самые сильные в коалиции, идут на восток по дороге Лунхай к Сюйчжоу и на юг по линии Пекин-Ханькоу. Гоминьцзюнь получает четыре дивизии, батарею и кавалерийскую бригаду." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_CHAHAR_TITLE" Text="Антияпонская союзная армия" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_CHAHAR_TEXT" Text="В Чжанцзякоу Фэн Юйсян создаёт Чахарскую народную антияпонскую союзную армию из старых солдат, местных войск и добровольцев; в июле она отбивает Долон у японцев и войск Маньчжоу-го. Гоминьцзюнь получает в Чжанцзякоу три дивизии и кавалерийскую бригаду." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_CHAHAR_END_TITLE" Text="Союзная армия распущена" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_CHAHAR_END_TEXT" Text="Под давлением Нанкина и японцев, без денег, Фэн Юйсян слагает командование Антияпонской союзной армией и удаляется на гору Тайшань; армия расформирована. Отряды Союзной армии расходятся." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_LEVY_TITLE" Text="Пополнение Гоминьцзюня" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GMJ_LEVY_TEXT" Text="Новые войска Гоминьцзюня готовы." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_COALITION_TITLE" Text="Коалиция против Чана" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_COALITION_TEXT" Text="В Тайюане Янь Сишань принимает присягу как главнокомандующий армиями, выступившими против Чан Кайши; его заместители Фэн Юйсян и Ли Цзунжэнь. Шаньси и Гуанси объявляют войну Национальному правительству; Шаньси получает три дивизии и горную батарею." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_BEIPING_GOVT_TITLE" Text="Расширенная конференция" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_BEIPING_GOVT_TEXT" Text="В Бэйпине Расширенная конференция оппозиционных фракций Гоминьдана с участием Ван Цзинвэя провозглашает соперничающее Национальное правительство с Янь Сишанем во главе. Шаньси получает 400 золота." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_RETURN_TITLE" Text="Возвращение Янь Сишаня" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_RETURN_TEXT" Text="После года в Даляне Янь Сишань снова в Тайюане; Нанкин перед лицом Японии назначает его тайюаньским уполномоченным по умиротворению. Шаньси получает 500 золота." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_INDUSTRY_TITLE" Text="Северо-западная промышленная компания" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_INDUSTRY_TEXT" Text="По своему десятилетнему плану Янь Сишань объединяет арсенал и провинциальные заводы в Северо-западную промышленную компанию, и начинается строительство узкоколейной дороги от Датуна до Хуанхэ. Шаньси получает 600 золота." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_BAILINGMIAO_TITLE" Text="Байлинмяо" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_BAILINGMIAO_TEXT" Text="Войска Фу Цзои отбивают наступление на восточный Суйюань, а затем ночной атакой в метель берут Байлинмяо, базу монгольских и марионеточных войск. Победу празднует весь Китай. Шаньси получает 300 золота, две дивизии и кавалерийскую бригаду в Гуйсуе." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_LEVY_TITLE" Text="Пополнение шаньсийской армии" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SHX_LEVY_TEXT" Text="В Тайюане готовы новые шаньсийские войска." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_INTO_THE_PASS_TITLE" Text="Северо-Восточная армия входит за Великую стену" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_INTO_THE_PASS_TEXT" Text="Чжан Сюэлян рассылает телеграмму с призывом прекратить войну и объявляет о поддержке Нанкина; Северо-Восточная армия проходит через Шаньхайгуань. Войска Янь Сишаня без боя оставляют Бэйпин и Тяньцзинь, и Хэбэй переходит к молодому маршалу. Фэнтянь получает 800 золота и три дивизии, а также Тяньцзинь и Бэйпин от Шаньси." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_FLAG_TITLE" Text="Смена флагов на Северо-Востоке" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_FLAG_TEXT" Text="В Мукдене и по всей Маньчжурии спускают пятицветный флаг и поднимают флаг Республики: Чжан Сюэлян признаёт Национальное правительство, которое оставляет за ним власть на Северо-Востоке. Фэнтянь получает 300 золота и объявляет о дружбе с Национальным правительством." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_YANG_CHANG_TITLE" Text="Инцидент Ян-Чан" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_YANG_CHANG_TEXT" Text="На ужине в своей резиденции Чжан Сюэлян приказывает расстрелять бывшего начальника штаба своего отца Ян Юйтина и губернатора Хэйлунцзяна Чан Иньхуая; вызов старых генералов его власти окончен. Фэнтянь получает 300 золота." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_CER_TITLE" Text="Китайско-Восточная железная дорога" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_CER_TEXT" Text="Китайские власти захватывают телеграф и управления Китайско-Восточной железной дороги, которой управляли совместно с Советским Союзом, арестовывают или высылают её советских руководителей. Москва разрывает отношения и сосредоточивает на границе Особую Дальневосточную армию." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SOVIET_LAHASUSU_TITLE" Text="Лахасусу" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SOVIET_LAHASUSU_TEXT" Text="Корабли советской Амурской флотилии и войска Особой Дальневосточной армии Василия Блюхера наносят удар в устье Сунгари, топят китайскую речную флотилию и берут Лахасусу. Советский Союз объявляет войну Фэнтяню; отряды Особой Дальневосточной армии высаживаются на Сунгари." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SOVIET_MANZHOULI_TITLE" Text="Маньчжурия и Чжалайнор" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SOVIET_MANZHOULI_TEXT" Text="Особая Дальневосточная армия переходит границу на западе, окружает китайские войска у станции Маньчжурия и Чжалайнора и наступает на Хайлар, с танками и самолётами против армии, у которой нет ни того, ни другого. Советская пехота, танки и кавалерия переходят границу у Маньчжурии." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SOVIET_KHABAROVSK_TITLE" Text="Хабаровский протокол" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_SOVIET_KHABAROVSK_TEXT" Text="Представители Фэнтяня подписывают Хабаровский протокол: совместное советско-китайское управление КВЖД восстанавливается в довоенном виде, советские войска уходят. Советский Союз заключает мир с Фэнтянем; его экспедиционные отряды уходят." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_NENJIANG_TITLE" Text="Мост через Нэньцзян" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_NENJIANG_TEXT" Text="В Хэйлунцзяне Ма Чжаньшань отказывается выполнять приказ не сопротивляться и даёт бой Квантунской армии у железнодорожного моста через Нэньцзян; его стойкость делает его национальным героем. Фэнтянь получает в Цицикаре две дивизии и кавалерийскую бригаду." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_RESIGNATION_TITLE" Text="Отставка Чжан Сюэляна" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_RESIGNATION_TEXT" Text="После потери Жэхэ и сдачи Чэндэ без боя Чжан Сюэлян берёт вину на себя, уходит со всех постов и уезжает в Европу. Фэнтянь теряет 300 золота." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_RETURN_TITLE" Text="Возвращение молодого маршала" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_RETURN_TEXT" Text="Вернувшись из Европы и избавившись от опиумной зависимости, Чжан Сюэлян становится заместителем командующего штабом по подавлению бандитов в провинциях Хэнань, Хубэй и Аньхой в Учане, и его Северо-Восточная армия брошена против коммунистов. Фэнтянь получает 500 золота и три дивизии." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_NORTHWEST_TITLE" Text="Северо-западный штаб по подавлению бандитов" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_NORTHWEST_TEXT" Text="Чан Кайши перебрасывает Чжан Сюэляна и Северо-Восточную армию в Сиань, чтобы уничтожить Красную армию, только что пришедшую на север Шэньси. Изгнанным с родины солдатам Северо-Востока мало хочется воевать с другими китайцами. Фэнтянь получает в Сиани три дивизии и Великого полководца." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_XIAN_TITLE" Text="Сианьский инцидент" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_XIAN_TEXT" Text="Ранним утром охрана Чжан Сюэляна и войска Ян Хучэна захватывают Чан Кайши у горячих источников Хуацин под Сианью. Генералы требуют прекратить гражданскую войну и создать единый фронт против Японии. Фэнтянь заключает мир с коммунистами." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_LEVY_TITLE" Text="Пополнение Северо-Восточной армии" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_LEVY_TEXT" Text="Новые войска Северо-Восточной армии готовы." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_VOLUNTEERS_TITLE" Text="Северо-Восточная добровольческая армия" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_FT_VOLUNTEERS_TEXT" Text="Бывшие солдаты, полицейские, крестьяне и члены тайных обществ поднимаются против японцев в Маньчжурии." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_MUKDEN_TITLE" Text="Мукденский инцидент" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_MUKDEN_TEXT" Text="Поздно ночью на Южно-Маньчжурской железной дороге у Лютяоху, к северу от Мукдена, взрывается небольшой заряд. Заложившие его офицеры Квантунской армии обвиняют китайских солдат и атакуют казармы Бэйдаин; к утру Мукден с арсеналом и аэродромом в руках японцев. Чжан Сюэлян приказывает войскам не сопротивляться. Япония объявляет войну Фэнтяню, отряды Квантунской армии появляются вдоль дороги у Мукдена, Чанчуня и Андуна; Фэнтянь теряет 500 золота." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_KOREA_ARMY_TITLE" Text="Корейская армия переходит Ялу" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_KOREA_ARMY_TEXT" Text="Без приказа из Токио японская Корейская армия переходит Ялу у Синыйджу на помощь Квантунской армии. Япония получает в Пхеньяне три дивизии и авиаотряд." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_JINZHOU_TITLE" Text="Цзиньчжоу" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_JINZHOU_TEXT" Text="После недель бомбардировок Квантунская армия наступает на Цзиньчжоу, где сидело остающееся в Маньчжурии правительство Чжан Сюэляна; Северо-Восточная армия отходит за Великую стену. Отряды Квантунской армии наступают на Цзиньчжоу." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_SHANGHAI_TITLE" Text="Шанхайский инцидент" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_SHANGHAI_TEXT" Text="После столкновений в Международном сеттльменте японская морская пехота атакует китайский район Чжабэй. 19-я армия даёт отпор, Япония присылает флот и экспедиционную армию; к обороне присоединяется Пятая армия Чана. Япония объявляет войну Национальному правительству и высаживает армию и флот у Усуна; Национальное правительство получает в Шанхае 19-ю и Пятую армии." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_HARBIN_TITLE" Text="Харбин" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_HARBIN_TEXT" Text="Квантунская армия входит в Харбин; китайские войска северной Маньчжурии отходят на восток вдоль дороги. Отряды Квантунской армии появляются у Харбина." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_MANCHUKUO_TITLE" Text="Маньчжоу-го" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_MANCHUKUO_TEXT" Text="Квантунская армия провозглашает государство Маньчжоу-го во главе с бывшим императором Пу И как верховным правителем и со столицей в Чанчуне, переименованном в Синьцзин. Лига Наций посылает комиссию Литтона. Если Чанчунь у Японии, он переименован в Синьцзин; Япония получает три отряда армии Маньчжоу-го." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_SHANGHAI_TRUCE_TITLE" Text="Шанхайское перемирие" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_SHANGHAI_TRUCE_TEXT" Text="При посредничестве Британии, США и Франции Китай и Япония подписывают Шанхайское соглашение о прекращении огня: Шанхай демилитаризован, японская экспедиционная армия уходит. Япония заключает мир с Национальным правительством; шанхайские экспедиционные отряды уходят." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_SHANHAIGUAN_TITLE" Text="Шаньхайгуань" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_SHANHAIGUAN_TEXT" Text="В новогоднюю ночь японские войска атакуют Шаньхайгуань, где Великая стена выходит к морю, и берут его за три дня. Отряды Квантунской армии появляются у Шаньхайгуаня." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_REHE_TITLE" Text="Вторжение в Жэхэ" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_REHE_TEXT" Text="Японские войска и войска Маньчжоу-го вторгаются в Жэхэ. Армия Тан Юйлиня разваливается, и 4 марта небольшая моторизованная колонна без боя входит в Чэндэ; бои переходят на перевалы Великой стены, где дивизии Центральной армии и северян держатся неделями. Япония объявляет войну Шаньси и Национальному правительству и вводит в Жэхэ четыре дивизии, моторизованный отряд и кавалерию." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_TANGGU_TITLE" Text="Тангуское перемирие" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_TANGGU_TEXT" Text="В Тангу китайские и японские офицеры подписывают перемирие: демилитаризованная зона к югу от Великой стены, между Бэйпином, Тяньцзинем и перевалами, остаётся китайской полиции. Маньчжурия и Жэхэ потеряны во всём, кроме названия. Япония заключает мир с Фэнтянем, Национальным правительством, Шаньси и Гоминьцзюнем." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_HE_UMEZU_TITLE" Text="Соглашение Хэ-Умэдзу" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_HE_UMEZU_TEXT" Text="Под японским давлением Хэ Инцинь принимает требования генерала Умэдзу: отделения Гоминьдана и войска Центральной армии уходят из Хэбэя, а 51-я армия Чжан Сюэляна выводится из провинции. Национальное правительство теряет 300 золота; Фэнтянь теряет два отряда под Бэйпином." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_EAST_HEBEI_TITLE" Text="Автономный совет Восточного Хэбэя" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_EAST_HEBEI_TEXT" Text="В Тунчжоу, к востоку от Бэйпина, Инь Жугэн провозглашает Антикоммунистический автономный совет Восточного Хэбэя над двадцатью двумя уездами демилитаризованной зоны под японской защитой. В декабре студенты Бэйпина выходят на демонстрации против «движения за автономию»." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_MARCO_POLO_TITLE" Text="Мост Марко Поло" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_MARCO_POLO_TEXT" Text="Ночные выстрелы у моста Марко Поло близ Ваньпина во время японских учений перерастают в бой, а затем в войну. Через несколько недель Япония вводит армии в северный Китай и в Шанхай, и Китай, наконец единый против захватчика, отвечает. Япония объявляет войну всем китайским сторонам; её Гарнизонная армия появляется у Фэнтая, Квантунская армия усиливает Дайрен." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_REINFORCE_TITLE" Text="Усиление Квантунской армии" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_JAPAN_REINFORCE_TEXT" Text="В Маньчжурию прибывают свежие японские войска." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_HUNAN_TITLE" Text="Хунаньский инцидент" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_HUNAN_TEXT" Text="Уханьский политический совет, которым управляет гуансийская клика, снимает губернатора Хунани Лу Дипина и без согласия Нанкина посылает войска, чтобы изгнать его из Чанши. Гуанси получает две дивизии в Юэяне." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_CHANGSHA_TITLE" Text="Гуанси идёт на север" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_CHANGSHA_TEXT" Text="Чтобы присоединиться к войне против Чана, гуансийская армия и войска Чжан Факуя идут на север через Хунань и берут Чаншу; у Хэнъяна их отбрасывают гуандунские войска. Гуанси получает три дивизии в Гуйлине." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_CANTON_GOVT_TITLE" Text="Кантонское правительство" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_CANTON_GOVT_TEXT" Text="Противники Чан Кайши, от Ван Цзинвэя и Сунь Фо до Чэнь Цзитана и лидеров Гуанси, создают в Кантоне соперничающее Национальное правительство. Гуанси получает 500 золота." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_THREE_SELFS_TITLE" Text="Три опоры на себя" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_THREE_SELFS_TEXT" Text="Ли Цзунжэнь, Бай Чунси и Хуан Сюйчу перестраивают Гуанси на началах самообороны, самоуправления и самообеспечения: военное обучение каждого трудоспособного мужчины, сельские школы, дороги и провинциальная промышленность. Гуанси получает 300 золота и два отряда ополчения." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_LIANGGUANG_TITLE" Text="Инцидент Лянгуан" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_LIANGGUANG_TEXT" Text="Гуандун и Гуанси объявляют о походе на север для сопротивления Японии и мобилизуют армии против политики Нанкина. Через несколько недель генералы и авиация Гуандуна переходят к Нанкину; Гуанси держится до соглашения в сентябре. Гуанси получает три дивизии." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_LEVY_TITLE" Text="Пополнение гуансийской армии" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_GX_LEVY_TEXT" Text="Новые гуансийские войска готовы." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_PENG_TITLE" Text="Пэн Дэхуай в Цзинганшане" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_PENG_TEXT" Text="Пятая Красная армия Пэн Дэхуая, поднятая в Пинцзянском восстании в июле, приходит в горы Цзинганшань и соединяется с Мао Цзэдуном и Чжу Дэ. Два отряда Пятой Красной армии прибывают в Цзинганшань." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_GANNAN_TITLE" Text="В Южную Цзянси" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_GANNAN_TEXT" Text="Без продовольствия и в окружении Четвёртая Красная армия оставляет Цзинганшань Пэн Дэхуаю и уходит в Южную Цзянси и Западную Фуцзянь, где войска милитаристов редки. Два отряда Красной армии появляются у Жуйцзиня." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_CHANGTING_TITLE" Text="Чантин" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_CHANGTING_TEXT" Text="Четвёртая Красная армия разбивает местный гарнизон и берёт Чантин на западе Фуцзяни, где находит ткань, деньги и швейную фабрику. Коммунисты получают 300 золота и отряд у Жуйцзиня." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_GUTIAN_TITLE" Text="Конференция в Гутяни" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_GUTIAN_TEXT" Text="В Гутяни на западе Фуцзяни партийная конференция Четвёртой Красной армии принимает резолюцию Мао о руководстве партии армией и о политической работе армии среди населения. Коммунисты получают Великого полководца." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_CHANGSHA_TITLE" Text="Чанша" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_CHANGSHA_TEXT" Text="По приказу партии брать города Третья армейская группа Пэн Дэхуая штурмует Чаншу, столицу Хунани, и держит её около десяти дней, пока иностранные канонерки и вернувшиеся войска не вынуждают её уйти. Два отряда Красной армии появляются у Чанши." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LONGGANG_TITLE" Text="Лунган" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LONGGANG_TEXT" Text="Заманенная глубоко в горы 18-я дивизия Чжан Хуэйцзаня уничтожена у Лунгана, её командир взят в плен; первый поход окружения разваливается. Два отряда Красной армии и захваченная батарея появляются у Жуйцзиня." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_SOVIET_REPUBLIC_TITLE" Text="Китайская Советская Республика" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_SOVIET_REPUBLIC_TEXT" Text="В годовщину Октябрьской революции Первый всекитайский съезд Советов провозглашает в Жуйцзине Китайскую Советскую Республику во главе с Мао Цзэдуном как председателем её Центрального исполнительного комитета. Коммунисты получают 500 золота и два отряда Красной армии у Жуйцзиня." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_NINGDU_TITLE" Text="Нингдуское восстание" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_NINGDU_TEXT" Text="26-я армия, бывшие солдаты Фэн Юйсяна, посланные воевать с коммунистами в Цзянси, восстаёт в Нинду и с оружием переходит к Красной армии. Три отряда и пулемётная рота Пятой армейской группы появляются у Жуйцзиня." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LONG_MARCH_TITLE" Text="Великий поход" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LONG_MARCH_TEXT" Text="Блокгаузы пятого похода смыкаются. Центральная Красная армия и руководство партии прорываются из Цзянсийского советского района на запад: около восьмидесяти шести тысяч человек переходят реку Юйду со всем, что могут унести. Четыре отряда Центральной Красной армии собираются у Юйду." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_XIANG_RIVER_TITLE" Text="Река Сянцзян" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_XIANG_RIVER_TEXT" Text="Прорываясь через последнюю линию блокгаузов на реке Сянцзян на севере Гуанси, Центральная Красная армия теряет больше половины своего состава. Коммунисты теряют два отряда Центральной Красной армии." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_ZUNYI_TITLE" Text="Совещание в Цзуньи" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_ZUNYI_TEXT" Text="В Цзуньи, взятом в январе, расширенное совещание Политбюро осуждает военную линию советника Коминтерна и его сторонников и возвращает Мао Цзэдуна в руководство армией. Коммунисты получают Великого полководца у Цзуньи." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LUDING_TITLE" Text="Мост Лудин" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LUDING_TEXT" Text="После форсированного марша вдоль реки Даду авангард Красной армии под огнём переходит цепной мост у Лудина и открывает путь на север. Авангард Красной армии появляется у Лудина." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_SHAANBEI_TITLE" Text="Северная Шэньси" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_SHAANBEI_TEXT" Text="Через год после ухода из Цзянси колонна во главе с Мао Цзэдуном приходит в Уци на севере Шэньси, где её принимает советский район Лю Чжиданя и Гао Гана. Два отряда Шэньбэйской Красной армии появляются в Уци." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_WAYAOBAO_TITLE" Text="Ваяобао" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_WAYAOBAO_TEXT" Text="ЦК обосновывается в Ваяобао, которое становится резиденцией коммунистического руководства на северо-западе. Если земля свободна, коммунисты основывают город Ваяобао и получают там отряд Красной гвардии." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_EASTERN_EXPEDITION_TITLE" Text="Восточный поход" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_EASTERN_EXPEDITION_TEXT" Text="Красная армия переходит Хуанхэ в Шаньси, чтобы набрать бойцов, собрать припасы и открыть дорогу к японцам в Хэбэе; Нанкин посылает дивизии на помощь Янь Сишаню. Три отряда Красной армии переходят Хуанхэ в Шаньси; Национальное правительство посылает в Шаньси две дивизии." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_HUINING_TITLE" Text="Армии соединились" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_HUINING_TEXT" Text="В Ганьсу Четвёртый фронт Чжан Готао и Сюй Сянцяня, а затем Второй фронт Хэ Луна соединяются с Первым фронтом: Великий поход окончен. Отряды Второго и Четвёртого фронтов появляются в Хуэйнине." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LEVY_TITLE" Text="Красная гвардия" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_CCP_LEVY_TEXT" Text="Крестьяне опорной базы вступают в Красную гвардию." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_FUJIAN_TITLE" Text="Фуцзяньское народное правительство" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_FUJIAN_TEXT" Text="В Фучжоу 19-я армия, защитница Шанхая, и политики вокруг Ли Цзишэня и Чэнь Миншу провозглашают Народно-революционное правительство Китайской Республики против Чан Кайши. Нанкин поворачивает против них дивизии с цзянсийского фронта. Отряды Народно-революционной армии появляются у Фучжоу; Национальное правительство получает три дивизии." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_SUIYUAN_TITLE" Text="Суйюаньская кампания" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_SUIYUAN_TEXT" Text="Внутреннемонгольская армия князя Дэ и Великая ханьская справедливая армия, вооружённые Квантунской армией и с её советниками, наступают на восточный Суйюань. Монгольские и марионеточные отряды появляются к северу от Гуйсуя." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_HENAN_TITLE" Text="Разбойники в Хэнани" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_HENAN_TEXT" Text="Разбойничья армия грабит города западной Хэнани." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_SHANDONG_TITLE" Text="Красные пики" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_SHANDONG_TEXT" Text="Общество Красных пик, крестьяне, верящие, что заговоры делают их неуязвимыми для пуль, поднимается против сборщиков налогов и солдат." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_HONGHUZI_TITLE" Text="Хунхузы" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_HONGHUZI_TEXT" Text="Конные разбойники, хунхузы, нападают на железнодорожные города северной Маньчжурии." />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_SOUTH_TITLE" Text="Горные разбойники" />
+    <Replace Tag="TXT_KEY_CHN1928_EVT_BARB_SOUTH_TEXT" Text="Разбойники спускаются с южных гор." />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_NAN" Text="Национальное правительство" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_GMJ" Text="Гоминьцзюнь" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_SHX" Text="Шаньси" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_FT" Text="Фэнтянь" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_GX" Text="Гуанси" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_CCP" Text="Китайские коммунисты" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_BARB" Text="Разбойники и мятежники" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_JAPAN" Text="Япония" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_SOVIET" Text="Советский Союз" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_WEIHAIWEI" Text="Вэйхайвэй" />
+    <Replace Tag="TXT_KEY_CHN1928_SIDE_GUANGDONG" Text="Гуандун" />
+    <Replace Tag="TXT_KEY_CHN1928_WEEK" Text="Неделя {1_Num}" />
+    <Replace Tag="TXT_KEY_CHN1928_WEEK_TT" Text="Неделя {1_Num} сценария, счёт с 10 октября 1928 года" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_1" Text="января" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_2" Text="февраля" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_3" Text="марта" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_4" Text="апреля" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_5" Text="мая" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_6" Text="июня" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_7" Text="июля" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_8" Text="августа" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_9" Text="сентября" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_10" Text="октября" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_11" Text="ноября" />
+    <Replace Tag="TXT_KEY_CHN1928_MONTH_12" Text="декабря" />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_CENTRAL_ARMY" Text="Дивизия Центральной армии" />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_CENTRAL_ARMY_HELP" Text="Замена пехоты Великой войны у Национального правительства. 55 [ICON_STRENGTH] боевой силы вместо 50 и повышение «Натиск I»; примерно на 12% дороже (360 [ICON_PRODUCTION])." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_CENTRAL_ARMY_STRATEGY" Text="Дивизия Центральной армии лучшая пехота Китая: сильнее и дороже провинциальных войск. Берегите её для решающих сражений, а линию фронта пусть держат дивизии подешевле." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_CENTRAL_ARMY_TEXT" Text="Центральной армией называли ядро Национально-революционной армии, подчинённое лично Чан Кайши, с офицерами из выпускников Вампу. С конца 1928 года германская военная миссия, которую последовательно возглавляли Макс Бауэр, Герман Крибель, Георг Ветцель, Ханс фон Сект и Александр фон Фалькенхаузен, обучала и перевооружала всё большую её часть; к 1937 году несколько дивизий имели немецкое оружие, каски и выучку, и на них легла главная тяжесть боёв за Шанхай в том году." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_BIG_SWORD" Text="Бригада больших мечей" />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_BIG_SWORD_HELP" Text="Замена пехоты Великой войны у Гоминьцзюня. Примерно на 15% дешевле (270 [ICON_PRODUCTION]), повышения «Натиск I» и «Марш» (лечится каждый ход, даже после движения), но 48 [ICON_STRENGTH] боевой силы вместо 50." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_BIG_SWORD_STRATEGY" Text="Бригада больших мечей выносливая и дешёвая пехота, которая сходится с врагом вплотную и не останавливается на марше. Набирайте её числом и атакуйте в поле; за стенами она слабее регулярных дивизий." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_BIG_SWORD_TEXT" Text="Не имея достаточно винтовок и патронов, армии Фэн Юйсяна выдавали солдатам дадао, тяжёлый двуручный меч, для ближнего боя и ночных вылазок. Северо-западная армия Фэна славилась муштрой, маршами и дисциплиной: ни опиума, ни азартных игр, ни грабежа. В марте 1933 года на Великой стене у Сифэнкоу и Ловэньюя отряды больших мечей 29-й армии Сун Чжэюаня, сформированной из бывшего Гоминьцзюня, своими ночными атаками на японцев прославились на весь Китай." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_MOUNTAIN_GUN" Text="Тайюаньское горное орудие" />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_MOUNTAIN_GUN_HELP" Text="Замена артиллерии у Шаньси. На 20% дешевле (200 [ICON_PRODUCTION]) и 24 [ICON_STRENGTH] боевой силы вместо 21." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_MOUNTAIN_GUN_STRATEGY" Text="Тайюаньское горное орудие это артиллерия, которую Шаньси может строить массово. Сосредоточьте её за пехотой на перевалах в провинцию." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_MOUNTAIN_GUN_TEXT" Text="Тайюаньский арсенал, основанный в 1898 году как Шаньсийское машинное управление, Янь Сишань в 1920-е годы превратил в один из крупнейших в Китае. Он выпускал винтовки, пулемёты, миномёты, боеприпасы и лёгкие горные пушки, которые разбирали и везли на мулах через перевалы Тайханшаня и Люйляншаня; им была вооружена шаньсийская армия в Северном походе и в Центральной равнинной войне." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_BREGUET" Text="Бреге 19" />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_BREGUET_HELP" Text="Замена бомбардировщика Великой войны у Фэнтяня. 55 [ICON_RANGE_STRENGTH] дальнобойной силы вместо 50 и примерно на 8% дешевле (300 [ICON_PRODUCTION])." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_BREGUET_STRATEGY" Text="Бреге 19 даёт Фэнтяню самые сильные бомбардировщики в Китае. Разбивайте ими вражескую пехоту перед атакой и бейте по железнодорожным городам в тылу." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_BREGUET_TEXT" Text="Чжан Цзолинь в 1920-е годы создал крупнейшие в Китае военно-воздушные силы с французскими самолётами вроде Бреге 14 и Бреге 19 и с французскими и русскими инструкторами, на аэродроме Дунта под Мукденом. Чжан Сюэлян продолжал их расширять. В ночь Мукденского инцидента, 18 сентября 1931 года, Квантунская армия захватила Дунта, а с ним и большую часть самолётов Северо-Востока прямо на земле." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_GX_DIVISION" Text="Гуансийская дивизия" />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_GX_DIVISION_HELP" Text="Замена пехоты Великой войны у Гуанси. 52 [ICON_STRENGTH] боевой силы вместо 50 и повышения «Муштра I» и «Муштра II» (+30% на пересечённой местности)." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_GX_DIVISION_STRATEGY" Text="Гуансийская дивизия у себя дома в южных горах. Воюйте в лесах и на холмах, где она намного сильнее противника; на равнине она лишь немного лучше обычной пехоты." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_GX_DIVISION_TEXT" Text="Седьмая армия Национально-революционной армии, набранная в Гуанси Ли Цзунжэнем и Бай Чунси, в 1926-1927 годах с боями прошла от Хунани до Янцзы и вместе с Первой армией Чана в августе 1927 года отбросила за реку контрнаступление Сунь Чуаньфана у Лунтаня. Солдаты Гуанси, выносливые горцы под началом молодых и способных офицеров, слыли одними из лучших в Китае." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_RED_ARMY" Text="Колонна Красной армии" />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_RED_ARMY_HELP" Text="Замена пехоты Великой войны у коммунистов. Примерно на треть дешевле (220 [ICON_PRODUCTION]), повышения «Муштра I» (+15% на пересечённой местности) и «Марш» (лечится каждый ход, даже после движения), но 44 [ICON_STRENGTH] боевой силы вместо 50." />
+    <Replace Tag="TXT_KEY_UNIT_CHN1928_RED_ARMY_STRATEGY" Text="Колонна Красной армии это партизанская сила: дешёвая, привычная к горам и способная лечиться на ходу. Обходите укреплённые города и сильные дивизии в поле; бейте одиночные отряды и уходите." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_RED_ARMY_TEXT" Text="Четвёртая Красная армия сложилась в горах Цзинганшань весной 1928 года, когда войска Чжу Дэ и Чэнь И, уцелевшие после Наньчанского восстания, соединились с крестьянами и шахтёрами Мао Цзэдуна. Испытывая нужду во всём, она воевала по правилам, которые Мао свёл в формулу: враг наступает, мы отступаем; враг остановился, мы тревожим; враг устал, мы бьём; враг отступает, мы преследуем. К 1930 году Красные армии разрозненных советских районов насчитывали десятки тысяч бойцов." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_CENTRAL_ACADEMY" Text="Центральная военная академия" />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_CENTRAL_ACADEMY_HELP" Text="Замена военной академии у Национального правительства. На треть дешевле (200 [ICON_PRODUCTION]) и без содержания." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_CENTRAL_ACADEMY_STRATEGY" Text="Центральная военная академия даёт новым отрядам опыт военной академии гораздо дешевле. Стройте её в городах, где набирается Центральная армия." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_CENTRAL_ACADEMY_TEXT" Text="Военная академия Вампу была основана в 1924 году на острове Чанчжоу ниже Кантона на советские деньги и с советскими советниками; её начальником стал Чан Кайши. Её курсанты стали офицерами Северного похода и на двадцать лет ядром гоминьдановского офицерского корпуса. В 1928 году академия переехала в Нанкин как Центральная военная академия, по-прежнему во главе с Чаном." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_FARM_COLONY" Text="Военная земледельческая колония" />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_FARM_COLONY_HELP" Text="Замена амбара у Гоминьцзюня. Также +1 [ICON_PRODUCTION] производства и без содержания." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_FARM_COLONY_STRATEGY" Text="Военная земледельческая колония кормит армию и одновременно даёт ей работу. Стройте её в каждом городе бедного северо-запада." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_FARM_COLONY_TEXT" Text="Солдаты Фэн Юйсяна должны были не только воевать, но и работать: они строили дороги, сажали деревья и держали собственные мастерские и хозяйства. В середине 1920-х годов, будучи северо-западным пограничным комиссаром в Калгане, Фэн расселял солдат и беженцев на землях, распаханных вдоль Хуанхэ в Суйюани, и Гоминьцзюнь, насколько мог, жил тем, что производил сам." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_NW_INDUSTRY" Text="Северо-западная промышленная компания" />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_NW_INDUSTRY_HELP" Text="Замена мастерской у Шаньси. +3 [ICON_PRODUCTION] производства вместо +2 и 1 [ICON_GOLD] содержания вместо 2." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_NW_INDUSTRY_STRATEGY" Text="Северо-западная промышленная компания превращает шаньсийский уголь в оружие и товары. Стройте её сначала в Тайюане и шахтёрских городах." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_NW_INDUSTRY_TEXT" Text="В 1932 году Янь Сишань объявил десятилетний план для Шаньси, а в 1933 году объединил арсенал и провинциальные предприятия в Северо-западную промышленную компанию: сталь, цемент, химия, машиностроение, текстиль, уголь и узкоколейная дорога Тунпу от Датуна до Хуанхэ. Шаньси, «образцовая провинция», стала одной из самых промышленно развитых во внутреннем Китае." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_MUKDEN_ARSENAL" Text="Мукденский арсенал" />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_MUKDEN_ARSENAL_HELP" Text="Замена фабрики у Фэнтяня. +5 [ICON_PRODUCTION] производства вместо +4 и 2 [ICON_GOLD] содержания вместо 3." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_MUKDEN_ARSENAL_STRATEGY" Text="Мукденский арсенал делает Фэнтянь лучше всех вооружённой стороной в Китае. Стройте его в Мукдене и Харбине прежде всего." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_MUKDEN_ARSENAL_TEXT" Text="Арсенал Трёх восточных провинций в Мукдене, расширенный Чжан Цзолинем с начала 1920-х годов с иностранными станками и инженерами, стал крупнейшим оружейным заводом Китая и выпускал винтовки, пулемёты, артиллерию, миномёты и миллионы патронов. Квантунская армия захватила его нетронутым в сентябре 1931 года." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_MILITIA_OFFICE" Text="Управление ополчения" />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_MILITIA_OFFICE_HELP" Text="Замена казарм у Гуанси. +20 опыта сухопутным отрядам вместо +15 и без содержания." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_MILITIA_OFFICE_STRATEGY" Text="Управление ополчения обучает сухопутные отряды лучше обычных казарм и ничего не стоит в содержании. Стройте его в каждом городе Гуанси." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_MILITIA_OFFICE_TEXT" Text="После 1931 года Ли Цзунжэнь, Бай Чунси и Хуан Сюйчу перестроили Гуанси по политике «трёх опор на себя»: самооборона, самоуправление, самообеспечение. Каждый трудоспособный мужчина записывался в провинциальное ополчение и проходил обучение, а его командиры были одновременно старостами и учителями; в 1937 году эта система позволила Гуанси за несколько недель выставить новые дивизии." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_LAND_COMMITTEE" Text="Комитет земельной революции" />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_LAND_COMMITTEE_HELP" Text="Замена монумента у коммунистов. Также +1 [ICON_FOOD] еды и +1 [ICON_PRODUCTION] производства и без содержания." />
+    <Replace Tag="TXT_KEY_BUILDING_CHN1928_LAND_COMMITTEE_STRATEGY" Text="Комитет земельной революции привлекает деревни и кормит Красную армию. Стройте его первым в каждом городе коммунистов." />
+    <Replace Tag="TXT_KEY_CIV5_CHN1928_LAND_COMMITTEE_TEXT" Text="Там, где Красная армия создавала советскую власть, земельный комитет конфисковывал землю помещиков и делил её между бедными крестьянами: правила установили Цзинганшаньский земельный закон декабря 1928 года и Синьгоский земельный закон апреля 1929 года. Передел земли давал Красной армии новобранцев и зерно и делал советские районы достойными защиты для тех, кто в них жил." />
+  </Language_RU_RU>
+</GameData>

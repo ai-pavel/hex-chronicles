@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Spain 1936: static leader scenes, portrait atlas, faction emblems and Dawn of Man images (Firaxis Civil War technique). -->
+<GameData>
+  <IconTextureAtlases>
+    <Row><Atlas>ESP1936_LEADER_ATLAS</Atlas><IconSize>256</IconSize><Filename>ESP1936_Leaders256.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>ESP1936_LEADER_ATLAS</Atlas><IconSize>128</IconSize><Filename>ESP1936_Leaders128.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>ESP1936_LEADER_ATLAS</Atlas><IconSize>64</IconSize><Filename>ESP1936_Leaders64.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>ESP1936_CIV_COLOR_ATLAS</Atlas><IconSize>256</IconSize><Filename>ESP1936_CivColor256.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>ESP1936_CIV_COLOR_ATLAS</Atlas><IconSize>128</IconSize><Filename>ESP1936_CivColor128.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>ESP1936_CIV_COLOR_ATLAS</Atlas><IconSize>80</IconSize><Filename>ESP1936_CivColor80.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>ESP1936_CIV_COLOR_ATLAS</Atlas><IconSize>64</IconSize><Filename>ESP1936_CivColor64.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>ESP1936_CIV_COLOR_ATLAS</Atlas><IconSize>45</IconSize><Filename>ESP1936_CivColor45.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>ESP1936_CIV_COLOR_ATLAS</Atlas><IconSize>32</IconSize><Filename>ESP1936_CivColor32.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>ESP1936_CIV_ALPHA_ATLAS</Atlas><IconSize>128</IconSize><Filename>ESP1936_CivWhite128.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>ESP1936_CIV_ALPHA_ATLAS</Atlas><IconSize>64</IconSize><Filename>ESP1936_CivWhite64.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>ESP1936_CIV_ALPHA_ATLAS</Atlas><IconSize>48</IconSize><Filename>ESP1936_CivWhite48.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>ESP1936_CIV_ALPHA_ATLAS</Atlas><IconSize>32</IconSize><Filename>ESP1936_CivWhite32.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>ESP1936_CIV_ALPHA_ATLAS</Atlas><IconSize>24</IconSize><Filename>ESP1936_CivWhite24.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>ESP1936_CIV_ALPHA_ATLAS</Atlas><IconSize>16</IconSize><Filename>ESP1936_CivWhite16.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+  </IconTextureAtlases>
+  <Leaders>
+    <Update><Where Type="LEADER_CATHERINE" /><Set ArtDefineTag="ESP1936_Azana_Scene.xml" PortraitIndex="0" IconAtlas="ESP1936_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_SHAKA" /><Set ArtDefineTag="ESP1936_Franco_Scene.xml" PortraitIndex="1" IconAtlas="ESP1936_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_BISMARCK" /><Set ArtDefineTag="ESP1936_Mola_Scene.xml" PortraitIndex="2" IconAtlas="ESP1936_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_POCATELLO" /><Set ArtDefineTag="ESP1936_Companys_Scene.xml" PortraitIndex="3" IconAtlas="ESP1936_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_SELASSIE" /><Set ArtDefineTag="ESP1936_Aguirre_Scene.xml" PortraitIndex="4" IconAtlas="ESP1936_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_MONTEZUMA" /><Set ArtDefineTag="ESP1936_Durruti_Scene.xml" PortraitIndex="5" IconAtlas="ESP1936_LEADER_ATLAS" /></Update>
+  </Leaders>
+  <Civilizations>
+    <Update><Where Type="CIVILIZATION_RUSSIA" /><Set PortraitIndex="0" IconAtlas="ESP1936_CIV_COLOR_ATLAS" AlphaIconAtlas="ESP1936_CIV_ALPHA_ATLAS" DawnOfManImage="ESP1936_DOM_Azana.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_ZULU" /><Set PortraitIndex="1" IconAtlas="ESP1936_CIV_COLOR_ATLAS" AlphaIconAtlas="ESP1936_CIV_ALPHA_ATLAS" DawnOfManImage="ESP1936_DOM_Franco.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_GERMANY" /><Set PortraitIndex="2" IconAtlas="ESP1936_CIV_COLOR_ATLAS" AlphaIconAtlas="ESP1936_CIV_ALPHA_ATLAS" DawnOfManImage="ESP1936_DOM_Mola.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_SHOSHONE" /><Set PortraitIndex="3" IconAtlas="ESP1936_CIV_COLOR_ATLAS" AlphaIconAtlas="ESP1936_CIV_ALPHA_ATLAS" DawnOfManImage="ESP1936_DOM_Companys.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_ETHIOPIA" /><Set PortraitIndex="4" IconAtlas="ESP1936_CIV_COLOR_ATLAS" AlphaIconAtlas="ESP1936_CIV_ALPHA_ATLAS" DawnOfManImage="ESP1936_DOM_Aguirre.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_AZTEC" /><Set PortraitIndex="5" IconAtlas="ESP1936_CIV_COLOR_ATLAS" AlphaIconAtlas="ESP1936_CIV_ALPHA_ATLAS" DawnOfManImage="ESP1936_DOM_Durruti.dds" /></Update>
+  </Civilizations>
+</GameData>

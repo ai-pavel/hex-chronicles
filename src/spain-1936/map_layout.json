@@ -1,0 +1,796 @@
+{
+"W": 120,
+"H": 110,
+"cities": {
+"Madrid": {
+"x": 51,
+"y": 65,
+"owner": 0
+},
+"Aranjuez": {
+"x": 52,
+"y": 61,
+"owner": 0
+},
+"Talavera": {
+"x": 43,
+"y": 60,
+"owner": 0
+},
+"Guadalajara": {
+"x": 56,
+"y": 68,
+"owner": 0
+},
+"Siguenza": {
+"x": 59,
+"y": 73,
+"owner": 0
+},
+"Cuenca": {
+"x": 63,
+"y": 61,
+"owner": 0
+},
+"Tarancon": {
+"x": 57,
+"y": 60,
+"owner": 0
+},
+"Ciudad Real": {
+"x": 49,
+"y": 49,
+"owner": 0
+},
+"Puertollano": {
+"x": 48,
+"y": 45,
+"owner": 0
+},
+"Valdepenas": {
+"x": 54,
+"y": 46,
+"owner": 0
+},
+"Alcazar de San Juan": {
+"x": 55,
+"y": 53,
+"owner": 0
+},
+"Albacete": {
+"x": 65,
+"y": 49,
+"owner": 0
+},
+"Hellin": {
+"x": 66,
+"y": 43,
+"owner": 0
+},
+"Almansa": {
+"x": 71,
+"y": 47,
+"owner": 0
+},
+"Valencia": {
+"x": 77,
+"y": 54,
+"owner": 0
+},
+"Requena": {
+"x": 71,
+"y": 55,
+"owner": 0
+},
+"Alcoy": {
+"x": 76,
+"y": 45,
+"owner": 0
+},
+"Alicante": {
+"x": 76,
+"y": 41,
+"owner": 0
+},
+"Castellon": {
+"x": 79,
+"y": 61,
+"owner": 0
+},
+"Vinaroz": {
+"x": 83,
+"y": 66,
+"owner": 0
+},
+"Murcia": {
+"x": 71,
+"y": 37,
+"owner": 0
+},
+"Cartagena": {
+"x": 72,
+"y": 33,
+"owner": 0
+},
+"Lorca": {
+"x": 67,
+"y": 34,
+"owner": 0
+},
+"Almeria": {
+"x": 61,
+"y": 24,
+"owner": 0
+},
+"Baza": {
+"x": 58,
+"y": 31,
+"owner": 0
+},
+"Guadix": {
+"x": 55,
+"y": 29,
+"owner": 0
+},
+"Motril": {
+"x": 52,
+"y": 23,
+"owner": 0
+},
+"Jaen": {
+"x": 50,
+"y": 35,
+"owner": 0
+},
+"Ubeda": {
+"x": 53,
+"y": 37,
+"owner": 0
+},
+"Malaga": {
+"x": 45,
+"y": 22,
+"owner": 0
+},
+"Antequera": {
+"x": 44,
+"y": 26,
+"owner": 0
+},
+"Ronda": {
+"x": 39,
+"y": 23,
+"owner": 0
+},
+"Huelva": {
+"x": 25,
+"y": 30,
+"owner": 0
+},
+"Riotinto": {
+"x": 28,
+"y": 34,
+"owner": 0
+},
+"Badajoz": {
+"x": 26,
+"y": 48,
+"owner": 0
+},
+"Merida": {
+"x": 30,
+"y": 49,
+"owner": 0
+},
+"Don Benito": {
+"x": 34,
+"y": 49,
+"owner": 0
+},
+"Zafra": {
+"x": 29,
+"y": 43,
+"owner": 0
+},
+"Llerena": {
+"x": 33,
+"y": 40,
+"owner": 0
+},
+"Pozoblanco": {
+"x": 42,
+"y": 42,
+"owner": 0
+},
+"Penarroya": {
+"x": 38,
+"y": 41,
+"owner": 0
+},
+"Montoro": {
+"x": 46,
+"y": 38,
+"owner": 0
+},
+"Baena": {
+"x": 46,
+"y": 33,
+"owner": 0
+},
+"Gijon": {
+"x": 38,
+"y": 102,
+"owner": 0
+},
+"Luarca": {
+"x": 31,
+"y": 102,
+"owner": 0
+},
+"Llanes": {
+"x": 45,
+"y": 100,
+"owner": 0
+},
+"Santander": {
+"x": 51,
+"y": 100,
+"owner": 0
+},
+"Reinosa": {
+"x": 48,
+"y": 95,
+"owner": 0
+},
+"Mahon": {
+"x": 112,
+"y": 61,
+"owner": 0
+},
+"Villarrobledo": {
+"x": 60,
+"y": 52,
+"owner": 0
+},
+"Denia": {
+"x": 81,
+"y": 47,
+"owner": 0
+},
+"Seville": {
+"x": 33,
+"y": 30,
+"owner": 1
+},
+"Cadiz": {
+"x": 30,
+"y": 21,
+"owner": 1
+},
+"Ecija": {
+"x": 40,
+"y": 32,
+"owner": 1
+},
+"Moron": {
+"x": 37,
+"y": 27,
+"owner": 1
+},
+"Cordoba": {
+"x": 43,
+"y": 36,
+"owner": 1
+},
+"Lucena": {
+"x": 44,
+"y": 31,
+"owner": 1
+},
+"Granada": {
+"x": 52,
+"y": 28,
+"owner": 1
+},
+"Toledo": {
+"x": 48,
+"y": 59,
+"owner": 1
+},
+"Palma": {
+"x": 100,
+"y": 57,
+"owner": 1
+},
+"Ibiza": {
+"x": 91,
+"y": 49,
+"owner": 1
+},
+"Ceuta": {
+"x": 37,
+"y": 13,
+"owner": 1
+},
+"Tetuan": {
+"x": 37,
+"y": 9,
+"owner": 1
+},
+"Melilla": {
+"x": 57,
+"y": 6,
+"owner": 1
+},
+"Larache": {
+"x": 30,
+"y": 5,
+"owner": 1
+},
+"Xauen": {
+"x": 37,
+"y": 5,
+"owner": 1
+},
+"Villa Sanjurjo": {
+"x": 48,
+"y": 5,
+"owner": 1
+},
+"Arcos": {
+"x": 34,
+"y": 23,
+"owner": 1
+},
+"Burgos": {
+"x": 52,
+"y": 88,
+"owner": 2
+},
+"Valladolid": {
+"x": 44,
+"y": 80,
+"owner": 2
+},
+"Pamplona": {
+"x": 67,
+"y": 93,
+"owner": 2
+},
+"Vitoria": {
+"x": 59,
+"y": 93,
+"owner": 2
+},
+"Logrono": {
+"x": 61,
+"y": 89,
+"owner": 2
+},
+"Zaragoza": {
+"x": 73,
+"y": 80,
+"owner": 2
+},
+"Huesca": {
+"x": 76,
+"y": 85,
+"owner": 2
+},
+"Jaca": {
+"x": 75,
+"y": 90,
+"owner": 2
+},
+"Teruel": {
+"x": 71,
+"y": 64,
+"owner": 2
+},
+"Calatayud": {
+"x": 67,
+"y": 76,
+"owner": 2
+},
+"Tudela": {
+"x": 67,
+"y": 84,
+"owner": 2
+},
+"Aranda de Duero": {
+"x": 52,
+"y": 80,
+"owner": 2
+},
+"Soria": {
+"x": 60,
+"y": 81,
+"owner": 2
+},
+"Segovia": {
+"x": 48,
+"y": 71,
+"owner": 2
+},
+"Avila": {
+"x": 44,
+"y": 68,
+"owner": 2
+},
+"Salamanca": {
+"x": 37,
+"y": 72,
+"owner": 2
+},
+"Ciudad Rodrigo": {
+"x": 30,
+"y": 68,
+"owner": 2
+},
+"Zamora": {
+"x": 36,
+"y": 78,
+"owner": 2
+},
+"Benavente": {
+"x": 37,
+"y": 84,
+"owner": 2
+},
+"Leon": {
+"x": 37,
+"y": 91,
+"owner": 2
+},
+"Astorga": {
+"x": 34,
+"y": 90,
+"owner": 2
+},
+"Ponferrada": {
+"x": 30,
+"y": 91,
+"owner": 2
+},
+"Palencia": {
+"x": 45,
+"y": 84,
+"owner": 2
+},
+"Medina del Campo": {
+"x": 42,
+"y": 76,
+"owner": 2
+},
+"Caceres": {
+"x": 30,
+"y": 55,
+"owner": 2
+},
+"Plasencia": {
+"x": 33,
+"y": 61,
+"owner": 2
+},
+"Trujillo": {
+"x": 34,
+"y": 55,
+"owner": 2
+},
+"El Ferrol": {
+"x": 19,
+"y": 102,
+"owner": 2
+},
+"Santiago": {
+"x": 16,
+"y": 96,
+"owner": 2
+},
+"Lugo": {
+"x": 23,
+"y": 97,
+"owner": 2
+},
+"Orense": {
+"x": 20,
+"y": 89,
+"owner": 2
+},
+"Vigo": {
+"x": 14,
+"y": 88,
+"owner": 2
+},
+"Ribadeo": {
+"x": 27,
+"y": 102,
+"owner": 2
+},
+"Oviedo": {
+"x": 36,
+"y": 100,
+"owner": 2
+},
+"Calamocha": {
+"x": 69,
+"y": 71,
+"owner": 2
+},
+"Ejea": {
+"x": 70,
+"y": 85,
+"owner": 2
+},
+"Belchite": {
+"x": 74,
+"y": 76,
+"owner": 2
+},
+"Montalban": {
+"x": 74,
+"y": 70,
+"owner": 2
+},
+"Barcelona": {
+"x": 96,
+"y": 78,
+"owner": 3
+},
+"Manresa": {
+"x": 93,
+"y": 81,
+"owner": 3
+},
+"Vic": {
+"x": 96,
+"y": 84,
+"owner": 3
+},
+"Tarragona": {
+"x": 89,
+"y": 74,
+"owner": 3
+},
+"Tortosa": {
+"x": 84,
+"y": 70,
+"owner": 3
+},
+"Lerida": {
+"x": 84,
+"y": 80,
+"owner": 3
+},
+"Cervera": {
+"x": 89,
+"y": 80,
+"owner": 3
+},
+"Seo de Urgel": {
+"x": 90,
+"y": 88,
+"owner": 3
+},
+"Puigcerda": {
+"x": 93,
+"y": 89,
+"owner": 3
+},
+"Gerona": {
+"x": 100,
+"y": 85,
+"owner": 3
+},
+"Tremp": {
+"x": 86,
+"y": 86,
+"owner": 3
+},
+"Gandesa": {
+"x": 82,
+"y": 73,
+"owner": 3
+},
+"Bilbao": {
+"x": 57,
+"y": 98,
+"owner": 4
+},
+"Guernica": {
+"x": 59,
+"y": 99,
+"owner": 4
+},
+"San Sebastian": {
+"x": 64,
+"y": 99,
+"owner": 4
+},
+"Caspe": {
+"x": 79,
+"y": 75,
+"owner": 5
+},
+"Fraga": {
+"x": 82,
+"y": 78,
+"owner": 5
+},
+"Barbastro": {
+"x": 80,
+"y": 84,
+"owner": 5
+},
+"Ainsa": {
+"x": 80,
+"y": 89,
+"owner": 5
+},
+"Mora de Rubielos": {
+"x": 74,
+"y": 64,
+"owner": 5
+},
+"Alcorisa": {
+"x": 76,
+"y": 71,
+"owner": 5
+},
+"Lisbon": {
+"x": 9,
+"y": 48,
+"owner": 32
+},
+"Gibraltar": {
+"x": 37,
+"y": 16,
+"owner": 33
+},
+"Tangier": {
+"x": 34,
+"y": 12,
+"owner": 34
+},
+"Andorra la Vella": {
+"x": 90,
+"y": 91,
+"owner": 35
+},
+"Perpignan": {
+"x": 100,
+"y": 93,
+"owner": 36
+},
+"Oran": {
+"x": 76,
+"y": 10,
+"owner": 37
+},
+"Oporto": {
+"x": 14,
+"y": 75,
+"owner": 32
+},
+"Coimbra": {
+"x": 15,
+"y": 64,
+"owner": 32
+},
+"Evora": {
+"x": 18,
+"y": 45,
+"owner": 32
+},
+"Faro": {
+"x": 17,
+"y": 27,
+"owner": 32
+},
+"Braga": {
+"x": 16,
+"y": 80,
+"owner": 32
+},
+"Guarda": {
+"x": 24,
+"y": 68,
+"owner": 32
+},
+"Santarem": {
+"x": 12,
+"y": 53,
+"owner": 32
+},
+"Viseu": {
+"x": 19,
+"y": 69,
+"owner": 32
+},
+"Braganca": {
+"x": 29,
+"y": 82,
+"owner": 32
+},
+"Beja": {
+"x": 18,
+"y": 39,
+"owner": 32
+},
+"Castelo Branco": {
+"x": 22,
+"y": 59,
+"owner": 32
+},
+"Toulouse": {
+"x": 89,
+"y": 103,
+"owner": 36
+},
+"Bayonne": {
+"x": 68,
+"y": 101,
+"owner": 36
+},
+"Pau": {
+"x": 76,
+"y": 99,
+"owner": 36
+},
+"Carcassonne": {
+"x": 96,
+"y": 99,
+"owner": 36
+},
+"Narbonne": {
+"x": 101,
+"y": 99,
+"owner": 36
+},
+"Foix": {
+"x": 91,
+"y": 96,
+"owner": 36
+},
+"Mont-de-Marsan": {
+"x": 75,
+"y": 106,
+"owner": 36
+},
+"Algiers": {
+"x": 106,
+"y": 24,
+"owner": 37
+},
+"Tlemcen": {
+"x": 70,
+"y": 1,
+"owner": 37
+},
+"Sidi Bel Abbes": {
+"x": 76,
+"y": 5,
+"owner": 37
+},
+"Mostaganem": {
+"x": 81,
+"y": 13,
+"owner": 37
+},
+"Orleansville": {
+"x": 92,
+"y": 16,
+"owner": 37
+},
+"Ouezzane": {
+"x": 35,
+"y": 0,
+"owner": 37
+},
+"Nemours": {
+"x": 66,
+"y": 3,
+"owner": 37
+}
+}
+}

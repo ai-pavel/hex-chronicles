@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Arcanum 1885 database rows: Arcanum city lists for the five nations, ten free cities as city-states, nation colours. -->
+<GameData>
+  <Civilization_CityNames>
+    <Delete CivilizationType="CIVILIZATION_ENGLAND" />
+    <Row><CivilizationType>CIVILIZATION_ENGLAND</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_ENGLAND_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ENGLAND</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_ENGLAND_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ENGLAND</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_ENGLAND_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ENGLAND</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_ENGLAND_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ENGLAND</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_ENGLAND_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ENGLAND</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_ENGLAND_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ENGLAND</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_ENGLAND_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ENGLAND</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_ENGLAND_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ENGLAND</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_ENGLAND_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_ENGLAND</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_ENGLAND_9</CityName></Row>
+    <Delete CivilizationType="CIVILIZATION_FRANCE" />
+    <Row><CivilizationType>CIVILIZATION_FRANCE</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_FRANCE_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_FRANCE</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_FRANCE_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_FRANCE</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_FRANCE_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_FRANCE</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_FRANCE_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_FRANCE</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_FRANCE_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_FRANCE</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_FRANCE_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_FRANCE</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_FRANCE_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_FRANCE</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_FRANCE_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_FRANCE</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_FRANCE_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_FRANCE</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_FRANCE_9</CityName></Row>
+    <Delete CivilizationType="CIVILIZATION_RUSSIA" />
+    <Row><CivilizationType>CIVILIZATION_RUSSIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_RUSSIA_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_RUSSIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_RUSSIA_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_RUSSIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_RUSSIA_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_RUSSIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_RUSSIA_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_RUSSIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_RUSSIA_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_RUSSIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_RUSSIA_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_RUSSIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_RUSSIA_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_RUSSIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_RUSSIA_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_RUSSIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_RUSSIA_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_RUSSIA</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_RUSSIA_9</CityName></Row>
+    <Delete CivilizationType="CIVILIZATION_GERMANY" />
+    <Row><CivilizationType>CIVILIZATION_GERMANY</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_GERMANY_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_GERMANY</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_GERMANY_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_GERMANY</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_GERMANY_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_GERMANY</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_GERMANY_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_GERMANY</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_GERMANY_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_GERMANY</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_GERMANY_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_GERMANY</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_GERMANY_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_GERMANY</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_GERMANY_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_GERMANY</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_GERMANY_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_GERMANY</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_GERMANY_9</CityName></Row>
+    <Delete CivilizationType="CIVILIZATION_SWEDEN" />
+    <Row><CivilizationType>CIVILIZATION_SWEDEN</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_SWEDEN_0</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SWEDEN</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_SWEDEN_1</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SWEDEN</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_SWEDEN_2</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SWEDEN</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_SWEDEN_3</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SWEDEN</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_SWEDEN_4</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SWEDEN</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_SWEDEN_5</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SWEDEN</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_SWEDEN_6</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SWEDEN</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_SWEDEN_7</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SWEDEN</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_SWEDEN_8</CityName></Row>
+    <Row><CivilizationType>CIVILIZATION_SWEDEN</CivilizationType><CityName>TXT_KEY_CITY_NAME_ARC_SWEDEN_9</CityName></Row>
+  </Civilization_CityNames>
+  <Colors>
+    <Row><Type>COLOR_PLAYER_ARC_TARANT_ICON</Type><Red>0.788</Red><Green>0.635</Green><Blue>0.153</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ARC_TARANT_BG</Type><Red>0.169</Red><Green>0.169</Green><Blue>0.169</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ARC_CALADON_ICON</Type><Red>0.949</Red><Green>0.949</Green><Blue>0.949</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ARC_CALADON_BG</Type><Red>0.122</Red><Green>0.306</Green><Blue>0.604</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ARC_CUMBRIA_ICON</Type><Red>1.000</Red><Green>1.000</Green><Blue>1.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ARC_CUMBRIA_BG</Type><Red>0.545</Red><Green>0.102</Green><Blue>0.102</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ARC_WHEEL_ICON</Type><Red>1.000</Red><Green>0.702</Green><Blue>0.278</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ARC_WHEEL_BG</Type><Red>0.353</Red><Green>0.227</Green><Blue>0.102</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ARC_VENDIGROTH_ICON</Type><Red>0.710</Red><Green>0.961</Green><Blue>0.925</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ARC_VENDIGROTH_BG</Type><Red>0.059</Red><Green>0.373</Green><Blue>0.361</Blue><Alpha>1</Alpha></Row>
+  </Colors>
+  <PlayerColors>
+    <Row><Type>PLAYERCOLOR_ARC_TARANT</Type><PrimaryColor>COLOR_PLAYER_ARC_TARANT_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_ARC_TARANT_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_ARC_CALADON</Type><PrimaryColor>COLOR_PLAYER_ARC_CALADON_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_ARC_CALADON_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_ARC_CUMBRIA</Type><PrimaryColor>COLOR_PLAYER_ARC_CUMBRIA_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_ARC_CUMBRIA_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_ARC_WHEEL</Type><PrimaryColor>COLOR_PLAYER_ARC_WHEEL_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_ARC_WHEEL_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_ARC_VENDIGROTH</Type><PrimaryColor>COLOR_PLAYER_ARC_VENDIGROTH_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_ARC_VENDIGROTH_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+  </PlayerColors>
+  <Civilizations>
+    <Update><Where Type="CIVILIZATION_ENGLAND" /><Set DefaultPlayerColor="PLAYERCOLOR_ARC_TARANT" DawnOfManQuote="TXT_KEY_ARC_ENGLAND_DAWN" /></Update>
+    <Update><Where Type="CIVILIZATION_FRANCE" /><Set DefaultPlayerColor="PLAYERCOLOR_ARC_CALADON" DawnOfManQuote="TXT_KEY_ARC_FRANCE_DAWN" /></Update>
+    <Update><Where Type="CIVILIZATION_RUSSIA" /><Set DefaultPlayerColor="PLAYERCOLOR_ARC_CUMBRIA" DawnOfManQuote="TXT_KEY_ARC_RUSSIA_DAWN" /></Update>
+    <Update><Where Type="CIVILIZATION_GERMANY" /><Set DefaultPlayerColor="PLAYERCOLOR_ARC_WHEEL" DawnOfManQuote="TXT_KEY_ARC_GERMANY_DAWN" /></Update>
+    <Update><Where Type="CIVILIZATION_SWEDEN" /><Set DefaultPlayerColor="PLAYERCOLOR_ARC_VENDIGROTH" DawnOfManQuote="TXT_KEY_ARC_SWEDEN_DAWN" /></Update>
+  </Civilizations>
+  <MinorCivilizations>
+    <Row><Type>MINOR_CIV_ARC_QINTARRA</Type><Description>TXT_KEY_CITYSTATE_ARC_QINTARRA</Description><Civilopedia>TXT_KEY_CITYSTATE_ARC_QINTARRA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ARC_QINTARRA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ARC_QINTARRA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_GREEN</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_ARC_ASHBURY</Type><Description>TXT_KEY_CITYSTATE_ARC_ASHBURY</Description><Civilopedia>TXT_KEY_CITYSTATE_ARC_ASHBURY</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ARC_ASHBURY</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ARC_ASHBURY</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_GOLDENROD</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_ARC_BLACKROOT</Type><Description>TXT_KEY_CITYSTATE_ARC_BLACKROOT</Description><Civilopedia>TXT_KEY_CITYSTATE_ARC_BLACKROOT</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ARC_BLACKROOT</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ARC_BLACKROOT</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_BLUE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_ARC_STILLWATER</Type><Description>TXT_KEY_CITYSTATE_ARC_STILLWATER</Description><Civilopedia>TXT_KEY_CITYSTATE_ARC_STILLWATER</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ARC_STILLWATER</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ARC_STILLWATER</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_GRAY</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_ARC_SHROUDED</Type><Description>TXT_KEY_CITYSTATE_ARC_SHROUDED</Description><Civilopedia>TXT_KEY_CITYSTATE_ARC_SHROUDED</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ARC_SHROUDED</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ARC_SHROUDED</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_PEACH</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_ARC_ROSEBOROUGH</Type><Description>TXT_KEY_CITYSTATE_ARC_ROSEBOROUGH</Description><Civilopedia>TXT_KEY_CITYSTATE_ARC_ROSEBOROUGH</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ARC_ROSEBOROUGH</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ARC_ROSEBOROUGH</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_PURPLE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_ARC_TULLA</Type><Description>TXT_KEY_CITYSTATE_ARC_TULLA</Description><Civilopedia>TXT_KEY_CITYSTATE_ARC_TULLA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ARC_TULLA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ARC_TULLA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_WHITE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_ARC_DESPAIR</Type><Description>TXT_KEY_CITYSTATE_ARC_DESPAIR</Description><Civilopedia>TXT_KEY_CITYSTATE_ARC_DESPAIR</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ARC_DESPAIR</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ARC_DESPAIR</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_DARK_LEMON</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_ARC_BEDOKAAN</Type><Description>TXT_KEY_CITYSTATE_ARC_BEDOKAAN</Description><Civilopedia>TXT_KEY_CITYSTATE_ARC_BEDOKAAN</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ARC_BEDOKAAN</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ARC_BEDOKAAN</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_CYAN</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_ARC_TSENANG</Type><Description>TXT_KEY_CITYSTATE_ARC_TSENANG</Description><Civilopedia>TXT_KEY_CITYSTATE_ARC_TSENANG</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ARC_TSENANG</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ARC_TSENANG</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_PURPLE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+  </MinorCivilizations>
+  <MinorCivilization_CityNames>
+    <Row><MinorCivType>MINOR_CIV_ARC_QINTARRA</MinorCivType><CityName>TXT_KEY_CITYSTATE_ARC_QINTARRA</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_ASHBURY</MinorCivType><CityName>TXT_KEY_CITYSTATE_ARC_ASHBURY</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_BLACKROOT</MinorCivType><CityName>TXT_KEY_CITYSTATE_ARC_BLACKROOT</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_STILLWATER</MinorCivType><CityName>TXT_KEY_CITYSTATE_ARC_STILLWATER</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_SHROUDED</MinorCivType><CityName>TXT_KEY_CITYSTATE_ARC_SHROUDED</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_ROSEBOROUGH</MinorCivType><CityName>TXT_KEY_CITYSTATE_ARC_ROSEBOROUGH</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_TULLA</MinorCivType><CityName>TXT_KEY_CITYSTATE_ARC_TULLA</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_DESPAIR</MinorCivType><CityName>TXT_KEY_CITYSTATE_ARC_DESPAIR</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_BEDOKAAN</MinorCivType><CityName>TXT_KEY_CITYSTATE_ARC_BEDOKAAN</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_TSENANG</MinorCivType><CityName>TXT_KEY_CITYSTATE_ARC_TSENANG</CityName></Row>
+  </MinorCivilization_CityNames>
+  <MinorCivilization_Flavors>
+    <Row><MinorCivType>MINOR_CIV_ARC_QINTARRA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_QINTARRA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_QINTARRA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_QINTARRA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_QINTARRA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_ASHBURY</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_ASHBURY</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_ASHBURY</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_ASHBURY</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_ASHBURY</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_BLACKROOT</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_BLACKROOT</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_BLACKROOT</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_BLACKROOT</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_BLACKROOT</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_STILLWATER</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_STILLWATER</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_STILLWATER</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_STILLWATER</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_STILLWATER</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_SHROUDED</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_SHROUDED</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_SHROUDED</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_SHROUDED</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_SHROUDED</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_ROSEBOROUGH</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_ROSEBOROUGH</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_ROSEBOROUGH</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_ROSEBOROUGH</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_ROSEBOROUGH</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_TULLA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_TULLA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_TULLA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_TULLA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_TULLA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_DESPAIR</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_DESPAIR</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_DESPAIR</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_DESPAIR</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_DESPAIR</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_BEDOKAAN</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_BEDOKAAN</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_BEDOKAAN</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_BEDOKAAN</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_BEDOKAAN</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_TSENANG</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_TSENANG</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>8</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_TSENANG</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_TSENANG</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ARC_TSENANG</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+  </MinorCivilization_Flavors>
+  <Buildings>
+    <Update><Where Type="BUILDING_HOTEL" /><Set PrereqTech="TECH_ECONOMIC_IMPERIALISM" /></Update>
+    <Update><Where Type="BUILDING_AIRPORT" /><Set PrereqTech="TECH_AIRSHIPS" /></Update>
+    <Update><Where Type="BUILDING_TOURIST_CENTER" /><Set PrereqTech="TECH_GOSPEL_OF_WEALTH" /></Update>
+    <Update><Where Type="BUILDING_STADIUM" /><Set PrereqTech="TECH_CIVIL_DEFENSE" /></Update>
+  </Buildings>
+  <!-- The Internet tech is gone with the modern tree; its tourism doubling moves to the last steampunk tech. -->
+  <Technologies>
+    <Update><Where Type="TECH_THE_GRAND_IDEA" /><Set InfluenceSpreadModifier="100" /></Update>
+  </Technologies>
+  <!-- Calendar: one turn = one year from 1885 (the steampunk rules set 1800). -->
+  <Defines>
+    <Update><Where Name="START_YEAR" /><Set Value="1885" /></Update>
+  </Defines>
+  <GameSpeed_Turns>
+    <Delete GameSpeedType="GAMESPEED_EPIC" />
+    <Row><GameSpeedType>GAMESPEED_EPIC</GameSpeedType><MonthIncrement>12</MonthIncrement><TurnsPerIncrement>100000</TurnsPerIncrement></Row>
+    <Delete GameSpeedType="GAMESPEED_QUICK" />
+    <Row><GameSpeedType>GAMESPEED_QUICK</GameSpeedType><MonthIncrement>12</MonthIncrement><TurnsPerIncrement>100000</TurnsPerIncrement></Row>
+  </GameSpeed_Turns>
+</GameData>

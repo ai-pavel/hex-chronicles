@@ -1,0 +1,16 @@
+{
+  "links": [
+    {"name": "Buy Me a Coffee", "url": ""},
+    {"name": "Ko-fi", "url": ""},
+    {"name": "Patreon", "url": ""}
+  ],
+  "crypto": [
+    {"name": "Bitcoin", "symbol": "BTC", "address": "bc1qxnw60rrmgt2xzfv0nc5j4mt4zeetqswp0vcth4"},
+    {"name": "Ethereum", "symbol": "ETH", "address": "0xFeb1329a68E7e754FbA545980Bf3f287f9919F50"},
+    {"name": "Solana", "symbol": "SOL", "address": "Af4xBSkmu2AeqQnT9bn65VgtKdoRXv6xXyhQTEbj7ao8"},
+    {"name": "TRON", "symbol": "TRX", "address": "TCehM6UMMwMjoY36k9fiVv63Lzpr5aFvcv"},
+    {"name": "Dogecoin", "symbol": "DOGE", "address": "DFGkHgqvKZNxsoraPHmzBRHhKwr6XqBAfg"},
+    {"name": "Zcash", "symbol": "ZEC", "address": "t1VmEi2isZooMvon33AvcFZvHUhgFBSRKrF"},
+    {"name": "Gram", "symbol": "GRAM", "address": "UQAG6jk3QnecTLsw-oGnXoZ3NsBfc4mtcTWM9mWd9rh8wqjg"}
+  ]
+}

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Spain 1936: no world wonders, no Manhattan Project, no Apollo Program; weekly calendar parked; neighbours as city-states; faction colours; European city and unit art for every side. -->
+<GameData>
+  <Buildings>
+    <Update><Where Type="BUILDING_ALHAMBRA" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_ANGKOR_WAT" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_BIG_BEN" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_BOROBUDUR" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_BRANDENBURG_GATE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_BROADWAY" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_CHICHEN_ITZA" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_CN_TOWER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_COLOSSUS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_CRISTO_REDENTOR" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_EIFFEL_TOWER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_FORBIDDEN_PALACE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GLOBE_THEATER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GREAT_FIREWALL" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GREAT_LIBRARY" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GREAT_LIGHTHOUSE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_GREAT_WALL" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_HAGIA_SOPHIA" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_HANGING_GARDEN" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_HIMEJI_CASTLE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_HUBBLE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_INTERNATIONAL_SPACE_STATION" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_KREMLIN" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_LEANING_TOWER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_LOUVRE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_MACHU_PICHU" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_MAUSOLEUM_HALICARNASSUS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_MOSQUE_OF_DJENNE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_NEUSCHWANSTEIN" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_NOTRE_DAME" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_ORACLE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PARTHENON" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PENTAGON" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PETRA" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PORCELAIN_TOWER" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PRORA_RESORT" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_PYRAMID" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_RED_FORT" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_SISTINE_CHAPEL" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_STATUE_OF_LIBERTY" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_STATUE_ZEUS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_STONEHENGE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_SYDNEY_OPERA_HOUSE" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_TAJ_MAHAL" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_TEMPLE_ARTEMIS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_TERRACOTTA_ARMY" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_UFFIZI" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="BUILDING_UNITED_NATIONS" /><Set PrereqTech="TECH_FUTURE_TECH" /></Update>
+  </Buildings>
+  <Projects>
+    <Update><Where Type="PROJECT_MANHATTAN_PROJECT" /><Set TechPrereq="TECH_FUTURE_TECH" /></Update>
+    <Update><Where Type="PROJECT_APOLLO_PROGRAM" /><Set TechPrereq="TECH_FUTURE_TECH" /></Update>
+  </Projects>
+  <GameSpeed_Turns>
+    <Delete GameSpeedType="GAMESPEED_STANDARD" />
+    <Row><GameSpeedType>GAMESPEED_STANDARD</GameSpeedType><MonthIncrement>1</MonthIncrement><TurnsPerIncrement>100000</TurnsPerIncrement></Row>
+    <Delete GameSpeedType="GAMESPEED_QUICK" />
+    <Row><GameSpeedType>GAMESPEED_QUICK</GameSpeedType><MonthIncrement>1</MonthIncrement><TurnsPerIncrement>100000</TurnsPerIncrement></Row>
+  </GameSpeed_Turns>
+  <Defines>
+    <Update><Where Name="START_YEAR" /><Set Value="1936" /></Update>
+  </Defines>
+  <Colors>
+    <Row><Type>COLOR_PLAYER_ESP1936_REP_ICON</Type><Red>0.945</Red><Green>0.769</Green><Blue>0.059</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ESP1936_REP_BG</Type><Red>0.357</Red><Green>0.165</Green><Blue>0.431</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ESP1936_NAT_ICON</Type><Red>0.945</Red><Green>0.749</Green><Blue>0.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ESP1936_NAT_BG</Type><Red>0.667</Red><Green>0.082</Green><Blue>0.106</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ESP1936_NORTH_ICON</Type><Red>0.784</Red><Green>0.063</Green><Blue>0.180</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ESP1936_NORTH_BG</Type><Red>0.949</Red><Green>0.949</Green><Blue>0.949</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ESP1936_CAT_ICON</Type><Red>0.855</Red><Green>0.071</Green><Blue>0.102</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ESP1936_CAT_BG</Type><Red>0.988</Red><Green>0.867</Green><Blue>0.035</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ESP1936_EUZ_ICON</Type><Red>1.000</Red><Green>1.000</Green><Blue>1.000</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ESP1936_EUZ_BG</Type><Red>0.000</Red><Green>0.518</Green><Blue>0.239</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ESP1936_CNT_ICON</Type><Red>0.890</Red><Green>0.024</Green><Blue>0.075</Blue><Alpha>1</Alpha></Row>
+    <Row><Type>COLOR_PLAYER_ESP1936_CNT_BG</Type><Red>0.078</Red><Green>0.078</Green><Blue>0.078</Blue><Alpha>1</Alpha></Row>
+  </Colors>
+  <PlayerColors>
+    <Row><Type>PLAYERCOLOR_ESP1936_REP</Type><PrimaryColor>COLOR_PLAYER_ESP1936_REP_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_ESP1936_REP_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_ESP1936_NAT</Type><PrimaryColor>COLOR_PLAYER_ESP1936_NAT_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_ESP1936_NAT_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_ESP1936_NORTH</Type><PrimaryColor>COLOR_PLAYER_ESP1936_NORTH_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_ESP1936_NORTH_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_ESP1936_CAT</Type><PrimaryColor>COLOR_PLAYER_ESP1936_CAT_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_ESP1936_CAT_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_ESP1936_EUZ</Type><PrimaryColor>COLOR_PLAYER_ESP1936_EUZ_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_ESP1936_EUZ_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+    <Row><Type>PLAYERCOLOR_ESP1936_CNT</Type><PrimaryColor>COLOR_PLAYER_ESP1936_CNT_ICON</PrimaryColor><SecondaryColor>COLOR_PLAYER_ESP1936_CNT_BG</SecondaryColor><TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor></Row>
+  </PlayerColors>
+  <Civilizations>
+    <Update><Where Type="CIVILIZATION_RUSSIA" /><Set DefaultPlayerColor="PLAYERCOLOR_ESP1936_REP" ArtStyleType="ARTSTYLE_EUROPEAN" ArtStyleSuffix="_EURO" ArtStylePrefix="EUROPEAN " /></Update>
+    <Update><Where Type="CIVILIZATION_ZULU" /><Set DefaultPlayerColor="PLAYERCOLOR_ESP1936_NAT" ArtStyleType="ARTSTYLE_EUROPEAN" ArtStyleSuffix="_EURO" ArtStylePrefix="EUROPEAN " /></Update>
+    <Update><Where Type="CIVILIZATION_GERMANY" /><Set DefaultPlayerColor="PLAYERCOLOR_ESP1936_NORTH" ArtStyleType="ARTSTYLE_EUROPEAN" ArtStyleSuffix="_EURO" ArtStylePrefix="EUROPEAN " /></Update>
+    <Update><Where Type="CIVILIZATION_SHOSHONE" /><Set DefaultPlayerColor="PLAYERCOLOR_ESP1936_CAT" ArtStyleType="ARTSTYLE_EUROPEAN" ArtStyleSuffix="_EURO" ArtStylePrefix="EUROPEAN " /></Update>
+    <Update><Where Type="CIVILIZATION_ETHIOPIA" /><Set DefaultPlayerColor="PLAYERCOLOR_ESP1936_EUZ" ArtStyleType="ARTSTYLE_EUROPEAN" ArtStyleSuffix="_EURO" ArtStylePrefix="EUROPEAN " /></Update>
+    <Update><Where Type="CIVILIZATION_AZTEC" /><Set DefaultPlayerColor="PLAYERCOLOR_ESP1936_CNT" ArtStyleType="ARTSTYLE_EUROPEAN" ArtStyleSuffix="_EURO" ArtStylePrefix="EUROPEAN " /></Update>
+  </Civilizations>
+  <MinorCivilizations>
+    <Row><Type>MINOR_CIV_ESP1936_PORTUGAL</Type><Description>TXT_KEY_CITYSTATE_ESP1936_PORTUGAL</Description><Civilopedia>TXT_KEY_CITYSTATE_ESP1936_PORTUGAL</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ESP1936_PORTUGAL</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ESP1936_PORTUGAL</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_GREEN</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_ESP1936_GIBRALTAR</Type><Description>TXT_KEY_CITYSTATE_ESP1936_GIBRALTAR</Description><Civilopedia>TXT_KEY_CITYSTATE_ESP1936_GIBRALTAR</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ESP1936_GIBRALTAR</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ESP1936_GIBRALTAR</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_BLUE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_ESP1936_TANGIER</Type><Description>TXT_KEY_CITYSTATE_ESP1936_TANGIER</Description><Civilopedia>TXT_KEY_CITYSTATE_ESP1936_TANGIER</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ESP1936_TANGIER</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ESP1936_TANGIER</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_GOLDENROD</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_ESP1936_ANDORRA</Type><Description>TXT_KEY_CITYSTATE_ESP1936_ANDORRA</Description><Civilopedia>TXT_KEY_CITYSTATE_ESP1936_ANDORRA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ESP1936_ANDORRA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ESP1936_ANDORRA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_PURPLE</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_ESP1936_FRANCE</Type><Description>TXT_KEY_CITYSTATE_ESP1936_FRANCE</Description><Civilopedia>TXT_KEY_CITYSTATE_ESP1936_FRANCE</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ESP1936_FRANCE</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ESP1936_FRANCE</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_CYAN</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait></Row>
+    <Row><Type>MINOR_CIV_ESP1936_NAFRICA</Type><Description>TXT_KEY_CITYSTATE_ESP1936_NAFRICA</Description><Civilopedia>TXT_KEY_CITYSTATE_ESP1936_NAFRICA</Civilopedia><ShortDescription>TXT_KEY_CITYSTATE_ESP1936_NAFRICA</ShortDescription><Adjective>TXT_KEY_CITYSTATE_ESP1936_NAFRICA</Adjective><ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag><DefaultPlayerColor>PLAYERCOLOR_MINOR_PEACH</DefaultPlayerColor><ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType><ArtStyleSuffix>_EURO</ArtStyleSuffix><ArtStylePrefix>EUROPEAN </ArtStylePrefix><MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait></Row>
+  </MinorCivilizations>
+  <MinorCivilization_CityNames>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_PORTUGAL</MinorCivType><CityName>TXT_KEY_CITY_ESP1936_PORTUGAL</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_GIBRALTAR</MinorCivType><CityName>TXT_KEY_CITY_ESP1936_GIBRALTAR</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_TANGIER</MinorCivType><CityName>TXT_KEY_CITY_ESP1936_TANGIER</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_ANDORRA</MinorCivType><CityName>TXT_KEY_CITY_ESP1936_ANDORRA</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_FRANCE</MinorCivType><CityName>TXT_KEY_CITY_ESP1936_FRANCE</CityName></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_NAFRICA</MinorCivType><CityName>TXT_KEY_CITY_ESP1936_NAFRICA</CityName></Row>
+  </MinorCivilization_CityNames>
+  <MinorCivilization_Flavors>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_PORTUGAL</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_PORTUGAL</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_PORTUGAL</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_PORTUGAL</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_PORTUGAL</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_GIBRALTAR</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_GIBRALTAR</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_GIBRALTAR</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_GIBRALTAR</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_GIBRALTAR</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_TANGIER</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_TANGIER</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_TANGIER</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_TANGIER</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_TANGIER</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_ANDORRA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_ANDORRA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_ANDORRA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_ANDORRA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_ANDORRA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_FRANCE</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_FRANCE</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_FRANCE</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_FRANCE</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_FRANCE</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_NAFRICA</MinorCivType><FlavorType>FLAVOR_CITY_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_NAFRICA</MinorCivType><FlavorType>FLAVOR_DEFENSE</FlavorType><Flavor>9</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_NAFRICA</MinorCivType><FlavorType>FLAVOR_GROWTH</FlavorType><Flavor>4</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_NAFRICA</MinorCivType><FlavorType>FLAVOR_GOLD</FlavorType><Flavor>5</Flavor></Row>
+    <Row><MinorCivType>MINOR_CIV_ESP1936_NAFRICA</MinorCivType><FlavorType>FLAVOR_PRODUCTION</FlavorType><Flavor>5</Flavor></Row>
+  </MinorCivilization_Flavors>
+</GameData>

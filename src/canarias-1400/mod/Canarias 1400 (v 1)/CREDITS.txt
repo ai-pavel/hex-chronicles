@@ -1,0 +1,10 @@
+Canarias 1400 - credits
+
+Author: cryptoboy2283
+
+Relief, coastline and bathymetry: NOAA National Centers for Environmental Information, ETOPO 2022 15 Arc-Second Global Relief Model
+(public domain), exported through the NCEI image service by tools/fetch_data.py.
+Map format: Civ5MapImage / Civilization V WorldBuilder format description.
+Leader portraits, diplomacy scenes, Dawn of Man images and emblems were generated with Black Forest Labs' FLUX.2-dev through the Together AI
+image API (art/generate_art.py) and assembled with ImageMagick (art/build_art.py). The leaders are imagined; no real person is depicted.
+Unit and building art is the stock Firaxis art of the donor civilizations.

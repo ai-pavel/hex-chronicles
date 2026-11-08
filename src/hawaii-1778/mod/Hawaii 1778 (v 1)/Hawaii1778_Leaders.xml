@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hawaii 1778: generated leader art wired in (Firaxis Civil War technique): static scenes, portrait atlas, civ symbols, Dawn of Man images. -->
+<GameData>
+  <IconTextureAtlases>
+    <Row><Atlas>HI1778_LEADER_ATLAS</Atlas><IconSize>256</IconSize><Filename>HI1778_Leaders256.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_LEADER_ATLAS</Atlas><IconSize>128</IconSize><Filename>HI1778_Leaders128.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_LEADER_ATLAS</Atlas><IconSize>64</IconSize><Filename>HI1778_Leaders64.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_CIV_COLOR_ATLAS</Atlas><IconSize>256</IconSize><Filename>HI1778_CivColor256.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_CIV_COLOR_ATLAS</Atlas><IconSize>128</IconSize><Filename>HI1778_CivColor128.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_CIV_COLOR_ATLAS</Atlas><IconSize>80</IconSize><Filename>HI1778_CivColor80.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_CIV_COLOR_ATLAS</Atlas><IconSize>64</IconSize><Filename>HI1778_CivColor64.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_CIV_COLOR_ATLAS</Atlas><IconSize>45</IconSize><Filename>HI1778_CivColor45.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_CIV_COLOR_ATLAS</Atlas><IconSize>32</IconSize><Filename>HI1778_CivColor32.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_CIV_ALPHA_ATLAS</Atlas><IconSize>128</IconSize><Filename>HI1778_CivWhite128.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_CIV_ALPHA_ATLAS</Atlas><IconSize>64</IconSize><Filename>HI1778_CivWhite64.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_CIV_ALPHA_ATLAS</Atlas><IconSize>48</IconSize><Filename>HI1778_CivWhite48.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_CIV_ALPHA_ATLAS</Atlas><IconSize>32</IconSize><Filename>HI1778_CivWhite32.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_CIV_ALPHA_ATLAS</Atlas><IconSize>24</IconSize><Filename>HI1778_CivWhite24.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_CIV_ALPHA_ATLAS</Atlas><IconSize>16</IconSize><Filename>HI1778_CivWhite16.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+  </IconTextureAtlases>
+  <Leaders>
+    <Update><Where Type="LEADER_KAMEHAMEHA" /><Set ArtDefineTag="HI1778_KONA_Scene.xml" PortraitIndex="0" IconAtlas="HI1778_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_ODA_NOBUNAGA" /><Set ArtDefineTag="HI1778_HILO_Scene.xml" PortraitIndex="1" IconAtlas="HI1778_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_SHAKA" /><Set ArtDefineTag="HI1778_MAUI_Scene.xml" PortraitIndex="2" IconAtlas="HI1778_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_DIDO" /><Set ArtDefineTag="HI1778_OAHU_Scene.xml" PortraitIndex="3" IconAtlas="HI1778_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_SELASSIE" /><Set ArtDefineTag="HI1778_KAUAI_Scene.xml" PortraitIndex="4" IconAtlas="HI1778_LEADER_ATLAS" /></Update>
+  </Leaders>
+  <Civilizations>
+    <Update><Where Type="CIVILIZATION_POLYNESIA" /><Set PortraitIndex="0" IconAtlas="HI1778_CIV_COLOR_ATLAS" AlphaIconAtlas="HI1778_CIV_ALPHA_ATLAS" DawnOfManImage="HI1778_DOM_KONA.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_JAPAN" /><Set PortraitIndex="1" IconAtlas="HI1778_CIV_COLOR_ATLAS" AlphaIconAtlas="HI1778_CIV_ALPHA_ATLAS" DawnOfManImage="HI1778_DOM_HILO.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_ZULU" /><Set PortraitIndex="2" IconAtlas="HI1778_CIV_COLOR_ATLAS" AlphaIconAtlas="HI1778_CIV_ALPHA_ATLAS" DawnOfManImage="HI1778_DOM_MAUI.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_CARTHAGE" /><Set PortraitIndex="3" IconAtlas="HI1778_CIV_COLOR_ATLAS" AlphaIconAtlas="HI1778_CIV_ALPHA_ATLAS" DawnOfManImage="HI1778_DOM_OAHU.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_ETHIOPIA" /><Set PortraitIndex="4" IconAtlas="HI1778_CIV_COLOR_ATLAS" AlphaIconAtlas="HI1778_CIV_ALPHA_ATLAS" DawnOfManImage="HI1778_DOM_KAUAI.dds" /></Update>
+  </Civilizations>
+  <IconTextureAtlases>
+    <Row><Atlas>HI1778_UNIT_ATLAS</Atlas><IconSize>256</IconSize><Filename>HI1778_Units256.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_UNIT_ATLAS</Atlas><IconSize>128</IconSize><Filename>HI1778_Units128.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_UNIT_ATLAS</Atlas><IconSize>80</IconSize><Filename>HI1778_Units80.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_UNIT_ATLAS</Atlas><IconSize>64</IconSize><Filename>HI1778_Units64.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_UNIT_ATLAS</Atlas><IconSize>45</IconSize><Filename>HI1778_Units45.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_UNIT_ATLAS</Atlas><IconSize>32</IconSize><Filename>HI1778_Units32.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_UNIT_FLAG_ATLAS</Atlas><IconSize>32</IconSize><Filename>HI1778_UnitFlags32.dds</Filename><IconsPerRow>5</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_BUILDING_ATLAS</Atlas><IconSize>256</IconSize><Filename>HI1778_Buildings256.dds</Filename><IconsPerRow>3</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_BUILDING_ATLAS</Atlas><IconSize>128</IconSize><Filename>HI1778_Buildings128.dds</Filename><IconsPerRow>3</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_BUILDING_ATLAS</Atlas><IconSize>64</IconSize><Filename>HI1778_Buildings64.dds</Filename><IconsPerRow>3</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_BUILDING_ATLAS</Atlas><IconSize>45</IconSize><Filename>HI1778_Buildings45.dds</Filename><IconsPerRow>3</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+  </IconTextureAtlases>
+  <Units>
+    <Update><Where Type="UNIT_POLYNESIAN_MAORI_WARRIOR" /><Set PortraitIndex="0" IconAtlas="HI1778_UNIT_ATLAS" UnitFlagAtlas="HI1778_UNIT_FLAG_ATLAS" UnitFlagIconOffset="0" /></Update>
+    <Update><Where Type="UNIT_HI1778_OLOHE" /><Set PortraitIndex="1" IconAtlas="HI1778_UNIT_ATLAS" UnitFlagAtlas="HI1778_UNIT_FLAG_ATLAS" UnitFlagIconOffset="1" /></Update>
+    <Update><Where Type="UNIT_HI1778_POLOLU" /><Set PortraitIndex="2" IconAtlas="HI1778_UNIT_ATLAS" UnitFlagAtlas="HI1778_UNIT_FLAG_ATLAS" UnitFlagIconOffset="2" /></Update>
+    <Update><Where Type="UNIT_CARTHAGINIAN_QUINQUEREME" /><Set PortraitIndex="3" IconAtlas="HI1778_UNIT_ATLAS" UnitFlagAtlas="HI1778_UNIT_FLAG_ATLAS" UnitFlagIconOffset="3" /></Update>
+    <Update><Where Type="UNIT_HI1778_MAA" /><Set PortraitIndex="4" IconAtlas="HI1778_UNIT_ATLAS" UnitFlagAtlas="HI1778_UNIT_FLAG_ATLAS" UnitFlagIconOffset="4" /></Update>
+  </Units>
+  <Buildings>
+    <Update><Where Type="BUILDING_HI1778_PUUHONUA" /><Set PortraitIndex="0" IconAtlas="HI1778_BUILDING_ATLAS" /></Update>
+    <Update><Where Type="BUILDING_HI1778_LOKOIA" /><Set PortraitIndex="1" IconAtlas="HI1778_BUILDING_ATLAS" /></Update>
+    <Update><Where Type="BUILDING_HI1778_LOIKALO" /><Set PortraitIndex="2" IconAtlas="HI1778_BUILDING_ATLAS" /></Update>
+  </Buildings>
+  <IconTextureAtlases>
+    <Row><Atlas>HI1778_IMPROVEMENT_ATLAS</Atlas><IconSize>256</IconSize><Filename>HI1778_Improvements256.dds</Filename><IconsPerRow>1</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_IMPROVEMENT_ATLAS</Atlas><IconSize>64</IconSize><Filename>HI1778_Improvements64.dds</Filename><IconsPerRow>1</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_ACTION_ATLAS</Atlas><IconSize>64</IconSize><Filename>HI1778_Actions64.dds</Filename><IconsPerRow>1</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_ACTION_ATLAS</Atlas><IconSize>45</IconSize><Filename>HI1778_Actions45.dds</Filename><IconsPerRow>1</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+  </IconTextureAtlases>
+  <Improvements>
+    <Update><Where Type="IMPROVEMENT_MOAI" /><Set PortraitIndex="0" IconAtlas="HI1778_IMPROVEMENT_ATLAS" /></Update>
+  </Improvements>
+  <Builds>
+    <Update><Where Type="BUILD_MOAI" /><Set IconIndex="0" IconAtlas="HI1778_ACTION_ATLAS" /></Update>
+  </Builds>
+  <IconTextureAtlases>
+    <Row><Atlas>HI1778_RELIGION_ATLAS</Atlas><IconSize>128</IconSize><Filename>HI1778_Religions128.dds</Filename><IconsPerRow>13</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_RELIGION_ATLAS</Atlas><IconSize>80</IconSize><Filename>HI1778_Religions80.dds</Filename><IconsPerRow>13</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_RELIGION_ATLAS</Atlas><IconSize>64</IconSize><Filename>HI1778_Religions64.dds</Filename><IconsPerRow>13</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_RELIGION_ATLAS</Atlas><IconSize>48</IconSize><Filename>HI1778_Religions48.dds</Filename><IconsPerRow>13</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_RELIGION_ATLAS</Atlas><IconSize>32</IconSize><Filename>HI1778_Religions32.dds</Filename><IconsPerRow>13</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_RELIGION_ATLAS</Atlas><IconSize>24</IconSize><Filename>HI1778_Religions24.dds</Filename><IconsPerRow>13</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>HI1778_RELIGION_ATLAS</Atlas><IconSize>16</IconSize><Filename>HI1778_Religions16.dds</Filename><IconsPerRow>13</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+  </IconTextureAtlases>
+  <Religions>
+    <Update><Where Type="RELIGION_BUDDHISM" /><Set PortraitIndex="0" IconAtlas="HI1778_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_CHRISTIANITY" /><Set PortraitIndex="1" IconAtlas="HI1778_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_CONFUCIANISM" /><Set PortraitIndex="2" IconAtlas="HI1778_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_HINDUISM" /><Set PortraitIndex="3" IconAtlas="HI1778_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_ISLAM" /><Set PortraitIndex="4" IconAtlas="HI1778_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_JUDAISM" /><Set PortraitIndex="5" IconAtlas="HI1778_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_SHINTO" /><Set PortraitIndex="6" IconAtlas="HI1778_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_SIKHISM" /><Set PortraitIndex="7" IconAtlas="HI1778_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_TAOISM" /><Set PortraitIndex="8" IconAtlas="HI1778_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_TENGRIISM" /><Set PortraitIndex="9" IconAtlas="HI1778_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_ZOROASTRIANISM" /><Set PortraitIndex="10" IconAtlas="HI1778_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_ORTHODOXY" /><Set PortraitIndex="11" IconAtlas="HI1778_RELIGION_ATLAS" /></Update>
+    <Update><Where Type="RELIGION_PROTESTANTISM" /><Set PortraitIndex="12" IconAtlas="HI1778_RELIGION_ATLAS" /></Update>
+  </Religions>
+</GameData>

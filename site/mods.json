@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "Hex Chronicles",
+    "tagline": "History and legend on the hexes: scenario mods for Civilization V",
+    "url": "https://hex-chronicles.gitlab.io/",
+    "ga": "G-HF4RHB9QVX",
+    "project": "hex-chronicles/hex-chronicles.gitlab.io"
+  },
+  "mods": [
+    {
+      "slug": "spain-1936",
+      "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=3831272305",
+      "period": "25 July 1936 · one turn = one week",
+      "teaser": "The Spanish Civil War from the coup to the Casado rising: the Republic, Franco, Mola, Catalonia, the Basques and the CNT-FAI, forty-eight dated events.",
+      "map": {"countries": ["ESP"], "box": [-10, 35.95, 5, 44]}
+    },
+    {
+      "slug": "russia-1918",
+      "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822536953",
+      "period": "1 June 1918 · one turn = one week",
+      "teaser": "The Russian Civil War from East Prussia to Irkutsk: Reds, three White governments, Ukraine and Poland, thirteen border city-states and thirty-six dated events.",
+      "map": {"countries": ["RUS", "BLR", "UKR", "MDA", "POL", "LTU", "LVA", "EST", "FIN", "GEO", "ARM", "AZE", "KAZ", "UZB", "TKM", "KGZ", "TJK"],
+              "regions": [["RUS", "Crimea"], ["RUS", "Sevastopol"]], "box": [18, 37.5, 106, 70.5]}
+    },
+    {
+      "slug": "hawaii-1778",
+      "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822495124",
+      "period": "1778 · one turn = one year",
+      "teaser": "The Hawaiian Islands on the eve of contact: five chiefdoms, three island city-states, canoes, trade winds and no iron.",
+      "map": {"regions": [["USA", "Hawaii"]], "box": [-160.8, 18.5, -154.5, 22.5], "islands": true}
+    },
+    {
+      "slug": "canarias-1400",
+      "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822487018",
+      "period": "1400 · one turn = one year",
+      "teaser": "The Canary Islands before the conquest: seven islands, seven native peoples, one natural wonder per island, real relief.",
+      "map": {"countries": ["ESP"], "box": [-18.5, 27.4, -13.2, 29.5], "islands": true}
+    },
+    {
+      "slug": "arcanum-1885",
+      "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822534458",
+      "period": "1885 of Arcanum · one turn = one year",
+      "teaser": "Steam against magick: the Empires of the Smoky Skies rules on the continent of Arcanum, five nations, ten free cities and twelve lore wonders."
+    }
+  ],
+  "soon": [
+    {
+      "slug": "china-1928",
+      "title": "China 1928",
+      "period": "10 October 1928 · one turn = one week",
+      "map": {"countries": ["CHN", "HKG", "MAC"], "box": [98.5, 15, 136, 54]}
+    },
+    {
+      "slug": "paraguay-1864",
+      "title": "Paraguay 1864",
+      "period": "The War of the Triple Alliance, 1864-1870",
+      "map": {"countries": ["PRY", "URY"], "regions": [["ARG", "Corrientes"], ["ARG", "Misiones"], ["ARG", "Entre Ríos"], ["ARG", "Formosa"], ["BRA", "Mato Grosso do Sul"], ["BRA", "Rio Grande do Sul"]]}
+    }
+  ]
+}

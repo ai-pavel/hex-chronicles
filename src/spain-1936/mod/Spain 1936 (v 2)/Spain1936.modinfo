@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8c4f2a61-1936-4e0b-9d57-3a7e1b5c9f24" version="2">
+  <Properties>
+    <Name>Spain 1936</Name>
+    <Teaser>The Spanish Civil War from 25 July 1936: the Republic, Catalonia, the Basques and the CNT-FAI against Franco and Mola on a 120x110 map of Iberia, the Balearics and Spanish Morocco.</Teaser>
+    <Description>Spain, Portugal, the Balearics, Spanish Morocco and the French border as of 25 July 1936, one week after the rising. The Spanish Republic (Russia donor), the Generalitat of Catalonia (Shoshone), the Basque Country (Ethiopia) and the CNT-FAI columns in Aragon (Aztec) are at permanent war with Franco's Army of Africa and the South (Zulu) and Mola's Army of the North (Germany); the four Republican sides are allies who can still fall out. Portugal, Gibraltar, Tangier, Andorra, France and French North Africa are city-states; fugitives in the sierras are raging barbarians. One turn is one week; dated events bring the airlift, the International Brigades, Soviet aid, the Condor Legion and the Italian CTV, Guadalajara, Teruel, the Ebro and the Casado coup. The leaders are historical figures; their dialogue is invented. Domination victory only. Start it from the Mods menu via the scenario button.</Description>
+    <Authors>cryptoboy2283</Authors>
+    <SpecialThanks>Natural Earth, NOAA ETOPO 2022, Koppen-Geiger, Civ5MapImage</SpecialThanks>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadLeaderSystem>1</ReloadLeaderSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="CC765BB78C497DD63C4E9DD7701C8776" import="1">Spain1936.Civ5Map</File>
+    <File md5="CE1CE640CD36345FC89B986A94CEE16C" import="0">Spain1936_Rules.xml</File>
+    <File md5="4D5E44FD1EC9CC43C98DD541B1CA4756" import="0">Spain1936LoadScreen.lua</File>
+    <File md5="411B88D84703C5F157D4D0333518BD37" import="0">Spain1936LoadScreen.xml</File>
+    <File md5="3F2FDF08262161AB1AE7FDF3A46566E4" import="0">Spain1936_Production.lua</File>
+    <File md5="BAA1899A14020F7D2ACE48215C0DF013" import="0">Spain1936_Production.xml</File>
+    <File md5="F7C4AF37A2EE2204E3AEA3C2E6394323" import="0">Spain1936_Events.lua</File>
+    <File md5="C554AE61D779AF6C6B96FB5947E0B05A" import="0">Spain1936_Events.xml</File>
+    <File md5="AD6D22DB059EF22336D82A83E3A09C23" import="0">Spain1936_Uniques.sql</File>
+    <File md5="C7944BF4DE46BF9A3B7E477D51B19EE6" import="0">Spain1936_Text.xml</File>
+    <File md5="6FC52F4BCD9F087BD9B8BBA2C753D16A" import="0">Spain1936_Leaders.xml</File>
+    <File md5="B8B6335E5071F2A9B02877239AF0505D" import="0">CREDITS.txt</File>
+    <File md5="C647DE9E1B05945F466002408A8D7F35" import="1">ESP1936_Azana_Scene.xml</File>
+    <File md5="28EADD12376D55ECEEE9A34D59F8ED58" import="1">ESP1936_Franco_Scene.xml</File>
+    <File md5="ABCB51D4615C48DDD6A3C3E335EAFD88" import="1">ESP1936_Mola_Scene.xml</File>
+    <File md5="35707C92A42B6B37A893A1D6884D8D64" import="1">ESP1936_Companys_Scene.xml</File>
+    <File md5="A8981E04AE6540A19A640D3C96778CC4" import="1">ESP1936_Aguirre_Scene.xml</File>
+    <File md5="31F251ED2C9B21BC26E75664C41227F5" import="1">ESP1936_Durruti_Scene.xml</File>
+    <File md5="03D71810B3DFFF95CFD73B8FF7A48ACE" import="1">ESP1936_CivColor128.dds</File>
+    <File md5="66078360EFA8BC14366E7C148D55235C" import="1">ESP1936_CivColor256.dds</File>
+    <File md5="F1A6A42E6B7E8E90B23420161763D607" import="1">ESP1936_CivColor32.dds</File>
+    <File md5="F234B6FA9B60479180F142B17BB78440" import="1">ESP1936_CivColor45.dds</File>
+    <File md5="C7058005B24505077C225052A14B0BB6" import="1">ESP1936_CivColor64.dds</File>
+    <File md5="70E4912314F1924A6678C29867F73787" import="1">ESP1936_CivColor80.dds</File>
+    <File md5="164E0FAAC1201ABBEF6A581F435D5965" import="1">ESP1936_CivWhite128.dds</File>
+    <File md5="5F84D10F0582A176D2F8A39DC762742C" import="1">ESP1936_CivWhite16.dds</File>
+    <File md5="7598F0F914EDDC672D30034663493F58" import="1">ESP1936_CivWhite24.dds</File>
+    <File md5="019440B36AD3FEB3E87EA6C0857E5985" import="1">ESP1936_CivWhite32.dds</File>
+    <File md5="A76BEB95A62A57DEECFEF7812E970A2F" import="1">ESP1936_CivWhite48.dds</File>
+    <File md5="A6D2B234543D0B0382838DD24A035A81" import="1">ESP1936_CivWhite64.dds</File>
+    <File md5="56A02BF3C1DFB9CA4FAE1A7347CB41B8" import="1">ESP1936_DOM_Aguirre.dds</File>
+    <File md5="F24FDABAE745037F3E047071BF0258A3" import="1">ESP1936_DOM_Azana.dds</File>
+    <File md5="A64CBA817D28FEDECD175C0F68925AB7" import="1">ESP1936_DOM_Companys.dds</File>
+    <File md5="C4F7776B1915B972D0D1DE34D5510517" import="1">ESP1936_DOM_Durruti.dds</File>
+    <File md5="07F2EB86B873C63F95A02ECBAC14F0BF" import="1">ESP1936_DOM_Franco.dds</File>
+    <File md5="A2E531A1302F8730667F24FB6A1BFEC7" import="1">ESP1936_DOM_Mola.dds</File>
+    <File md5="9236E1EA643F58822FCA505EA86CF20B" import="1">ESP1936_Leaders128.dds</File>
+    <File md5="386F6FB26759FDDAB6D7BEAF48E0CC2C" import="1">ESP1936_Leaders256.dds</File>
+    <File md5="0A325B11DF6EFA51DE8199F7D057C582" import="1">ESP1936_Leaders64.dds</File>
+    <File md5="EB5AC4E2908C00A9225CFB9582230982" import="1">ESP1936_Scene_Aguirre.dds</File>
+    <File md5="F84BB02C330BD53DFA39D23E019A30E8" import="1">ESP1936_Scene_Azana.dds</File>
+    <File md5="EB265AE1E30C4450557562FBA5D6A6D6" import="1">ESP1936_Scene_Companys.dds</File>
+    <File md5="C29377BCF3D6F1AF640E130D1FBBECA8" import="1">ESP1936_Scene_Durruti.dds</File>
+    <File md5="B070C68E1F5F65912A72AF08D57646E6" import="1">ESP1936_Scene_Franco.dds</File>
+    <File md5="B06CCD390140256C4B57A7ECAC5BC9AD" import="1">ESP1936_Scene_Mola.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Spain1936_Rules.xml</UpdateDatabase>
+      <UpdateDatabase>Spain1936_Uniques.sql</UpdateDatabase>
+      <UpdateDatabase>Spain1936_Leaders.xml</UpdateDatabase>
+      <UpdateDatabase>Spain1936_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="Custom" file="Spain1936LoadScreen.xml">
+      <Name>Spain 1936</Name>
+      <Description>July 1936: the Republic, Catalonia, the Basques and the anarchists against Franco and Mola. Choose your side and difficulty.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Spain1936_Production.xml">
+      <Name>Spain 1936 setup</Name>
+      <Description>Production queues, unit names, alliances, weekly calendar.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Spain1936_Events.xml">
+      <Name>Spain 1936 events</Name>
+      <Description>Dated events of the Civil War, July 1936 to March 1939.</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

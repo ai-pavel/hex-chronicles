@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Russia 1918: static leader scenes, portrait atlas, faction emblems and Dawn of Man images (Firaxis Civil War technique). -->
+<GameData>
+  <IconTextureAtlases>
+    <Row><Atlas>RUS1918_LEADER_ATLAS</Atlas><IconSize>256</IconSize><Filename>RUS1918_Leaders256.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>RUS1918_LEADER_ATLAS</Atlas><IconSize>128</IconSize><Filename>RUS1918_Leaders128.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>RUS1918_LEADER_ATLAS</Atlas><IconSize>64</IconSize><Filename>RUS1918_Leaders64.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>RUS1918_CIV_COLOR_ATLAS</Atlas><IconSize>256</IconSize><Filename>RUS1918_CivColor256.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>RUS1918_CIV_COLOR_ATLAS</Atlas><IconSize>128</IconSize><Filename>RUS1918_CivColor128.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>RUS1918_CIV_COLOR_ATLAS</Atlas><IconSize>80</IconSize><Filename>RUS1918_CivColor80.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>RUS1918_CIV_COLOR_ATLAS</Atlas><IconSize>64</IconSize><Filename>RUS1918_CivColor64.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>RUS1918_CIV_COLOR_ATLAS</Atlas><IconSize>45</IconSize><Filename>RUS1918_CivColor45.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>RUS1918_CIV_COLOR_ATLAS</Atlas><IconSize>32</IconSize><Filename>RUS1918_CivColor32.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>RUS1918_CIV_ALPHA_ATLAS</Atlas><IconSize>128</IconSize><Filename>RUS1918_CivWhite128.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>RUS1918_CIV_ALPHA_ATLAS</Atlas><IconSize>64</IconSize><Filename>RUS1918_CivWhite64.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>RUS1918_CIV_ALPHA_ATLAS</Atlas><IconSize>48</IconSize><Filename>RUS1918_CivWhite48.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>RUS1918_CIV_ALPHA_ATLAS</Atlas><IconSize>32</IconSize><Filename>RUS1918_CivWhite32.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>RUS1918_CIV_ALPHA_ATLAS</Atlas><IconSize>24</IconSize><Filename>RUS1918_CivWhite24.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+    <Row><Atlas>RUS1918_CIV_ALPHA_ATLAS</Atlas><IconSize>16</IconSize><Filename>RUS1918_CivWhite16.dds</Filename><IconsPerRow>6</IconsPerRow><IconsPerColumn>1</IconsPerColumn></Row>
+  </IconTextureAtlases>
+  <Leaders>
+    <Update><Where Type="LEADER_CATHERINE" /><Set ArtDefineTag="RUS1918_Lenin_Scene.xml" PortraitIndex="0" IconAtlas="RUS1918_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_BISMARCK" /><Set ArtDefineTag="RUS1918_Denikin_Scene.xml" PortraitIndex="1" IconAtlas="RUS1918_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_POCATELLO" /><Set ArtDefineTag="RUS1918_Kolchak_Scene.xml" PortraitIndex="2" IconAtlas="RUS1918_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_ELIZABETH" /><Set ArtDefineTag="RUS1918_Yudenich_Scene.xml" PortraitIndex="3" IconAtlas="RUS1918_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_SELASSIE" /><Set ArtDefineTag="RUS1918_Skoropadsky_Scene.xml" PortraitIndex="4" IconAtlas="RUS1918_LEADER_ATLAS" /></Update>
+    <Update><Where Type="LEADER_CASIMIR" /><Set ArtDefineTag="RUS1918_Pilsudski_Scene.xml" PortraitIndex="5" IconAtlas="RUS1918_LEADER_ATLAS" /></Update>
+  </Leaders>
+  <Civilizations>
+    <Update><Where Type="CIVILIZATION_RUSSIA" /><Set PortraitIndex="0" IconAtlas="RUS1918_CIV_COLOR_ATLAS" AlphaIconAtlas="RUS1918_CIV_ALPHA_ATLAS" DawnOfManImage="RUS1918_DOM_Lenin.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_GERMANY" /><Set PortraitIndex="1" IconAtlas="RUS1918_CIV_COLOR_ATLAS" AlphaIconAtlas="RUS1918_CIV_ALPHA_ATLAS" DawnOfManImage="RUS1918_DOM_Denikin.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_SHOSHONE" /><Set PortraitIndex="2" IconAtlas="RUS1918_CIV_COLOR_ATLAS" AlphaIconAtlas="RUS1918_CIV_ALPHA_ATLAS" DawnOfManImage="RUS1918_DOM_Kolchak.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_ENGLAND" /><Set PortraitIndex="3" IconAtlas="RUS1918_CIV_COLOR_ATLAS" AlphaIconAtlas="RUS1918_CIV_ALPHA_ATLAS" DawnOfManImage="RUS1918_DOM_Yudenich.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_ETHIOPIA" /><Set PortraitIndex="4" IconAtlas="RUS1918_CIV_COLOR_ATLAS" AlphaIconAtlas="RUS1918_CIV_ALPHA_ATLAS" DawnOfManImage="RUS1918_DOM_Skoropadsky.dds" /></Update>
+    <Update><Where Type="CIVILIZATION_POLAND" /><Set PortraitIndex="5" IconAtlas="RUS1918_CIV_COLOR_ATLAS" AlphaIconAtlas="RUS1918_CIV_ALPHA_ATLAS" DawnOfManImage="RUS1918_DOM_Pilsudski.dds" /></Update>
+  </Civilizations>
+</GameData>

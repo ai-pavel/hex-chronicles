@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="3b7d9e42-1928-4a6c-8f15-c2e0d4b7a913" version="1">
+  <Properties>
+    <Name>China 1928</Name>
+    <Teaser>China in the warlord era from 10 October 1928: Chiang Kai-shek, Feng Yuxiang, Yan Xishan, Zhang Xueliang, the Guangxi clique and the Communists on a 100x112 map from the Amur to Tonkin.</Teaser>
+    <Description>China from Manchuria to Yunnan as of 10 October 1928, the day Chiang Kai-shek became Chairman of the National Government after the Northern Expedition. Six sides: the National Government at Nanjing (China donor), Feng Yuxiang's Guominjun (Zulu), Yan Xishan's Shanxi (Russia), Zhang Xueliang's Fengtian clique in Manchuria (Germany), the New Guangxi clique of Li Zongren (Ethiopia) and the Chinese Communists of Mao Zedong and Zhu De (Shoshone). Japan with Korea, Taiwan and the Kwantung Leased Territory, the Soviet Far East, Mongolia, the militarists of Sichuan, Chongqing, Yunnan, Guizhou, Guangdong and Qinghai, Hong Kong, Macau, Weihaiwei and French Indochina are city-states; bandits and secret societies are raging barbarians. One turn is one week; dated events bring the Northeast Flag Replacement, the Chiang-Guangxi war, the Sino-Soviet conflict of 1929, the Central Plains War, the encirclement campaigns, the Mukden incident, Manchukuo, the Shanghai incident, the Long March, the Xi'an incident and the Marco Polo Bridge. A unique unit and building for every side. The leaders are historical figures; their dialogue is invented. Domination victory only. Start it from the Mods menu via the scenario button.</Description>
+    <Authors>cryptoboy2283</Authors>
+    <SpecialThanks>Natural Earth, NOAA ETOPO 2022, Koppen-Geiger, Civ5MapImage</SpecialThanks>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadLeaderSystem>1</ReloadLeaderSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="6980D75FABE7FF5C147FF3531868CEEF" import="1">China1928.Civ5Map</File>
+    <File md5="764AC3297A4B4C34D2E4AFA139267C55" import="0">China1928_Rules.xml</File>
+    <File md5="8E7849F12474AA08F2CF0C10658B853F" import="0">China1928LoadScreen.lua</File>
+    <File md5="411B88D84703C5F157D4D0333518BD37" import="0">China1928LoadScreen.xml</File>
+    <File md5="885DF871D6263325435CE697736E0A53" import="0">China1928_Production.lua</File>
+    <File md5="BAA1899A14020F7D2ACE48215C0DF013" import="0">China1928_Production.xml</File>
+    <File md5="0BD289AA19A1310DCD9EDABDD7EBB392" import="0">China1928_Events.lua</File>
+    <File md5="C554AE61D779AF6C6B96FB5947E0B05A" import="0">China1928_Events.xml</File>
+    <File md5="ED7A945E2AD03B9792DE4AD4A7329C3E" import="0">China1928_Uniques.sql</File>
+    <File md5="F61F5322D5917F4AA5279AAA88B3403F" import="0">China1928_Text.xml</File>
+    <File md5="B3B5FFB8E6C6280D26818C6676C7B4BC" import="0">China1928_Leaders.xml</File>
+    <File md5="F8922E837FC9B490E52DD0B998046123" import="0">CREDITS.txt</File>
+    <File md5="D176FE4E8BC4F51A8FCDE146B5ECC223" import="1">CHN1928_Chiang_Scene.xml</File>
+    <File md5="3408E0EECE2AD4AD956B1E59B73C45A5" import="1">CHN1928_Feng_Scene.xml</File>
+    <File md5="30DE34BAACCF723134B2B9A30C479410" import="1">CHN1928_Yan_Scene.xml</File>
+    <File md5="C94601CD0BC242FD044631B0BD3AD1F0" import="1">CHN1928_Zhang_Scene.xml</File>
+    <File md5="30BF78A6FD84FEC75E33BDC46A2EFF48" import="1">CHN1928_Li_Scene.xml</File>
+    <File md5="B507DC085602B266E9B7C75C3F701D0D" import="1">CHN1928_Mao_Scene.xml</File>
+    <File md5="DC2832CB5C1DDBCB949ED0A1CEF15DA4" import="1">CHN1928_CivColor128.dds</File>
+    <File md5="E870719454091C089B63B2EB17834F6C" import="1">CHN1928_CivColor256.dds</File>
+    <File md5="60E36DB3F6A1A3A8AA66B4B43A6A58C9" import="1">CHN1928_CivColor32.dds</File>
+    <File md5="61B1C660CA324902267FB8C0DBF05E54" import="1">CHN1928_CivColor45.dds</File>
+    <File md5="F4A3661CB5E06E1DE351CE4EF314DED2" import="1">CHN1928_CivColor64.dds</File>
+    <File md5="C0339F3960129ED440547F272B2D7C32" import="1">CHN1928_CivColor80.dds</File>
+    <File md5="57BD0EFC3A33BFE95BE527B500F7273E" import="1">CHN1928_CivWhite128.dds</File>
+    <File md5="B97F538E3B71C63D9A9AAC52F81B0B9D" import="1">CHN1928_CivWhite16.dds</File>
+    <File md5="78C3B97532AA9050AF15CF2C8376349C" import="1">CHN1928_CivWhite24.dds</File>
+    <File md5="7610CFEBE71D5C333E6C1014968AA1B9" import="1">CHN1928_CivWhite32.dds</File>
+    <File md5="0E931614EE61B42BE5A740E1C98359A4" import="1">CHN1928_CivWhite48.dds</File>
+    <File md5="42DCF612D85BE6AF6F4AA53CA5FC2D32" import="1">CHN1928_CivWhite64.dds</File>
+    <File md5="DAF50A57CDD75DD7E7D216B0256CEED0" import="1">CHN1928_DOM_Chiang.dds</File>
+    <File md5="65C607966A5C34B6EA055A630E32A304" import="1">CHN1928_DOM_Feng.dds</File>
+    <File md5="2D3D2F98F56EE8130D1EA173E31AD5B7" import="1">CHN1928_DOM_Li.dds</File>
+    <File md5="7EDD8EBFE543549472BC8D8A9F2324FC" import="1">CHN1928_DOM_Mao.dds</File>
+    <File md5="287E034D1DE2C845ADD14C08474564DB" import="1">CHN1928_DOM_Yan.dds</File>
+    <File md5="5D3C799642CA0334148A67D789AF238A" import="1">CHN1928_DOM_Zhang.dds</File>
+    <File md5="310F680E6089EE5B4D82A219A8B0FDB4" import="1">CHN1928_Leaders128.dds</File>
+    <File md5="4A187B5F860144AE3A7BAD579952BDD3" import="1">CHN1928_Leaders256.dds</File>
+    <File md5="67CC52463F5DDDB2737FE09CCB08D01B" import="1">CHN1928_Leaders64.dds</File>
+    <File md5="4A2CC8D31FBA3C1725B21614F80D0AEB" import="1">CHN1928_Scene_Chiang.dds</File>
+    <File md5="785DD041470334536F6E60A218CE4F44" import="1">CHN1928_Scene_Feng.dds</File>
+    <File md5="1B5120090404B41EF156BAF736FE3950" import="1">CHN1928_Scene_Li.dds</File>
+    <File md5="083A50228D20AC5542B21AD9195F9AD0" import="1">CHN1928_Scene_Mao.dds</File>
+    <File md5="93FF46FC7A669F647D36D5066AB2C887" import="1">CHN1928_Scene_Yan.dds</File>
+    <File md5="5FCF95F74BC74B6C28325E0A5CCEAA9E" import="1">CHN1928_Scene_Zhang.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>China1928_Rules.xml</UpdateDatabase>
+      <UpdateDatabase>China1928_Uniques.sql</UpdateDatabase>
+      <UpdateDatabase>China1928_Leaders.xml</UpdateDatabase>
+      <UpdateDatabase>China1928_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="Custom" file="China1928LoadScreen.xml">
+      <Name>China 1928</Name>
+      <Description>October 1928: Nanjing, the Guominjun, Shanxi, Fengtian, Guangxi and the Communists. Choose your side and difficulty.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="China1928_Production.xml">
+      <Name>China 1928 setup</Name>
+      <Description>Production queues, unit names, alliances, weekly calendar.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="China1928_Events.xml">
+      <Name>China 1928 events</Name>
+      <Description>Dated events of the warlord era, October 1928 to July 1937.</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

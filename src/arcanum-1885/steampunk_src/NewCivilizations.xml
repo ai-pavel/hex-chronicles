@@ -1,0 +1,2187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<GameOptions>
+		<Update>
+			<Where Type="GAMEOPTION_NO_RELIGION"/>
+			<Set Default="1"/>
+		</Update>
+	</GameOptions>
+	<!-- Table data -->
+	<Civilizations>
+		<!-- Unused base game and DLC -->
+		<Delete Type="CIVILIZATION_AMERICA"/>
+		<Delete Type="CIVILIZATION_AZTEC"/>
+		<Delete Type="CIVILIZATION_BABYLON"/>
+		<Delete Type="CIVILIZATION_CHINA"/>
+		<Delete Type="CIVILIZATION_DENMARK"/>
+		<Delete Type="CIVILIZATION_INCA"/>
+		<Delete Type="CIVILIZATION_INDIA"/>
+		<Delete Type="CIVILIZATION_IROQUOIS"/>
+		<Delete Type="CIVILIZATION_JAPAN"/>
+		<Delete Type="CIVILIZATION_MONGOL"/>
+		<Delete Type="CIVILIZATION_POLYNESIA"/>
+		<Delete Type="CIVILIZATION_ROME"/>
+		<Delete Type="CIVILIZATION_SONGHAI"/>
+		<Delete Type="CIVILIZATION_SIAM"/>
+		<Delete Type="CIVILIZATION_SPAIN"/>
+		<Delete Type="CIVILIZATION_KOREA"/>
+		<Delete Type="CIVILIZATION_ARABIA"/>
+		<Delete Type="CIVILIZATION_EGYPT"/>
+		<Delete Type="CIVILIZATION_GREECE"/>
+		<Delete Type="CIVILIZATION_OTTOMAN"/>
+		<Delete Type="CIVILIZATION_PERSIA"/>
+		<!-- Unused Expansion -->
+		<Delete Type="CIVILIZATION_AUSTRIA"/>
+		<Delete Type="CIVILIZATION_BYZANTIUM"/>
+		<Delete Type="CIVILIZATION_CARTHAGE"/>
+		<Delete Type="CIVILIZATION_CELTS"/>
+		<Delete Type="CIVILIZATION_ETHIOPIA"/>
+		<Delete Type="CIVILIZATION_HUNS"/>
+		<Delete Type="CIVILIZATION_MAYA"/>
+		<Delete Type="CIVILIZATION_NETHERLANDS"/>
+		<!-- New Dawn of Man-->
+		<Update>
+			<Where Type="CIVILIZATION_ENGLAND"/>
+			<Set>
+				<DefaultPlayerColor>PLAYERCOLOR_RUSSIA</DefaultPlayerColor>
+				<DawnOfManImage>DOM_Octavius_Cutler.dds</DawnOfManImage>
+				<CivilopediaTag>TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND</CivilopediaTag>
+				<DawnOfManQuote>TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT</DawnOfManQuote>
+				<IconAtlas>EXPANSION_SCEN_CIV_SYMBOLS_COLOR_ATLAS</IconAtlas>
+				<AlphaIconAtlas>EXPANSION_SCEN_CIV_SYMBOLS_WHITE_ATLAS</AlphaIconAtlas>
+				<PortraitIndex>7</PortraitIndex>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="CIVILIZATION_FRANCE"/>
+			<Set>
+				<DefaultPlayerColor>PLAYERCOLOR_MAYA</DefaultPlayerColor>
+				<DawnOfManImage>DOM_Clinton_Alderdice.dds</DawnOfManImage>
+				<CivilopediaTag>TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE</CivilopediaTag>
+				<DawnOfManQuote>TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT</DawnOfManQuote>
+				<IconAtlas>EXPANSION_SCEN_CIV_SYMBOLS_COLOR_ATLAS</IconAtlas>
+				<AlphaIconAtlas>EXPANSION_SCEN_CIV_SYMBOLS_WHITE_ATLAS</AlphaIconAtlas>
+				<PortraitIndex>9</PortraitIndex>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="CIVILIZATION_GERMANY"/>
+			<Set>
+				<DefaultPlayerColor>PLAYERCOLOR_ERUCH</DefaultPlayerColor>
+				<DawnOfManImage>DOM_Cyrus_Rotheram.dds</DawnOfManImage>
+				<CivilopediaTag>TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY</CivilopediaTag>
+				<DawnOfManQuote>TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT</DawnOfManQuote>
+				<IconAtlas>EXPANSION_SCEN_CIV_SYMBOLS_COLOR_ATLAS</IconAtlas>
+				<AlphaIconAtlas>EXPANSION_SCEN_CIV_SYMBOLS_WHITE_ATLAS</AlphaIconAtlas>
+				<PortraitIndex>8</PortraitIndex>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="CIVILIZATION_RUSSIA"/>
+			<Set>
+				<DefaultPlayerColor>PLAYERCOLOR_GERMANY</DefaultPlayerColor>
+				<DawnOfManImage>DOM_Ignace_Curnow.dds</DawnOfManImage>
+				<CivilopediaTag>TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA</CivilopediaTag>
+				<DawnOfManQuote>TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT</DawnOfManQuote>
+				<IconAtlas>EXPANSION_SCEN_CIV_SYMBOLS_COLOR_ATLAS</IconAtlas>
+				<AlphaIconAtlas>EXPANSION_SCEN_CIV_SYMBOLS_WHITE_ATLAS</AlphaIconAtlas>
+				<PortraitIndex>5</PortraitIndex>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="CIVILIZATION_SWEDEN"/>
+			<Set>
+				<DefaultPlayerColor>PLAYERCOLOR_VEDRIA</DefaultPlayerColor>
+				<DawnOfManImage>DOM_Luther_Griggs.dds</DawnOfManImage>
+				<CivilopediaTag>TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN</CivilopediaTag>
+				<DawnOfManQuote>TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT</DawnOfManQuote>
+				<IconAtlas>EXPANSION_SCEN_CIV_SYMBOLS_COLOR_ATLAS</IconAtlas>
+				<AlphaIconAtlas>EXPANSION_SCEN_CIV_SYMBOLS_WHITE_ATLAS</AlphaIconAtlas>
+				<PortraitIndex>6</PortraitIndex>
+			</Set>
+		</Update>
+	</Civilizations>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_ERUCH_ICON</Type>
+			<Red>1.000</Red>
+			<Green>0.4706</Green>
+			<Blue>0.0000</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_ERUCH_BACKGROUND</Type>
+			<Red>0.3020</Red>
+			<Green>0.1294</Green>
+			<Blue>0.1294</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_VEDRIA_ICON</Type>
+			<Red>0.788</Red>
+			<Green>0.973</Green>
+			<Blue>1.000</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_VEDRIA_BACKGROUND</Type>
+			<Red>0.169</Red>
+			<Green>0.318</Green>
+			<Blue>0.384</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_ERUCH</Type>
+			<PrimaryColor>COLOR_PLAYER_ERUCH_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_ERUCH_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+		<Row>
+			<Type>PLAYERCOLOR_VEDRIA</Type>
+			<PrimaryColor>COLOR_PLAYER_VEDRIA_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_VEDRIA_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Leaders>
+		<!-- Unused base game and DLC -->
+		<Delete Type="LEADER_ALEXANDER"/>
+		<Delete Type="LEADER_ASKIA"/>
+		<Delete Type="LEADER_AUGUSTUS"/>
+		<Delete Type="LEADER_DARIUS"/>
+		<Delete Type="LEADER_GANDHI"/>
+		<Delete Type="LEADER_HARUN_AL_RASHID"/>
+		<Delete Type="LEADER_HIAWATHA"/>
+		<Delete Type="LEADER_MONTEZUMA"/>
+		<Delete Type="LEADER_ODA_NOBUNAGA"/>
+		<Delete Type="LEADER_RAMESSES"/>
+		<Delete Type="LEADER_RAMKHAMHAENG"/>
+		<Delete Type="LEADER_SULEIMAN"/>
+		<Delete Type="LEADER_WASHINGTON"/>
+		<Delete Type="LEADER_WU_ZETIAN"/>
+		<Delete Type="LEADER_GENGHIS_KHAN"/>
+		<Delete Type="LEADER_ISABELLA"/>
+		<Delete Type="LEADER_PACHACUTI"/>
+		<Delete Type="LEADER_KAMEHAMEHA"/>
+		<Delete Type="LEADER_HARALD"/>
+		<Delete Type="LEADER_SEJONG"/>
+		<Delete Type="LEADER_NEBUCHADNEZZAR"/>
+		<!-- Unused Expansion -->
+		<Delete Type="LEADER_ATTILA"/>
+		<Delete Type="LEADER_BOUDICCA"/>
+		<Delete Type="LEADER_DIDO"/>
+		<Delete Type="LEADER_MARIA"/>
+		<Delete Type="LEADER_PACAL"/>
+		<Delete Type="LEADER_THEODORA"/>
+		<Delete Type="LEADER_SELASSIE"/>
+		<Delete Type="LEADER_WILLIAM"/>
+		<!-- Steampunk!-->
+		<Update>
+			<Where Type="LEADER_NAPOLEON"/>
+			<Set>
+				<ArtDefineTag>Alderdice_Scenario_Scene.xml</ArtDefineTag>
+				<CivilopediaTag>TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON</CivilopediaTag>
+				<PortraitIndex>4</PortraitIndex>
+				<IconAtlas>EXPANSION_SCEN_LEADER_ATLAS</IconAtlas>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="LEADER_CATHERINE"/>
+			<Set>
+				<ArtDefineTag>Curnow_Scenario_Scene.xml</ArtDefineTag>
+				<CivilopediaTag>TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE</CivilopediaTag>
+				<PortraitIndex>0</PortraitIndex>
+				<IconAtlas>EXPANSION_SCEN_LEADER_ATLAS</IconAtlas>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="LEADER_GUSTAVUS_ADOLPHUS"/>
+			<Set>
+				<ArtDefineTag>Griggs_Scenario_Scene.xml</ArtDefineTag>
+				<CivilopediaTag>TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS</CivilopediaTag>
+				<PortraitIndex>1</PortraitIndex>
+				<IconAtlas>EXPANSION_SCEN_LEADER_ATLAS</IconAtlas>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="LEADER_ELIZABETH"/>
+			<Set>
+				<ArtDefineTag>Cutler_Scenario_Scene.xml</ArtDefineTag>
+				<CivilopediaTag>TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH</CivilopediaTag>
+				<PortraitIndex>2</PortraitIndex>
+				<IconAtlas>EXPANSION_SCEN_LEADER_ATLAS</IconAtlas>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="LEADER_BISMARCK"/>
+			<Set>
+				<ArtDefineTag>Roffenburg_Scenario_Scene.xml</ArtDefineTag>
+				<CivilopediaTag>TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK</CivilopediaTag>
+				<PortraitIndex>3</PortraitIndex>
+				<IconAtlas>EXPANSION_SCEN_LEADER_ATLAS</IconAtlas>
+			</Set>
+		</Update>
+	</Leaders>
+	<Leader_Flavors>
+		<Delete LeaderType="LEADER_NAPOLEON"/>
+		<Delete LeaderType="LEADER_CATHERINE"/>
+		<Delete LeaderType="LEADER_GUSTAVUS_ADOLPHUS"/>
+		<Delete LeaderType="LEADER_ELIZABETH"/>
+		<Delete LeaderType="LEADER_BISMARCK"/>
+		<!-- Clinton Alderdice (Culture, Happiness)-->
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>13</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_NAPOLEON</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<!-- Ignace Curnow (Production, Luboric)-->
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<!-- Luther Griggs (Science, National Wonders)-->
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>17</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GUSTAVUS_ADOLPHUS</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<!-- Octavius Cutler (Gold, Espionage?)-->
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>14</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ELIZABETH</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<!-- Baron von Roffenburg (Military, Airships)-->
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>14</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BISMARCK</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</Leader_Flavors>
+	<MinorCivilizations>
+		<!-- Remove Militaristic and Religious City-States-->
+		<Delete Type="MINOR_CIV_BUDAPEST"/>
+		<Delete Type="MINOR_CIV_BELGRADE"/>
+		<Delete Type="MINOR_CIV_HANOI"/>
+		<Delete Type="MINOR_CIV_ALMATY"/>
+		<Delete Type="MINOR_SIDON"/>
+		<Delete Type="MINOR_CIV_VALLETTA"/>
+		<Delete Type="MINOR_CIV_GENEVA"/>
+		<Delete Type="MINOR_CIV_LHASA"/>
+		<Delete Type="MINOR_CIV_JERUSALEM"/>
+		<Delete Type="MINOR_CIV_LA_VENTA"/>
+		<Delete Type="MINOR_CIV_VATICAN_CITY"/>
+		<Delete Type="MINOR_CIV_WITTENBERG"/>
+	</MinorCivilizations>
+	<!-- Unique Buildings and Units -->
+	<Civilization_BuildingClassOverrides>
+		<Delete CivilizationType="CIVILIZATION_GERMANY"/>
+		<Delete CivilizationType="CIVILIZATION_ENGLAND"/>
+		<Delete CivilizationType="CIVILIZATION_FRANCE"/>
+		<Delete CivilizationType="CIVILIZATION_RUSSIA"/>
+		<Delete CivilizationType="CIVILIZATION_SWEDEN"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_STADIUM</BuildingClassType>
+			<BuildingType>BUILDING_GRANDSTAND</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_LUBORIC_REFINERY</BuildingClassType>
+			<BuildingType>BUILDING_LUBORIC_FACTORY</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_TESLA_COIL</BuildingClassType>
+			<BuildingType>BUILDING_TORUS_DYNAMO</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_AETHERIUM_FABRICATOR</BuildingClassType>
+			<BuildingType>BUILDING_AETHERIUM_FACTORY</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_AIRSHIP_HANGAR</BuildingClassType>
+			<BuildingType>BUILDING_AERODROME</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Civilization_UnitClassOverrides>
+		<Delete CivilizationType="CIVILIZATION_GERMANY"/>
+		<Delete CivilizationType="CIVILIZATION_ENGLAND"/>
+		<Delete CivilizationType="CIVILIZATION_FRANCE"/>
+		<Delete CivilizationType="CIVILIZATION_RUSSIA"/>
+		<Delete CivilizationType="CIVILIZATION_SWEDEN"/>
+	</Civilization_UnitClassOverrides>
+	<!-- Grant techs to civilizations for start -->
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_POTTERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_MINING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_SAILING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_CALENDAR</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_WRITING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_TRAPPING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_THE_WHEEL</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_MASONRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_BRONZE_WORKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_OPTICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_HORSEBACK_RIDING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_MATHEMATICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_CONSTRUCTION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_PHILOSOPHY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_DRAMA</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_CURRENCY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_ENGINEERING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_IRON_WORKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_THEOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_GUILDS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_METAL_CASTING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_COMPASS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_EDUCATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_CHIVALRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_MACHINERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_PHYSICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_STEEL</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_ASTRONOMY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_ACOUSTICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_BANKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_PRINTING_PRESS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_GUNPOWDER</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_NAVIGATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_ARCHITECTURE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_ECONOMICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_METALLURGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_CHEMISTRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_ARCHAEOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_SCIENTIFIC_THEORY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_INDUSTRIALIZATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_MILITARY_SCIENCE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_RIFLING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_FERTILIZER</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_BIOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_DYNAMITE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_ENGLAND</CivilizationType>
+			<TechType>TECH_STEAM_POWER</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_POTTERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_MINING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_SAILING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_CALENDAR</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_WRITING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_TRAPPING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_THE_WHEEL</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_MASONRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_BRONZE_WORKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_OPTICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_HORSEBACK_RIDING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_MATHEMATICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_CONSTRUCTION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_PHILOSOPHY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_DRAMA</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_CURRENCY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_ENGINEERING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_IRON_WORKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_THEOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_GUILDS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_METAL_CASTING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_COMPASS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_EDUCATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_CHIVALRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_MACHINERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_PHYSICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_STEEL</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_ASTRONOMY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_ACOUSTICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_BANKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_PRINTING_PRESS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_GUNPOWDER</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_NAVIGATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_ARCHITECTURE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_ECONOMICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_METALLURGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_CHEMISTRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_ARCHAEOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_SCIENTIFIC_THEORY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_INDUSTRIALIZATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_MILITARY_SCIENCE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_RIFLING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_FERTILIZER</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_BIOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_DYNAMITE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FRANCE</CivilizationType>
+			<TechType>TECH_STEAM_POWER</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_POTTERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_MINING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_SAILING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_CALENDAR</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_WRITING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_TRAPPING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_THE_WHEEL</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_MASONRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_BRONZE_WORKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_OPTICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_HORSEBACK_RIDING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_MATHEMATICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_CONSTRUCTION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_PHILOSOPHY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_DRAMA</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_CURRENCY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_ENGINEERING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_IRON_WORKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_THEOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_GUILDS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_METAL_CASTING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_COMPASS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_EDUCATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_CHIVALRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_MACHINERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_PHYSICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_STEEL</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_ASTRONOMY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_ACOUSTICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_BANKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_PRINTING_PRESS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_GUNPOWDER</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_NAVIGATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_ARCHITECTURE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_ECONOMICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_METALLURGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_CHEMISTRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_ARCHAEOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_SCIENTIFIC_THEORY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_INDUSTRIALIZATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_MILITARY_SCIENCE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_RIFLING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_FERTILIZER</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_BIOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_DYNAMITE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_GERMANY</CivilizationType>
+			<TechType>TECH_STEAM_POWER</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_POTTERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_MINING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_SAILING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_CALENDAR</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_WRITING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_TRAPPING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_THE_WHEEL</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_MASONRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_BRONZE_WORKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_OPTICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_HORSEBACK_RIDING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_MATHEMATICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_CONSTRUCTION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_PHILOSOPHY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_DRAMA</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_CURRENCY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_ENGINEERING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_IRON_WORKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_THEOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_GUILDS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_METAL_CASTING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_COMPASS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_EDUCATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_CHIVALRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_MACHINERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_PHYSICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_STEEL</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_ASTRONOMY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_ACOUSTICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_BANKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_PRINTING_PRESS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_GUNPOWDER</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_NAVIGATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_ARCHITECTURE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_ECONOMICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_METALLURGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_CHEMISTRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_ARCHAEOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_SCIENTIFIC_THEORY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_INDUSTRIALIZATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_MILITARY_SCIENCE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_RIFLING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_FERTILIZER</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_BIOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_DYNAMITE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_RUSSIA</CivilizationType>
+			<TechType>TECH_STEAM_POWER</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_POTTERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_MINING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_SAILING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_CALENDAR</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_WRITING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_TRAPPING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_THE_WHEEL</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_MASONRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_BRONZE_WORKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_OPTICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_HORSEBACK_RIDING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_MATHEMATICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_CONSTRUCTION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_PHILOSOPHY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_DRAMA</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_CURRENCY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_ENGINEERING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_IRON_WORKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_THEOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_GUILDS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_METAL_CASTING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_COMPASS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_EDUCATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_CHIVALRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_MACHINERY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_PHYSICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_STEEL</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_ASTRONOMY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_ACOUSTICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_BANKING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_PRINTING_PRESS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_GUNPOWDER</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_NAVIGATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_ARCHITECTURE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_ECONOMICS</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_METALLURGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_CHEMISTRY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_ARCHAEOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_SCIENTIFIC_THEORY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_INDUSTRIALIZATION</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_MILITARY_SCIENCE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_RIFLING</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_FERTILIZER</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_BIOLOGY</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_DYNAMITE</TechType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SWEDEN</CivilizationType>
+			<TechType>TECH_STEAM_POWER</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<!-- Texture atlases for this Civ -->
+	<IconTextureAtlases>
+	</IconTextureAtlases>
+	<!-- NOTE TO MODDERS: Both single and multiple entries for Region Priority (per Civ) are supported! -->
+	<!-- If a Civ has one Priority, then on maps without a region of that type, fallback methods apply. -->
+	<!-- The fallback methods will match the given civ with a region that has the most tiles of the priority terrain type. -->
+	<!-- For instance, if Russia is set for Tundra priority but a map has no Tundra regions, they will look for a region that has some tundra. -->
+	<!-- If a Civ is given multiple priorities, fallbacks are not used: the bias isn't applied when a map has none of those region types. -->
+	<!-- NOTE TO MODDERS: Each Civ can belong to only one of the four Start Bias categories, listed below. -->
+	<!-- If a Civ has entries in any of the four following tables, any entries in later tables will end up being ignored. -->
+	<!-- So... Coastal bias trumps River bias trumps Region Priority trumps Region Avoid. -->
+	<!-- The best practice is to pick only one of the four types (or none), for each civilization. -->
+	<Civilization_Start_Along_Ocean>
+		<Delete CivilizationType="CIVILIZATION_FRANCE"/>
+		<Delete CivilizationType="CIVILIZATION_RUSSIA"/>
+		<Delete CivilizationType="CIVILIZATION_SWEDEN"/>
+		<Delete CivilizationType="CIVILIZATION_ENGLAND"/>
+		<Delete CivilizationType="CIVILIZATION_GERMANY"/>
+	</Civilization_Start_Along_Ocean>
+	<Civilization_Start_Along_River>
+		<Delete CivilizationType="CIVILIZATION_FRANCE"/>
+		<Delete CivilizationType="CIVILIZATION_RUSSIA"/>
+		<Delete CivilizationType="CIVILIZATION_SWEDEN"/>
+		<Delete CivilizationType="CIVILIZATION_ENGLAND"/>
+		<Delete CivilizationType="CIVILIZATION_GERMANY"/>
+	</Civilization_Start_Along_River>
+	<!-- NOTE TO MODDERS: Both single and multiple entries for Region Priority (per Civ) are supported! -->
+	<!-- If a Civ has one Priority, then on maps without a region of that type, fallback methods apply. -->
+	<!-- The fallback methods will match the given civ with a region that has the most tiles of the priority terrain type. -->
+	<!-- For instance, if Russia is set for Tundra priority but a map has no Tundra regions, they will look for a region that has some tundra. -->
+	<!-- If a Civ is given multiple priorities, fallbacks are not used: the bias isn't applied when a map has none of those region types. -->
+	<Civilization_Start_Region_Priority>
+		<Delete CivilizationType="CIVILIZATION_FRANCE"/>
+		<Delete CivilizationType="CIVILIZATION_RUSSIA"/>
+		<Delete CivilizationType="CIVILIZATION_SWEDEN"/>
+		<Delete CivilizationType="CIVILIZATION_ENGLAND"/>
+		<Delete CivilizationType="CIVILIZATION_GERMANY"/>
+	</Civilization_Start_Region_Priority>
+	<Civilization_Start_Region_Avoid>
+		<Delete CivilizationType="CIVILIZATION_FRANCE"/>
+		<Delete CivilizationType="CIVILIZATION_RUSSIA"/>
+		<Delete CivilizationType="CIVILIZATION_SWEDEN"/>
+		<Delete CivilizationType="CIVILIZATION_ENGLAND"/>
+		<Delete CivilizationType="CIVILIZATION_GERMANY"/>
+	</Civilization_Start_Region_Avoid>
+	<Leader_Traits>
+		<Update>
+			<Where LeaderType="LEADER_BISMARCK"/>
+			<Set>
+				<TraitType>TRAIT_TIRELESS_WATCH</TraitType>
+			</Set>
+		</Update>
+		<Update>
+			<Where LeaderType="LEADER_CATHERINE"/>
+			<Set>
+				<TraitType>TRAIT_OPTIMIZED_EXTRACTORS</TraitType>
+			</Set>
+		</Update>
+		<Update>
+			<Where LeaderType="LEADER_ELIZABETH"/>
+			<Set>
+				<TraitType>TRAIT_FRONTIER_MARKETS</TraitType>
+			</Set>
+		</Update>
+		<Update>
+			<Where LeaderType="LEADER_GUSTAVUS_ADOLPHUS"/>
+			<Set>
+				<TraitType>TRAIT_INVENTORS_GUILD</TraitType>
+			</Set>
+		</Update>
+		<Update>
+			<Where LeaderType="LEADER_NAPOLEON"/>
+			<Set>
+				<TraitType>TRAIT_NEW_WORLD_ORDER</TraitType>
+			</Set>
+		</Update>
+	</Leader_Traits>
+	<Traits>
+		<Row>
+			<Type>TRAIT_FRONTIER_MARKETS</Type>
+			<Description>TXT_KEY_TRAIT_FRONTIER_MARKETS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_FRONTIER_MARKETS_SHORT</ShortDescription>
+		</Row>
+		<Row>
+			<Type>TRAIT_OPTIMIZED_EXTRACTORS</Type>
+			<Description>TXT_KEY_TRAIT_OPTIMIZED_EXTRACTORS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_OPTIMIZED_EXTRACTORS_SHORT</ShortDescription>
+		</Row>
+		<Row>
+			<Type>TRAIT_NEW_WORLD_ORDER</Type>
+			<Description>TXT_KEY_TRAIT_NEW_WORLD_ORDER</Description>
+			<ShortDescription>TXT_KEY_TRAIT_NEW_WORLD_ORDER_SHORT</ShortDescription>
+			<PolicyCostModifier>-10</PolicyCostModifier>
+		</Row>
+		<Row>
+			<Type>TRAIT_INVENTORS_GUILD</Type>
+			<Description>TXT_KEY_TRAIT_CAPITAL_BUILDINGS_CHEAPER</Description>
+			<ShortDescription>TXT_KEY_TRAIT_INVENTORS_GUILD_SHORT</ShortDescription>
+			<CapitalBuildingModifier>25</CapitalBuildingModifier>
+		</Row>
+		<Row>
+			<Type>TRAIT_TIRELESS_WATCH</Type>
+			<Description>TXT_KEY_TRAIT_TIRELESS_WATCH</Description>
+			<ShortDescription>TXT_KEY_TRAIT_TIRELESS_WATCH_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_MovesChangeUnitCombats>
+		<Row>
+			<TraitType>TRAIT_TIRELESS_WATCH</TraitType>
+			<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
+			<MovesChange>2</MovesChange>
+		</Row>
+	</Trait_MovesChangeUnitCombats>
+	<Trait_ResourceQuantityModifiers>
+		<Row>
+			<TraitType>TRAIT_FRONTIER_MARKETS</TraitType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<ResourceQuantityModifier>100</ResourceQuantityModifier>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_OPTIMIZED_EXTRACTORS</TraitType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+			<ResourceQuantityModifier>100</ResourceQuantityModifier>
+		</Row>
+	</Trait_ResourceQuantityModifiers>
+	<Trait_YieldChangesStrategicResources>
+		<Row>
+			<TraitType>TRAIT_FRONTIER_MARKETS</TraitType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_OPTIMIZED_EXTRACTORS</TraitType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Trait_YieldChangesStrategicResources>
+	<!-- Remove unique units, buildings, and builds -->
+	<Units>
+		<Delete Type="UNIT_AMERICAN_B17"/>
+		<Delete Type="UNIT_AMERICAN_MINUTEMAN"/>
+		<Delete Type="UNIT_ARABIAN_CAMELARCHER"/>
+		<Delete Type="UNIT_AUSTRIAN_HUSSAR"/>
+		<Delete Type="UNIT_AZTEC_JAGUAR"/>
+		<Delete Type="UNIT_BYZANTINE_CATAPHRACT"/>
+		<Delete Type="UNIT_BYZANTINE_DROMON"/>
+		<Delete Type="UNIT_CARTHAGINIAN_FOREST_ELEPHANT"/>
+		<Delete Type="UNIT_CARTHAGINIAN_QUINQUEREME"/>
+		<Delete Type="UNIT_CELT_PICTISH_WARRIOR"/>
+		<Delete Type="UNIT_CHINESE_CHUKONU"/>
+		<Delete Type="UNIT_DUTCH_SEA_BEGGAR"/>
+		<Delete Type="UNIT_EGYPTIAN_WARCHARIOT"/>
+		<Delete Type="UNIT_ENGLISH_LONGBOWMAN"/>
+		<Delete Type="UNIT_ENGLISH_SHIPOFTHELINE"/>
+		<Delete Type="UNIT_ETHIOPIAN_MEHAL_SEFARI"/>
+		<Delete Type="UNIT_FRENCH_FOREIGNLEGION"/>
+		<Delete Type="UNIT_FRENCH_MUSKETEER"/>
+		<Delete Type="UNIT_GERMAN_LANDSKNECHT"/>
+		<Delete Type="UNIT_GERMAN_PANZER"/>
+		<Delete Type="UNIT_GREEK_COMPANIONCAVALRY"/>
+		<Delete Type="UNIT_GREEK_HOPLITE"/>
+		<Delete Type="UNIT_HUN_BATTERING_RAM"/>
+		<Delete Type="UNIT_HUN_HORSE_ARCHER"/>
+		<Delete Type="UNIT_INDIAN_WARELEPHANT"/>
+		<Delete Type="UNIT_IROQUOIAN_MOHAWKWARRIOR"/>
+		<Delete Type="UNIT_JAPANESE_SAMURAI"/>
+		<Delete Type="UNIT_JAPANESE_ZERO"/>
+		<Delete Type="UNIT_MAYAN_ATLATLIST"/>
+		<Delete Type="UNIT_MONGOLIAN_KESHIK"/>
+		<Delete Type="UNIT_MONGOLIAN_KHAN"/>
+		<Delete Type="UNIT_OTTOMAN_JANISSARY"/>
+		<Delete Type="UNIT_OTTOMAN_SIPAHI"/>
+		<Delete Type="UNIT_PERSIAN_IMMORTAL"/>
+		<Delete Type="UNIT_ROMAN_BALLISTA"/>
+		<Delete Type="UNIT_ROMAN_LEGION"/>
+		<Delete Type="UNIT_RUSSIAN_COSSACK"/>
+		<Delete Type="UNIT_SIAMESE_WARELEPHANT"/>
+		<Delete Type="UNIT_SONGHAI_MUSLIMCAVALRY"/>
+		<Delete Type="UNIT_SPANISH_CONQUISTADOR"/>
+		<Delete Type="UNIT_SPANISH_TERCIO"/>
+		<Delete Type="UNIT_SWEDISH_CAROLEAN"/>
+		<Delete Type="UNIT_SWEDISH_HAKKAPELIITTA"/>
+	</Units>
+	<Buildings>
+		<Delete Type="BUILDING_BAZAAR"/>
+		<Delete Type="BUILDING_CEILIDH_HALL"/>
+		<Delete Type="BUILDING_KREPOST"/>
+		<Delete Type="BUILDING_FLOATING_GARDENS"/>
+		<Delete Type="BUILDING_PAPER_MAKER"/>
+		<Delete Type="BUILDING_MAYA_PYRAMID"/>
+		<Delete Type="BUILDING_STELE"/>
+		<Delete Type="BUILDING_COFFEE_HOUSE"/>
+		<Delete Type="BUILDING_BURIAL_TOMB"/>
+		<Delete Type="BUILDING_WAT"/>
+		<Delete Type="BUILDING_SATRAPS_COURT"/>
+		<Delete Type="BUILDING_LONGHOUSE"/>
+	</Buildings>
+	<Builds>
+		<Delete Type="BUILD_MOAI"/>
+		<Delete Type="BUILD_TERRACE_FARM"/>
+		<Delete Type="BUILD_POLDER"/>
+	</Builds>
+	<!-- Clean up database-->
+	<DeleteMissingReferences table="Civilizations" column="Type"/>
+	<DeleteMissingReferences table="Leaders" column="Type"/>
+	<DeleteMissingReferences table="Traits" column="Type"/>
+	<DeleteMissingReferences table="MinorCivilizations" column="Type"/>
+	<DeleteMissingReferences table="Improvements" column="Type"/>
+	<DeleteMissingReferences table="Builds" column="Type"/>
+</GameData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Arcanum 1885, stage 1: keep the BNW tourism buildings alive while the steampunk tech tree is being rebuilt. -->
+<GameData>
+  <Buildings>
+    <Update><Where Type="BUILDING_HOTEL" /><Set PrereqTech="TECH_ARCHAEOLOGY" /></Update>
+    <Update><Where Type="BUILDING_AIRPORT" /><Set PrereqTech="TECH_ARCHAEOLOGY" /></Update>
+    <Update><Where Type="BUILDING_TOURIST_CENTER" /><Set PrereqTech="TECH_ARCHAEOLOGY" /></Update>
+    <Update><Where Type="BUILDING_STADIUM" /><Set PrereqTech="TECH_ARCHAEOLOGY" /></Update>
+  </Buildings>
+  <!-- The Internet is a Brave New World tech the Gods & Kings scenario never knew about; without this it survives the pruning as a lone Future-era tech. -->
+  <Technologies>
+    <Delete Type="TECH_INTERNET" />
+  </Technologies>
+</GameData>

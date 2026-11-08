@@ -1,0 +1,601 @@
+{
+"W": 160,
+"H": 104,
+"cities": {
+"Moscow": {
+"x": 48,
+"y": 56,
+"owner": 0
+},
+"Petrograd": {
+"x": 43,
+"y": 71,
+"owner": 0
+},
+"Tver": {
+"x": 47,
+"y": 60,
+"owner": 0
+},
+"Yaroslavl": {
+"x": 52,
+"y": 60,
+"owner": 0
+},
+"Vladimir": {
+"x": 51,
+"y": 55,
+"owner": 0
+},
+"Nizhny Novgorod": {
+"x": 56,
+"y": 54,
+"owner": 0
+},
+"Tula": {
+"x": 47,
+"y": 52,
+"owner": 0
+},
+"Smolensk": {
+"x": 40,
+"y": 56,
+"owner": 0
+},
+"Oryol": {
+"x": 43,
+"y": 49,
+"owner": 0
+},
+"Voronezh": {
+"x": 47,
+"y": 44,
+"owner": 0
+},
+"Tambov": {
+"x": 51,
+"y": 46,
+"owner": 0
+},
+"Penza": {
+"x": 56,
+"y": 46,
+"owner": 0
+},
+"Saratov": {
+"x": 56,
+"y": 41,
+"owner": 0
+},
+"Tsaritsyn": {
+"x": 52,
+"y": 34,
+"owner": 0
+},
+"Astrakhan": {
+"x": 57,
+"y": 26,
+"owner": 0
+},
+"Kazan": {
+"x": 62,
+"y": 51,
+"owner": 0
+},
+"Simbirsk": {
+"x": 61,
+"y": 48,
+"owner": 0
+},
+"Vyatka": {
+"x": 64,
+"y": 59,
+"owner": 0
+},
+"Perm": {
+"x": 72,
+"y": 56,
+"owner": 0
+},
+"Ekaterinburg": {
+"x": 78,
+"y": 52,
+"owner": 0
+},
+"Vologda": {
+"x": 53,
+"y": 64,
+"owner": 0
+},
+"Petrozavodsk": {
+"x": 49,
+"y": 73,
+"owner": 0
+},
+"Novgorod": {
+"x": 43,
+"y": 66,
+"owner": 0
+},
+"Pskov": {
+"x": 38,
+"y": 67,
+"owner": 0
+},
+"Gomel": {
+"x": 36,
+"y": 51,
+"owner": 0
+},
+"Minsk": {
+"x": 33,
+"y": 57,
+"owner": 0
+},
+"Polotsk": {
+"x": 37,
+"y": 60,
+"owner": 0
+},
+"Kamyshin": {
+"x": 54,
+"y": 37,
+"owner": 0
+},
+"Syzran": {
+"x": 60,
+"y": 44,
+"owner": 0
+},
+"Stavropol": {
+"x": 46,
+"y": 25,
+"owner": 0
+},
+"Vladikavkaz": {
+"x": 49,
+"y": 19,
+"owner": 0
+},
+"Petrovsk": {
+"x": 54,
+"y": 18,
+"owner": 0
+},
+"Izhevsk": {
+"x": 68,
+"y": 53,
+"owner": 0
+},
+"Ust-Sysolsk": {
+"x": 67,
+"y": 67,
+"owner": 0
+},
+"Kotlas": {
+"x": 62,
+"y": 66,
+"owner": 0
+},
+"Orsk": {
+"x": 74,
+"y": 36,
+"owner": 0
+},
+"Tashkent": {
+"x": 93,
+"y": 10,
+"owner": 0
+},
+"Samarkand": {
+"x": 89,
+"y": 6,
+"owner": 0
+},
+"Andijan": {
+"x": 98,
+"y": 10,
+"owner": 0
+},
+"Verny": {
+"x": 105,
+"y": 19,
+"owner": 0
+},
+"Aulie-Ata": {
+"x": 95,
+"y": 15,
+"owner": 0
+},
+"Perovsk": {
+"x": 85,
+"y": 19,
+"owner": 0
+},
+"Ashkhabad": {
+"x": 72,
+"y": 1,
+"owner": 0
+},
+"Krasnovodsk": {
+"x": 63,
+"y": 8,
+"owner": 0
+},
+"Merv": {
+"x": 79,
+"y": 0,
+"owner": 0
+},
+"Chardzhui": {
+"x": 82,
+"y": 3,
+"owner": 0
+},
+"Novocherkassk": {
+"x": 44,
+"y": 33,
+"owner": 1
+},
+"Ekaterinodar": {
+"x": 41,
+"y": 27,
+"owner": 1
+},
+"Uryupinsk": {
+"x": 49,
+"y": 38,
+"owner": 1
+},
+"Omsk": {
+"x": 94,
+"y": 49,
+"owner": 2
+},
+"Samara": {
+"x": 63,
+"y": 44,
+"owner": 2
+},
+"Ufa": {
+"x": 71,
+"y": 47,
+"owner": 2
+},
+"Orenburg": {
+"x": 69,
+"y": 39,
+"owner": 2
+},
+"Uralsk": {
+"x": 64,
+"y": 38,
+"owner": 2
+},
+"Guryev": {
+"x": 63,
+"y": 27,
+"owner": 2
+},
+"Chelyabinsk": {
+"x": 79,
+"y": 48,
+"owner": 2
+},
+"Kurgan": {
+"x": 83,
+"y": 49,
+"owner": 2
+},
+"Petropavlovsk": {
+"x": 89,
+"y": 48,
+"owner": 2
+},
+"Kustanai": {
+"x": 82,
+"y": 42,
+"owner": 2
+},
+"Akmolinsk": {
+"x": 93,
+"y": 38,
+"owner": 2
+},
+"Semipalatinsk": {
+"x": 106,
+"y": 39,
+"owner": 2
+},
+"Pavlodar": {
+"x": 101,
+"y": 42,
+"owner": 2
+},
+"Tyumen": {
+"x": 84,
+"y": 54,
+"owner": 2
+},
+"Tobolsk": {
+"x": 87,
+"y": 57,
+"owner": 2
+},
+"Tomsk": {
+"x": 108,
+"y": 57,
+"owner": 2
+},
+"Novonikolaevsk": {
+"x": 107,
+"y": 52,
+"owner": 2
+},
+"Barnaul": {
+"x": 110,
+"y": 48,
+"owner": 2
+},
+"Krasnoyarsk": {
+"x": 119,
+"y": 60,
+"owner": 2
+},
+"Irkutsk": {
+"x": 137,
+"y": 60,
+"owner": 2
+},
+"Nizhneudinsk": {
+"x": 127,
+"y": 62,
+"owner": 2
+},
+"Minusinsk": {
+"x": 120,
+"y": 54,
+"owner": 2
+},
+"Bugulma": {
+"x": 66,
+"y": 46,
+"owner": 2
+},
+"Tara": {
+"x": 95,
+"y": 54,
+"owner": 2
+},
+"Kokchetav": {
+"x": 89,
+"y": 43,
+"owner": 2
+},
+"Verkhneuralsk": {
+"x": 76,
+"y": 44,
+"owner": 2
+},
+"Yeniseysk": {
+"x": 116,
+"y": 66,
+"owner": 2
+},
+"Kainsk": {
+"x": 101,
+"y": 51,
+"owner": 2
+},
+"Kuznetsk": {
+"x": 113,
+"y": 51,
+"owner": 2
+},
+"Arkhangelsk": {
+"x": 58,
+"y": 78,
+"owner": 3
+},
+"Murmansk": {
+"x": 55,
+"y": 92,
+"owner": 3
+},
+"Kem": {
+"x": 52,
+"y": 81,
+"owner": 3
+},
+"Shenkursk": {
+"x": 59,
+"y": 70,
+"owner": 3
+},
+"Mezen": {
+"x": 62,
+"y": 80,
+"owner": 3
+},
+"Kiev": {
+"x": 33,
+"y": 47,
+"owner": 4
+},
+"Kharkov": {
+"x": 41,
+"y": 42,
+"owner": 4
+},
+"Odessa": {
+"x": 29,
+"y": 37,
+"owner": 4
+},
+"Ekaterinoslav": {
+"x": 38,
+"y": 38,
+"owner": 4
+},
+"Kherson": {
+"x": 33,
+"y": 36,
+"owner": 4
+},
+"Vinnitsa": {
+"x": 29,
+"y": 45,
+"owner": 4
+},
+"Lugansk": {
+"x": 44,
+"y": 36,
+"owner": 4
+},
+"Mariupol": {
+"x": 41,
+"y": 34,
+"owner": 4
+},
+"Elisavetgrad": {
+"x": 34,
+"y": 40,
+"owner": 4
+},
+"Rovno": {
+"x": 28,
+"y": 51,
+"owner": 4
+},
+"Sevastopol": {
+"x": 33,
+"y": 30,
+"owner": 4
+},
+"Kerch": {
+"x": 37,
+"y": 29,
+"owner": 4
+},
+"Melitopol": {
+"x": 37,
+"y": 34,
+"owner": 4
+},
+"Konotop": {
+"x": 38,
+"y": 47,
+"owner": 4
+},
+"Tarnopol": {
+"x": 26,
+"y": 48,
+"owner": 4
+},
+"Warsaw": {
+"x": 23,
+"y": 59,
+"owner": 5
+},
+"Lodz": {
+"x": 21,
+"y": 60,
+"owner": 5
+},
+"Lublin": {
+"x": 24,
+"y": 55,
+"owner": 5
+},
+"Krakow": {
+"x": 19,
+"y": 55,
+"owner": 5
+},
+"Lwow": {
+"x": 24,
+"y": 51,
+"owner": 5
+},
+"Grodno": {
+"x": 29,
+"y": 60,
+"owner": 5
+},
+"Brest-Litovsk": {
+"x": 27,
+"y": 56,
+"owner": 5
+},
+"Pinsk": {
+"x": 30,
+"y": 54,
+"owner": 5
+},
+"Helsinki": {
+"x": 38,
+"y": 75,
+"owner": 32
+},
+"Reval": {
+"x": 36,
+"y": 73,
+"owner": 33
+},
+"Riga": {
+"x": 33,
+"y": 67,
+"owner": 34
+},
+"Vilna": {
+"x": 31,
+"y": 62,
+"owner": 35
+},
+"Konigsberg": {
+"x": 26,
+"y": 65,
+"owner": 36
+},
+"Kishinev": {
+"x": 28,
+"y": 40,
+"owner": 37
+},
+"Tiflis": {
+"x": 49,
+"y": 14,
+"owner": 38
+},
+"Baku": {
+"x": 56,
+"y": 9,
+"owner": 39
+},
+"Erivan": {
+"x": 46,
+"y": 13,
+"owner": 40
+},
+"Kars": {
+"x": 44,
+"y": 14,
+"owner": 41
+},
+"Tabriz": {
+"x": 49,
+"y": 5,
+"owner": 42
+},
+"Bukhara": {
+"x": 84,
+"y": 6,
+"owner": 43
+},
+"Khiva": {
+"x": 77,
+"y": 10,
+"owner": 44
+}
+}
+}

@@ -1,0 +1,8 @@
+Arcanum 1885 - credits
+
+Author: cryptoboy2283
+
+arcanum_map_source.png - fan-made world map of Arcanum by kriss80858 (DeviantArt, "Tarantian Geographical Society"), used as the land/mountain source for the hex map.
+Arcanum: Of Steamworks and Magick Obscura is a trademark of its rights holders; this is a non-commercial fan project, not affiliated with or endorsed by the rights holders.
+Leader art, units, buildings and technologies come from Firaxis' "Empires of the Smoky Skies" scenario shipped with Gods & Kings; the mod
+carries six of that scenario's rule and text files, three of them patched for Brave New World (see README.md), and needs both expansions.
