@@ -1,4 +1,4 @@
-# Hex Chronicles: Civilization V scenario mods
+# 🏛️ Hex Chronicles: Civilization V scenario mods
 
 Scenario mods for Civilization V (Brave New World), built by one shared Python pipeline from real geographic data (Natural Earth,
 NOAA ETOPO relief, Koppen-Geiger climate), hand-tuned orders of battle, dated events and English + Russian text.
